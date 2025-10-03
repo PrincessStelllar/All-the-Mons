@@ -82,20 +82,20 @@ ServerEvents.recipes(allthemods => {
     allthemods.shaped("minecraft:crafting_table", ['XX','XX'], {X: "#minecraft:planks"}).id("minecraft:crafting_table")
 
     //soy sauce from unified tag
-    allthemods.custom({
-        type: "sushigocrafting:fermenting_barrel",
-        fluid: {
-            amount: 250,
-            id: "minecraft:water"
-        },
-        input: {
-            tag: "c:crops/soybean"
-        },
-        output: {
-            count: 1,
-            id: "sushigocrafting:soy_sauce"
-        }
-    })
+    // allthemods.custom({
+        // type: "sushigocrafting:fermenting_barrel",
+        // fluid: {
+            // amount: 250,
+            // id: "minecraft:water"
+        // },
+        // input: {
+            // tag: "c:crops/soybean"
+        // },
+        // output: {
+            // count: 1,
+            // id: "sushigocrafting:soy_sauce"
+        // }
+    // })
 
     allthemods.replaceInput({output: 'crafting_on_a_stick:crafting_table'}, 'minecraft:crafting_table', '#c:player_workstations/crafting_tables')
 
