@@ -88,43 +88,43 @@ ServerEvents.recipes(allthemods => {
     )
   }
 
-  //(Mama's) Herbs and Harvest Seeds
-  const hPlants = ['asparagus', 'barley', 'blackberry', 'blueberry', 'broccoli', 'cabbage', 'cauliflower', 'celery', 'cucumber', 'eggplant', 'green_bean', 'green_pepper', 'lettuce', 'pineapple', 'radish', 'raspberry', 'rye', 'squash', 'strawberry', 'tomato','turnip', 'zucchini']
-  const hHerbs = ['basil', 'bay_leaf', 'chive', 'cilantro', 'dill', 'lemongrass', 'mint', 'mustard', 'oregano', 'parsley', 'peppercorn', 'rosemary', 'sage', 'thyme']
-  const hSeeds = []
-  hPlants.forEach(seed => {
-    let crop = {seed: `${seed}_seeds`, render: `${seed}_plant`, result: `${seed}`}
-    hSeeds.push(crop)
-  })
-  hHerbs.forEach(seed => {
-    let crop = {seed: `${seed}_seeds`, render: `${seed}_herb`, result: `fresh_${seed}`}
-    hSeeds.push(crop)
-  })
-  hSeeds.forEach(crop => {
-    let mod = 'herbsandharvest:'
-    cloche(crop, mod)
-  })
+  // //(Mama's) Herbs and Harvest Seeds
+  // const hPlants = ['asparagus', 'barley', 'blackberry', 'blueberry', 'broccoli', 'cabbage', 'cauliflower', 'celery', 'cucumber', 'eggplant', 'green_bean', 'green_pepper', 'lettuce', 'pineapple', 'radish', 'raspberry', 'rye', 'squash', 'strawberry', 'tomato','turnip', 'zucchini']
+  // const hHerbs = ['basil', 'bay_leaf', 'chive', 'cilantro', 'dill', 'lemongrass', 'mint', 'mustard', 'oregano', 'parsley', 'peppercorn', 'rosemary', 'sage', 'thyme']
+  // const hSeeds = []
+  // hPlants.forEach(seed => {
+    // let crop = {seed: `${seed}_seeds`, render: `${seed}_plant`, result: `${seed}`}
+    // hSeeds.push(crop)
+  // })
+  // hHerbs.forEach(seed => {
+    // let crop = {seed: `${seed}_seeds`, render: `${seed}_herb`, result: `fresh_${seed}`}
+    // hSeeds.push(crop)
+  // })
+  // hSeeds.forEach(crop => {
+    // let mod = 'herbsandharvest:'
+    // cloche(crop, mod)
+  // })
   
 
-  //Pam's seeds
-  const pamSeeds = []
-  Ingredient.of("#c:seeds").itemIds.forEach(seed => {
-    if (seed.includes('pamhc2crops'&&'seeditem')){
-      let crop = {seed: seed.replace('pamhc2crops:', ''), render: seed.replace('pamhc2crops', '').replace('seeditem', 'crop').replace(':', 'pam'), result: seed.replace('pamhc2crops:', '').replace('seeditem', 'item')}
-      pamSeeds.push(crop)
-    }
-  })
-  pamSeeds.forEach(crop => {
-    let mod = 'pamhc2crops:'
-    cloche(crop, mod)
-  })
+  // //Pam's seeds
+  // const pamSeeds = []
+  // Ingredient.of("#c:seeds").itemIds.forEach(seed => {
+    // if (seed.includes('pamhc2crops'&&'seeditem')){
+      // let crop = {seed: seed.replace('pamhc2crops:', ''), render: seed.replace('pamhc2crops', '').replace('seeditem', 'crop').replace(':', 'pam'), result: seed.replace('pamhc2crops:', '').replace('seeditem', 'item')}
+      // pamSeeds.push(crop)
+    // }
+  // })
+  // pamSeeds.forEach(crop => {
+    // let mod = 'pamhc2crops:'
+    // cloche(crop, mod)
+  // })
 
-  //Sushi seeds
-  const sushiPlants = [{seed: 'soy_seeds', render: 'soy_crop', result: 'soy_bean'}, {seed: 'wasabi_seeds', render: 'wasabi_crop', result: 'wasabi_root'}, {seed: 'sesame_seeds', render: 'sesame_crop', result: 'sesame_seed'}, {seed: 'rice_seeds', render: 'rice_crop', result: 'rice'}, {seed: 'cucumber_seeds', render: 'cucumber_crop', result: 'cucumber'}, ]
-  sushiPlants.forEach(crop => {
-    let mod = 'sushigocrafting:'
-    cloche(crop, mod)
-  })
+  // //Sushi seeds
+  // const sushiPlants = [{seed: 'soy_seeds', render: 'soy_crop', result: 'soy_bean'}, {seed: 'wasabi_seeds', render: 'wasabi_crop', result: 'wasabi_root'}, {seed: 'sesame_seeds', render: 'sesame_crop', result: 'sesame_seed'}, {seed: 'rice_seeds', render: 'rice_crop', result: 'rice'}, {seed: 'cucumber_seeds', render: 'cucumber_crop', result: 'cucumber'}, ]
+  // sushiPlants.forEach(crop => {
+    // let mod = 'sushigocrafting:'
+    // cloche(crop, mod)
+  // })
 
   //Silentgear seeds (needs flax too, 3 outputs)
   const silentPlants = [{seed: 'fluffy_seeds', render: 'fluffy_plant', result: 'fluffy_puff'}]
@@ -147,12 +147,12 @@ ServerEvents.recipes(allthemods => {
     cloche(crop, mod)
   })
   
-  //Biomes we've gone seeds
-  const biomesSeeds = [{seed: 'pale_pumpkin_seeds', render: 'pale_pumpkin_stem', result: 'pale_pumpkin', chance: 0.01, count: 1}]
-  biomesSeeds.forEach(crop => {
-    let mod = 'biomeswevegone:'
-    cloche(crop, mod)
-  })
+  // //Biomes we've gone seeds
+  // const biomesSeeds = [{seed: 'pale_pumpkin_seeds', render: 'pale_pumpkin_stem', result: 'pale_pumpkin', chance: 0.01, count: 1}]
+  // biomesSeeds.forEach(crop => {
+    // let mod = 'biomeswevegone:'
+    // cloche(crop, mod)
+  // })
 
   //Undergarden seeds
   const underSeeds = [{seed: 'gloomgourd_seeds', render: 'gloomgourd_stem', result: 'gloomgourd', chance: 0.01, count: 1}]

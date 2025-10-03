@@ -90,19 +90,19 @@ ServerEvents.recipes(allthemods => {
         }
     }
 
-    extractor({
-        output: { item:"biomeswevegone:black_ice", count: 1 },
-        target: { type: "xycraft_core:block_rule", block: "minecraft:packed_ice" },
-        adjacent: [
-            { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" },
-            { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" },
-            { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" },
-            { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" }
-        ],
-        catalyst: { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" },
-        ticks: 40,
-        waterlogged: 'minecraft:water'
-})
+    // extractor({
+        // output: { item:"biomeswevegone:black_ice", count: 1 },
+        // target: { type: "xycraft_core:block_rule", block: "minecraft:packed_ice" },
+        // adjacent: [
+            // { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" },
+            // { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" },
+            // { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" },
+            // { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" }
+        // ],
+        // catalyst: { type: "xycraft_core:block_rule", block: "biomeswevegone:black_sand" },
+        // ticks: 40,
+        // waterlogged: 'minecraft:water'
+// })
 
     extractor({
         output: { item:"minecraft:spore_blossom", count: 1 },
