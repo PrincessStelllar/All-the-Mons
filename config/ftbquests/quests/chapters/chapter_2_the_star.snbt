@@ -471,7 +471,6 @@
 			dependencies: [
 				"5869E198DA416346"
 				"39F9C825B03DA317"
-				"45D10F53CA18B8EE"
 				"0848056FDD3F9BDA"
 				"6A12188E50EAEB78"
 				"49FDD8666356A3E7"
@@ -571,9 +570,7 @@
 		}
 		{
 			dependencies: [
-				"73BE1EB3E69814E9"
 				"2CECCA9D05D3EF12"
-				"5A6831E0BD2F6AB5"
 				"7D1A27CBF1508712"
 				"55BF254B1831359B"
 				"5B2FD54E425D5C9D"
@@ -684,7 +681,6 @@
 		}
 		{
 			dependencies: [
-				"54BAF833344F0AAE"
 				"263C9A0FC04472AB"
 				"7766E66A14643F4D"
 				"1FCC474860587169"
@@ -745,7 +741,6 @@
 				"4195800B4D7631E2"
 				"2D474F8075E9DBD0"
 				"4B12425E74C5E511"
-				"00AC7CC291A3E590"
 				"486B5A605D79EA10"
 			]
 			id: "1CE7B24E7E62C25B"
@@ -796,7 +791,6 @@
 				"23254CE8487D2E68"
 				"750B6316267CF574"
 				"4CB488E5CF10F3A4"
-				"7BC616DDB5933479"
 				"57F107892FFA1F52"
 				"3F8AEBB994716318"
 				"5791F3000D18E2C9"
@@ -934,7 +928,7 @@
 				{
 					count: 28L
 					id: "1C6FD3400BF1D256"
-					item: { count: 28, id: "allthemodium:unobtainium_allthemodium_alloy_block" }
+					item: { count: 1, id: "allthemodium:unobtainium_allthemodium_alloy_block" }
 					type: "item"
 				}
 				{
@@ -1163,35 +1157,6 @@
 			y: 12.0d
 		}
 		{
-			dependencies: ["3F5B5D6B788E0A73"]
-			hide_dependent_lines: true
-			id: "00AC7CC291A3E590"
-			rewards: [
-				{
-					count: 3
-					id: "06BC8229172DFBC9"
-					item: {
-						count: 1
-						id: "evilcraft:lightning_grenade"
-					}
-					type: "item"
-				}
-				{
-					id: "0696C63DF38690BA"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "6A6A11C94DE3BA18"
-				item: { count: 1, id: "evilcraft:lightning_bomb" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -2.0d
-		}
-		{
 			dependencies: ["7377C657CED885AC"]
 			hide_dependent_lines: true
 			id: "57F107892FFA1F52"
@@ -1319,36 +1284,6 @@
 			}]
 			x: 10.0d
 			y: 14.0d
-		}
-		{
-			dependencies: ["340CDF4357E22A43"]
-			hide_dependent_lines: true
-			id: "7BC616DDB5933479"
-			rewards: [
-				{
-					count: 3
-					id: "0B63779F27F3A6D3"
-					item: {
-						count: 1
-						id: "irons_spellbooks:legendary_ink"
-					}
-					type: "item"
-				}
-				{
-					id: "7EB85603948FBAF0"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "14D445E233DC9A67"
-				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:wither_skull", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 0b } }, count: 1, id: "irons_spellbooks:scroll" }
-				match_components: "strict"
-				type: "item"
-			}]
-			x: -6.0d
-			y: 10.0d
 		}
 		{
 			dependencies: ["7377C657CED885AC"]
@@ -1531,37 +1466,6 @@
 			}]
 			x: -8.0d
 			y: 6.0d
-		}
-		{
-			dependencies: ["3F5B5D6B788E0A73"]
-			hide_dependent_lines: true
-			id: "54BAF833344F0AAE"
-			rewards: [
-				{
-					id: "5F670C4EE028CFCD"
-					item: {
-						components: {
-							"cyclopscore:capacity": 16000
-						}
-						count: 1
-						id: "evilcraft:dark_tank"
-					}
-					type: "item"
-				}
-				{
-					id: "22D9DDDE41F920BF"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "7693F09361C9A893"
-				item: { components: { "cyclopscore:capacity": 16000, "cyclopscore:fluid_content": { amount: 16000, id: "justdirethings:refined_t4_fluid_source" } }, count: 1, id: "evilcraft:dark_tank" }
-				type: "item"
-			}]
-			x: 10.0d
-			y: 0.0d
 		}
 		{
 			dependencies: ["022C38096F79EF07"]
@@ -2300,35 +2204,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["340CDF4357E22A43"]
-			hide_dependent_lines: true
-			id: "45D10F53CA18B8EE"
-			rewards: [
-				{
-					count: 4
-					id: "5E5C4E952ED07415"
-					item: {
-						count: 1
-						id: "irons_spellbooks:lightning_rune"
-					}
-					type: "item"
-				}
-				{
-					id: "18B8636E4C89D1C5"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "79141C8F25816860"
-				item: { count: 1, id: "irons_spellbooks:lightning_upgrade_orb" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: 10.0d
-		}
-		{
 			dependencies: ["4485C4ABD57874EB"]
 			hide_dependent_lines: true
 			id: "0848056FDD3F9BDA"
@@ -2434,65 +2309,6 @@
 			}]
 			x: 8.0d
 			y: 8.0d
-		}
-		{
-			dependencies: ["3F5B5D6B788E0A73"]
-			hide_dependent_lines: true
-			id: "5A6831E0BD2F6AB5"
-			rewards: [
-				{
-					count: 4
-					id: "778D98CE6B531660"
-					item: {
-						count: 1
-						id: "evilcraft:blood_orb_filled"
-					}
-					type: "item"
-				}
-				{
-					id: "1DF86E63F6FD3C11"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				count: 2L
-				id: "4A670DB3BE52940A"
-				item: { count: 1, id: "evilcraft:piercing_vengeance_focus" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["3F5B5D6B788E0A73"]
-			hide_dependent_lines: true
-			id: "73BE1EB3E69814E9"
-			rewards: [
-				{
-					count: 5
-					id: "7CC401B6B0043922"
-					item: {
-						count: 1
-						id: "evilcraft:condensed_blood"
-					}
-					type: "item"
-				}
-				{
-					id: "237B032463BDF2D6"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "153EE95889C75AF0"
-				item: { count: 1, id: "evilcraft:mace_of_destruction" }
-				type: "item"
-			}]
-			x: 10.0d
-			y: -2.0d
 		}
 		{
 			dependencies: ["24F3E90C14BFD1B4"]
@@ -2771,7 +2587,7 @@
 			tasks: [{
 				count: 8L
 				id: "1BDB9CA7D068A432"
-				item: { count: 8, id: "minecraft:green_concrete_powder" }
+				item: { count: 1, id: "minecraft:green_concrete_powder" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -2789,7 +2605,7 @@
 			tasks: [{
 				count: 2L
 				id: "7777B968A5342389"
-				item: { count: 2, id: "minecraft:lime_concrete" }
+				item: { count: 1, id: "minecraft:lime_concrete" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -2807,7 +2623,7 @@
 			tasks: [{
 				count: 13L
 				id: "1DFED38C1282DAFE"
-				item: { count: 17, id: "minecraft:magenta_concrete" }
+				item: { count: 1, id: "minecraft:magenta_concrete" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -2825,7 +2641,7 @@
 			tasks: [{
 				count: 8L
 				id: "284C5A44EECDB0F2"
-				item: { count: 8, id: "minecraft:magenta_concrete_powder" }
+				item: { count: 1, id: "minecraft:magenta_concrete_powder" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -2843,7 +2659,7 @@
 			tasks: [{
 				count: 11L
 				id: "68D520511388D29F"
-				item: { count: 11, id: "minecraft:pink_concrete" }
+				item: { count: 1, id: "minecraft:pink_concrete" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -2861,7 +2677,7 @@
 			tasks: [{
 				count: 5L
 				id: "28BB20E22FFCBBC1"
-				item: { count: 11, id: "minecraft:pink_concrete_powder" }
+				item: { count: 1, id: "minecraft:pink_concrete_powder" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -2983,50 +2799,6 @@
 			}]
 			x: -12.0d
 			y: -6.0d
-		}
-		{
-			icon: {
-				components: {
-					"irons_spellbooks:spell_container": {
-						data: [{
-							id: "irons_spellbooks:invisibility"
-							index: 0
-							level: 2
-							locked: 1b
-						}]
-						maxSpells: 1
-						mustEquip: 0b
-						spellWheel: 0b
-					}
-				}
-				id: "irons_spellbooks:scroll"
-			}
-			id: "340CDF4357E22A43"
-			rewards: [
-				{
-					count: 5
-					id: "4D8A5DE5D26D5838"
-					item: {
-						count: 1
-						id: "irons_spellbooks:arcane_essence"
-					}
-					type: "item"
-				}
-				{
-					id: "539532A204C98799"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "14C0CA9C756B3ABD"
-				item: { count: 1, id: "irons_spellbooks:arcane_essence" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: 12.0d
 		}
 		{
 			icon: {
@@ -3294,37 +3066,6 @@
 			}]
 			x: 2.5d
 			y: -16.0d
-		}
-		{
-			icon: {
-				id: "evilcraft:condensed_blood"
-			}
-			id: "3F5B5D6B788E0A73"
-			rewards: [
-				{
-					count: 3
-					id: "17AE3958527A6B92"
-					item: {
-						count: 1
-						id: "evilcraft:dark_gem"
-					}
-					type: "item"
-				}
-				{
-					id: "4F7446244FFB8094"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "1ACDF9B8AED8F168"
-				item: { count: 1, id: "evilcraft:dark_gem" }
-				type: "item"
-			}]
-			x: 12.0d
-			y: 1.0d
 		}
 		{
 			id: "792990DC06DB98F9"
@@ -3666,37 +3407,37 @@
 				{
 					count: 8L
 					id: "67A533CBB47640D3"
-					item: { count: 8, id: "forbidden_arcanus:arcane_polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:arcane_polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "318AD48CD9B5AE51"
-					item: { count: 4, id: "forbidden_arcanus:chiseled_arcane_polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:chiseled_arcane_polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 8L
 					id: "0A40DB7C36ADC441"
-					item: { count: 8, id: "forbidden_arcanus:darkstone_pedestal" }
+					item: { count: 1, id: "forbidden_arcanus:darkstone_pedestal" }
 					type: "item"
 				}
 				{
 					count: 8L
 					id: "19710811292FFD8F"
-					item: { count: 8, id: "forbidden_arcanus:arcane_crystal_obelisk" }
+					item: { count: 1, id: "forbidden_arcanus:arcane_crystal_obelisk" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "67D42E0DB8AA7578"
-					item: { count: 4, id: "forbidden_arcanus:arcane_crystal_block" }
+					item: { count: 1, id: "forbidden_arcanus:arcane_crystal_block" }
 					type: "item"
 				}
 				{
 					count: 16L
 					id: "15AE854C96012C43"
-					item: { count: 16, id: "forbidden_arcanus:rune_block" }
+					item: { count: 1, id: "forbidden_arcanus:rune_block" }
 					type: "item"
 				}
 				{
@@ -3712,37 +3453,37 @@
 				{
 					count: 48L
 					id: "12C139C9F719CDA4"
-					item: { count: 48, id: "forbidden_arcanus:polished_darkstone_stairs" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone_stairs" }
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "180F54EFAC7A51F5"
-					item: { count: 64, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "79962A6232D7FAA5"
-					item: { count: 64, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "13D2C035C8E5A6A6"
-					item: { count: 64, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "306B1B0DCA17C47A"
-					item: { count: 64, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "7A88277A22BBC23D"
-					item: { count: 2, id: "forbidden_arcanus:polished_darkstone" }
+					item: { count: 1, id: "forbidden_arcanus:polished_darkstone" }
 					type: "item"
 				}
 				{

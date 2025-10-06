@@ -69,42 +69,14 @@
 			y: 2.5d
 		}
 		{
-			id: "378C95C18798D413"
-			rewards: [
-				{
-					count: 2
-					id: "40BCE4D56FE98018"
-					item: {
-						count: 1
-						id: "toolbelt:pouch"
-					}
-					type: "item"
-				}
-				{
-					id: "4E495FC797AED7A4"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [{
-				id: "7FD9A02EA29669F6"
-				item: { count: 1, id: "toolbelt:belt" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: 1.0d
-		}
-		{
 			dependencies: [
 				"722978AC0C1B2649"
 				"7EC8814940C4C3D7"
-				"378C95C18798D413"
 				"3B4BF42C55C8BBBF"
 				"637981B64BBE0D92"
 				"0E9CE6241CDBC420"
 				"32ECD93A8F2FAB8F"
 				"47043AF7D1FABC43"
-				"51538F4DCE24E3E7"
 				"6E17595887A051C2"
 			]
 			hide_dependency_lines: true
@@ -348,29 +320,6 @@
 			y: 4.0d
 		}
 		{
-			id: "51538F4DCE24E3E7"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5A5A4DD01955CC6D"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "608E5E2EB389DDA0"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [{
-				id: "6A1E21A5F5AE29A8"
-				item: { count: 1, id: "multipiston:multipistonblock" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 2.5d
-		}
-		{
 			id: "0E9CE6241CDBC420"
 			rewards: [
 				{
@@ -390,8 +339,8 @@
 				item: { count: 1, id: "rangedpumps:pump" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 1.0d
+			x: 3.0d
+			y: 2.5d
 		}
 		{
 			id: "47043AF7D1FABC43"
@@ -492,8 +441,8 @@
 				}
 			]
 			tasks: [{
-				id: "6E44925E265DC7E2"
-				item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:forge_hammer)item(ae2:charger)item(actuallyadditions:coffee_machine)item(ars_nouveau:arcane_core)item(biomeswevegone:foragers_table)item(railcraft:manual_rolling_machine)item(railcraft:powered_rolling_machine)item(immersiveengineering:craftingtable)item(immersiveengineering:workbench)item(immersiveengineering:circuit_table)item(immersiveengineering:turntable)item(minecraft:white_banner)item(pneumaticcraft:charging_station)item(sawmill:sawmill)item_tag(productivebees:advanced_beehives))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "2F4F472A9D461347"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:villager_job_sites)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d

@@ -19,14 +19,10 @@
 	quest.28E60192912BEBAD.title: "&l&2Easy Villagers"
 	quest.32ECD93A8F2FAB8F.quest_desc: ["&6Jetpacks&r são uma forma adorada de se locomover. \\n\\nPara começar a fazê-los, você precisará começar com um &6Jetpack de Madeira&r! Este pode ser atualizado até um &5Jetpack Criativo&r. \\n\\nEmbora tenha muitas versões, todas funcionam da mesma forma. Todas podem ser colocadas no seu Slot de Peitoral, ou Curio de Costas, ou Curio de Curio. \\n\\nTodas elas também precisam de FE para funcionar, você pode usar qualquer Carregador de Itens para carregá-las! Elas usarão FE para voar e sim, você cairá se ficar sem Energia. \\nPara voar, você precisará ligar seu Motor (V), então, quando você segurar Espaço, você voará para cima e cairá quando soltar. \\n\\nPara aqueles que não gostam de cair, você pode ligar o Hover (Não atribuído), quando ativado, você voará na mesma altitude; podendo subir com (Espaço) e descer com (Shift). \\n\\nPara ajustar a velocidade do seu voo, mude sua Aceleração. Diminuir é (,) por padrão e aumentar é (.) por padrão!"]
 	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
-	quest.378C95C18798D413.quest_desc: ["Uma maneira rápida de alternar entre ferramentas.\\n\\nAtualize com bolsas de cinto em uma bigorna para aumentar a capacidade."]
-	quest.378C95C18798D413.title: "Cinto de Ferramentas"
 	quest.3B4BF42C55C8BBBF.quest_desc: ["Você não odeia quando está quebrando algo e os Blocos caem fora do seu alcance! \\n\\nBem, não se preocupe mais, pois temos &4Ímãs&r! Simplesmente clique com o botão direito segurando o &4Ímã&r para ligá-lo. Então, todos os Itens e Blocos dropados em um raio de 5 Blocos virão até você. \\n\\nVocê também pode equipar o &4Ímã&r nos seus Curios para continuar usando-o! \\n\\nSe não desejar continuar usando o &4Ímã&r (acho que isso acontece perto de fazendas de Mobs), basta clicar com o botão direito novamente para desativá-lo. \\n\\nEle também pode ser aprimorado para aumentar o alcance!"]
 	quest.3B4BF42C55C8BBBF.title: "&l&9Ímãs &4Simples"
 	quest.47043AF7D1FABC43.quest_desc: ["A &bMesa de Desencantamento&r é provavelmente a Dica mais útil aqui. \\n\\nSimplesmente coloque um Item Encantado no Slot Esquerdo e um Livro no Slot do Meio. Então, os Encantamentos irão para o Slot Direito em forma de Livro! \\n\\nVocê também pode usar Livros Encantados em vez do Item para dividir seus Encantamentos."]
 	quest.47043AF7D1FABC43.title: "&l&bMesa de Desencantamento"
-	quest.51538F4DCE24E3E7.quest_desc: ["O &5Multi&f-&2Pistão&r é uma pequena Máquina confusa, mas útil, feita para mover Blocos! \\n\\nClique com o botão direito no &2Pistão&r para abrir sua GUI, lá podemos definir os Lados, Espaçamento e Velocidade. \\n\\nOs Lados são as Cores do Pistão: &eAmarelo&r é &eCima&r, &6Laranja&r é &6Baixo&r, &9Azul&r é &9Norte&r, &2Verde&r é &2Leste&r, &4Vermelho&r é &4Sul&r, e &5Roxo&r é &5Oeste&r. \\n\\nVocê precisará definir as Cores da Entrada e Saída, quais lados você quer que os Blocos se movam de e para! \\n\\nEspaçamento é quantos Blocos você quer que sejam movidos daquele lado, se você colocar 3, ele moverá 3 Blocos de um lado para o outro. Se você colocar 30, 30 Blocos serão movidos. \\n\\nVelocidade é apenas quão rápido ele os move. \\n\\nEle precisará de um &cSinal de Redstone&r para realmente funcionar, e alguns Blocos como Baús, ele não consegue mover."]
-	quest.51538F4DCE24E3E7.title: "&l&5Multi&f-&2Pistão"
 	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r adiciona &7Gavetas&r que podem conter várias pilhas de um item. Elas podem ser aprimoradas para conter ainda mais pilhas!\\n\\nIsso é ótimo para itens que você obtém em grande quantidade, como Pedregulho ou Sementes!"]
 	quest.5EE945A1185E8336.quest_subtitle: "Storage Gavetas?"
 	quest.5EE945A1185E8336.title: "&l&7Functional Storage&r"
@@ -54,5 +50,4 @@
 	task.58E3131A3EA2661E.title: "Bússolas"
 	task.6038387EA35404CD.title: "Fabricação em uma Varinha"
 	task.6A965CD027BF762F.title: "TodosOsDireitosReservados"
-	task.6E44925E265DC7E2.title: "Locais de Trabalho"
 }
