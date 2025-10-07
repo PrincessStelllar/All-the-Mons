@@ -156,46 +156,16 @@ ItemEvents.modifyTooltips(allthemods => {
         Text.of("§c(Blocks like Modular Routers, Clickers, etc)")
     ])
 
-    allthemods.add('toolbelt:belt', [
-        Text.of("§7Has it's own slot to be placed in"),
-        Text.of("§7Check your Keybinds for \"Open Belt Slot Inventory\"")
-    ])
-
 	//Easy Villagers
     allthemods.add(['easy_villagers:trader', 'easy_villagers:auto_trader'], [
         Text.of("§aRight click with job site block to put it inside and allow trade restocking")
-    ])
-
-	//Hyperbox
-    allthemods.add('hyperbox:hyperbox', [
-        Text.of("§aDue to a memory leak, these are no longer craftable.  If it is fixed in the future they will be reenabled.")
     ])
 
 	//Eternal Starlight
     allthemods.add('eternal_starlight:loot_bag[eternal_starlight:loot_table="eternal_starlight:bosses/lunar_monstrosity"]', [
         Text.of('This loot bag is from the \"Lunar Monstrosity\".')
     ])
-
-    if (Platform.isLoaded('modular_machinery_reborn')) {
-        allthemods.add('modular_machinery_reborn:controller[modular_machinery_reborn:machine="atm:runic_crucible"]', [
-            Text.of('§cWARNING, this machine has be depreciated.'),
-            Text.of('Use crafting table to convert to the new version.')
-        ])
-        allthemods.add('modular_machinery_reborn:controller[modular_machinery_reborn:machine="atm:runic_star_altar"]', [
-            Text.of('§cWARNING, this machine has be depreciated.'),
-            Text.of('Use crafting table to convert to the new version.')
-        ])
-        allthemods.add('modular_machinery_reborn:controller[modular_machinery_reborn:machine="atm:runic_enchanter"]', [
-            Text.of('§cWARNING, this machine has be depreciated.'),
-            Text.of('Use crafting table to convert to the new version.')
-        ])
-        allthemods.add('modular_machinery_reborn:controller[modular_machinery_reborn:machine="atm:auto_hepheastus_forge"]', [
-            Text.of('§cWARNING, this machine has be depreciated.'),
-            Text.of('Use crafting table to convert to the new version.')
-        ])
-    }
 })
-
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
