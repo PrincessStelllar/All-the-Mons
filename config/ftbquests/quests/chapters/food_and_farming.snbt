@@ -111,7 +111,7 @@
 	quests: [
 		{
 			icon: {
-				id: "pamhc2trees:starfruititem"
+				id: "cobblemon:razz_berry"
 			}
 			icon_scale: 1.5d
 			id: "1827DEEA2DF1B144"
@@ -345,8 +345,11 @@
 				{
 					id: "634BD1679C226F35"
 					item: {
+						components: {
+							"ftbquests:missing_item": "pamhc2foodcore:friedchickenitem"
+						}
 						count: 1
-						id: "pamhc2foodcore:friedchickenitem"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}

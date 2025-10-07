@@ -13,8 +13,6 @@
 	quest.00FD36C207845895.title: "&fAbelha &8Dracônica"
 	quest.010A970FC91BD617.quest_subtitle: "Feito na Fundição de Ligas"
 	quest.010A970FC91BD617.title: "&fAbelha de Soularium"
-	quest.019CC48531E7759B.quest_subtitle: "Feito em Forja de Aço do Dragão"
-	quest.019CC48531E7759B.title: "&fAbelha de Aço Dracônico de Gelo"
 	quest.01A0612C516B4F7F.quest_subtitle: "Aumenta a Produtividade das Abelhas em 150%"
 	quest.01A0612C516B4F7F.title: "&fMelhoria de &6Produtividade Beta"
 	quest.01F7F3589EBD8872.quest_subtitle: "Alimente uma Abelha de Cogumelo com um Cogumelo Marrom"
@@ -189,8 +187,6 @@
 	quest.1A4FAE5705B53753.title: "&fAbelha de Essência do Ar"
 	quest.1ACB3EDBCB732514.quest_subtitle: "Alimente uma Abelha de Enxofre com um Bloco de Monazite"
 	quest.1ACB3EDBCB732514.title: "&fAbelha de Monazita"
-	quest.1C0F4D1610530FEC.quest_subtitle: "Feito na Forja de Aço do Dragão"
-	quest.1C0F4D1610530FEC.title: "&fAbelha de Aço Dracônico de Fogo"
 	quest.1C40B30823B2A254.quest_subtitle: "Basta pescar"
 	quest.1C40B30823B2A254.title: "&fAbelha de Prismarinho"
 	quest.1C474B46AECCCFE9.quest_subtitle: "Gerada usando um Ninho de Cascalho ou Pedra"
@@ -369,8 +365,6 @@
 	]
 	quest.3E301F3EEC8C763A.quest_subtitle: "Creche para Abelhas Bebês"
 	quest.3E301F3EEC8C763A.title: "&fIncubadora de &6Abelhas Bebê"
-	quest.3EB6CBA0B1374BDD.quest_subtitle: "Feito na Forja de Aço do Dragão"
-	quest.3EB6CBA0B1374BDD.title: "&fAbelha de Aço Dracônico Elétrico"
 	quest.40E4F1172A164DD1.quest_subtitle: "Chance de surgir ao quebrar Vagens de Cacau em uma Selva"
 	quest.40E4F1172A164DD1.title: "&fAbelha de Açucar"
 	quest.40F8A44DF4D8DBD6.quest_subtitle: "Magmatic + Nomad"
@@ -442,8 +436,6 @@
 	quest.55882C10292B6A3D.title: "&fAbelha da Prosperidade"
 	quest.57167FE67CFAC255.quest_subtitle: "Usado para adicionar Abelhas a um Filtro"
 	quest.57167FE67CFAC255.title: "&fMelhoria de &6Filtro"
-	quest.573BC5360C5CA675.quest_subtitle: "Fantasmagórico + Esquelético"
-	quest.573BC5360C5CA675.title: "&fAbelha do Túmulo"
 	quest.57ACD83205988834.quest_subtitle: "Ouro + Ender"
 	quest.57ACD83205988834.title: "&fAbelha de Platina"
 	quest.5867713D016143A6.quest_subtitle: "Fabricado com Aparelho de Encantamento"
@@ -530,8 +522,8 @@
 	quest.6E4C3B87FABE9EFA.quest_subtitle: "Despeje Bronze Derretido sobre um Ovo de Geração de Abelha de Cobre/Estanho"
 	quest.6E4C3B87FABE9EFA.title: "&fAbelha de Bronze"
 	quest.6E819CCD57B15D54.quest_desc: ["Usando uma fundição, despeje &#4CE688Vibranium Derretido&r sobre um &#F2EB2EOvo de Geração de Abelha de Allthemodium&r."]
-	quest.6E819CCD57B15D54.title: "&fAbelha de &aVibranium"
 	quest.6E819CCD57B15D54.quest_subtitle: "Verde como uma flor... talvez?"
+	quest.6E819CCD57B15D54.title: "&fAbelha de &aVibranium"
 	quest.6EFFF0DC80C1C8A3.quest_desc: ["Usando uma fundição, despeje &#F2EB2EAllthemodium Derretido&r sobre um &#944A12Ovo de Geração de Abelha Ancestral&r."]
 	quest.6EFFF0DC80C1C8A3.quest_subtitle: "Assim que nasce os bebês?"
 	quest.6EFFF0DC80C1C8A3.title: "&fAbelha de &eAllthemodium"
@@ -703,4 +695,3 @@
 	task.79AEDC66EB312BCA.title: "Favo de Latão"
 	task.7B7C1C5BFEC92058.title: "&6Favo de &aEsmeralda"
 }
-

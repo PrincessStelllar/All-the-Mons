@@ -1392,14 +1392,6 @@
 					type: "item"
 				}
 				{
-					id: "2F6DD85FD4E5944E"
-					item: {
-						count: 1
-						id: "biomeswevegone:mini_cactus"
-					}
-					type: "item"
-				}
-				{
 					id: "30EE1106BBB241CA"
 					type: "xp"
 					xp: 100
@@ -1733,7 +1725,8 @@
 		{
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/undergarden/forgotten_guardian.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "undergarden:forgotten_guardian"
 				}
 				id: "ftbquests:custom_icon"
 			}
@@ -1863,7 +1856,8 @@
 		{
 			icon: {
 				components: {
-					"ftbquests:icon": "ftbchunks:textures/faces/undergarden/rotbeast.png"
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "undergarden:rotbeast"
 				}
 				id: "ftbquests:custom_icon"
 			}

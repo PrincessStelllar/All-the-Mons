@@ -11,7 +11,7 @@
 	images: [
 		{
 			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_building.png"
+			image: "atm:textures/questpics/building_tips/building.png"
 			rotation: 0.0d
 			width: 10.025d
 			x: 2.5d
@@ -19,731 +19,11 @@
 		}
 		{
 			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_tips.png"
+			image: "atm:textures/questpics/building_tips/tips.png"
 			rotation: 0.0d
 			width: 4.975d
 			x: 9.5d
 			y: -12.0d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_ambi.png"
-			rotation: 0.0d
-			width: 11.219868517165814d
-			x: -9.5d
-			y: -21.0d
-		}
-		{
-			height: 16.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 12.0d
-			x: -9.5d
-			y: -21.0d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_branches.png"
-			rotation: 0.0d
-			width: 10.898770104068118d
-			x: 19.5d
-			y: -21.0d
-		}
-		{
-			height: 15.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 12.0d
-			x: 19.5d
-			y: -21.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_branches.png"
-			rotation: 0.0d
-			width: 8.275d
-			x: 19.5d
-			y: -17.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_ambi.png"
-			rotation: 0.0d
-			width: 4.925d
-			x: -9.5d
-			y: -16.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_chaosorder1.png"
-			rotation: 0.0d
-			width: 11.381193124368048d
-			x: -16.5d
-			y: -4.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_chaosorder2.png"
-			rotation: 0.0d
-			width: 11.492871690427698d
-			x: -16.5d
-			y: 0.5d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: -17.0d
-			y: -2.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_chaosorder.png"
-			rotation: 0.0d
-			width: 10.55d
-			x: -17.0d
-			y: 5.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_clqies.png"
-			rotation: 0.0d
-			width: 10.675453047775948d
-			x: -10.0d
-			y: -12.5d
-		}
-		{
-			height: 14.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 11.0d
-			x: -10.0d
-			y: -12.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_clqies.png"
-			rotation: 0.0d
-			width: 4.701030927835052d
-			x: -10.0d
-			y: -8.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_frankster1.png"
-			rotation: 0.0d
-			width: 10.666666666666666d
-			x: 23.5d
-			y: -4.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_frankster2.png"
-			rotation: 0.0d
-			width: 10.666666666666666d
-			x: 23.5d
-			y: 0.5d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: 23.5d
-			y: -2.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_frankster.png"
-			rotation: 0.0d
-			width: 10.575d
-			x: 23.5d
-			y: 5.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_gordon1.png"
-			rotation: 0.0d
-			width: 10.867924528301888d
-			x: -10.5d
-			y: 11.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_gordon2.png"
-			rotation: 0.0d
-			width: 10.867924528301888d
-			x: -10.5d
-			y: 16.5d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: -10.5d
-			y: 14.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_gordon.png"
-			rotation: 0.0d
-			width: 12.825d
-			x: -10.5d
-			y: 21.0d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_lootz.png"
-			rotation: 0.0d
-			width: 10.851063829787234d
-			x: 20.0d
-			y: -13.0d
-		}
-		{
-			height: 14.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 11.0d
-			x: 19.5d
-			y: -13.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_lootz.png"
-			rotation: 0.0d
-			width: 5.0886075949367084d
-			x: 20.0d
-			y: -9.0d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_porcocrazy.png"
-			rotation: 0.0d
-			width: 14.222222222222221d
-			x: 5.0d
-			y: -20.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_porco.png"
-			rotation: 0.0d
-			width: 8.391752577319588d
-			x: 5.0d
-			y: -16.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_slowmo1.png"
-			rotation: 0.0d
-			width: 14.695402298850574d
-			x: 5.0d
-			y: 11.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_slowmo2.png"
-			rotation: 0.0d
-			width: 14.653295128939828d
-			x: 5.0d
-			y: 16.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_slow.png"
-			rotation: 0.0d
-			width: 7.45d
-			x: 4.5d
-			y: 21.0d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/building_tips/building_spoiler.png"
-			rotation: 0.0d
-			width: 10.323012552301256d
-			x: -23.0d
-			y: -24.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_spoiler.png"
-			rotation: 0.0d
-			width: 9.216494845360824d
-			x: -23.0d
-			y: -19.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_trackerkitsune.png"
-			rotation: 0.0d
-			width: 11.327433628318584d
-			x: 20.5d
-			y: 11.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_trackerkitsune2.png"
-			rotation: 0.0d
-			width: 11.327433628318584d
-			x: 20.5d
-			y: 16.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_tracker.png"
-			rotation: 0.0d
-			width: 12.725d
-			x: 20.0d
-			y: 21.0d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: 20.0d
-			y: 14.0d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 28.0d
-			x: 5.0d
-			y: 14.0d
-		}
-		{
-			height: 11.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 19.0d
-			x: -23.0d
-			y: -24.5d
-		}
-		{
-			height: 20.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 11.0d
-			x: 5.0d
-			y: -20.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_climowitz1.png"
-			rotation: 0.0d
-			width: 9.0d
-			x: 5.0d
-			y: 26.0d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_climowitz2.png"
-			rotation: 0.0d
-			width: 9.0d
-			x: 5.0d
-			y: 30.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_climowitz.png"
-			rotation: 0.0d
-			width: 8.75d
-			x: 5.5d
-			y: 35.0d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_cthonaut.png"
-			rotation: 0.0d
-			width: 10.666666666666666d
-			x: 32.5d
-			y: -22.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_cthonaut.png"
-			rotation: 0.0d
-			width: 8.375d
-			x: 32.5d
-			y: -18.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_peppe.png"
-			rotation: 0.0d
-			width: 10.666666666666666d
-			x: -23.0d
-			y: 23.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_peppe.png"
-			rotation: 0.0d
-			width: 4.895833333333333d
-			x: -23.5d
-			y: 27.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_unka1.png"
-			rotation: 0.0d
-			width: 11.327433628318584d
-			x: 20.5d
-			y: 31.0d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_unka2.png"
-			rotation: 0.0d
-			width: 11.327433628318584d
-			x: 20.5d
-			y: 26.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_unka.png"
-			rotation: 0.0d
-			width: 4.725d
-			x: 20.0d
-			y: 36.0d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_wuschelorca1.png"
-			rotation: 0.0d
-			width: 11.367793240556662d
-			x: -10.0d
-			y: 26.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_wuschelorca2.png"
-			rotation: 0.0d
-			width: 11.419161676646706d
-			x: -10.0d
-			y: 31.5d
-		}
-		{
-			height: 6.0d
-			image: "atm:textures/questpics/building_tips/building_zahorizon.png"
-			rotation: 0.0d
-			width: 10.670991658943466d
-			x: 33.0d
-			y: 23.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_zahorizon.png"
-			rotation: 0.0d
-			width: 8.925d
-			x: 33.0d
-			y: 28.0d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 22.0d
-			x: -10.0d
-			y: 29.0d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: 20.0d
-			y: 28.5d
-		}
-		{
-			height: 14.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 11.0d
-			x: 32.5d
-			y: -22.5d
-		}
-		{
-			height: 14.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 11.0d
-			x: 33.0d
-			y: 23.5d
-		}
-		{
-			height: 14.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 11.0d
-			x: -23.5d
-			y: 23.0d
-		}
-		{
-			height: 15.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 16.0d
-			x: 5.5d
-			y: 28.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_beelumpi.png"
-			rotation: 0.0d
-			width: 7.130434782608695d
-			x: -10.5d
-			y: 36.5d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/building_tips/building_bloke1.png"
-			rotation: 0.0d
-			width: 15.0d
-			x: -3.0d
-			y: -38.0d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/building_tips/building_bloke2.png"
-			rotation: 0.0d
-			width: 15.0d
-			x: -3.0d
-			y: -31.5d
-		}
-		{
-			height: 21.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 28.0d
-			x: -3.0d
-			y: -35.0d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/building_tips/building_breadzaa1.png"
-			rotation: 0.0d
-			width: 15.0d
-			x: 33.0d
-			y: -13.5d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/building_tips/building_charas1.png"
-			rotation: 0.0d
-			width: 14.0d
-			x: -23.0d
-			y: -14.5d
-		}
-		{
-			height: 10.0d
-			image: "atm:textures/questpics/building_tips/building_kupnu1.png"
-			rotation: 0.0d
-			width: 16.0d
-			x: -26.5d
-			y: 13.0d
-		}
-		{
-			height: 10.0d
-			image: "atm:textures/questpics/building_tips/building_lonerstar1.png"
-			rotation: 0.0d
-			width: 16.0d
-			x: 36.5d
-			y: 12.0d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/building_tips/building_stecy1.png"
-			rotation: 0.0d
-			width: 14.0d
-			x: 14.0d
-			y: -37.5d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/building_tips/building_stecy2.png"
-			rotation: 0.0d
-			width: 14.0d
-			x: 14.0d
-			y: -31.5d
-		}
-		{
-			height: 7.0d
-			image: "atm:textures/questpics/building_tips/building_vivavii1.png"
-			rotation: 0.0d
-			width: 13.0d
-			x: 38.5d
-			y: -5.0d
-		}
-		{
-			height: 7.0d
-			image: "atm:textures/questpics/building_tips/building_vivavii2.png"
-			rotation: 0.0d
-			width: 13.0d
-			x: 38.5d
-			y: 1.0d
-		}
-		{
-			height: 7.0d
-			image: "atm:textures/questpics/building_tips/building_quantum1.png"
-			rotation: 0.0d
-			width: 13.0d
-			x: -31.0d
-			y: -5.0d
-		}
-		{
-			height: 7.0d
-			image: "atm:textures/questpics/building_tips/building_quantum2.png"
-			rotation: 0.0d
-			width: 13.0d
-			x: -31.0d
-			y: 1.0d
-		}
-		{
-			height: 10.0d
-			image: "atm:textures/questpics/building_tips/building_mindful.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: 5.5d
-			y: -50.5d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: 38.5d
-			y: -2.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_vivavii.png"
-			rotation: 0.0d
-			width: 6.0d
-			x: 38.5d
-			y: 5.5d
-		}
-		{
-			height: 17.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: -31.0d
-			y: -2.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_quantum.png"
-			rotation: 0.0d
-			width: 13.0d
-			x: -31.0d
-			y: 5.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_bloke.png"
-			rotation: 0.0d
-			width: 12.0d
-			x: -3.0d
-			y: -26.0d
-		}
-		{
-			height: 21.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 28.0d
-			x: 14.0d
-			y: -35.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_stecy.png"
-			rotation: 0.0d
-			width: 4.5d
-			x: 14.0d
-			y: -26.0d
-		}
-		{
-			height: 26.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 16.0d
-			x: 5.5d
-			y: -50.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_mindful.png"
-			rotation: 0.0d
-			width: 15.0d
-			x: 5.5d
-			y: -44.5d
-		}
-		{
-			height: 19.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 13.0d
-			x: 32.5d
-			y: -13.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_breadzaa.png"
-			rotation: 0.0d
-			width: 8.0d
-			x: 33.0d
-			y: -9.0d
-		}
-		{
-			height: 13.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 30.0d
-			x: -26.5d
-			y: 12.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_kupnu4.png"
-			rotation: 0.0d
-			width: 6.0d
-			x: -27.0d
-			y: 18.5d
-		}
-		{
-			height: 13.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 0.0d
-			width: 30.0d
-			x: 36.0d
-			y: 12.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_lonerstar.png"
-			rotation: 0.0d
-			width: 22.0d
-			x: 36.5d
-			y: 18.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/building_tips/building_title_charas.png"
-			rotation: 0.0d
-			width: 6.0d
-			x: -23.0d
-			y: -9.5d
-		}
-		{
-			height: 19.0d
-			image: "atm:textures/questpics/building_tips/building_frame.png"
-			rotation: 90.0d
-			width: 13.0d
-			x: -23.0d
-			y: -14.5d
 		}
 	]
 	order_index: 2
@@ -870,7 +150,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(chipped:botanist_workbench)item(chipped:glassblower)item(chipped:carpenters_table)item(chipped:loom_table)item(chipped:mason_table)item(chipped:alchemy_bench)item(chipped:tinkering_table)item(chipped:watering_can)item(chipped:alchemy_book)item(chipped:saw)item(chipped:needles)item(chipped:chisel)item(chipped:multimeter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.5d
+			x: 9.5d
 			y: -7.0d
 		}
 		{
@@ -894,201 +174,6 @@
 			}]
 			x: 1.0d
 			y: -10.0d
-		}
-		{
-			dependencies: ["30B3BC91460C9B19"]
-			hide_dependent_lines: true
-			icon: {
-				id: "mcwfences:granite_pillar_wall"
-			}
-			id: "1FD60B7448CED1EB"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "605122A4C0134016"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "78ECC6C98CA985D7"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwfences))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["30B3BC91460C9B19"]
-			hide_dependent_lines: true
-			icon: {
-				id: "mcwdoors:spruce_barn_glass_door"
-			}
-			id: "04F5846E2468E807"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2E5BCB89269FF765"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "0896EE64F92CCD86"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwdoors))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["3ED8365BAD406CC5"]
-			hide_dependent_lines: true
-			icon: {
-				id: "mcwfurnitures:oak_striped_chair"
-			}
-			id: "55160BAFFD9E2988"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3A6B1E88C99ABFFD"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "30933620783092A5"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwfurnitures))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 9.5d
-			y: 4.0d
-		}
-		{
-			dependencies: ["3ED8365BAD406CC5"]
-			hide_dependent_lines: true
-			hide_details_until_startable: false
-			icon: {
-				id: "mcwholidays:colorful_decorated_christmas_tree_top"
-			}
-			id: "027E6E294D9E1375"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "40F2CCB9347CB3AF"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "2F94B8FED9BF6698"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwholidays))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 9.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["2094D1CE4BA66091"]
-			hide_dependent_lines: true
-			icon: {
-				id: "mcwlights:green_lamp"
-			}
-			id: "3889D0255074CE85"
-			rewards: [{
-				count: 10
-				id: "422EF2AD5B93B504"
-				item: {
-					count: 1
-					id: "minecraft:redstone_lamp"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1BA8C5F08A824C08"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwlights))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 12.5d
-			y: -5.5d
-		}
-		{
-			dependencies: ["30B3BC91460C9B19"]
-			hide_dependent_lines: true
-			icon: {
-				id: "mcwpaths:andesite_honeycomb_paving"
-			}
-			id: "616ED6C49C37EB91"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "59E0050D45AA0C6B"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "436475D6C527A458"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwpaths))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["30B3BC91460C9B19"]
-			hide_dependent_lines: true
-			icon: {
-				id: "mcwroofs:oak_attic_roof"
-			}
-			id: "08C66BCA3AAE765B"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4C45CF1EA88A3E25"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "00A904FBEDE80712"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwroofs))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["30B3BC91460C9B19"]
-			hide_dependent_lines: true
-			icon: {
-				id: "mcwtrpdoors:oak_glass_trapdoor"
-			}
-			id: "3D1D5CB45D81A6E4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "141E178351E763AB"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "20374000F8ADE952"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwtrpdoors))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["0FE30548F25FEDB1"]
-			hide_dependent_lines: true
-			icon: {
-				id: "mcwwindows:oak_plank_four_window"
-			}
-			id: "156605859D553276"
-			rewards: [{
-				id: "00244652BB529233"
-				item: {
-					count: 1
-					id: "mcwwindows:hammer"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "46905D1E23255397"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwwindows))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -9.0d
-			y: -3.5d
 		}
 		{
 			dependencies: ["2094D1CE4BA66091"]
@@ -1134,7 +219,7 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: -2.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["2094D1CE4BA66091"]
@@ -1264,28 +349,6 @@
 		{
 			dependencies: ["61BE7882EE0E6FAF"]
 			icon: {
-				id: "regions_unexplored:brimwood_log"
-			}
-			id: "0BC106B34AD386E5"
-			rewards: [{
-				id: "1E24FB85A70DAFDC"
-				item: {
-					count: 1
-					id: "naturescompass:naturescompass"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "78F0D5822BF96CA9"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(regions_unexplored:logs))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: -4.5d
-		}
-		{
-			dependencies: ["61BE7882EE0E6FAF"]
-			icon: {
 				id: "chipped:bundled_oak_log"
 			}
 			id: "35C46E6E27C9CB1A"
@@ -1304,28 +367,6 @@
 			}]
 			x: -5.5d
 			y: -6.5d
-		}
-		{
-			dependencies: ["61BE7882EE0E6FAF"]
-			icon: {
-				id: "biomeswevegone:palo_verde_log"
-			}
-			id: "4EA2DB12E8F0068F"
-			rewards: [{
-				id: "4067337B7C0CBED9"
-				item: {
-					count: 1
-					id: "naturescompass:naturescompass"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "61FFB3326113FE18"
-				item: { components: { "ftbfiltersystem:filter": "and(item_tag(minecraft:logs)mod(biomeswevegone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: -5.5d
 		}
 		{
 			dependencies: ["61BE7882EE0E6FAF"]
@@ -1404,7 +445,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(c:logs/archwood))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -3.0d
 			y: -5.5d
 		}
 		{
@@ -1449,8 +490,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(mod(glassential))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: -1.0d
+			x: -9.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["0FE30548F25FEDB1"]
@@ -1593,8 +634,8 @@
 				item: { components: { "ftbfiltersystem:filter": "and(mod(handcrafted))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 2.0d
+			x: 9.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["3ED8365BAD406CC5"]
@@ -1616,31 +657,8 @@
 				item: { components: { "ftbfiltersystem:filter": "and(mod(cookingforblockheads))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["3ED8365BAD406CC5"]
-			icon: {
-				id: "sushigocrafting:rice_cooker"
-			}
-			id: "0C82CE3AFBD48C1E"
-			rewards: [{
-				count: 16
-				id: "44A4621E31A31C03"
-				item: {
-					count: 1
-					id: "sushigocrafting:rice_seeds"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "53A6720343E57302"
-				item: { components: { "ftbfiltersystem:filter": "and(mod(sushigocrafting)block())" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 9.5d
-			y: 2.0d
+			x: 10.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["3ED8365BAD406CC5"]
@@ -1682,8 +700,8 @@
 				item: { components: { "ftbfiltersystem:filter": "and(mod(farmersdelight)block())" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 4.0d
+			x: 12.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["0FE30548F25FEDB1"]
@@ -1726,8 +744,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(mod(framedblocks))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -9.0d
+			x: 11.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["61BE7882EE0E6FAF"]
@@ -1807,7 +825,7 @@
 				type: "item"
 			}]
 			x: -6.0d
-			y: -4.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["09955CF85F579E0F"]
@@ -1829,31 +847,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:deepslate)item(minecraft:stone)item(minecraft:granite)item(minecraft:andesite)item(minecraft:diorite)item(minecraft:tuff)item(minecraft:blackstone)item(minecraft:basalt))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -2.5d
-		}
-		{
-			dependencies: ["09955CF85F579E0F"]
-			icon: {
-				id: "biomeswevegone:red_rock"
-			}
-			id: "537B39B42C7D21ED"
-			rewards: [{
-				count: 16
-				id: "02DCDE13671067D7"
-				item: {
-					count: 1
-					id: "biomeswevegone:rocky_stone"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1AD43F80F89DF9D9"
-				item: { components: { "ftbfiltersystem:filter": "or(item(biomeswevegone:dacite)item(biomeswevegone:red_rock)item(biomeswevegone:mossy_stone)item(biomeswevegone:rocky_stone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: -1.5d
+			x: -1.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["09955CF85F579E0F"]
@@ -1875,50 +870,7 @@
 				item: { components: { "ftbfiltersystem:filter": "and(mod(eternal_starlight)item_tag(c:stones))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: -0.5d
-		}
-		{
-			dependencies: ["09955CF85F579E0F"]
-			icon: {
-				id: "regions_unexplored:argillite"
-			}
-			id: "1625C3A30E69D634"
-			rewards: [
-				{
-					count: 16
-					id: "3100C4870AA73C30"
-					item: {
-						count: 1
-						id: "regions_unexplored:chalk"
-					}
-					type: "item"
-				}
-				{
-					count: 16
-					id: "2B44DC8D18B0CCB9"
-					item: {
-						count: 1
-						id: "regions_unexplored:argillite"
-					}
-					type: "item"
-				}
-				{
-					count: 16
-					id: "2EC7C0D6870416F6"
-					item: {
-						count: 1
-						id: "regions_unexplored:mossy_stone"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "0740BC10E4D2568F"
-				item: { components: { "ftbfiltersystem:filter": "and(mod(regions_unexplored)item_tag(c:stones))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -0.5d
+			x: 1.0d
 			y: -0.5d
 		}
 		{
@@ -1940,28 +892,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(chipped:andesite)item_tag(chipped:basalt)item_tag(chipped:blackstone)item_tag(chipped:calcite)item_tag(chipped:cobblestone)item_tag(chipped:deepslate)item_tag(chipped:diorite)item_tag(chipped:granite)item_tag(chipped:stone)item_tag(chipped:tuff))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -3.5d
-		}
-		{
-			dependencies: ["3ED8365BAD406CC5"]
-			icon: {
-				id: "storagedelight:spruce_drawer"
-			}
-			id: "4BC27F16229BBF46"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "57C0ABF14ADE4D4F"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "3995281792648279"
-				item: { components: { "ftbfiltersystem:filter": "and(mod(storagedelight))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 10.5d
-			y: 4.5d
+			x: -1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["6F65216B13E9FFA9"]
@@ -2047,7 +979,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(railcraft:abyssal_stone)item(railcraft:quarried_stone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: 1.0d
 			y: -3.5d
 		}
 		{
@@ -2120,29 +1052,6 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 3.0d
-		}
-		{
-			dependencies: ["0A21773B773F34F8"]
-			icon: {
-				id: "regions_unexplored:yellow_painted_planks"
-			}
-			id: "0589911EB4D30FAD"
-			rewards: [{
-				count: 16
-				id: "5AA1DFDEB652FD0C"
-				item: {
-					count: 1
-					id: "minecraft:oak_planks"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4892144C32DCEB55"
-				item: { components: { "ftbfiltersystem:filter": "or(item(regions_unexplored:red_painted_planks)item(regions_unexplored:orange_painted_planks)item(regions_unexplored:yellow_painted_planks)item(regions_unexplored:lime_painted_planks)item(regions_unexplored:green_painted_planks)item(regions_unexplored:cyan_painted_planks)item(regions_unexplored:light_blue_painted_planks)item(regions_unexplored:blue_painted_planks)item(regions_unexplored:purple_painted_planks)item(regions_unexplored:magenta_painted_planks)item(regions_unexplored:pink_painted_planks)item(regions_unexplored:brown_painted_planks)item(regions_unexplored:white_painted_planks)item(regions_unexplored:light_gray_painted_planks)item(regions_unexplored:gray_painted_planks)item(regions_unexplored:black_painted_planks))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.0d
 			y: 3.0d
 		}
 		{
@@ -2516,28 +1425,6 @@
 			y: 4.5d
 		}
 		{
-			dependencies: ["3ED8365BAD406CC5"]
-			icon: {
-				id: "mcwwindows:hammer"
-			}
-			id: "30B3BC91460C9B19"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0B582EAAC8507CB6"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			shape: "circle"
-			size: 1.5d
-			tasks: [{
-				id: "6F475689ED4EDF59"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwdoors)mod(mcwbridges)mod(mcwfences)mod(mcwfurnitures)mod(mcwholidays)mod(mcwlights)mod(mcwpaths)mod(mcwroofs)mod(mcwtrpdoors)mod(mcwwindows))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 6.5d
-			y: 3.0d
-		}
-		{
 			icon: {
 				id: "minecraft:grass_block"
 			}
@@ -2585,7 +1472,7 @@
 		{
 			dependencies: ["0052E5592A6BBEC1"]
 			icon: {
-				id: "mcwfurnitures:oak_chair"
+				id: "handcrafted:oak_chair"
 			}
 			id: "7C2ED69E07988DF4"
 			rewards: [{
@@ -2620,40 +1507,8 @@
 				item: { components: { "relics:data": { abilities: { abilities: { claws: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.20861d } } }, fast_mining: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.32347d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:digging_claws" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -7.0d
-		}
-		{
-			dependencies: [
-				"04F5846E2468E807"
-				"1FD60B7448CED1EB"
-				"08C66BCA3AAE765B"
-				"616ED6C49C37EB91"
-				"3D1D5CB45D81A6E4"
-				"027E6E294D9E1375"
-				"3889D0255074CE85"
-				"55160BAFFD9E2988"
-				"156605859D553276"
-			]
-			hide_until_deps_complete: true
-			id: "6AC85C203E7C3482"
-			rewards: [{
-				id: "2DD5538BC46D146E"
-				item: {
-					components: {
-						"minecraft:custom_name": "\"Sketch Macaw\""
-					}
-					count: 1
-					id: "minecraft:parrot_spawn_egg"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "49F387C7EAD579A2"
-				type: "checkmark"
-			}]
-			x: 4.0d
-			y: 3.0d
+			x: -1.0d
+			y: -9.0d
 		}
 		{
 			id: "01516BC726013B7C"
@@ -2674,46 +1529,6 @@
 			y: 0.5d
 		}
 		{
-			dependencies: ["44688FC2E34FF09F"]
-			id: "4AE8D8826F894EC7"
-			rewards: [
-				{
-					count: 3
-					id: "38205BCA859D3934"
-					item: {
-						count: 1
-						id: "minecraft:ochre_froglight"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "612D122E9915CD6D"
-					item: {
-						count: 1
-						id: "minecraft:verdant_froglight"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "5236F5DA0EF05C20"
-					item: {
-						count: 1
-						id: "minecraft:pearlescent_froglight"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "3DD7D71E600FF9DD"
-				item: { count: 1, id: "domum_ornamentum:architectscutter" }
-				type: "item"
-			}]
-			x: 10.5d
-			y: -7.0d
-		}
-		{
 			dependencies: ["3F185554793CCE54"]
 			id: "44688FC2E34FF09F"
 			shape: "circle"
@@ -2725,22 +1540,6 @@
 			}]
 			x: 9.5d
 			y: -8.5d
-		}
-		{
-			dependencies: ["22D2CFDDB06C720C"]
-			id: "44BD0B40EB5451AF"
-			rewards: [{
-				id: "548F2F428EB3BEDE"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "44BDEA5268F6ABE6"
-				item: { components: { "ftbfiltersystem:filter": "or(item(minecolonies:supplychestdeployer)item(minecolonies:supplycampdeployer))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: -9.0d
 		}
 		{
 			dependencies: ["22D2CFDDB06C720C"]
@@ -2761,171 +1560,6 @@
 			}]
 			x: 0.0d
 			y: -7.0d
-		}
-		{
-			dependencies: ["3ED8365BAD406CC5"]
-			id: "6012D6C3253895F0"
-			rewards: [{
-				id: "69F81EA5F848F7BF"
-				item: {
-					count: 1
-					id: "minecraft:redstone_block"
-				}
-				type: "item"
-			}]
-			shape: "circle"
-			size: 1.5d
-			tasks: [{
-				id: "01D63AEDEE43C288"
-				item: { count: 1, id: "refurbished_furniture:workbench" }
-				type: "item"
-			}]
-			x: 14.5d
-			y: 3.0d
-		}
-		{
-			dependencies: ["6012D6C3253895F0"]
-			id: "53CE66D760CEFD7E"
-			rewards: [
-				{
-					count: 3
-					id: "7116D716B81651AA"
-					item: {
-						count: 1
-						id: "minecraft:iron_ingot"
-					}
-					type: "item"
-				}
-				{
-					count: 2
-					id: "65DDE3E6D2A65303"
-					item: {
-						count: 1
-						id: "minecraft:copper_ingot"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "2828B5EAFCCB03E0"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(refurbished_furniture:bathroom))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 14.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["6012D6C3253895F0"]
-			id: "408F48C4442CE180"
-			rewards: [
-				{
-					id: "601B999FF5FEECCD"
-					item: {
-						count: 1
-						id: "refurbished_furniture:light_lightswitch"
-					}
-					type: "item"
-				}
-				{
-					id: "5A8082246304C413"
-					item: {
-						components: {
-							"mekanism:energy": {
-								energy_containers: [L;4000000L]
-							}
-						}
-						count: 1
-						id: "mekanism:basic_energy_cube"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "767AF1D5EC4B4ECD"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(refurbished_furniture:bedroom))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 15.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["6012D6C3253895F0"]
-			id: "1FDC8725105D822A"
-			rewards: [{
-				count: 16
-				id: "775070831D399229"
-				item: {
-					count: 1
-					id: "minecraft:bread"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "02E980A373B13092"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(refurbished_furniture:kitchen))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 14.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["6012D6C3253895F0"]
-			id: "655BD0A54AF1E1CA"
-			rewards: [
-				{
-					id: "4C36F83F0C230AA9"
-					item: {
-						count: 1
-						id: "refurbished_furniture:spatula"
-					}
-					type: "item"
-				}
-				{
-					id: "568E0798E792226B"
-					item: {
-						count: 1
-						id: "refurbished_furniture:door_mat"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "293E660E52F15F10"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(refurbished_furniture:outdoors))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 15.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["6012D6C3253895F0"]
-			id: "3E76BC1D0FC3E9A8"
-			rewards: [
-				{
-					id: "1CB46265B36DADBD"
-					item: {
-						count: 1
-						id: "refurbished_furniture:wrench"
-					}
-					type: "item"
-				}
-				{
-					count: 16
-					id: "360269FB69BA2BB8"
-					item: {
-						count: 1
-						id: "minecraft:coal"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "6A7ABDFC419B62A9"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(refurbished_furniture:electronics))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 16.0d
-			y: 3.0d
 		}
 		{
 			dependencies: ["0A21773B773F34F8"]
@@ -3159,8 +1793,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(mod(luminax))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 2.0d
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["22D2CFDDB06C720C"]

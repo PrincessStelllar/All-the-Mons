@@ -1085,23 +1085,6 @@
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
-			id: "37B055397B21D936"
-			optional: true
-			rewards: [{
-				id: "04F0EDFEC22D9707"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "344776799E44852E"
-				item: { components: { "minecraft:enchantments": { levels: { "minecraft:looting": 2 } } }, count: 1, id: "evilcraft:vein_sword" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
 			id: "161878AB4236C58B"
 			optional: true
 			rewards: [{
@@ -1330,7 +1313,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(deeperdarker:resonarium_sword)item(undergarden:forgotten_sword)item(undergarden:cloggrum_sword))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 3.0d
 			y: 5.0d
 		}
 		{
@@ -1349,23 +1332,6 @@
 			}]
 			x: -0.5d
 			y: 6.5d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
-			id: "3CD307DDD6A5F5A3"
-			optional: true
-			rewards: [{
-				id: "562CCECF1834F7DB"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "73292BEBAD3BF345"
-				item: { count: 1, id: "minecolonies:chiefsword" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: 2.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -1412,11 +1378,11 @@
 				xp: 10
 			}]
 			tasks: [{
-				id: "6A098C929647B0A6"
-				item: { components: { "ftbfiltersystem:filter": "or(item(naturesaura:sky_sword)item(irons_spellbooks:magehunter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "6EFA5E93E952B418"
+				item: { count: 1, id: "naturesaura:sky_sword" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.0d
 			y: 5.0d
 		}
 		{
@@ -1503,23 +1469,6 @@
 			}]
 			x: -1.0d
 			y: 5.0d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
-			id: "791A981914CE345F"
-			optional: true
-			rewards: [{
-				id: "142552A9F3C6B254"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "7050DBCA9D2B7346"
-				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:counterspell", index: 0, level: 1, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:spellbreaker" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 7.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
