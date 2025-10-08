@@ -17,6 +17,6 @@
 
   ],
   "signatureItem": "cobblemon:covert_cloak",
-  "spawnWeightFactor": 0.25,
+  "spawnWeightFactor": 1.25,
   "type": "team_allthemods"
 }
