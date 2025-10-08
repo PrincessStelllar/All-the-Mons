@@ -160,69 +160,6 @@ ServerEvents.recipes(allthemods => {
     // allthemods.shaped('8x regions_unexplored:willow_log', ['A  ', ' A ', ' A '], {
         // A: 'mysticalagriculture:unexplored_wood_essence'
     // }).id('allthemods:essence/regions_unexplored/willow_log')
-
-    //Xychorium Gems
-    allthemods.shaped('5x xycraft_world:xychorium_gem_light',
-        ['XX ',
-         'X  ',
-         '   '],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_light').noMirror()
-    allthemods.shaped('5x xycraft_world:xychorium_gem_dark',
-        [' XX',
-         '  X',
-         '   '],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_dark').noMirror()
-    allthemods.shaped('5x xycraft_world:xychorium_gem_red',
-        ['   ',
-         'X  ',
-         'XX '],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_red').noMirror()
-    allthemods.shaped('5x xycraft_world:xychorium_gem_green',
-        ['   ',
-         '  X',
-         ' XX'],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_green').noMirror()
-    allthemods.shaped('5x xycraft_world:xychorium_gem_blue',
-        [' X ',
-         ' X ',
-         ' X '],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_blue').noMirror()
-
-    function addInfustion(seed, item, essence) {
-        allthemods.custom(
-            {
-                type: 'mysticalagriculture:infusion',
-                input: {
-                    item:  'mysticalagriculture:prosperity_seed_base'
-                },
-                ingredients: [
-                    {
-                        item: item
-                    },
-                    {
-                        item: essence
-                    },
-                    {
-                        item: item
-                    },
-                    {
-                        item: essence
-                    },
-                    {
-                        item: item
-                    },
-                    {
-                        item: essence
-                    },
-                    {
-                        item: item
-                    },
-                    {
-                        item: essence
-                    }
-                ],
-                result: {
-                    id: seed
-                }
-            }
-        ).id(seed.replace(':', ':infusion/'))
-    }
-
     //addInfustion('mysticalagriculture:silicon_seeds', 'ae2:silicon', 'mysticalagriculture:prudentium_essence')
     //addInfustion('mysticalagriculture:steel_seeds', 'alltheores:steel_ingot', 'mysticalagriculture:imperium_essence')
 
