@@ -26,8 +26,8 @@
     "moveset": [
       "psyshock",
       "armorcannon",
-      "clearsmog",
-      "calmmind"
+      "shadowball",
+      "energyball"
     ],
     "ivs": {
       "hp": 31,
@@ -135,7 +135,7 @@
       "gigaimpact",
       "zenheadbutt",
       "ironhead",
-      "wideguard"
+      "knockoff"
     ],
     "ivs": {
       "hp": 31,
