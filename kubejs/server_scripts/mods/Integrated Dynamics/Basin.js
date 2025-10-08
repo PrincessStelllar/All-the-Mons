@@ -39,11 +39,7 @@ ServerEvents.recipes(allthemods => {
       }
     )
   }
-
-  //basin(output, input, duration)
-  basin('xycraft_machines:resin_block', "1B x xycraft_machines:resin")
-  //mechanicalBasin(output, input, duration)
-  mechanicalBasin('xycraft_machines:resin_block', "1B x xycraft_machines:resin")  
+ 
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

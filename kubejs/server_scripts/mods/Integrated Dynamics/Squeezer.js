@@ -70,9 +70,6 @@ ServerEvents.recipes(allthemods => {
     squeezer('#c:ores/uraninite_dense', {item: 'powah:uraninite_raw', count: 6, bonus: 0})
     allthemods.remove({output:'minecraft:lapis_lazuli', type:'integrateddynamics:mechanical_squeezer'})
     squeezer('#c:ores/lapis', {item: 'minecraft:lapis_lazuli', count: 12, bonus: 0})
-    global.xycraftColours.forEach(colour => {
-        squeezer(`#c:ores/xychorium_${colour}`, {item: `xycraft_world:xychorium_gem_${colour}`, count: 4, bonus: 0})
-      })
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

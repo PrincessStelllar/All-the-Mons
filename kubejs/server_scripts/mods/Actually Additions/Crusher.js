@@ -91,11 +91,6 @@ ServerEvents.recipes(allthemods => {
 
     //Iron's Spellbooks
     addAACrusher('#c:ores/mithril', 'irons_spellbooks:raw_mithril', 4, 0.5)
-
-    //Xycraft World
-    global.xycraftColours.forEach(colour => {
-        addAACrusher(`#c:ores/xychorium_${colour}`, `xycraft_world:xychorium_gem_${colour}`, 4, 0)
-      })
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
