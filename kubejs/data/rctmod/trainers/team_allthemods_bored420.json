@@ -27,7 +27,7 @@
       "dracometeor",
       "hurricane",
       "u-turn",
-      "tailwind"
+      "boomburst"
     ],
     "ivs": {
       "hp": 31,
@@ -51,7 +51,7 @@
     "nature": "modest",
     "ability": "punkrock",
     "moveset": [
-      "overqwil",
+      "voltswitch",
       "thunderbolt",
       "sludgebomb",
       "boomburst"
