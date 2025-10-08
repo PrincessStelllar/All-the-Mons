@@ -11,7 +11,6 @@ ServerEvents.recipes(allthemods => {
     essenceCircle('allthemodium:allthemodium_nugget', 'allthemodium')
     essenceCircle('allthemodium:vibranium_nugget', 'vibranium')
     essenceCircle('allthemodium:unobtainium_nugget', 'unobtainium')
-    essenceCircle('12x xycraft_world:kivi', 'kivi')
     essenceCircle('12x forbidden_arcanus:darkstone', 'darkstone')
     essenceCircle('6x silentgear:azure_silver_ingot', 'azure_silver')
     essenceCircle('6x silentgear:crimson_iron_ingot', 'crimson_iron')
