@@ -56,11 +56,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.24934231538B6492.title: "고대 피라미드"
-	quest.272CF280BAE6870E.quest_desc: [
-		"스탯이 보통인 &6올더모듐 갑옷&r과 비슷하지만, 철 마법의 마법에 더 많은 힘을 줍니다.\\n\\n게다가 자체 최대 마나와 마나 재생도 있습니다!"
-		"{image:atm:textures/questpics/allthemodium/all_armor_allmage.png width:100 height:175 align:center}"
-	]
-	quest.272CF280BAE6870E.title: "&6올더모듐 마법사 갑옷"
 	quest.2C4299D33D419AA0.quest_desc: ["&2 &l오버월드&r에 텔레포트 패드를 설치하여 &7 &l채굴 차원&r으로 이동하세요."]
 	quest.2C4299D33D419AA0.title: "&2&l오버월드"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3바이브라늄&r과 &5언옵테이니움&r의 조합!"]
@@ -69,8 +64,6 @@
 	quest.2D8026E10FBA7A72.title: "&6올더모듐 &5합금 &3곡괭이"
 	quest.2EDE91023F7924FB.quest_desc: ["&d텔레포트 패드&l를 &r엔드&5에 설치하여 &l더 비욘드&r로 가십시오."]
 	quest.2EDE91023F7924FB.title: "&d&l엔드"
-	quest.39B6D9FD21419776.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_vibmage.png width:100 height:175 align:center}"]
-	quest.39B6D9FD21419776.title: "&3비브라늄 마법사 갑옷"
 	quest.3F8D515D7B81B0E3.quest_desc: [
 		"또 다른 대장장이 형판?!?!?!\\n\\n음, 적어도 이걸 얻기 위해 고고학을 할 필요는 없겠네요!\\n\\n&b&l디 아더&r의 던전 구조물에서 발견되는 시련 생성기를 쓰러뜨려 획득해야 합니다. 더 구체적으로는 도서관 방에서요!"
 		"{image:atm:textures/questpics/allthemodium/all_library.png width:200 height:100 align:center}"
@@ -94,17 +87,11 @@
 	]
 	quest.4E737C490DCC5D6C.title: "&5언옵테이니움 갑옷"
 	quest.552F0B9B00F4F914.quest_desc: ["이 퀘스트는 &6AllTheMods Staff&r 또는 AllTheMods 모드팩에서 사용하기 위해 &2커뮤니티 기여자&r가 작성했습니다. \\n\\n모든 &6AllTheMods&r 팩은 &eAll Rights Reserved&r에 따라 라이선스가 부여되므로, 이 퀘스트는 &6AllTheMods Team&r에서 출시하지 않은 공개 팩에서는 명시적인 허가 없이 사용할 수 없습니다.\\n\\n이 퀘스트는 의도적으로 숨겨져 있습니다. 이 퀘스트가 보인다면 편집 모드에 있는 것입니다."]
-	quest.558FF21A6BCFE6E8.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unomage.png width:100 height:175 align:center}"]
-	quest.558FF21A6BCFE6E8.title: "&5언옵테늄 마법사 갑옷"
-	quest.5A26738AC904DC39.quest_desc: ["13개의 주문 슬롯!"]
-	quest.5A26738AC904DC39.title: "&6올더모듐 주문서"
 	quest.5AAF6CA41209B365.title: "&3바이브라늄 도구"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["네, 길을 만들 수 있으니 걱정 마세요!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6올더모듐 &5합금 &3삽"
 	quest.5BA986D7928BF09F.quest_desc: ["피글리치는 &6&l올더모듐&r에 의해 추가된 보스입니다. \\n\\n그는 1000개의 하트를 가지고 있으며 현재 공격은 없지만, 공격을 시작하면 파괴적일 것이라고 믿으셔도 좋습니다!\\n\\n처치 시 합금과 ATM의 별에 필요한 그의 심장을 드롭합니다!\\n\\n(HNN 또는 엔더IO와 같은 것으로 농장처럼 기르는 방법을 찾아보세요!)"]
 	quest.5BA986D7928BF09F.title: "피글리치 보스"
-	quest.5FA68047A3C05E80.quest_desc: ["15개의 주문 슬롯!"]
-	quest.5FA68047A3C05E80.title: "&5언옵테늄 주문서"
 	quest.66039B738CF0718A.quest_desc: ["&3바이브라늄&r이 &6올더모듐&r과 결합되었습니다!"]
 	quest.66039B738CF0718A.title: "&3바이브라늄&r - &6올더모듐&r 합금 주괴"
 	quest.68E6AE1B9EBCEFFF.title: "&3바이브라늄 철퇴"
@@ -127,8 +114,6 @@
 		"{ \"text\": \"ARS NOUVEAU QUESTLINE\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6AEDA2F9BEB57759\" } }"
 	]
 	quest.766EEB89C6DF3575.quest_desc: ["이터널 스텔라는 대장장이 작업대에서 아이템과 조합하여 아이템을 부서지지 않게 만들거나, 합금 도구를 제작하는 데 사용할 수 있습니다! \\n\\n먼저, 재료가 충분히 들어 있는 3티어 forge가 필요합니다. \\n\\n다음으로, 3개의 xpetrified orbs가 필요합니다. 이것을 얻으려면 블랙홀에 아이템을 공급해야 합니다. \\n\\n게다가, 스텔라라이트 조각은 광산에서 채굴해야 합니다! 그리고 &6올더모듐 주괴&r도 마찬가지입니다."]
-	quest.77AD61FCA9BC9AFB.quest_desc: ["14개의 주문 슬롯!"]
-	quest.77AD61FCA9BC9AFB.title: "&3바이브라늄 주문서"
 	quest.795A860668072830.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_vibarcane.png width:100 height:175 align:center}"]
 	quest.795A860668072830.title: "&3바이브라늄 비전술사 갑옷"
 	quest.7B3613C01F0B1373.quest_desc: [
@@ -144,13 +129,10 @@
 	task.00DDA48F9632A5C1.title: "오버월드를 방문하세요"
 	task.03ACF4486D706DEE.title: "바이브라늄 갑옷"
 	task.05256FE880D981D5.title: "바이브라늄 도구"
-	task.0BFAF56214875C90.title: "올더모듐 마법사 갑옷"
-	task.0E7E336483AFA69C.title: "비브라늄 마법사 갑옷"
 	task.0F9FCFCEE795FD41.title: "디 아더 방문하기"
 	task.194C02E800F974D6.title: "바이브라늄 비전술사 갑옷"
 	task.298EA976A7627731.title: "고대 도시를 찾으세요"
 	task.2A7CD3F14D3DC7C5.title: "언옵테이니움 갑옷"
-	task.2E3BC536B8A9FD91.title: "언옵테늄 마법사 갑옷"
 	task.32447C5882610D6C.title: "엔드 방문하기"
 	task.40C43560F454AD82.title: "올더모듐 도구"
 	task.46B42667B6BC1A3C.title: "네더 방문하기"

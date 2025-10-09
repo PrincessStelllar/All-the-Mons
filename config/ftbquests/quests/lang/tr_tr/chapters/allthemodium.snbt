@@ -54,11 +54,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.24934231538B6492.title: "Antik Piramit"
-	quest.272CF280BAE6870E.quest_desc: [
-		"İstatistikler normal &6Allthemodium Zırhı&r'na yakın ancak bu Iron Spell's Büyülerine daha fazla Güç verir. \\n\\nAyrıca kendi Maksimum Mana ve Mana Yenilemesi var!"
-		"{image:atm:textures/questpics/allthemodium/all_armor_allmage.png width:100 height:175 align:center}"
-	]
-	quest.272CF280BAE6870E.title: "&6Allthemodium Büyücü Zırhı"
 	quest.2C4299D33D419AA0.quest_desc: ["Işınlanma Pedi'ni &2&lAna Dünya&r'ya yerleştirerek &7&lMadencilik Boyutu&r'na git."]
 	quest.2C4299D33D419AA0.title: "&2&lAna Dünya"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3Vibranium&r'un, &5Unobtainium&r ile birleşmiş hâli!"]
@@ -67,7 +62,6 @@
 	quest.2D8026E10FBA7A72.title: "&6Allthemodium &5Alaşımı &3Kazma"
 	quest.2EDE91023F7924FB.quest_desc: ["Işınlanma Pedi'ni &d&lEnd&r'e yerleştirerek &5&lÖtesi&r'ne git."]
 	quest.2EDE91023F7924FB.title: "&d&lEnd"
-	quest.39B6D9FD21419776.title: "&3Vibranium Büyücü Zırhı"
 	quest.3F8D515D7B81B0E3.quest_desc: [
 		"Başka bir Demirci Şablonu mu?!?!?!\\n\\nEn azından bunun için Arkeolojiye ihtiyacın yok!\\n\\nBunları &b&lOther&r'daki Zindan yapısında bulunan Sınama Çağırıcılarını yenerek kazanman gerekecek. Daha belirgin olarak Kütüphane Odaları!\\n"
 		"{image:atm:textures/questpics/allthemodium/all_library.png width:200 height:100 align:center}"
@@ -89,16 +83,11 @@
 		"{image:atm:textures/questpics/allthemodium/all_armor_uno.png width:100 height:175 align:center}"
 	]
 	quest.4E737C490DCC5D6C.title: "&5Unobtainium Zırhı"
-	quest.558FF21A6BCFE6E8.title: "&5Unobtainium Büyücü Zırhı"
-	quest.5A26738AC904DC39.quest_desc: ["13 Büyü Yuvası!"]
-	quest.5A26738AC904DC39.title: "&6Allthemodium Büyü Kitabı"
 	quest.5AAF6CA41209B365.title: "&3Vibranium Aletler"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Evet, yol yapabilir, endişelenmene gerek yok!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6Allthemodium &5Alaşımı &3Kürek"
 	quest.5BA986D7928BF09F.quest_desc: ["Piglich, &6&lAllthemodium&r tarafından eklenen bir Patron'dur. \\n\\n1000 Kalbi var ve şu anda hiç saldırısı yok ama inan bana olduğunda yıkıcı olacaklar! \\n\\nÖldürüldüğünde Alaşımlar ve ATM Yıldızı için gerekli olan Kalbini düşürecek! \\n\\n(HNN veya EnderIO ile onları sürekli üretmenin yollarını bul!)"]
 	quest.5BA986D7928BF09F.title: "Piglich Patronu"
-	quest.5FA68047A3C05E80.quest_desc: ["15 Büyü Yuvası!"]
-	quest.5FA68047A3C05E80.title: "&5Unobtainium Büyü Kitabı"
 	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r'un, &6Allthemodium&r ile birleşmiş hâli!"]
 	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Alaşımı Külçesi"
 	quest.68E6AE1B9EBCEFFF.title: "&3Vibranium Topuz"
@@ -121,8 +110,6 @@
 		"{ \"text\": \"ARS NOUVEAU GÖREV SERİSİ\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6AEDA2F9BEB57759\" } }"
 	]
 	quest.766EEB89C6DF3575.quest_desc: ["Eternal Stella, Demircilik Masasında bir Eşya ile birleştirilerek o Eşyayı Kırılmaz yapmak için kullanılabilir. Ya da Alaşım Aletler yapmak için kullanabilirsin! \\n\\nİlk olarak, içinde bol miktarda Malzeme bulunan bir Tier 3 Forge'a ihtiyacın olacak. \\n\\nSonra, 3 Xpetrified Orb'a ihtiyacın olacak. Bunları elde etmek için bir Black Hole Eşyasıyla beslemen gerekir. \\n\\nAyrıca, Kazman gereken bir Stellarite Piece var! Ve &6AllTheModium Külçesi&r."]
-	quest.77AD61FCA9BC9AFB.quest_desc: ["14 Büyü Yuvası!"]
-	quest.77AD61FCA9BC9AFB.title: "&3Vibranium Büyü Kitabı"
 	quest.795A860668072830.title: "&3Vibranium Arcanist Zırhı"
 	quest.7B3613C01F0B1373.quest_desc: [
 		"&3Vibranium&r ve &6Allthemodium&r'u birleştirmek için &l&cPowah&r'a girmemiz gerekecek! \\n\\nEnerjilendiren Küre'yi yere yerleştir ve ardından Enerjilendiren Çubukları ona bakacak şekilde yerleştir. Enerjilendiren Çubukların bir Güç Kaynağına yerleştirilmesi gerekir sonrasında Küreye Enerji gönderirler. Her birinin tuttuğu ve gönderdiği miktar Kademesi tarafından belirlenir. \\n\\nKülçeleri, 2 Piglich Kalbi ve Sıkıştırılmış Nitro Kristal Bloğu X1'i Küreye yerleştir (sıra önemli değil). Ardından 1 Milyar FE Çubuklar aracılığıyla Küreye aktarıldığında hazır olacaktır!\\n"
@@ -137,13 +124,10 @@
 	task.00DDA48F9632A5C1.title: "Ana Dünya'yı Ziyaret Et"
 	task.03ACF4486D706DEE.title: "Vibranium Zırhı"
 	task.05256FE880D981D5.title: "Vibranium Aletler"
-	task.0BFAF56214875C90.title: "Allthemodium Büyücü Zırhı"
-	task.0E7E336483AFA69C.title: "Vibranium Büyücü Zırhı"
 	task.0F9FCFCEE795FD41.title: "Other'ı Ziyaret Et"
 	task.194C02E800F974D6.title: "Vibranium Arcanist Zırhı"
 	task.298EA976A7627731.title: "Antik Şehrin Yerini Tespit Et"
 	task.2A7CD3F14D3DC7C5.title: "Unobtainium Zırhı"
-	task.2E3BC536B8A9FD91.title: "Unobtainium Büyücü Zırhı"
 	task.32447C5882610D6C.title: "End'i Ziyaret Et"
 	task.40C43560F454AD82.title: "Allthemodium Aletler"
 	task.46B42667B6BC1A3C.title: "Nether'ı Ziyaret Et"

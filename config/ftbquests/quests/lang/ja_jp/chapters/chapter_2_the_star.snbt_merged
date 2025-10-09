@@ -1,6 +1,4 @@
 {
-	quest.00AC7CC291A3E590.quest_desc: ["おそらく（間違いなく）ビーコンのような光が出ている建造物を世界中で見かけたことがあるでしょう。丸石で作られ、4本の脚で支えられ、空中に浮いています！\n\n&8Dark Temple&r と呼ばれ、必要な &aEnvironmental Accumulator&r があります。\n\nWeather Container を満たすには雷雨を待つ必要があります。その後、&3Lightning Bomb&r を作ることができます！"]
-	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
 	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden Arcanus&rは、アルケインを使用して鍛造で儀式を行い、より強くなることに関するものです！\n\nまたは多くの人が知っているように、Eternal Stella。MODにはもっと多くのことがあります！"]
 	quest.022C38096F79EF07.title: "&6&lForbidden Arcanus"
 	quest.03564837ECB5CC79.quest_desc: ["もちろん、別の儀式である &2イハガンの支配&r です。（ちなみに、馬を生贄にするには、儀式を行う際に近くにいる必要があります）\n\n完了すると、&2ドラゴン ファミリア&r のスポーンエッグが与えられます。これらは &6&lATM Star&r を作成するためのクラフトに使用するか、&2ファミリア&r をスポーンさせることができます。\n\nこのファミリアはあなたの周りを追従し、Shift 右クリックで撫でることができます"]
@@ -96,8 +94,6 @@
 	quest.31B0267C47DB9D98.quest_desc: ["これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\n\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\n\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"]
 	quest.3331EBE1BB4BF64D.quest_desc: ["原子炉は、その危険な影響のため、多くの人にとって恐ろしいものかもしれません！\n\n幸いなことに、&a&lExtreme Reactors&rで怖いのは、レシピを理解するのが難しいということだけです！\n\n爆発する部分はありません"]
 	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
-	quest.340CDF4357E22A43.quest_desc: ["Iron が魔法とエクスプロレーションのとても楽しいModを私たちに授けてくれました！魔法と共に、そして魔法のために戦うこと！それ以上にクールなことはありません！\n\nクエストページがありますので、どうぞご利用ください"]
-	quest.340CDF4357E22A43.title: "&e&lIron's Spells and Spellbooks"
 	quest.36CF8D1DD1EF6307.quest_subtitle: "2つの湿った薄緑色のブロック"
 	quest.36DF0D83EBC2B6A9.quest_desc: [""]
 	quest.36DF0D83EBC2B6A9.quest_subtitle: "これで知恵の欠如は過去のものとなります"
@@ -120,8 +116,6 @@
 	quest.3C7C9EE57AD00A76.title: "&cマイクロミサイル"
 	quest.3CFD27F273B97FDD.quest_desc: ["&5&lApothic&r MODには複数のコアがあり、それぞれ &2&lMinecraft&r の異なる部分を変更します。\n\n&6&lATM Star&r を手に入れるには、Attributes と Enchanting MODをフォローする必要があります！"]
 	quest.3CFD27F273B97FDD.title: "&5&lApothic&r MOD"
-	quest.3F5B5D6B788E0A73.quest_desc: ["血、肉、儀式、邪悪なものなら間違いなく &4&lEvilCraft&r からのものです！"]
-	quest.3F5B5D6B788E0A73.title: "&4&lEvilCraft"
 	quest.3F8AEBB994716318.quest_desc: ["&8ウィザー&rは&l&2バニラ&rのエフェクトなので、もちろん私たちも独自の方法で使用して悪用する必要があります！\n\n不安定なポーションに&8ウィザースケルトンの頭&rを加えて作ることができます。その後、矢を作ることができます！"]
 	quest.4195800B4D7631E2.quest_desc: ["&6Eziveus の Spectral Compulsion&r の儀式を通じて、&7Wormhole Frame&r と 2つの水晶、そして&3エンダーパール&r を組み合わせることで、Wormhole を手に入れることができます！"]
 	quest.4195800B4D7631E2.title: "&6安定した Wormhole"
@@ -129,8 +123,6 @@
 	quest.42AF4EBDA5D6CC36.title: "&2Blastproof ケーシング"
 	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r はストレージ Mod ではありません、それは &lTHE&r ストレージ Mod です。\n\n個人的にこの Mod についてはあまり詳しくありませんが、クエストページがその学習に役立つはずです！"]
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
-	quest.45D10F53CA18B8EE.quest_desc: ["残念ながら &5Lightning&r ルーンはモブドロップから入手できません。代わりに &5Bottle O' Lightning&r でクラフトする必要があります。\n\n&5Bottle O' Lightning&r は、帯電したクリーパーに空瓶を使用することで入手できます。\n\n危険だと分かっています..."]
-	quest.45D10F53CA18B8EE.title: "&5Lightning&r アップグレードオーブ"
 	quest.486B5A605D79EA10.quest_desc: [""]
 	quest.486B5A605D79EA10.title: "&cマンハッタンモジュール"
 	quest.49FDD8666356A3E7.quest_desc: ["&2爆発耐性ケーシング&rまたは256Mポータブルアイテムセルのいずれかまたは両方を使用して&3&l非現実的確率装置&rをクラフトできます。 \\n\\n待って、いずれかまたは両方と言いましたか？ \\n\\nはい、そう言いました！2つの&2爆発耐性ケーシング&rまたは2つの256Mポータブルアイテムセルまたはそれぞれ1つずつ使用できます。"]
@@ -155,8 +147,6 @@
 	quest.54B1A876E9F6707A.quest_desc: [""]
 	quest.54B1A876E9F6707A.quest_subtitle: "&o他に類を見ないパワーと破壊力！"
 	quest.54B1A876E9F6707A.title: "&5&lOblivion Shard"
-	quest.54BAF833344F0AAE.quest_desc: ["これは2段階です！まず、&8Dark Tank&r が必要です。&8Dark Gems&r、鉄、ガラスだけの簡単なレシピです。\n\n次に、&7Eclipse Ember Fuel&r が必要です。これはそれほど簡単ではありません...\n\n入手するには、&7Eclipse Ember&r を &3Liquid Voidflame Fuel&r に落として &7Unrefined Eclipse Ember&r を作ります。その後、&9Shadowpulse Goo&r を広げて &7Eclipse Ember Fuel&r を作る必要があります。\n\nちなみに16バケツ分必要です！"]
-	quest.54BAF833344F0AAE.title: "&7Eclipse Ember Fuel&r で満たされた &8Dark Tank"
 	quest.554F47A0AF7506EC.quest_subtitle: "59,049 エンドストーン"
 	quest.55BF254B1831359B.quest_desc: ["&5Galadorian Drills&r は私たちがカートに取り付けることができる最高のドリルです。\n\nその素晴らしさゆえに、作るのはより困難になります...\nたくさんの&3Stabilized Metal&rが必要になるでしょう！レシピに従ってください！"]
 	quest.55BF254B1831359B.title: "&5Galadorian ドリル"
@@ -183,8 +173,6 @@
 	quest.5869E198DA416346.title: "2つの &5反物質ペレット"
 	quest.59EC02C1FBCF14EA.quest_desc: ["&5黒曜石ジェネレーター&rを&3エンダージェネレーター&rにアップグレードできます。\n\n&3エンダーパール&rや&3エンダーアイ&rを使用してエネルギーを生成できます！\n\nまたは&6&lスター&rを作るのもありですね。選択はあなた次第です"]
 	quest.59EC02C1FBCF14EA.title: "&3エンダージェネレーター"
-	quest.5A6831E0BD2F6AB5.quest_desc: ["たくさんの &8Dark Gems&r が必要になります！"]
-	quest.5A6831E0BD2F6AB5.title: "2つの &4Piercing Vengeance Focus"
 	quest.5A955C0F53AED3ED.quest_desc: ["&bChain of Souls&r はグラップリングフックと同じように機能します。\n\n右クリックすると &bChain&r が発射され、狙ったブロックに向かって引っ張られます。もう一度右クリックすると解除できます。射程距離は約90ブロックです。\n\n作成には &bTrapped Soul&r 1つ、&5Tenacious Vine&r 2つ、&9Tenacious Petal&r 1つが必要です。\n\n最初の2つは &5Tangled Hatred （タングルドの怨念） （タングルドの怨念）&r からドロップし、最後のものは &9Lunar Monstrocity&r を倒す必要があります"]
 	quest.5A955C0F53AED3ED.title: "&bChain of Souls"
 	quest.5B2FD54E425D5C9D.quest_desc: ["これは入手が難しいですね...&dVoid &cForge&r のために必要なものをすべて手に入れるには、2つのボスと1つのミニボスを倒す必要があります。\n\nまず、&4Mechanical Fusion Anvil&r が必要です。これを入手するには、&2&lオーバーワールド&r の地下にある &4Ancient Factory&r を訪れてください。\n\nそして、&4&lThe Harbringer&r に ネザースター を与えてパワーアップさせ、倒しましょう！&4&lThe Harbringer&r は &4Witherite&r をドロップし、これで &4Mechanical Fusion Anvil&r をクラフトできます。\n\n次に、&cInfernal Forge&r が必要です。これは &c&lNetherite Monstrosity&r からのドロップアイテムです。\n\n&c&lネザー&r に行き、&cSoul Blacksmith&r 構造物を見つけてください。そして、&c&lNetherite Monstrosity&r と戦って倒し、&cInfernal Forge&r を手に入れましょう！\n\n最後におそらく最も簡単なのは &dVoid Core&r です。ありがたいことに、これはボスからではなく、ミニボスからドロップします！\n\n&5&lエンド&r を訪れて &dRuined Citadel&r を見つけ、そこで &dEnder Golem&r を見つけることができます。これが &dVoid Core&r をドロップします。\n\nすべてを手に入れたら、&4Mechanical Fusion Anvil&r を使用して &cInfernal Forge&r と &dVoid Core&r を組み合わせ、&dVoid &cForge&r を作成しましょう。"]
@@ -250,8 +238,6 @@
 	quest.71581992E8E4C43E.title: "&3&8ウィザー&r のグリフ"
 	quest.7377C657CED885AC.quest_desc: ["&2&lMystical Agriculture&r は農業に関するMODですが、何を育てるのでしょうか？\n\nハチミツからスチール、ウィザースケルトンまで、ほぼすべてのものを育てることができます。\n\n&6&lATM Star&r を作るには、このMODで多くの農業を行う必要があります！"]
 	quest.7377C657CED885AC.title: "&2&lMystical Agriculture"
-	quest.73BE1EB3E69814E9.quest_desc: ["このレシピの最初で最も簡単な部分は &5Evil Sticks&r です。採掘で入手できる &8Dark Gems&r と、&cUndead Trees&r から得られる &cUndead Planks&r が必要です。\n\n次に、&5Empowered Inverted Potentia&r です。&7Inverted Potentia&r を作り、&aEnviromental Accumulator&r に入れて雷に打たれるのを待つだけなので、それほど難しくありません。\n\n最後の部分には大量の &aEmpty Promises&r が必要です。たくさんの注入作業が待っています。\n\n&4Blood&r は十分にありますか？そういえば、&5メイス&r にも &4Blood&r を満たす必要があります"]
-	quest.73BE1EB3E69814E9.title: "&5Mace of Destruction"
 	quest.73E2A53A088AD29A.quest_subtitle: "11個のピンク色の濡れたブロック"
 	quest.750B6316267CF574.quest_desc: ["巣箱が空で暗闇にある時、小さなミツバチの訪問者、スケルトンミツバチが現れるかもしれません。\n\nその新しい訪問者に&8ウィザーローズ&rを与えると、&8ウィザードミツバチ&rになります"]
 	quest.750B6316267CF574.title: "&8Withered Comb Block"
@@ -272,8 +258,6 @@
 	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
 	quest.7B140A034DF1291C.quest_desc: ["&7&lネクシウムエミッター&rを動かすには何かが必要で、それは&6メカニカルアーム&fまたは&6大型上級モーター&rのどちらかです！ \\n\\n両方とも動くので、どちらでも動作します！"]
 	quest.7B140A034DF1291C.title: "&6メカニカルアーム&fまたは&6大型上級モーター"
-	quest.7BC616DDB5933479.quest_desc: ["これは &5Blood Vial&r と通常の巻物の材料で作ることができます。\nレベル10と &6Legendary&r にアップグレードする必要があります"]
-	quest.7BC616DDB5933479.title: "&4Wither Skull 巻物"
 	quest.7D1A27CBF1508712.quest_desc: ["&3雪の女王&rは Glacier バイオーム内の&bオーロラパレス&rに住んでいます。\n\nGlacier バイオームに入るには Alpha Yeti を倒す必要があります。\n\n倒すと、トロフィーを含む大量の戦利品をドロップします！"]
 	quest.7D1A27CBF1508712.title: "&3雪の女王&eトロフィー"
 	quest.7D359283625C1869.quest_desc: ["&4&lCataclysm&r はボスを追加することに特化したアドベンチャー Mod です！そしてボスに関連するすべてのものも追加します！\n\n構造物は &2&lオーバーワールド&r、&4&lネザー&r、そして &5&lエンド&r のあらゆる場所で見つけることができます。\n\nその中には新しいモブ、ミニボス、そして非常に難しいボスがいます。これらをすべて倒して新しい武器、防具、アイテムを手に入れましょう！"]

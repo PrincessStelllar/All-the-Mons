@@ -86,7 +86,6 @@ ServerEvents.tags('item', allthemods => {
 
     // More books
     allthemods.add('minecraft:bookshelf_books', 'patchouli:guide_book')
-    allthemods.add('minecraft:bookshelf_books', 'evilcraft:origins_of_darkness')
     allthemods.add('minecraft:bookshelf_books', 'ae2:guide')
     allthemods.add('minecraft:bookshelf_books', 'powah:book')
     allthemods.add('minecraft:bookshelf_books', 'actuallyadditions:booklet')
@@ -484,21 +483,8 @@ ServerEvents.tags('block', allthemods => {
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {
-    // JustDireThings
-   allthemods.add('justdirethings:unstable_portal_fluid_viable', ["nullscape:crystal_peaks", "nullscape:shadowlands", "nullscape:void_barrens"]);
+  allthemods.add('justdirethings:unstable_portal_fluid_viable', ["nullscape:crystal_peaks", "nullscape:shadowlands", "nullscape:void_barrens"]);
 });
-
-ServerEvents.tags('mob_effect', allthemods => {
-  
-  allthemods.add('irons_spellbooks:cleanse_immune', [
-    "cataclysm:ghost_sickness"
-  ]);
-
-});
-
-// cataclysm:ghost_sickness
-
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-

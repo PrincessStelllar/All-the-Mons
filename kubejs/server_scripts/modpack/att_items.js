@@ -22,7 +22,7 @@ ServerEvents.recipes(allthemods => {
   C: Ingredient.of(['megacells:portable_item_cell_256m', 'modern_industrialization:blastproof_casing']),
   D: 'pneumaticcraft:aerial_interface',
   F: 'ironfurnaces:million_furnace', 
-  G: 'irons_spellbooks:lightning_upgrade_orb'
+  G: 'mega_showdown:zygarde_cube'
   }).id('allthemods:allthetweaks/improbable_probability_device')
 
   // Dimensional Seed Recipe
@@ -44,7 +44,7 @@ ServerEvents.recipes(allthemods => {
     B: 'industrialforegoing:wither_builder',
     C: 'deeperdarker:heart_of_the_deep',
     D: 'generatorgalore:netherstar_generator_64x',
-    E: 'irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:"irons_spellbooks:wither_skull",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]',
+    E: 'occultism:witherite_dust',
     F: 'mysticalagriculture:witherproof_bricks',
     G: 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]',
     H: 'ars_nouveau:glyph_wither',
@@ -61,7 +61,7 @@ ServerEvents.recipes(allthemods => {
   F: 'forbidden_arcanus:smelter_prism',
 	G: 'mysticalagriculture:awakened_supremium_ingot_block',
 	H: 'generatorgalore:magmatic_generator_64x',
-  I: 'evilcraft:dark_tank[cyclopscore:fluid_content={amount:16000,id:"justdirethings:refined_t4_fluid_source"}]'
+  I: 'oritech:solid_biofuel'
   }).id('allthemods:allthetweaks/philosophers_fuel')
 
  // Nexium Emitter
@@ -76,16 +76,14 @@ ServerEvents.recipes(allthemods => {
 }).id('allthemods:allthetweaks/nexium_emitter')
 
 // Oblivion Shard
-allthemods.shaped('allthetweaks:oblivion_shard', ['DAB', 'ECF', 'BGD'], {
-  A: 'forbidden_arcanus:eternal_stella',
-  C: 'evilcraft:mace_of_destruction[cyclopscore:fluid_content={amount:4000,id:"evilcraft:blood"}]',
-  B: 'evilcraft:piercing_vengeance_focus',
-  D: 'stevescarts:module_galgadorian_drill',
-  E: 'cataclysm:meat_shredder',
-  G: 'twilightforest:snow_queen_trophy',
+allthemods.shaped('allthetweaks:oblivion_shard', [' AB', 'DCF', 'BE '], {
+  A: 'stevescarts:module_galgadorian_drill',
+  B: 'forbidden_arcanus:eternal_stella',
+  C: 'cataclysm:gauntlet_of_maelstrom',
+  D: 'cataclysm:meat_shredder',
+  E: 'twilightforest:snow_queen_trophy',
   F: 'cataclysm:void_forge'
 }).id('allthemods:allthetweaks/oblivion_shard')
-
 
 // Pulsating Black Hole
 allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', 'GHI'], {
@@ -97,7 +95,7 @@ allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', 'GHI'], {
   F: 'occultism:stable_wormhole',
   G: 'rootsclassic:crystal_staff',
   H: 'industrialforegoing:mycelial_explosive',
-  I: 'evilcraft:lightning_bomb'
+  I: 'eternal_starlight:tear_bomb'
 }).id('allthemods:pressure/allthetweaks/pulsating_black_hole')
 
   // Creative Essence

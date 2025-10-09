@@ -9,8 +9,6 @@
 	quest.0ABB2264CBB82470.title: "&5Arcanist Kıyafetleri"
 	quest.0E2515424291BB59.quest_desc: ["&d&lArs&r Zırhlarının, &bElmas&r versiyonu!"]
 	quest.0E2515424291BB59.title: "&5Battlemages Kıyafetleri"
-	quest.0ED11FCF6298CE85.quest_desc: ["&e&lIron's Spells&r &4Kan Zırhı&r!"]
-	quest.0ED11FCF6298CE85.title: "&4Cultist Kıyafetleri"
 	quest.0F1D6F4729CC38F3.quest_subtitle: "Nether Kalesi"
 	quest.0F1D6F4729CC38F3.title: "Kaburga Zırh Süslemesi"
 	quest.10AA2B20D86747F7.quest_desc: ["&bFerricore&r, Demir ile aynı özelliklere sahip. Ancak Demir'in sahip olmayı dilediği başka yeteneklere de sahip! \\n\\nNeler yapabilecekleri hakkında daha fazla bilgi edinmek için Eşya açıklamalarına göz at!"]
@@ -43,20 +41,12 @@
 	quest.1EBF234015B26F15.quest_desc: ["Zırh, &a&lRoots Classic&r tarafından eklendi. Ancak elde etmek için bir Ritüel'e ihtiyacın olacak!"]
 	quest.1EBF234015B26F15.title: "&2Sylvan Ekipmanları"
 	quest.211FD55DEB635A98.title: "&6Bakır&r"
-	quest.215C9C2B2240FAA1.quest_desc: ["&e&lIron's Spells&r &5Elektrik Zırhı&r!"]
-	quest.215C9C2B2240FAA1.title: "&5Electromancer Kıyafetleri"
 	quest.21B96130EA516B82.quest_desc: ["\"Ben Basınçlı Demir Adamım!\" \\n\\nBasınçlı Hava ile kullanılabilir ve yükseltilebilir!"]
 	quest.21B96130EA516B82.title: "&8Pneumatic Zırhı"
 	quest.2296CE4418AE62D4.quest_desc: ["&6AllTheModium Zırhı&r ama ayrıyeten &d&lArs Nouveau&r Büyülerine güçlendirmeler ekliyor!"]
 	quest.2296CE4418AE62D4.title: "&6AllTheModium Arcanist Ekipmanları"
 	quest.243008D4DCD789D0.quest_subtitle: "Orman Tapınakları"
 	quest.243008D4DCD789D0.title: "Yabani Zırh Süslemesi"
-	quest.24A7B2902E7430A1.quest_desc: ["&7Deri Zırh&r, sadece üzerine biraz Arcane serpiştirilmiş. \\n\\nBüyüler için Mana'ya az miktarda destek verir."]
-	quest.24A7B2902E7430A1.title: "&9Wandering Magician Ekipmanları"
-	quest.24FDA15A7ACDF021.quest_desc: ["&5Unobtainium Zırhı&r ama ayrıyeten &e&lIron's Spells&r Büyülerine güçlendirmeler ekliyor!"]
-	quest.24FDA15A7ACDF021.title: "&5Unobtainium Büyücü Kıyafetleri"
-	quest.260C7F3C1F51221D.quest_desc: ["&e&lIron's Spells&r &aÇağırma Zırhı&r!"]
-	quest.260C7F3C1F51221D.title: "&aArchevoker Kıyafetleri"
 	quest.28408BFAA54E4FC6.quest_desc: ["&7Deri Zırh&r elde edeceğin en kötü Zırh takımıdır. \\n\\nBunun nedeni çoğunlukla &c&lMojang&r'ın onu diğerlerinden önce elde etmeni beklemesidir. \\n\\nGerçi neredeyse hiç yapmıyorum çünkü o kadar çok &8İ&fn&8e&fk&r bulmakta zorlanıyorum, üzgünüm &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.title: "&7Deri Zırh"
 	quest.2A4FE9644F3B9DC1.quest_desc: ["&2Prudentium&r'un yükseltilmiş versiyonu."]
@@ -93,8 +83,6 @@
 	quest.3512F47DADC07EAE.title: "&5Unobtainium Arcanist Ekipmanları"
 	quest.361C9D90617E6D38.quest_subtitle: "Gatekeeper ile takas edildi"
 	quest.361C9D90617E6D38.title: "Bekçi Zırh Süslemesi"
-	quest.361EF9E4973E3522.quest_desc: ["&e&lIron's Spells&r &dEnder Zırhı&r!"]
-	quest.361EF9E4973E3522.title: "&dShadow-Walker Kıyafetleri"
 	quest.3685B52446DEC809.title: "&eAltın&r"
 	quest.39796D8EE440F318.quest_subtitle: "Çöl Piramitleri"
 	quest.39796D8EE440F318.title: "Kumul Zırh Süslemesi"
@@ -104,8 +92,6 @@
 	quest.3ABE7074E500494D.title: "&7Çelik Zırh"
 	quest.3AE0198177A8E91B.quest_subtitle: "Gemi Enkazları ve Gömülü Hazineler"
 	quest.3AE0198177A8E91B.title: "Kıyı Zırh Süslemesi"
-	quest.3D72E3E53E7306FA.quest_desc: ["&e&lIron's Spells&r &cAteş Zırhı&r!"]
-	quest.3D72E3E53E7306FA.title: "&cPyromancer Kıyafetleri"
 	quest.3EA3A6414AB8A39C.quest_subtitle: "Sınama Odaları"
 	quest.3EA3A6414AB8A39C.title: "Akış Zırh Süslemesi"
 	quest.3F0CD2C03CD7D730.quest_subtitle: "Starlight Golem'den düşer"
@@ -119,12 +105,8 @@
 	quest.497D222F74A52DF5.title: "Demir Zırh"
 	quest.4A9CB8778D37049F.quest_desc: ["Uyanış Ritüeli kullanarak &4Supremium Zırh&r üzerinde başka bir Uyanış Ritüeli yapmak için Eşyaları elde etmen gerekecek. \\n\\nBence buna değer; &2&lMystical&r'dan elde edebileceğin en iyi Zırh!"]
 	quest.4A9CB8778D37049F.title: "&6Uyandırılmış Supremium Zırh"
-	quest.4B65100885AE762D.quest_desc: ["&e&lIron's Spells&r &6Kutsal Zırh&r!"]
-	quest.4B65100885AE762D.title: "&6Priest Kıyafetleri"
 	quest.4B9C54DA5CB6D5C9.quest_subtitle: "Patika Kalıntıları"
 	quest.4B9C54DA5CB6D5C9.title: "Ev Sahibi Zırh Süslemesi"
-	quest.4DD66E31859EA593.quest_desc: ["&3Vibranium Zırhı&r ama ayrıyeten &e&lIron's Spells&r Büyülerine güçlendirmeler ekliyor!"]
-	quest.4DD66E31859EA593.title: "&3Vibranium Büyücü Kıyafetleri"
 	quest.4DF683461225690F.title: "&7Demir&r"
 	quest.50429F57480F44DA.quest_desc: ["&cThermal Springstone&r, &5&lEternal Starlight&r'da nadiren bulunan sıcak göletlerde ortaya çıkar!"]
 	quest.50429F57480F44DA.title: "&cThermal Springstone Zırhı"
@@ -138,30 +120,20 @@
 	quest.52AFABA08674B6A8.title: "&3Vibranium Arcanist Ekipmanları"
 	quest.52B61FB01D7C12A4.quest_desc: ["&aInferium&r'un yükseltilmiş versiyonu."]
 	quest.52B61FB01D7C12A4.title: "&2Prudentium Zırh"
-	quest.5391385A75535EC8.quest_desc: ["&e&lIron's Spells&r &2Doğa Zırhı&r!"]
-	quest.5391385A75535EC8.title: "&2Plagued Kıyafetleri"
 	quest.5865951E4F81C91F.quest_desc: ["&7Osmiyum&r + &6Işık Taşı&r = &eİşlenmiş Işık Taşı&r!"]
 	quest.5865951E4F81C91F.title: "&eİşlenmiş Işık Taşı Zırh"
-	quest.5BA84F6282D9CAF1.quest_desc: ["&6AllTheModium Zırhı&r ama ayrıyeten &e&lIron's Spells&r Büyülerine güçlendirmeler ekliyor!"]
-	quest.5BA84F6282D9CAF1.title: "&6AllTheModium Büyücü Kıyafetleri"
 	quest.5C83D5CDD980FD9A.quest_subtitle: "Bastion Kalıntıları"
 	quest.5C83D5CDD980FD9A.title: "Domuz Burnu Zırh Süslemesi"
 	quest.5DDC15AAFD2CAF47.quest_desc: ["&bElmas Zırh&r, &l&2Vanilla&r zırh zincirinin bir sonraki halkası. Bu aynı zamanda genellikle onu Büyülemeye başladığımız yer! \\n\\nKoruma ve çeşitli biçimlerini tavsiye ederim. Modlu olan konusunda seçici olmak zorunda değiliz!"]
 	quest.5DDC15AAFD2CAF47.title: "&bElmas Zırh"
 	quest.62161BDE9AAAA4BF.quest_subtitle: "Patika Kalıntıları"
 	quest.62161BDE9AAAA4BF.title: "Yolbulucu Zırh Süslemesi"
-	quest.654F5C84114A31A1.quest_desc: ["Çok basit ve ucuz &e&lIron's Spells&r Zırhı. Oyun başlangıcı için faydalı!"]
-	quest.654F5C84114A31A1.title: "&4Scarecrow Kıyafetleri"
 	quest.65A529C8238E89F1.quest_desc: ["&5&lMekanism&r sayesinde artık &9Lapis Lazuli&r'den Zırh yapabiliyoruz! \\n\\nYine de biraz kötü..."]
 	quest.65A529C8238E89F1.title: "&9Lapis Lazuli Zırh"
 	quest.65E733AACBE62EDB.quest_subtitle: "Antik Şehirler"
 	quest.65E733AACBE62EDB.title: "Koğuş Zırh Süslemesi"
-	quest.66B5A8D259E12BF5.quest_desc: ["Bekle, yani bana &cNetherit&r ile aynı özelliklere sahip olduğunu mu söylüyorsun? Ayrıca Büyü Güçlendirmeleri mi var? Ve üretmek için Demirci Şablonlarına ihtiyaç duymuyor mu? \\n\\nNeden biri, normal &cNetherit&r istesin ki!"]
-	quest.66B5A8D259E12BF5.title: "&4Netherite Battlemage Kıyafetleri"
 	quest.66C21934DAFFAC7F.quest_subtitle: "Yaşlı Gardiyanlardan düşer"
 	quest.66C21934DAFFAC7F.title: "Gelgit Zırh Süslemesi"
-	quest.686EB173C94301C0.quest_desc: ["&e&lIron's Spells&r &bBuz Zırhı&r!"]
-	quest.686EB173C94301C0.title: "&bCryomancer Kıyafetleri"
 	quest.68DABFFB6B3E1A57.title: "Göz Zırh Süslemesi"
 	quest.6B671CB07D046BEC.title: "&bElmas&r"
 	quest.6C5F9D0D447EFB9C.quest_desc: ["Elimizdeki tek şeyin &l&2Vanilla&r olduğunu mu düşünüyorsun? \\n\\n&6AllTheModium Zırhı&r, daha fazla Zırh Puanı ve Zırh Sertliğine sahiptir. Ayrıca Büyüye karşı daha fazla Koruma sağlar ve &6&lAllTheModium&r Görev Sayfasında okuyabileceğin diğer güçlendirmelere sahiptir! \\n\\nBu arada onu üretmek için &cNetherit&r'e ihtiyacın olacak."]

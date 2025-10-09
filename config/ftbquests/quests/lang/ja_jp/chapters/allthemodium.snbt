@@ -56,11 +56,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.24934231538B6492.title: "Ancient Pyramid"
-	quest.272CF280BAE6870E.quest_desc: [
-		"ステータスは通常の &6オールザモディウム防具&r に近いですが、これは Iron Spell の魔法により多くのパワーを与えます。\n\nさらに独自の最大マナとマナ回復力もあります！"
-		"{image:atm:textures/questpics/allthemodium/all_armor_allmage.png width:100 height:175 align:center}"
-	]
-	quest.272CF280BAE6870E.title: "&6オールザモディウム メイジ アーマー"
 	quest.2C4299D33D419AA0.quest_desc: ["&2&lオーバーワールド&rから&7&lマイニングディメンション&rに行くために Teleport Pad を設置してください"]
 	quest.2C4299D33D419AA0.title: "&2&lオーバーワールド"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3ヴィブラニウム&r と &5アンオブタニウム&r の組み合わせ！"]
@@ -69,8 +64,6 @@
 	quest.2D8026E10FBA7A72.title: "&6オールザモディウム &5合金 &3ツルハシ"
 	quest.2EDE91023F7924FB.quest_desc: ["&d&lジ・エンド&r で Teleport Pad を設置して &5&lThe Beyond&r に行きましょう"]
 	quest.2EDE91023F7924FB.title: "&d&lジ・エンド"
-	quest.39B6D9FD21419776.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_vibmage.png width:100 height:175 align:center}"]
-	quest.39B6D9FD21419776.title: "&3ヴィブラニウム メイジアーマー"
 	quest.3F8D515D7B81B0E3.quest_desc: [
 		"また別の鍛冶型？！\n\n少なくとも考古学は必要ありません！\n\n&b&lジ・アザー&rのダンジョン構造物で見つかるトライアルスポナーを倒して入手する必要があります。具体的には図書館の部屋です！\n"
 		"{image:atm:textures/questpics/allthemodium/all_library.png width:200 height:100 align:center}"
@@ -94,17 +87,11 @@
 	]
 	quest.4E737C490DCC5D6C.title: "&5アンオブタニウムの防具"
 	quest.552F0B9B00F4F914.quest_desc: ["これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\n\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\n\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"]
-	quest.558FF21A6BCFE6E8.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unomage.png width:100 height:175 align:center}"]
-	quest.558FF21A6BCFE6E8.title: "&5アンオブタニウム メイジアーマー"
-	quest.5A26738AC904DC39.quest_desc: ["13個の呪文スロット！"]
-	quest.5A26738AC904DC39.title: "&6オールザモディウム 呪文書"
 	quest.5AAF6CA41209B365.title: "&3ヴィブラニウム ツール"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["はい、道を作ることができます。心配いりません！"]
 	quest.5B46B5BF4ADB2BE9.title: "&6オールザモディウム &5合金 &3シャベル"
 	quest.5BA986D7928BF09F.quest_desc: ["Piglichはははははは&6&lAllthemodium&rによって追加されたボスです。\n\n1000ハートを持ち、現在は攻撃を持っていませんが、攻撃が実装されたときは壊滅的なものになることは間違いありません！\n\n倒すとハートをドロップし、これは合金やATMスターに必要になります！\n\n(HNNやEnderIOを使用した農場化の方法を検討してください！)"]
 	quest.5BA986D7928BF09F.title: "Piglich ボス"
-	quest.5FA68047A3C05E80.quest_desc: ["15個の呪文スロット！"]
-	quest.5FA68047A3C05E80.title: "&5アンオブタニウム 呪文書"
 	quest.66039B738CF0718A.quest_desc: ["&3ヴィブラニウム&r と &6オールザモディウム&r の組み合わせ！"]
 	quest.66039B738CF0718A.title: "&3ヴィブラニウム&r - &6オールザモディウム&r 合金インゴット"
 	quest.68E6AE1B9EBCEFFF.title: "&3ヴィブラニウム メイス"
@@ -127,8 +114,6 @@
 		"{ \"text\": \"ARS NOUVEAU クエストライン\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6AEDA2F9BEB57759\" } }"
 	]
 	quest.766EEB89C6DF3575.quest_desc: ["エターナルステラは、鍛冶台でアイテムと組み合わせてアイテムを不壊にするか、合金ツールを作るために使用できます！\\n\\nまず、十分な材料を持つティア3の鍛冶炉が必要です。\\n\\n次に、3つの石化オーブが必要です。これを得るには、ブラックホールにアイテムを与える必要があります。\\n\\nさらに、採掘する必要があるステラライトピースと、同様に採掘する必要がある&6オールザモディウムインゴット&rも必要です。"]
-	quest.77AD61FCA9BC9AFB.quest_desc: ["14個のスペルスロット！"]
-	quest.77AD61FCA9BC9AFB.title: "&3ヴィブラニウム Spell Book"
 	quest.795A860668072830.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_vibarcane.png width:100 height:175 align:center}"]
 	quest.795A860668072830.title: "&3ヴィブラニウム アーケニスト アーマー"
 	quest.7B3613C01F0B1373.quest_desc: [
@@ -144,13 +129,10 @@
 	task.00DDA48F9632A5C1.title: "オーバーワールドに訪れる"
 	task.03ACF4486D706DEE.title: "ヴィブラニウム 防具"
 	task.05256FE880D981D5.title: "ヴィブラニウム ツール"
-	task.0BFAF56214875C90.title: "オールザモディウム メイジ防具"
-	task.0E7E336483AFA69C.title: "ヴィブラニウム メイジ防具"
 	task.0F9FCFCEE795FD41.title: "The Other を訪れる"
 	task.194C02E800F974D6.title: "ヴィブラニウム アルカニストアーマー"
 	task.298EA976A7627731.title: "古代都市を見つける"
 	task.2A7CD3F14D3DC7C5.title: "アンオブタニウム アーマー"
-	task.2E3BC536B8A9FD91.title: "アンオブタニウム メイジアーマー"
 	task.32447C5882610D6C.title: "エンドを訪れる"
 	task.40C43560F454AD82.title: "オールザモディウム 道具"
 	task.46B42667B6BC1A3C.title: "ネザーを訪れる"
