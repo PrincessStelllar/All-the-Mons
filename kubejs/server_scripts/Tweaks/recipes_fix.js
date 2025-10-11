@@ -7,7 +7,6 @@ KubeJSTweaks.beforeRecipes(event => {
 
   // Upgrade from forge to neoforge conditions
   event.fixCondition([
-    "irons_spellbooks:patchouli_book",
     "apotheosis:book",
     "treetap:id_menril",
     "treetap:id_menril_tfc",

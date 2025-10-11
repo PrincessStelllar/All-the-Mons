@@ -1,6 +1,4 @@
 {
-	quest.00AC7CC291A3E590.quest_desc: ["Você provavelmente (definitivamente) viu estruturas pelo mundo com o que parecem ser Sinalizadores saindo delas. Elas são feitas de pedregulho, têm 4 pernas de suporte, meio altas no ar!\\n\\nEspero que você saiba, mas elas são chamadas de &8Templos Sombrios&r e têm um &aEnviromental Accumulator&r que nós precisamos.\\n\\nVocê terá que esperar por uma tempestade para encher seu Recipiente de Clima. Então, você pode fazer sua &3Bomba de Raio&r!"]
-	quest.00AC7CC291A3E590.title: "&3Bomba de Raio"
 	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus&r é sobre usar o Arcano para fazer rituais com a Forja para se tornar mais forte!\\n\\nOu o que a maioria conhece, Eternal Stella. Há mais no Mod, você sabe!"]
 	quest.022C38096F79EF07.title: "&6&lForbidden \\& Arcanus"
 	quest.03564837ECB5CC79.quest_desc: ["Outro Ritual, claro, este sendo o &2Encantamento de Ihagan&r. (A propósito, para sacrificar um Cavalo, você precisa dele por perto enquanto faz o ritual)\\n\\nUma vez feito, você receberá um Ovo de Invocação para um &2Familiar Dragão&r. Estes podem ser usados na criação para obter a &6&lEstrela ATM&r, ou você pode invocar o &2Familiar&r.\\n\\nEste irá segui-lo e pode ser acariciado usando Shift + Clique Direito nele."]
@@ -96,8 +94,6 @@
 	quest.31B0267C47DB9D98.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
 	quest.3331EBE1BB4BF64D.quest_desc: ["Reatores Nucleares podem ser bem assustadores para alguns, especialmente com os efeitos perigosos deles! \\n\\nFelizmente, a única coisa assustadora sobre &a&lExtreme Reactors&r é o quão confuso pode ser seguir as receitas! \\n\\nNão a parte da explosão, eles não fazem isso."]
 	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
-	quest.340CDF4357E22A43.quest_desc: ["Iron nos abençoou com um Mod de Exploração e Magia muito divertido! Lutar com e por Magia! Nada é mais legal que isso! \\n\\nTem uma Página de Missões, de nada. "]
-	quest.340CDF4357E22A43.title: "&e&lIron's Spells and Spellbooks"
 	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Blocos Verde Claro Molhados"
 	quest.36DF0D83EBC2B6A9.quest_desc: [""]
 	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oA falta de sabedoria é coisa do passado com isto."
@@ -120,8 +116,6 @@
 	quest.3C7C9EE57AD00A76.title: "&cMicromísseis"
 	quest.3CFD27F273B97FDD.quest_desc: ["Os mods &5&lApothic&r têm vários núcleos, cada um alterando diferentes partes do &2&lMinecraft&r.\\n\\nOs mods de Atributos e Encantamentos são os que você precisará seguir para obter a &6&lEstrela ATM&r!"]
 	quest.3CFD27F273B97FDD.title: "Mods &5&lApothic&r"
-	quest.3F5B5D6B788E0A73.quest_desc: ["Sangue, carne, rituais, se é do mal, pode apostar que é do &4&lEvilCraft&r! "]
-	quest.3F5B5D6B788E0A73.title: "&4&lEvilCraft"
 	quest.3F8AEBB994716318.quest_desc: ["&8Wither&r é um Efeito na &l&2Vanilla&r, então é claro que precisamos da nossa própria maneira de usá-lo e abusar dele! \\n\\nVocê pode preparar uma Poção Estranha com uma &8Caveira de Esqueleto Wither&r para criá-lo. Então você pode criar Flechas com ele!"]
 	quest.4195800B4D7631E2.quest_desc: ["Através do ritual da &6Compulsão Espectral de Eziveus&r, podemos combinar uma &7Estrutura de Buraco de Minhoca&r, 2 Quartzos e uma &3Enderpearl&r para obter nosso Buraco de Minhoca!"]
 	quest.4195800B4D7631E2.title: "&6Buraco de Minhoca Estável"
@@ -129,8 +123,6 @@
 	quest.42AF4EBDA5D6CC36.title: "&2Invólucro à Prova de Explosão"
 	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r não é um Mod de Armazenamento, é &lO&r Mod de Armazenamento. \\n\\nEu pessoalmente não sei muito sobre o Mod, mas a página de Missões deve ajudá-lo a aprendê-lo!"]
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
-	quest.45D10F53CA18B8EE.quest_desc: ["Infelizmente, você não pode obter Runas de &5Relâmpago&r de um drop de Mob, em vez disso, precisaremos criá-las com &5Garrafa de Relâmpago&r. \\n\\nObtemos &5Garrafa de Relâmpago&r usando uma Garrafa Vazia em um Creeper Carregado. \\n\\nPerigoso, eu sei..."]
-	quest.45D10F53CA18B8EE.title: "Orbe de Aprimoramento de &5Relâmpago&r"
 	quest.486B5A605D79EA10.quest_desc: [""]
 	quest.486B5A605D79EA10.title: "&cMódulo Manhattan&r"
 	quest.49FDD8666356A3E7.quest_desc: ["Podemos usar um ou ambos, &2Invólucro à Prova de Explosão&r ou Células de Item Portáteis de 256M para Criar o &3&lDispositivo de Probabilidade Improvável&r. \\n\\nEspere, eu disse um ou ambos? \\n\\nSim, eu disse! Podemos usar 2 &2Invólucros à Prova de Explosão&r ou 2 Células de Item Portáteis de 256M ou um de cada."]
@@ -155,8 +147,6 @@
 	quest.54B1A876E9F6707A.quest_desc: [""]
 	quest.54B1A876E9F6707A.quest_subtitle: "&oPoder e destruição como nenhum outro!"
 	quest.54B1A876E9F6707A.title: "&5&lFragmento do Oblívio"
-	quest.54BAF833344F0AAE.quest_desc: ["Esta é em 2 partes! Primeiro, você precisará de um &8Tanque Sombrio&r. Receita simples, precisando apenas de &8Gemas Sombrias&r, Ferro e Vidro. \\n\\nEm seguida, você precisará de &7Combustível de Brasa do Eclipse&r. Isso não é tão simples... \\n\\nPara obtê-lo, você pode começar dropando uma &7Brasa do Eclipse&r em &3Combustível Líquido de Chama do Vazio&r para torná-la &7Brasa do Eclipse Não Refinada&r. Então, você precisará que a &9Gosma de Pulso Sombrio&r se espalhe para ela para fazer o &7Combustível de Brasa do Eclipse&r. \\n\\nA propósito, você precisará do equivalente a 16 Baldes!"]
-	quest.54BAF833344F0AAE.title: "&8Tanque Sombrio&r cheio de &7Combustível de Brasa do Eclipse"
 	quest.554F47A0AF7506EC.quest_subtitle: "59.049 Pedras do End"
 	quest.55BF254B1831359B.quest_desc: ["As &5Brocas Galadorianas&r são as melhores Brocas que podemos anexar aos nossos Carrinhos. \\n\\nPor causa de sua grandeza, isso também significa que criá-las será mais difícil... \\nDigamos apenas que você precisará de muito &3Metal Estabilizado&r! Siga as receitas!"]
 	quest.55BF254B1831359B.title: "&5Brocas Galadorianas"
@@ -171,8 +161,6 @@
 	quest.5869E198DA416346.title: "2 &5Pastilhas de Antimatéria"
 	quest.59EC02C1FBCF14EA.quest_desc: ["Você pode atualizar seu &5Gerador de Obsidiana&r para um &3Gerador do End&r. \\n\\nEntão, ele pode usar &3Pérolas do End&r ou &3Olhos do End&r para gerar Energia! \\n\\nOu fazer a &6&lEstrela&r, sua escolha."]
 	quest.59EC02C1FBCF14EA.title: "&3Gerador do End"
-	quest.5A6831E0BD2F6AB5.quest_desc: ["Você vai precisar de muitas &8Gemas Sombrias&r!"]
-	quest.5A6831E0BD2F6AB5.title: "2 &4Focos de Vingança Perfurante"
 	quest.5A955C0F53AED3ED.quest_desc: ["A &bCorrente de Almas&r funciona de forma semelhante a um Gancho de Arpão. \\n\\nVocê pode Clicar com o Botão Direito para que ela envie uma &bCorrente&r que o arrastará em direção ao Bloco em que você atirou. Você pode Clicar com o Botão Direito novamente para soltá-la. Além disso, tem um Alcance de 90 Blocos, mais ou menos alguns. \\n\\nPara fazê-la, você precisará de uma &bAlma Aprisionada&r, 2 &5Cipós Tenazes&r e uma &9Pétala Tenaz&r. \\n\\nOs dois primeiros você pode obter como drops de um &5Ódio Emaranhado&r, enquanto o último você precisará matar uma &9Monstruosidade Lunar&r."]
 	quest.5A955C0F53AED3ED.title: "&bCorrente de Almas"
 	quest.5B2FD54E425D5C9D.quest_desc: ["Agora este é difícil de conseguir... precisaremos matar 2 Chefes e um Minichefe para obter tudo para a &dForja do &cVazio&r. \\n\\nPrimeiro, precisaremos de uma &4Bigorna de Fusão Mecânica&r. Para obtê-la, visite a &4Fábrica Ancestral&r que fica sob o &2&lMundo Superior&r. \\n\\nEntão, alimente &4&lO Mensageiro&r com uma Estrela do Nether para fortalecê-lo e matá-lo! &4&lO Mensageiro&r dropará &4Witherite&r, que pode ser usada para Criar a &4Bigorna de Fusão Mecânica&r. \\n\\nEm seguida, precisaremos da &cForja Infernal&r. Isso é um Drop da &c&lMonstruosidade de Netherita&r. \\n\\nVá para o &c&lNether&r para encontrar a estrutura do &cFerreiro de Almas&r. Então, lute e mate a &c&lMonstruosidade de Netherita&r para obter sua &cForja Infernal&r! \\n\\nPor último e provavelmente o mais fácil é o &dNúcleo do Vazio&r. Felizmente, não é dropado por um Chefe, mas sim por um Minichefe! \\n\\nVisite o &5&lFim&r para encontrar uma &dCidadela em Ruínas&r, dentro dela você encontrará o &dGolem do End&r. Este nos dropará nosso &dNúcleo do Vazio&r. \\n\\nQuando tiver tudo, use a &4Bigorna de Fusão Mecânica&r para combinar a &cForja Infernal&r e o &dNúcleo do Vazio&r para criar a &dForja do &cVazio&r."]
@@ -233,8 +221,6 @@
 	quest.71581992E8E4C43E.title: "&3Glifo de &8Wither"
 	quest.7377C657CED885AC.quest_desc: ["&2&lMystical Agriculture&r é um mod sobre agricultura, mas o que você está cultivando?\\n\\nPraticamente qualquer coisa, de Mel a Aço e Esqueletos Wither.\\n\\nVocê precisará fazer muita agricultura com este mod para fazer a &6&lEstrela ATM&r!"]
 	quest.7377C657CED885AC.title: "&2&lMystical Agriculture"
-	quest.73BE1EB3E69814E9.quest_desc: ["A primeira e mais fácil parte desta receita são os &5Evil Sticks&r. Só precisa de &8Dark Gems&r, que você Minera, e &cUndead Planks&r que você obtém de &cUndead Trees&r. \\n\\nEm seguida, vem a &5Empowered Inverted Potentia&r. Não é tão difícil de fazer, simplesmente crie uma &7Inverted Potentia&r e depois mantenha-a em um &aEnviromental Accumulator&r e faça com que seja atingida por um Raio! \\n\\nA última parte tem uma longa linha de &aPromessas Vazias&r; você estará infundindo um monte de coisas. \\n\\nEspero que você tenha bastante &4Sangue&r! Falando no diabo, você também precisará encher a &5Maça&r com &4Sangue&r."]
-	quest.73BE1EB3E69814E9.title: "&5Maça da Destruição"
 	quest.73E2A53A088AD29A.quest_subtitle: "11 Blocos Rosas Molhados"
 	quest.750B6316267CF574.quest_desc: ["Quando suas Colmeias estiverem vagas e no escuro, você pode encontrar uma pequena abelha visitante, a Abelha Esquelética. \\n\\nVocê pode então alimentar sua nova visitante com uma &8Rosa de Wither&r para torná-la uma &8Abelha Withered&r."]
 	quest.750B6316267CF574.title: "&8Bloco de Favo Withered"
@@ -255,8 +241,6 @@
 	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
 	quest.7B140A034DF1291C.quest_desc: ["O &7&lEmissor de Nexium&r precisa de algo para movê-lo, que pode ser tanto o &6Braço Mecânico&f quanto o &6Motor Avançado Grande&r! \\n\\nAmbos se movem, então qualquer um funciona!"]
 	quest.7B140A034DF1291C.title: "&6Braço Mecânico&f ou &6Motor Avançado Grande"
-	quest.7BC616DDB5933479.quest_desc: ["Este pode ser criado com um &5Frasco de Sangue&r e ingredientes normais para Pergaminhos. \\nVocê precisará garantir que ele seja Nível 10 e &6Lendário&r, para o qual você pode atualizá-lo."]
-	quest.7BC616DDB5933479.title: "&4Pergaminho de Caveira de Wither"
 	quest.7D1A27CBF1508712.quest_desc: ["A &3Rainha da Neve&r vive no &bPalácio da Aurora&r dentro do Bioma Glacial. \\n\\nVocê precisará matar o Yeti Alfa para entrar no Bioma Glacial. \\n\\nUma vez usurpada, ela dropará uma tonelada de loot, Troféu incluído!"]
 	quest.7D1A27CBF1508712.title: "&3Troféu da Rainha da Neve &e"
 	quest.7D359283625C1869.quest_desc: ["&4&lCataclysm&r é um Mod de aventura que se concentra em adicionar novos Chefes! E tudo que vem deles e ao redor deles! \\n\\nVocê encontrará as Estruturas por todo o &2&lMundo Superior&r, &4&lO Nether&r e &5&lO End&r. \\n\\nDentro haverá novos Mobs, Minichefes e Chefes muito difíceis. Você pode matá-los todos para obter novas Armas, Armaduras e Itens!"]

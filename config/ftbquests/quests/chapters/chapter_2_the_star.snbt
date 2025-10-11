@@ -177,28 +177,12 @@
 			y: 10.5d
 		}
 		{
-			height: 2.0d
-			image: "atm:textures/questpics/iron_spells/spells_anvil.png"
-			rotation: 0.0d
-			width: 1.9232409381663114d
-			x: -5.5d
-			y: 14.0d
-		}
-		{
 			height: 5.0d
 			image: "immersiveengineering:textures/gui/workbench.png"
 			rotation: 0.0d
 			width: 5.0d
 			x: 11.0d
 			y: 17.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/iron_spells/spells_scroll.png"
-			rotation: 0.0d
-			width: 2.3376623376623376d
-			x: -1.25d
-			y: 11.642857142857139d
 		}
 		{
 			height: 2.0d
@@ -1413,14 +1397,10 @@
 					id: "2A3E7F685CA9AF65"
 					item: {
 						components: {
-							"cyclopscore:capacity": 16000
-							"cyclopscore:fluid_content": {
-								amount: 16000
-								id: "minecraft:lava"
-							}
+							"ftbquests:missing_item": "evilcraft:dark_tank"
 						}
 						count: 1
-						id: "evilcraft:dark_tank"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -3510,7 +3490,7 @@
 					type: "checkmark"
 				}
 			]
-			x: 2.0d
+			x: 0.0d
 			y: 13.5d
 		}
 		{

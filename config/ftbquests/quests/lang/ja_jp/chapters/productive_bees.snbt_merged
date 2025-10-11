@@ -16,7 +16,6 @@
 	quest.00FD36C207845895.quest_subtitle: "&9黒曜石のネストが必要"
 	quest.00FD36C207845895.title: "ドラコニック ミツバチ"
 	quest.010A970FC91BD617.quest_subtitle: "合金製錬炉で作成"
-	quest.019CC48531E7759B.quest_subtitle: "ドラゴンスチール炉で作成"
 	quest.01F7F3589EBD8872.quest_subtitle: "シュルームミツバチにブラウンマッシュルームを与える！"
 	quest.01F7F3589EBD8872.title: "ブラウンシュルームミツバチ"
 	quest.027FD9135DEC4949.quest_subtitle: "ネザーに設置され、ガストの涙が与えられた場合、ゴーストリーミツバチを引き寄せます"
@@ -154,7 +153,6 @@
 	quest.1A0672C7509271B3.quest_subtitle: "フッ化物をダイアモンドミツバチに与える"
 	quest.1A4FAE5705B53753.quest_subtitle: "エンチャント装置でクラフト"
 	quest.1ACB3EDBCB732514.quest_subtitle: "モナザイトブロックを硫黄ミツバチに与える"
-	quest.1C0F4D1610530FEC.quest_subtitle: "ドラゴンスチール炉で作成"
 	quest.1C40B30823B2A254.quest_subtitle: "釣りで入手"
 	quest.1C474B46AECCCFE9.quest_subtitle: "グラベルまたはストーンネストを使用してスポーン"
 	quest.1D720AC88431BD70.quest_desc: ["エンダーミツバチとラピスミツバチを交配させてダイヤモンドミツバチを作ります！"]
@@ -294,7 +292,6 @@
 		"遺伝子は最大100%の純度で組み合わせることができ、卵をミツバチのスポーンエッグに変換する確率が100%になります"
 	]
 	quest.3E301F3EEC8C763A.quest_subtitle: "ベビー ミツバチ デイケア"
-	quest.3EB6CBA0B1374BDD.quest_subtitle: "ドラゴンスチール鍛冶場で作製"
 	quest.40E4F1172A164DD1.quest_subtitle: "ジャングルのカカオの実を破壊するとランダムで出現"
 	quest.40E4F1172A164DD1.title: "シュガーバッグミツバチ"
 	quest.40F8A44DF4D8DBD6.quest_subtitle: "マグマティック + ノマド"
@@ -352,7 +349,6 @@
 	quest.55882C10292B6A3D.quest_subtitle: "クリスタリンミツバチにプロスペリティブロックを与える！"
 	quest.55882C10292B6A3D.title: "プロスペリミツバチ"
 	quest.57167FE67CFAC255.quest_subtitle: "フィルターにミツバチを追加するために使用"
-	quest.573BC5360C5CA675.quest_subtitle: "ゴースト + スケルタル"
 	quest.57ACD83205988834.quest_subtitle: "金 + エンダー"
 	quest.57ACD83205988834.title: "プラチナミツバチ"
 	quest.5867713D016143A6.quest_subtitle: "エンチャント装置で作成"
