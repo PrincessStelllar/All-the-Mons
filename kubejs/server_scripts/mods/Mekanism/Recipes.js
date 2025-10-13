@@ -171,7 +171,6 @@ ServerEvents.recipes(allthemods => {
     {item:'extendedae:entro_crystal'},
     'entro_crystal_to_dust'
   )
-  mekCrushing({item:'irons_spellbooks:raw_mithril', count:4}, {tag:'c:ores/mithril'}, 'mithril_ore_to_raw')
     
   //mekEnriching(output{item: 'mod:item', count: 0}, input{item/tag: 'mod:item/tag', count: 0}, 'id');
   mekEnriching({item: 'mysticalagriculture:prosperity_shard', count: 3}, {tag:'c:ores/prosperity'}, 'prosperity_ore_to_shard')
@@ -184,7 +183,6 @@ ServerEvents.recipes(allthemods => {
   mekEnriching({item: 'actuallyadditions:black_quartz', count: 2}, {tag: 'c:ores/black_quartz'}, 'black_quartz_ore_to_black_quartz')
   mekOxidizing({item:'mekanism:osmium', count:200}, 'c:ingots/osmium')
   mekOxidizing({item:'mekanism:osmium', count:1800}, 'c:storage_blocks/osmium')
-
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

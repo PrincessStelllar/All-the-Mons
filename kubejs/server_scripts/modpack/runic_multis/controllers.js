@@ -25,7 +25,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:auto_forge',
             aureal: 50000,
-            blood: 50000,
+            fluid: 50000,
             souls: 1000,
             xp: 25000,
             main: 'forbidden_arcanus:hephaestus_forge_tier_5',
@@ -34,7 +34,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:star_altar',
             aureal: 200000,
-            blood: 1000000,
+            fluid: 1000000,
             souls: 10000,
             xp: 75000,
             main: 'eternal_starlight:loot_bag[eternal_starlight:loot_table="eternal_starlight:bosses/lunar_monstrosity"]',
@@ -43,7 +43,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:runic_crucible',
             aureal: 100000,
-            blood: 25000,
+            fluid: 25000,
             souls: 1000,
             xp: 10000,
             main: 'ars_nouveau:enchanting_apparatus',
@@ -52,7 +52,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:runic_enchanter',
             aureal: 100000,
-            blood: 1000,
+            fluid: 1000,
             souls: 1000,
             xp: 50000,
             main: 'minecraft:enchanting_table',
@@ -64,7 +64,7 @@ ServerEvents.recipes(allthemods => {
         allthemods.recipes.modern_industrialization.auto_forge(512, 300)
             .fluidIn(`${item.aureal}x kubejs:liquid_aureal`)
             .fluidIn(`${item.souls}x kubejs:liquid_souls`)
-            .fluidIn(`${item.blood}x evilcraft:blood`)
+            .fluidIn(`${item.fluid}x justdirethings:polymorphic_fluid_source`)
             .fluidIn(`${item.xp}x #c:experience`)
             .itemIn('forbidden_arcanus:mundabitur_dust')
             .itemIn(item.main)
@@ -82,7 +82,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:runic_item_input_hatch',
             aureal: 2500,
-            blood: 1000,
+            fluid: 1000,
             souls: 5000,
             xp: 5000,
             top: 'actuallyadditions:laser_relay_item',
@@ -92,7 +92,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:runic_item_output_hatch',
             aureal: 2500,
-            blood: 1000,
+            fluid: 1000,
             souls: 5000,
             xp: 5000,
             top: 'forbidden_arcanus:quantum_injector',
@@ -102,7 +102,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:runic_fluid_input_hatch',
             aureal: 2500,
-            blood: 1000,
+            fluid: 1000,
             souls: 5000,
             xp: 5000,
             top: 'actuallyadditions:laser_relay_fluids',
@@ -112,7 +112,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:runic_fluid_output_hatch',
             aureal: 2500,
-            blood: 1000,
+            fluid: 1000,
             souls: 5000,
             xp: 5000,
             top: 'forbidden_arcanus:quantum_injector',
@@ -122,7 +122,7 @@ ServerEvents.recipes(allthemods => {
         {
             id: 'modern_industrialization:runic_energy_input_hatch',
             aureal: 2500,
-            blood: 1000,
+            fluid: 1000,
             souls: 5000,
             xp: 5000,
             top: 'actuallyadditions:laser_relay',
@@ -135,7 +135,7 @@ ServerEvents.recipes(allthemods => {
         allthemods.recipes.modern_industrialization.auto_forge(512, 150)
             .fluidIn(`${item.aureal}x kubejs:liquid_aureal`)
             .fluidIn(`${item.souls}x kubejs:liquid_souls`)
-            .fluidIn(`${item.blood}x evilcraft:blood`)
+            .fluidIn(`${item.fluid}x justdirethings:polymorphic_fluid_source`)
             .fluidIn(`${item.xp}x #c:experience`)
             .itemIn('forbidden_arcanus:mundabitur_dust')
             .itemIn(item.top)
@@ -152,7 +152,7 @@ ServerEvents.recipes(allthemods => {
     allthemods.recipes.modern_industrialization.auto_forge(512, 300)
         .fluidIn(`5000x kubejs:liquid_aureal`)
         .fluidIn(`2500x kubejs:liquid_souls`)
-        .fluidIn(`7500x evilcraft:blood`)
+        .fluidIn(`7500x justdirethings:polymorphic_fluid_source`)
         .fluidIn(`10000x #c:experience`)
         .itemIn('mekanism:ultimate_control_circuit')
         .itemIn('enderio:sentient_ender')
@@ -177,7 +177,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             input: 'forbidden_arcanus:polished_darkstone',
             result: 'modern_industrialization:auto_forge',
             aureal: 5000,
-            blood: 5000,
+            fluid: 5000,
             souls: 100,
             xp: 2500,
             in_1: 'forbidden_arcanus:hephaestus_forge_tier_5',
@@ -195,7 +195,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             input: 'forbidden_arcanus:polished_darkstone',
             result: 'modern_industrialization:runic_crucible',
             aureal: 10000,
-            blood: 2500,
+            fluid: 2500,
             souls: 100,
             xp: 1000,
             in_1: 'ars_nouveau:enchanting_apparatus',
@@ -213,7 +213,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             input: 'forbidden_arcanus:polished_darkstone',
             result: 'modern_industrialization:runic_enchanter',
             aureal: 10000,
-            blood: 100,
+            fluid: 100,
             souls: 100,
             xp: 5000,
             in_1: 'minecraft:enchanting_table',
@@ -231,7 +231,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             input: 'forbidden_arcanus:polished_darkstone',
             result: 'modern_industrialization:runic_item_input_hatch',
             aureal: 250,
-            blood: 100,
+            fluid: 100,
             souls: 500,
             xp: 500,
             in_1: 'actuallyadditions:laser_relay_item',
@@ -249,7 +249,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             input: 'forbidden_arcanus:chiseled_polished_darkstone',
             result: 'modern_industrialization:runic_item_output_hatch',
             aureal: 250,
-            blood: 100,
+            fluid: 100,
             souls: 500,
             xp: 500,
             in_1: 'forbidden_arcanus:quantum_injector',
@@ -267,7 +267,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             input: 'forbidden_arcanus:polished_darkstone',
             result: 'modern_industrialization:runic_fluid_input_hatch',
             aureal: 250,
-            blood: 100,
+            fluid: 100,
             souls: 500,
             xp: 500,
             in_1: 'actuallyadditions:laser_relay_fluids',
@@ -285,7 +285,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             input: 'forbidden_arcanus:chiseled_polished_darkstone',
             result: 'modern_industrialization:runic_fluid_output_hatch',
             aureal: 250,
-            blood: 100,
+            fluid: 100,
             souls: 500,
             xp: 500,
             in_1: 'forbidden_arcanus:quantum_injector',
@@ -303,7 +303,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             input: 'forbidden_arcanus:polished_darkstone',
             result: 'modern_industrialization:runic_energy_input_hatch',
             aureal: 250,
-            blood: 100,
+            fluid: 100,
             souls: 500,
             xp: 500,
             in_1: 'actuallyadditions:laser_relay',
@@ -327,7 +327,7 @@ ServerEvents.generateData('after_mods', allthemods => {
                 ],
                 essences: {
                     aureal: item.aureal,
-                    blood: item.blood,
+                    fluid: item.fluid,
                     souls: item.souls,
                     experience: item.xp
                 },
@@ -364,7 +364,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             ],
             essences: {
                 aureal: 5000,
-                blood: 5000,
+                fluid: 5000,
                 souls: 100,
                 experience: 2500
             },
@@ -399,7 +399,7 @@ ServerEvents.generateData('after_mods', allthemods => {
             ],
             essences: {
                 aureal: 500,
-                blood: 750,
+                fluid: 750,
                 souls: 100,
                 experience: 1000
             },

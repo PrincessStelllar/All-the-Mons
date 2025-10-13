@@ -56,11 +56,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.24934231538B6492.title: "Стародавня піраміда"
-	quest.272CF280BAE6870E.quest_desc: [
-		"Характеристики майже як у звичайних &6усемодієвих обладунків&r, але ці дають більше сили для заклинань Iron Spell's. \\n\\nА ще має власний запас мани та регенерацію мани!"
-		"{image:atm:textures/questpics/allthemodium/all_armor_allmage.png width:100 height:175 align:center}"
-	]
-	quest.272CF280BAE6870E.title: "&6Усемодієві магічні обладунки"
 	quest.2C4299D33D419AA0.quest_desc: ["Поставте Телепорт-плиту в &2&lНижньому світі&r, щоб потрапити у &7&lВимір добування&r."]
 	quest.2C4299D33D419AA0.title: "&2&lНижній світ"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3Вібраній&r у поєднанні з &5Унобтанієм&r!"]
@@ -69,8 +64,6 @@
 	quest.2D8026E10FBA7A72.title: "&3Кайло&r з &6Усемодієвого &5Сплаву"
 	quest.2EDE91023F7924FB.quest_desc: ["Поставте Телепорт-плиту у &d&lЕнді&r, щоб потрапити до &5&lПотойбіччя&r."]
 	quest.2EDE91023F7924FB.title: "&d&lЕнд"
-	quest.39B6D9FD21419776.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_vibmage.png width:100 height:175 align:center}"]
-	quest.39B6D9FD21419776.title: "&3Вібранієві магічні обладунки"
 	quest.3F8D515D7B81B0E3.quest_desc: [
 		"Ще один Ковальський шаблон?!?!?!\\n\\nХоча б не треба займатися археологією!\\n\\nЩоб отримати ці шаблони, доведеться перемогти Спавнери Випробувань, які знаходяться у структурі Підземелля у &b&lПотойбіччі&r. А саме — у бібліотечних кімнатах!\\n"
 		"{image:atm:textures/questpics/allthemodium/all_library.png width:200 height:100 align:center}"
@@ -94,17 +87,11 @@
 	]
 	quest.4E737C490DCC5D6C.title: "&5Унобтанієві обладунки"
 	quest.552F0B9B00F4F914.quest_desc: ["Цей квест був створений &6командою AllTheMods&r або &2учасником спільноти&r для використання у збірках AllTheMods.\\n\\nОскільки всі збірки &6AllTheMods&r ліцензовані як &eВсі права захищено&r, цей квест не дозволяється використовувати у жодних публічних збірках, які не випущені командою &6AllTheMods Team&r без явного дозволу.\\n\\nЦей квест навмисно прихований, якщо ви його бачите — ви перебуваєте в режимі редагування."]
-	quest.558FF21A6BCFE6E8.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unomage.png width:100 height:175 align:center}"]
-	quest.558FF21A6BCFE6E8.title: "&5Унобтанієві магічні обладунки"
-	quest.5A26738AC904DC39.quest_desc: ["13 слотів для заклинань!"]
-	quest.5A26738AC904DC39.title: "&6Усемодієва Книга заклинань"
 	quest.5AAF6CA41209B365.title: "&3Вібранієві інструменти"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Так, вона створює стежки — не хвилюйтеся!"]
 	quest.5B46B5BF4ADB2BE9.title: "&3Лопата&r з &6Усемодієвого &5Сплаву"
 	quest.5BA986D7928BF09F.quest_desc: ["Піґліч — це бос, доданий модом &6&lAllthemodium&r. \\n\\nУ нього 1000 сердець і наразі немає атак, але повірте, коли з'являться — вони будуть нищівними! \\n\\nПісля перемоги він залишає своє Серце, яке знадобиться для створення сплавів і Усемодієвої Зірки! \\n\\n(Подумайте, як їх фармити, наприклад, за допомогою HNN чи EnderIO!)"]
 	quest.5BA986D7928BF09F.title: "Бос Піґліч"
-	quest.5FA68047A3C05E80.quest_desc: ["15 слотів для заклинань!"]
-	quest.5FA68047A3C05E80.title: "&5Унобтанієва Книга заклинань"
 	quest.66039B738CF0718A.quest_desc: ["&3Вібраній&r у поєднанні з &6Усемодієм&r!"]
 	quest.66039B738CF0718A.title: "Злиток &3Вібранієво&r-&6Усемодієвого&r сплаву"
 	quest.68E6AE1B9EBCEFFF.title: "&3Вібранієва Булава"
@@ -127,8 +114,6 @@
 		"{ \"text\": \"КВЕСТОВА ЛІНІЯ ARS NOUVEAU\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6AEDA2F9BEB57759\" } }"
 	]
 	quest.766EEB89C6DF3575.quest_desc: ["Вічну Стеллу можна використати, щоб зробити предмет незламним, поєднавши її з предметом у ковальському столі. Або ж використати для створення інструментів зі сплаву! \\n\\nСпершу вам знадобиться Кузня 3 рівня з достатньою кількістю матеріалів. \\n\\nДалі — 3 Скам'янілої сфери, які отримуєте, якщо нагодуєте Чорну Діру предметами. \\n\\nЩе потрібен Стелларитовий кусок, який треба видобути! І &6Злиток Усемодію&r — так само."]
-	quest.77AD61FCA9BC9AFB.quest_desc: ["14 слотів для заклинань!"]
-	quest.77AD61FCA9BC9AFB.title: "&3Вібранієва Книга заклинань"
 	quest.795A860668072830.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_vibarcane.png width:100 height:175 align:center}"]
 	quest.795A860668072830.title: "&3Вібранієві арканічні обладунки"
 	quest.7B3613C01F0B1373.quest_desc: [
@@ -144,13 +129,10 @@
 	task.00DDA48F9632A5C1.title: "Visit The Overworld"
 	task.03ACF4486D706DEE.title: "Вібранієві обладунки"
 	task.05256FE880D981D5.title: "Вібранієві інструменти"
-	task.0BFAF56214875C90.title: "Усемодієві магічні обладунки"
-	task.0E7E336483AFA69C.title: "Вібранієві магічні обладунки"
 	task.0F9FCFCEE795FD41.title: "Відвідайте Інший світ"
 	task.194C02E800F974D6.title: "Вібранієві арканічні обладунки"
 	task.298EA976A7627731.title: "Знайдіть Стародавнє місто"
 	task.2A7CD3F14D3DC7C5.title: "Унобтанієві обладунки"
-	task.2E3BC536B8A9FD91.title: "Унобтанієві магічні обладунки"
 	task.32447C5882610D6C.title: "Відвідайте Енд"
 	task.40C43560F454AD82.title: "Усемодієві інструменти"
 	task.46B42667B6BC1A3C.title: "Відвідайте Незер"

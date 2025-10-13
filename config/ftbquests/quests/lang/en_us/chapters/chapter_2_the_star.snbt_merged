@@ -1,6 +1,4 @@
 {
-	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \\n\\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnviromental Accumulator&r which we need. \\n\\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
-	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
 	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \\n\\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
 	quest.022C38096F79EF07.title: "&6&lForbidden \\& Arcanus"
 	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a Spawn Egg for a &2Dragon Familiar&r. These can either be used in crafting to get the &6&lATM Star&r, or you can spawn the &2Familiar&r. \\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
@@ -96,8 +94,6 @@
 	quest.31B0267C47DB9D98.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.3331EBE1BB4BF64D.quest_desc: ["Nuclear Reactors can be pretty scary to some especially with the dangerous effects of them! \\n\\nLuckily the only thing scary about &a&lExtreme Reactors&r is how confusing it can be to follow the recipes! \\n\\nNot the explody part they don't do that."]
 	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
-	quest.340CDF4357E22A43.quest_desc: ["Iron has blessed us with a very fun Exploration and Magic Mod! Fighting with and for Magic! Nothing is cooler than that! \\n\\nIt has a Quest Page which you are welcome for. "]
-	quest.340CDF4357E22A43.title: "&e&lIron's Spells and Spellbooks"
 	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Wet Light Green Blocks"
 	quest.36DF0D83EBC2B6A9.quest_desc: [""]
 	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLack of wisdom is a thing of the past with this."
@@ -120,8 +116,6 @@
 	quest.3C7C9EE57AD00A76.title: "&cMicromissiles"
 	quest.3CFD27F273B97FDD.quest_desc: ["The &5&lApothic&r mods have multiple cores, each changing different parts of &2&lMinecraft&r.\\n\\nThe Attributes and Enchanting mods are what you'll need to follow to get the &6&lATM Star&r!"]
 	quest.3CFD27F273B97FDD.title: "&5&lApothic&r Mods"
-	quest.3F5B5D6B788E0A73.quest_desc: ["Blood, flesh, rituals, if it's evil you can bet it's from &4&lEvilCraft&r! "]
-	quest.3F5B5D6B788E0A73.title: "&4&lEvilCraft"
 	quest.3F8AEBB994716318.quest_desc: ["&8Wither&r is an Effect in &l&2Vanilla&r so of course we need our own way of using and abusing it! \\n\\nYou can Brew an Awkward Potion with a &8Wither Skeleton Skull&r to create it. Then you can craft Arrows with it!"]
 	quest.4195800B4D7631E2.quest_desc: ["Through the ritual of &6Eziveus' Spectral Compulsion&r we can combine a &7Wormhole Frame&r, 2 Quartz, and an &3Enderpearl&r to get our Wormhole!"]
 	quest.4195800B4D7631E2.title: "&6Stable Wormhole"
@@ -129,8 +123,6 @@
 	quest.42AF4EBDA5D6CC36.title: "&2Blastproof Casing"
 	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r isn't a Storage Mod, it is &lTHE&r Storage Mod. \\n\\nI personally don't know much about the Mod but the Quest page should help you learn it!"]
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
-	quest.45D10F53CA18B8EE.quest_desc: ["Unfortunately you can't get &5Lightning&r Runes from a Mob drop, instead we'll need to craft them with &5Bottle O' Lightning&r. \\n\\nWe get &5Bottle O' Lightning&r from using an Empty Bottle on a Charged Creeper. \\n\\nDangerous I know..."]
-	quest.45D10F53CA18B8EE.title: "&5Lightning&r Upgrade Orb"
 	quest.486B5A605D79EA10.quest_desc: [""]
 	quest.486B5A605D79EA10.title: "&cManhattan Module"
 	quest.49FDD8666356A3E7.quest_desc: ["We can use either or both &2Blastproof Casing&r or 256M Portable Item Cells to Craft the &3&lImprobable Probability Device&r. \\n\\nWait did I say either or both? \\n\\nYes I did! We can use 2 &2Blastproof Casings&r or 2 256M Portable Item Cells or one of each."]
@@ -155,8 +147,6 @@
 	quest.54B1A876E9F6707A.quest_desc: [""]
 	quest.54B1A876E9F6707A.quest_subtitle: "&oPower and destruction like no other!"
 	quest.54B1A876E9F6707A.title: "&5&lOblivion Shard"
-	quest.54BAF833344F0AAE.quest_desc: ["This ones a 2 parter! First, you'll need a &8Dark Tank&r. Simple recipe only needing &8Dark Gems&r, Iron, and Glass. \\n\\nNext, you'll need &7Eclipse Ember Fuel&r. That's not so simple... \\n\\nTo get it you can start, drop an &7Eclipse Ember&r into &3Liquid Voidflame Fuel&r to make it &7Unrefined Eclipse Ember&r. Then, you'll need &9Shadowpulse Goo&r to spread to it to make &7Eclipse Ember Fuel&r. \\n\\nBy the way you'll need 16 Buckets worth!"]
-	quest.54BAF833344F0AAE.title: "&8Dark Tank&r full of &7Eclipse Ember Fuel"
 	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Stone"
 	quest.55BF254B1831359B.quest_desc: ["&5Galadorian Drills&r are the greatest Drills we can attach to our Carts. \\n\\nBecause of its greatness, that also means crafting it will be more difficult... \\nLet's just say you'll need a lot of &3Stabilized Metal&r! Follow the recipes!"]
 	quest.55BF254B1831359B.title: "&5Galadorian Drills"
@@ -171,8 +161,6 @@
 	quest.5869E198DA416346.title: "2 &5Antimatter Pellets"
 	quest.59EC02C1FBCF14EA.quest_desc: ["You can upgrade your &5Obsidian Generator&r into an &3Ender Generator&r. \\n\\nThen, it can use &3Ender Pearls&r or &3Eyes of Ender&r to make Energy! \\n\\nOr make the &6&lStar&r, your choice."]
 	quest.59EC02C1FBCF14EA.title: "&3Ender Generator"
-	quest.5A6831E0BD2F6AB5.quest_desc: ["You'll need a lotta &8Dark Gems&r!"]
-	quest.5A6831E0BD2F6AB5.title: "2 &4Piercing Vengeance Focuses"
 	quest.5A955C0F53AED3ED.quest_desc: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nThe first two you can get as drops from a &5Tangled Hatred&r while the last you'll need to kill a &9Lunar Monstrocity&r. "]
 	quest.5A955C0F53AED3ED.title: "&bChain of Souls"
 	quest.5B2FD54E425D5C9D.quest_desc: ["Now this ones hard to get... we'll need to kill 2 Bosses and a Miniboss to get everything for the &dVoid &cForge&r. \\n\\nFirst, we'll need a &4Mechanical Fusion Anvil&r. To get it, visit the &4Ancient Factory&r which lies beneath the &2&lOverworld&r. \\n\\nThen, feed &4&lThe Harbringer&r a Nether Star to power it up and kill it! &4&lThe Harbringer&r will drop &4Witherite&r which can Craft the &4Mechanical Fusion Anvil&r. \\n\\nNext, we'll need the &cInfernal Forge&r. That is a Drop from the &c&lNetherite Monstrosity&r. \\n\\nGo to &c&lThe Nether&r to find the &cSoul Blacksmith&r structure. Then, fight and kill the &c&lNetherite Monstrosity&r to get your &cInfernal Forge&r! \\n\\nLast and probably easiest is the &dVoid Core&r. Thankfully it isn't dropped from a Boss, instead it is a Miniboss! \\n\\nVisit &5&lThe End&r to find a &dRuined Citadel&r, within you'll find the &dEnder Golem&r. This one will drop us our &dVoid Core&r. \\n\\nOnce you have everything, use the &4Mechanical Fusion Anvil&r to combine the &cInfernal Forge&r and &dVoid Core&r to create the &dVoid &cForge&r."]
@@ -233,8 +221,6 @@
 	quest.71581992E8E4C43E.title: "&3Glyph of &8Wither"
 	quest.7377C657CED885AC.quest_desc: ["&2&lMystical Agriculture&r is a mod about agriculture, but what are you farming for?\\n\\nPretty much anything, from Honey to Steel to Wither Skeletons.\\n\\nYou'll need to do a lot of farming with this mod to make the &6&lATM Star&r!"]
 	quest.7377C657CED885AC.title: "&2&lMystical Agriculture"
-	quest.73BE1EB3E69814E9.quest_desc: ["First and easiest part of this recipe is &5Evil Sticks&r. Just need &8Dark Gems&r which you Mine for, and &cUndead Planks&r which you get from &cUndead Trees&r. \\n\\nNext, is the &5Empowered Inverted Potentia&r. It's not that hard to make simply craft an &7Inverted Potentia&r then keep it in an &aEnviromental Accumulator&r and have it get struck with Lightning! \\n\\nLast part has a huge line of &aEmpty Promises&r; you'll be infusing a whole lot. \\n\\nHope you got plenty of &4Blood&r! Speak of the devil you'll also need to fill the &5Mace&r with &4Blood&r."]
-	quest.73BE1EB3E69814E9.title: "&5Mace of Destruction"
 	quest.73E2A53A088AD29A.quest_subtitle: "11 Wet Pink Blocks"
 	quest.750B6316267CF574.quest_desc: ["When your Hives are vacant and in the dark you may find a little Bee visitor, the Skeletal Bee. \\n\\nYou can then feed your new visitor a &8Wither Rose&r to make them a &8Withered Bee&r. "]
 	quest.750B6316267CF574.title: "&8Withered Comb Block"
@@ -255,8 +241,6 @@
 	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
 	quest.7B140A034DF1291C.quest_desc: ["The &7&lNexium Emitter&r needs something to move it around, that can be either the &6Mechanical Arm&f or &6Large Advanced Motor&r! \\n\\nBoth move, so either work!"]
 	quest.7B140A034DF1291C.title: "&6Mechanical Arm&f or &6Large Advanced Motor"
-	quest.7BC616DDB5933479.quest_desc: ["This one can be created with a &5Blood Vial&r and normal ingrediants for Scrolls. \\nYou will need to make sure it is Level 10 and &6Legendary&r which you can upgrade it to."]
-	quest.7BC616DDB5933479.title: "&4Wither Skull Scroll"
 	quest.7D1A27CBF1508712.quest_desc: ["The &3Snow Queen&r lives in the &bAurora Palace&r within the Glacier Biome. \\n\\nYou'll need to kill the Alpha Yeti in order to enter the Glacier Biome. \\n\\nOnce usurped, she will drop a ton of loot, Trophy included!"]
 	quest.7D1A27CBF1508712.title: "&3Snow Queen &eTrophy"
 	quest.7D359283625C1869.quest_desc: ["&4&lCataclysm&r is an adventure Mod that is all about adding new Bosses! And everything from and around them! \\n\\nYou'll find the Structures all around the &2&lOverworld&r, &4&lThe Nether&r, and &5&lThe End&r. \\n\\nWithin will be new Mobs, Minibosses, and very difficult Bosses. You can kill them all to get new Weapons, Armor, and Items!"]

@@ -19,14 +19,10 @@
 	quest.28E60192912BEBAD.title: "&l&2Easy Villagers"
 	quest.32ECD93A8F2FAB8F.quest_desc: ["Los &6Jetpacks&r son una forma querida de moverse. \\n\\n¡Para empezar a hacerlos necesitarás empezar con un &6Jetpack de Madera&r! Este puede mejorarse hasta un &5Jetpack Creativo&r. \\n\\nAunque tiene muchas versiones, todas funcionan igual. Pueden colocarse en tu Ranura de Peto, o Curio Trasero, o Curio Curio. \\n\\n¡Todos ellos también necesitan FE para funcionar, puedes usar cualquier Cargador de Objetos para cargarlos! Usarán FE para volar y sí caerás si te quedas sin Energía. \\n\\nPara volar necesitarás encender tu Motor (V), luego cuando mantengas pulsado Espacio volarás hacia arriba y caerás cuando lo sueltes. \\n\\nPara aquellos que no disfrutan cayendo, entonces pueden activar Flotar (Sin asignar), cuando esté activado Volarás a la misma altitud; pudiendo ir más alto con (Espacio) y más bajo con (Shift). \\n\\nPara ajustar qué tan rápido vuelas, cambia tu Acelerador. ¡Disminuirlo es (,) por defecto y aumentarlo es (.) por defecto!"]
 	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
-	quest.378C95C18798D413.quest_desc: ["Una forma rápida de cambiar entre herramientas.\\n\\nMejora con bolsas de cinturón en un yunque para aumentar la capacidad."]
-	quest.378C95C18798D413.title: "Cinturón de Herramientas"
 	quest.3B4BF42C55C8BBBF.quest_desc: ["¿No odias cuando estás rompiendo algo y los Bloques caen justo fuera de tu alcance! \\n\\n¡Bueno, no te preocupes más porque tenemos &4Imanes&r! Simplemente Haz Click Derecho mientras sostienes el &4Imán&r para encenderlo. Entonces, todos los Objetos y Bloques caídos en un Radio de 5 Bloques vendrán a ti. \\n\\n¡También puedes equipar el &4Imán&r en tus Curios para seguir usándolo! \\n\\nSi no deseas continuar usando el &4Imán&r (encuentro que esto sucede cerca de Granjas de Mobs) entonces simplemente Haz Click Derecho con él de nuevo para desactivarlo. \\n\\n¡También puede mejorarse para aumentar el rango!"]
 	quest.3B4BF42C55C8BBBF.title: "&l&9Imanes &4Simples"
 	quest.47043AF7D1FABC43.quest_desc: ["La &bMesa de Des-Encantamiento&r es probablemente el Consejo más útil aquí. \\n\\nSimplemente pon un Objeto Encantado en la Ranura Izquierda y un Libro en la Ranura Central. ¡Entonces, los Encantamientos irán a la Ranura Derecha en forma de Libro! \\n\\nTambién puedes usar Libros Encantados en lugar del Objeto para dividir sus Encantamientos."]
 	quest.47043AF7D1FABC43.title: "&l&bMesa de Des-Encantamiento"
-	quest.51538F4DCE24E3E7.quest_desc: ["¡El &5Multi&f-&2Pistón&r es una pequeña Máquina confusa pero útil hecha para mover Bloques!\n\\nHaz Clic Derecho en el &2Pistón&r para abrir su GUI, allí podemos configurar los Lados, Espaciado y Velocidad.\n\\nLos Lados son los Colores del Pistón: &eAmarillo&r es &eArriba&r, &6Naranja&r es &6Abajo&r, &9Azul&r es &9Norte&r, &2Verde&r es &2Este&r, &4Rojo&r es &4Sur&r y &5Morado&r es &5Oeste&r.\n\\n¡Necesitarás configurar los Colores de la Entrada y Salida, qué lados quieres que los Bloques se muevan desde y hacia!\n\\nEl Espaciado es cuántos Bloques quieres que se muevan desde ese lado, si lo pones en 3, moverá 3 Bloques de un lado a otro.\nSi lo pones en 30, se moverán 30 Bloques. \\n\\nLa Velocidad es simplemente qué tan rápido los mueve.\n\\nNecesitará una &cSeñal de Redstone&r para funcionar realmente, y algunos Bloques como Cofres, no los puede mover."]
-	quest.51538F4DCE24E3E7.title: "&l&5Multi&f-&2Pistón"
 	quest.5EE945A1185E8336.quest_desc: ["¡&l&7Almacenamiento Funcional&r añade &7Cajones&r que pueden contener varias pilas de un objeto. ¡Estos se pueden mejorar para contener aún más pilas!\\n\\n¡Esto es genial para objetos de los que obtienes muchos, como Adoquín o Semillas!"]
 	quest.5EE945A1185E8336.quest_subtitle: "¿Cajones de Almacenamiento?"
 	quest.5EE945A1185E8336.title: "&l&7Almacenamiento Funcional&r"
@@ -54,5 +50,4 @@
 	task.58E3131A3EA2661E.title: "Brújulas"
 	task.6038387EA35404CD.title: "Fabricación en un Palo"
 	task.6A965CD027BF762F.title: "TodosLosDerechosReservados"
-	task.6E44925E265DC7E2.title: "Sitios de Trabajo"
 }

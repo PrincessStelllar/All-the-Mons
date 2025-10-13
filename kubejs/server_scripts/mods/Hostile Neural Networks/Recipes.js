@@ -63,11 +63,6 @@ ServerEvents.generateData('after_mods', allthemods => {
                     "count": 1
                 },
                 {
-                    "id": "evilcraft:ender_tear",
-                    "optional": true,
-                    "count": 4
-                },
-                {
                     "id": "reliquary:nebulous_heart",
                     "optional": true,
                     "count": 2

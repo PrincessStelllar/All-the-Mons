@@ -229,7 +229,6 @@ ServerEvents.tags('item', allthemods => {
     allthemods.add('minecolonies:breakable_ore', '#c:ores/kyanite')
     allthemods.add('minecolonies:breakable_ore', '#c:ores/lead')
     allthemods.add('minecolonies:breakable_ore', '#c:ores/lignite_coal')
-    allthemods.add('minecolonies:breakable_ore', '#c:ores/mithril')
     allthemods.add('minecolonies:breakable_ore', '#c:ores/moldavite')
     allthemods.add('minecolonies:breakable_ore', '#c:ores/monazite')
     allthemods.add('minecolonies:breakable_ore', '#c:ores/nickel')

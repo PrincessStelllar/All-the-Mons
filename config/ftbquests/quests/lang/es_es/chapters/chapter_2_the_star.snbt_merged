@@ -1,6 +1,4 @@
 {
-	quest.00AC7CC291A3E590.quest_desc: ["Probablemente (definitivamente) has visto estructuras por el mundo con lo que parecen Faros saliendo de ellas. Están hechas de adoquines, tienen 4 patas que las sostienen, ¡algo elevadas en el aire! \\n\\nCon suerte sabes que se llaman &8Templos Oscuros&r y tienen un &aAcumulador Ambiental&r que necesitamos. \\n\\nTendrás que esperar a que ocurra una Tormenta para llenar tu Contenedor Climático. ¡Entonces, podrás hacer tu &3Bomba de Rayo&r!"]
-	quest.00AC7CC291A3E590.title: "&3Bomba de Rayo"
 	quest.022C38096F79EF07.quest_desc: ["¡&6&lForbidden \\& Arcanus&r trata sobre usar lo Arcano para hacer rituales con la Forja para volverse más fuerte! \\n\\nO por lo que la mayoría lo conoce, Eternal Stella. ¡El Mod tiene más cosas, sabes! "]
 	quest.022C38096F79EF07.title: "&6&lForbidden \\& Arcanus"
 	quest.03564837ECB5CC79.quest_desc: ["Otro Ritual, por supuesto, este siendo el &2Cautiverio de Ihagan&r. (Por cierto, para sacrificar un Caballo necesitas que esté cerca mientras haces el ritual) \\n\\nUna vez hecho, se te dará un Huevo Generador para un &2Familiar Dragón&r. Estos pueden usarse en fabricación para obtener la &6&lEstrella ATM&r, o puedes generar al &2Familiar&r. \\n\\nEste te seguirá y puede ser acariciado usando Shift Click Derecho sobre él."]
@@ -96,8 +94,6 @@
 	quest.31B0267C47DB9D98.quest_desc: ["Esta Misión ha sido creada por el &6Personal de AllTheMods&r, o un &2contribuidor de la Comunidad&r para su uso en los Modpacks de AllTheMods.\\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Misión no puede ser utilizada en ningún pack público no lanzado por el &6Equipo de AllTheMods&r sin permiso explícito.\\n\\nEsta misión está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
 	quest.3331EBE1BB4BF64D.quest_desc: ["Los Reactores Nucleares pueden dar bastante miedo a algunos ¡especialmente con los efectos peligrosos de ellos! \\n\\nAfortunadamente lo único aterrador de &a&lExtreme Reactors&r es ¡lo confuso que puede ser seguir las recetas! \\n\\nNo la parte explosiva, ellos no hacen eso."]
 	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
-	quest.340CDF4357E22A43.quest_desc: ["¡Iron nos ha bendecido con un Mod de Exploración y Magia muy divertido! ¡Luchando con y por la Magia! ¡Nada es más genial que eso! \\n\\nTiene una Página de Misión de la que eres bienvenido. "]
-	quest.340CDF4357E22A43.title: "&e&lIron's Spells and Spellbooks"
 	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Bloques Verde Claro Húmedos"
 	quest.36DF0D83EBC2B6A9.quest_desc: [""]
 	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLa falta de sabiduría es cosa del pasado con esto."
@@ -117,8 +113,6 @@
 	quest.3C7C9EE57AD00A76.title: "&cMicromisiles"
 	quest.3CFD27F273B97FDD.quest_desc: ["¡Los mods &5&lApóticos&r tienen múltiples núcleos, cada uno cambiando diferentes partes de &2&lMinecraft&r!\\n\\n¡Los mods de Atributos y Encantamiento son los que necesitarás seguir para obtener la &6&lEstrella ATM&r!"]
 	quest.3CFD27F273B97FDD.title: "Mods &5&lApóticos&r"
-	quest.3F5B5D6B788E0A73.quest_desc: ["¡Sangre, carne, rituales, si es malvado puedes apostar que es de &4&lEvilCraft&r! "]
-	quest.3F5B5D6B788E0A73.title: "&4&lEvilCraft"
 	quest.3F8AEBB994716318.quest_desc: ["¡&8Wither&r es un Efecto en &l&2Vainilla&r así que por supuesto necesitamos nuestra propia forma de usarlo y abusar de él! \\n\\nPuedes Elaborar una Poción Rara con una &8Calavera de Esqueleto Wither&r para crearla. ¡Luego puedes fabricar Flechas con ella!"]
 	quest.4195800B4D7631E2.quest_desc: ["¡Mediante el ritual de &6Eziveus' Spectral Compulsion&r podemos combinar un &7Marco de Agujero de Gusano&r, 2 Cuarzos y una &3Perla de Ender&r para obtener nuestro Agujero de Gusano!"]
 	quest.4195800B4D7631E2.title: "&6Agujero de Gusano Estable"
@@ -126,8 +120,6 @@
 	quest.42AF4EBDA5D6CC36.title: "&2Carcasa a Prueba de Explosiones"
 	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r no es un Mod de Almacenamiento, es &lEL&r Mod de Almacenamiento. \\n\\nPersonalmente no sé mucho sobre el Mod, ¡pero la página de Misiones debería ayudarte a aprenderlo!"]
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
-	quest.45D10F53CA18B8EE.quest_desc: ["Desafortunadamente, no puedes obtener Runas de &5Rayo&r de un drop de Mob, en su lugar, necesitaremos craftearlas con &5Botella de Rayo&r. \\n\\nObtenemos &5Botella de Rayo&r usando una Botella Vacía en un Creeper Cargado. \\n\\nLo sé, peligroso..."]
-	quest.45D10F53CA18B8EE.title: "Orbe de Mejora de &5Rayo&r"
 	quest.486B5A605D79EA10.quest_desc: ["¡Estos sí que los podemos farmear! ¡Ordeña a ese &cPyromancer&r!"]
 	quest.486B5A605D79EA10.title: "Orbe de Mejora de &cFuego&r"
 	quest.4B12425E74C5E511.quest_desc: ["El &cGenerador Micelial Explosivo&r hace un trabajo increíble absorbiendo Explosiones. \\n\\n¡Podríamos usar eso para un &d&lAgujero Negro&r &8Pulsante&r!"]
@@ -148,8 +140,6 @@
 	quest.54B1A876E9F6707A.quest_desc: [""]
 	quest.54B1A876E9F6707A.quest_subtitle: "&¡Poder y destrucción como ningún otro!"
 	quest.54B1A876E9F6707A.title: "&5&lFragmento del Olvido"
-	quest.54BAF833344F0AAE.quest_desc: ["¡Este es de 2 partes! Primero, necesitarás un &8Tanque Oscuro&r. Receta simple que solo necesita &8Gemas Oscuras&r, Hierro y Vidrio. \\n\\nLuego, necesitarás &7Combustible de Ascuas del Eclipse&r. Eso no es tan simple... \\n\\nPara obtenerlo, puedes comenzar dejando caer una &7Ascua del Eclipse&r en &3Combustible Líquido de Llamarada del Vacío&r para convertirlo en &7Ascua del Eclipse sin Refinar&r. Luego, necesitarás &9Pringue de Pulsosombrío&r para esparcirlo y hacer &7Combustible de Ascuas del Eclipse&r. \\n\\n¡Por cierto, necesitarás el valor de 16 Cubos!"]
-	quest.54BAF833344F0AAE.title: "&8Tanque Oscuro&r lleno de &7Combustible de Ascuas del Eclipse"
 	quest.554F47A0AF7506EC.quest_subtitle: "59,049 Piedra del Fin"
 	quest.55BF254B1831359B.quest_desc: ["Los &5Taladros Galadorianos&r son los mejores Taladros que podemos acoplar a nuestros Vagones. \\n\\nDebido a su grandeza, eso también significa que craftearlos será más difícil... ¡Digamos que necesitarás mucho &3Metal Estabilizado&r! ¡Sigue las recetas!"]
 	quest.55BF254B1831359B.title: "&5Taladros Galadorianos"
@@ -164,8 +154,6 @@
 	quest.5869E198DA416346.title: "2 &5Pastillas de Antimateria"
 	quest.59EC02C1FBCF14EA.quest_desc: ["Puedes mejorar tu &5Generador de Obsidiana&r en un &3Generador de Ender&r. \\n\\n¡Entonces, puede usar &3Perlas de Ender&r u &3Ojos de Ender&r para generar Energía! \\n\\nO hacer la &6&lEstrella&r, tú eliges."]
 	quest.59EC02C1FBCF14EA.title: "&3Generador de Ender"
-	quest.5A6831E0BD2F6AB5.quest_desc: ["¡Necesitarás un montón de &8Gemas Oscuras&r!"]
-	quest.5A6831E0BD2F6AB5.title: "2 &4Focos de Venganza Penetrante"
 	quest.5A955C0F53AED3ED.quest_desc: ["La &bCadena de Almas&r funciona de forma similar a un Gancho de Agarre. \\n\\nPuedes Hacer Clic Derecho para que envíe una &bCadena&r que te arrastrará hacia el Bloque al que le disparaste. Puedes Hacer Clic Derecho de nuevo para soltarla. Además, tiene un Alcance de 90 Bloques más o menos. \\n\\nPara hacerla necesitarás un &bAlma Atrapada&r, 2 &5Enredaderas Tenaces&r y un &9Pétalo Tenaz&r. \\n\\nLos dos primeros los puedes conseguir como botín de un &5Odio Enredado&r mientras que para el último necesitarás matar a una &9Monstruosidad Lunar&r."]
 	quest.5A955C0F53AED3ED.title: "&bCadena de Almas"
 	quest.5B2FD54E425D5C9D.quest_desc: ["Ahora este es difícil de conseguir... necesitaremos matar a 2 Jefes y un Minijefe para conseguir todo para la &dForja del Vacío &c&r. \\n\\nPrimero, necesitaremos un &4Yunque de Fusión Mecánica&r. Para conseguirlo, visita la &4Fábrica Antigua&r que yace debajo del &2&lOverworld&r. \\n\\nLuego, ¡alimenta a &4&lEl Heraldo&r con una Estrella del Nether para potenciarlo y matarlo! &4&lEl Heraldo&r soltará &4Witherita&r que puede Craftear el &4Yunque de Fusión Mecánica&r. \\n\\nLuego, necesitaremos la &cForja Infernal&r. Eso es un Botín de la &c&lMonstruosidad de Netherita&r. \\n\\nVe al &c&lNether&r para encontrar la estructura de la &cHerrería de Almas&r. ¡Luego, lucha y mata a la &c&lMonstruosidad de Netherita&r para conseguir tu &cForja Infernal&r! \\n\\nLo último y probablemente lo más fácil es el &dNúcleo del Vacío&r. ¡Afortunadamente no lo suelta un Jefe, sino un Minijefe! \\n\\nVisita el &5&lEnd&r para encontrar una &dCiudadela En Ruinas&r, dentro encontrarás al &dGólem de Ender&r. Este nos soltará nuestro &dNúcleo del Vacío&r. \\n\\nUna vez que tengas todo, usa el &4Yunque de Fusión Mecánica&r para combinar la &cForja Infernal&r y el &dNúcleo del Vacío&r para crear la &dForja del Vacío &c&r."]
@@ -225,8 +213,6 @@
 	quest.71581992E8E4C43E.title: "&3Glifo de &8Wither"
 	quest.7377C657CED885AC.quest_desc: ["&2&lAgricultura Mística&r es un mod sobre agricultura, pero ¿para qué estás cultivando?\\n\\nPrácticamente cualquier cosa, desde Miel hasta Acero y Esqueletos Wither.\\n\\n¡Necesitarás cultivar mucho con este mod para hacer la &6&lEstrella ATM&r!"]
 	quest.7377C657CED885AC.title: "&2&lAgricultura Mística"
-	quest.73BE1EB3E69814E9.quest_desc: ["La parte primera y más fácil de esta receta son los &5Palos Malignos&r. Solo necesitas &8Gemas Oscuras&r que Minas, y &cTablones No Muertos&r que obtienes de &cÁrboles No Muertos&r. \\n\\nLuego, está la &5Potentia Invertida Potenciada&r. No es tan difícil de hacer, simplemente fabrica una &7Potentia Invertida&r y luego mantenla en un &aAcumulador Ambiental&r ¡y haz que le caiga un Rayo! \\n\\nLa última parte tiene una enorme línea de &aPromesas Vacías&r; estarás infundiendo muchísimo. \\n\\n¡Espero que tengas mucha &4Sangre&r! Hablando del rey de Roma, también necesitarás llenar la &5Maza&r con &4Sangre&r."]
-	quest.73BE1EB3E69814E9.title: "&5Maza de la Destrucción"
 	quest.73E2A53A088AD29A.quest_subtitle: "11 Bloques Rosas Mojados"
 	quest.750B6316267CF574.quest_desc: ["Cuando tus Colmenas estén vacías y en la oscuridad, puedes encontrar un pequeño visitante Abeja, la Abeja Esquelética. \\n\\nPuedes alimentar a tu nuevo visitante con una &8Rosa Wither&r para convertirla en una &8Abeja Marchita&r. "]
 	quest.750B6316267CF574.title: "&8Bloque de Panal Marchito"
@@ -245,8 +231,6 @@
 	quest.792990DC06DB98F9.title: "&5&lEstrella Eterna"
 	quest.7A579E233C69871F.quest_desc: ["¡&b&lRedes Neuronales Hostiles&r trata sobre simular Mobs para farmear su Botín! \\n\\nNo hay mucho más que eso."]
 	quest.7A579E233C69871F.title: "&b&lRedes Neuronales Hostiles"
-	quest.7BC616DDB5933479.quest_desc: ["Este se puede crear con una &5Ampolla de Sangre&r e ingredientes normales para Pergaminos. \\nNecesitarás asegurarte de que sea de Nivel 10 y &6Legendario&r, a lo cual puedes mejorarlo."]
-	quest.7BC616DDB5933479.title: "&4Pergamino de Cráneo de Wither"
 	quest.7D1A27CBF1508712.quest_desc: ["La &3Reina de las Nieves&r vive en el &bPalacio de la Aurora&r dentro del Bioma Glaciar. \\n\\nNecesitarás matar al Yeti Alfa para poder entrar al Bioma Glaciar. \\n\\nUna vez usurpada, ¡soltará un montón de botín, Trofeo incluido!"]
 	quest.7D1A27CBF1508712.title: "&3Trofeo de la Reina de las Nieves&r"
 	quest.7D359283625C1869.quest_desc: ["¡&4&lCataclismo&r es un Mod de aventura que trata sobre añadir nuevos Jefes! ¡Y todo lo relacionado con ellos! \\n\\nEncontrarás las Estructuras por todo el &2&lMundo Principal&r, &4&lEl Nether&r, y &5&lEl End&r. \\n\\nDentro habrá nuevos Mobs, Minijefes, y Jefes muy difíciles. ¡Puedes matarlos a todos para conseguir nuevas Armas, Armaduras y Objetos!"]
