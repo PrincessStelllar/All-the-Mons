@@ -43,7 +43,7 @@ key_key.integratedterminals.terminal.craftinggrid.clearstorage:key.keyboard.c:
 key_key.integratedterminals.terminal.craftinggrid.balance:key.keyboard.b:
 key_key.integratedterminals.terminal.portable.open:key.keyboard.c:
 key_key.modernfix.config:key.keyboard.unknown:
-key_iris.keybind.reload:key.keyboard.r:
+key_iris.keybind.reload:key.keyboard.unknown:
 key_iris.keybind.toggleShaders:key.keyboard.k:
 key_iris.keybind.shaderPackSelection:key.keyboard.o:
 key_iris.keybind.wireframe:key.keyboard.unknown:
@@ -408,10 +408,10 @@ key_key.advanced_ae.quantum_auto_stock_upgrade:key.keyboard.unknown:
 key_key.advanced_ae.quantum_night_vision_upgrade:key.keyboard.unknown:
 key_key.modern_industrialization.toggle_3x3:key.keyboard.y:
 key_key.modern_industrialization.toggle_flight:key.keyboard.v:
+key_key.extended_industrialization.toggle_helmet_ability:key.keyboard.unknown:
+key_key.extended_industrialization.toggle_main_hand_ability:key.keyboard.unknown:
 key_key.extended_industrialization.toggle_chestplate_ability:key.keyboard.unknown:
 key_key.extended_industrialization.toggle_boots_ability:key.keyboard.unknown:
-key_key.extended_industrialization.toggle_main_hand_ability:key.keyboard.unknown:
-key_key.extended_industrialization.toggle_helmet_ability:key.keyboard.unknown:
 key_key.extended_industrialization.toggle_leggings_ability:key.keyboard.unknown:
 key_darksteel.upgrade.flight.keybind:key.keyboard.g:
 key_darksteel.upgrade.nightvision.keybind:key.keyboard.v:
