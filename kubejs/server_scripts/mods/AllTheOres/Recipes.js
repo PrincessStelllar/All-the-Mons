@@ -11,7 +11,7 @@ ServerEvents.recipes(allthemods => {
 
   let $HashSet = Java.loadClass("java.util.HashSet")
 
-  const blockedMods = new $HashSet(['modern_industrialization', 'mysticalagriculture', 'mysticalagradditions', 'extendedae', 'mekanism'])
+  const blockedMods = new $HashSet(['mysticalagriculture', 'mysticalagradditions', 'extendedae', 'mekanism'])
   let materials = Utils.newMap()
 
   Ingredient.of('#c:ingots').displayStacks.stream().map(stack => stack.idLocation).forEach(id => {
