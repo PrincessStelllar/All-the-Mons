@@ -65,8 +65,6 @@
 	quest.0AF2460579C6BD8C.title: "Refined Obsidian Bee"
 	quest.0B2210804594E7B8.quest_subtitle: "You just craft it"
 	quest.0B2210804594E7B8.title: "Arcane Essence Bee"
-	quest.0BCB7E97BC566683.quest_subtitle: "Centrifuge 6 Iron Bee Spawn Eggs for 1 Manganese Bee Spawn Egg"
-	quest.0BCB7E97BC566683.title: "Manganese Bee"
 	quest.0CD6F30BBEE20E15.quest_subtitle: "Glowstone + Osmium"
 	quest.0CD6F30BBEE20E15.title: "Refined Glowstone Bee"
 	quest.0D5D76B3551CD5A7.quest_desc: ["Yes, it's called an Aluminium Bee."]
@@ -168,8 +166,6 @@
 	quest.1A0672C7509271B3.title: "Fluorite Bee"
 	quest.1A4FAE5705B53753.quest_subtitle: "Crafted with Enchanting Apparatus"
 	quest.1A4FAE5705B53753.title: "Air Essence Bee"
-	quest.1ACB3EDBCB732514.quest_subtitle: "Feed a Block of Monazite to a Sulfur Bee"
-	quest.1ACB3EDBCB732514.title: "Monazite Bee"
 	quest.1C40B30823B2A254.quest_subtitle: "Just fish for it"
 	quest.1C40B30823B2A254.title: "Prismarine Bee"
 	quest.1C474B46AECCCFE9.quest_subtitle: "Spawned using a Gravel or Stone Nest"
@@ -196,8 +192,6 @@
 	quest.2226555D9552236E.quest_subtitle: "Spawns from most Wood Nests"
 	quest.22647504C37E547C.quest_subtitle: "Feed a Cyanite Block to a Radioactive Bee"
 	quest.22647504C37E547C.title: "Cyanite Bee"
-	quest.22CF5AD56C1BB8D5.quest_subtitle: "Feed a Dark Block to a Diamond Bee"
-	quest.22CF5AD56C1BB8D5.title: "Dark Gem Bee"
 	quest.23820B0DCEC022D1.quest_subtitle: "Resin + Lumber"
 	quest.23820B0DCEC022D1.title: "Plastic Bee"
 	quest.244ACD7024566001.quest_subtitle: "Feed a Sweat Bee Ice"
@@ -233,8 +227,6 @@
 	quest.2A559D527BC88DEC.title: "Sky Steel Bee"
 	quest.2AEC294578952BFD.quest_subtitle: "Lapis + Skeletal"
 	quest.2AEC294578952BFD.title: "Dye Bee"
-	quest.2AEEDCC6826CF4AB.quest_subtitle: "Fishy Business"
-	quest.2AEEDCC6826CF4AB.title: "Oily Bee"
 	quest.2BE538246C672689.quest_desc: ["Using a smeltery, pour &#9332D9Molten Unobtainium&r over an &#F2EB2EVibranium Bee Spawn Egg&r."]
 	quest.2BE538246C672689.title: "Unobtainium Bee"
 	quest.2C29683DA28A8D47.quest_subtitle: "Made in Reprocessor"
@@ -317,8 +309,6 @@
 	quest.3D7480E4F9063E93.title: "Rancher Bee"
 	quest.3DA5F622E3266AE5.quest_subtitle: "Made in Reprocessor"
 	quest.3DA5F622E3266AE5.title: "Ridiculite Bee"
-	quest.3DB5874FA93FDA50.quest_subtitle: "Electrolyze 3 Emerald Bee Spawn Eggs into a Beryllium Bee Spawn Egg"
-	quest.3DB5874FA93FDA50.title: "Beryllium Bee"
 	quest.3E301F3EEC8C763A.quest_desc: [
 		"This can be used to speed up the growth rate of baby Bees, or to create new Spawn Eggs."
 		""
@@ -341,11 +331,7 @@
 	quest.41FD145B911BD625.title: "Iesnium Bee"
 	quest.437DB2CE10D33A08.quest_desc: ["You'll need to grab yourself a &6Glowstone Nest&r and head to the Nether to capture this bee!"]
 	quest.437DB2CE10D33A08.title: "Glowing Bee"
-	quest.439B5FDAC84271A2.quest_subtitle: "Diamond + Iron"
-	quest.439B5FDAC84271A2.title: "Titanium Bee"
 	quest.447CAC472A99835B.quest_subtitle: "Spawns from a Snow Nest"
-	quest.47A57DF7964D71B9.quest_subtitle: "You just craft it"
-	quest.47A57DF7964D71B9.title: "Bloody Bee"
 	quest.47CEFA06392C4211.quest_desc: ["Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots."]
 	quest.47CEFA06392C4211.quest_subtitle: "Increasing our bee storage"
 	quest.47CEFA06392C4211.title: "Expansion Box"
@@ -402,8 +388,6 @@
 	quest.5962DC39E5874FB9.quest_subtitle: "Lapis + Skeletal"
 	quest.5AE851B8074BC7E6.quest_subtitle: "Glowing + Choco Mining"
 	quest.5AE851B8074BC7E6.title: "Redstone Crystal Bee"
-	quest.5B969BF6F00A84D8.quest_subtitle: "Centrifuge 6 RuBee Spawn Eggs into 1 Chromium Bee Spawn Egg"
-	quest.5B969BF6F00A84D8.title: "Chromium Bee"
 	quest.5CC9CB0911954215.quest_desc: ["A Reed Nest will work in any overworld biome, and will lure in a Mason Bee or a Reed Bee."]
 	quest.5CC9CB0911954215.quest_subtitle: "Lures bees in any Overworld Biome"
 	quest.5CF2A069A3CC4EF6.quest_subtitle: "Resin + Reed"
@@ -478,8 +462,6 @@
 	quest.70FB4088084018D3.quest_desc: [""]
 	quest.70FB4088084018D3.quest_subtitle: "Made in Reprocessor"
 	quest.70FB4088084018D3.title: "Ludicrite Bee"
-	quest.715588642623A8A1.quest_subtitle: "Crystalline + Iron"
-	quest.715588642623A8A1.title: "Quartz Enriched Iron Bee"
 	quest.71667FFC8011525C.quest_subtitle: "Magmatic + Leafcutter"
 	quest.71667FFC8011525C.title: "Coal Bee"
 	quest.7277D695C4CB7840.quest_subtitle: "Made with Energizer"
@@ -528,8 +510,6 @@
 	quest.7B5A0BFD47D96BDE.quest_subtitle: "Catches Bees"
 	quest.7B72CF322A3C985D.quest_desc: ["An &8Obsidian Bee&r pollinating a &4Redstone Bee Spawn Egg&r will convert it into a &2Flux Dust Bee Spawn Egg&r."]
 	quest.7B72CF322A3C985D.title: "Flux Dust Bee"
-	quest.7B99AA20DC55263C.quest_subtitle: "Lead + Silver"
-	quest.7B99AA20DC55263C.title: "Antimony Bee"
 	quest.7C169A4A39F37FAC.quest_desc: ["With the vanilla Beehive, we'll use this to craft an &eAdvanced Beehive&r. It can be Oak or any kind of wood.\\n\\nBees will fly in and out of these, and drop off Honeycombs in the inventory. You can also insert glass bottles to get Honey Bottles.\\n\\nWe'll need a lot of Honeycomb for treats!"]
 	quest.7C169A4A39F37FAC.quest_subtitle: "No more shearing."
 	quest.7C169A4A39F37FAC.title: "Advanced Beehive"

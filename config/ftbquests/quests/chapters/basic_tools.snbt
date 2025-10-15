@@ -864,23 +864,6 @@
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
-			id: "2A6753C806D2AF8D"
-			optional: true
-			rewards: [{
-				id: "3C8B7A471A746C16"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "1AEEDACF509CA8E1"
-				item: { count: 1, id: "modern_industrialization:quantum_sword" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: 12.5d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
 			id: "1D3F11194EA3BB73"
 			optional: true
 			rewards: [{

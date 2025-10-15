@@ -1363,40 +1363,6 @@
 			y: -7.5d
 		}
 		{
-			id: "3403D7502F7BC897"
-			optional: true
-			rewards: [{
-				id: "324ADE86F3B1C9DA"
-				type: "xp_levels"
-				xp_levels: 100
-			}]
-			size: 1.5d
-			tasks: [
-				{
-					id: "2EE6EF6F3016B050"
-					item: { count: 1, id: "modern_industrialization:quantum_helmet" }
-					type: "item"
-				}
-				{
-					id: "6693F8A2AE3002CE"
-					item: { count: 1, id: "modern_industrialization:quantum_chestplate" }
-					type: "item"
-				}
-				{
-					id: "5AC9B88DE39494F1"
-					item: { count: 1, id: "modern_industrialization:quantum_leggings" }
-					type: "item"
-				}
-				{
-					id: "41E743C112F4A0E3"
-					item: { count: 1, id: "modern_industrialization:quantum_boots" }
-					type: "item"
-				}
-			]
-			x: 24.0d
-			y: -6.0d
-		}
-		{
 			id: "13517D17E6BF015F"
 			optional: true
 			rewards: [{

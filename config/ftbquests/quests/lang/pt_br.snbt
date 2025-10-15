@@ -12,7 +12,6 @@
 	chapter.100C477F4E63F20A.title: "Create"
 	chapter.11919EBB416B2BD0.title: "Relics"
 	chapter.12AD9789D962B179.title: "Encantamentos do Apotheosis"
-	chapter.15AAF17B6665223D.title: "Refined Storage"
 	chapter.18A429E7F56AF5A9.title: "Quadro de Recompensas"
 	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
 	chapter.1BE666F01EFFC00D.title: "Dicas e Truques"
@@ -22,7 +21,6 @@
 	chapter.219B7A003658D24F.title: "XyCraft"
 	chapter.22C20C1827FE6805.title: "Immersive Engineering"
 	chapter.23983F4DC524B14B.title: "Mekanism"
-	chapter.25344A9254E02C8E.title: "O Fim do Jogo"
 	chapter.26E6ED94168A05C4.title: "Productive Bees"
 	chapter.29EFE8220836C79A.title: "&aCapítulo 2&r: &6A Estrela ATM"
 	chapter.2A6EBEEBAB882679.title: "Powah"
@@ -43,11 +41,9 @@
 	chapter.4EBB2171D5A3AAAC.title: "Forbidden \\& Arcanus"
 	chapter.4EEDECACDE8F5A67.title: "Oritech"
 	chapter.5103E2D95685ADFF.title: "&aCapítulo 3&r: &6A Estrela ATM"
-	chapter.56B11606F5F4DAB2.title: "A Era Digital"
 	chapter.5712300EF4E5E846.title: "Pylons"
 	chapter.59395B6806F2A98A.title: "Cataclysm"
 	chapter.5B00676D79306EA2.title: "Bem-vindo"
-	chapter.5C4F10E65D86ED0E.title: "A Era Elétrica: Chega de novatos"
 	chapter.5C764279146E5E66.title: "Mystical Agriculture"
 	chapter.5D045EF1AB73DF70.title: "Energia Básica"
 	chapter.5E31DF282998B992.title: "PneumaticCraft"
@@ -75,7 +71,6 @@
 	chapter_group.580C62D0FA9E2D17.title: "Modern Industrialization"
 	chapter_group.5A4775CCD6D26C80.title: "Exploração"
 	chapter_group.6614EE2378B8AFB9.title: "Recursos"
-	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	chapter_group.68BDE5700A9B0002.title: "Ferramentas e Equipamentos"
 	file.0000000000000001.title: "All The Mods 10"
 	quest.0000A88BB40B2149.quest_desc: ["Agora, antes de chegar à Ilha do Caos, recomendo que você se prepare. Ele pode se parecer com o Dragão do Ender, mas este é muito mais difícil. Você vai querer Armas ou Ferramentas Dracônicas que causem muito dano, pois elas facilitarão as coisas. Ele também causará uma tonelada de dano, então uma boa Armadura como a de Unobtainium ou o Meka-Suit é recomendada. Efeitos de Regeneração, Absorção e Resistência também ajudarão você a sobreviver. Não se preocupe, você sempre pode voltar para lutar outro dia se não estiver pronto."]
@@ -938,8 +933,6 @@
 		"{image:atm:textures/questpics/eternal/starlight_ether.png width:200 height:100 align:center}"
 	]
 	quest.0BB8D556305EB307.title: "Rio de Éter"
-	quest.0BCB7E97BC566683.quest_subtitle: "Centrifugar 6 Ovos de Geração de Abelha de Ferro para 1 Ovo de Geração de Abelha de Manganês"
-	quest.0BCB7E97BC566683.title: "&fAbelha Manganês"
 	quest.0BCC79C1D002F532.quest_desc: ["Para transformar o &bPó de Cristal Arcano &r em &bLiquid Aureal&r, precisaremos de um líquido! Na verdade, precisaremos do Líquido... que é &9Água&r!\\n\\nBasta canalizar &9Água&r de uma &9Pia&r, é infinita."]
 	quest.0BCC79C1D002F532.title: "&9Água&r Infinita!!!"
 	quest.0BCCDE24D378F260.quest_subtitle: "Tier: &d3"
@@ -1837,8 +1830,6 @@
 	quest.17542D7633FBF098.title: "&d&lPatrick &aEstrela&r"
 	quest.175509632CBF8631.quest_desc: ["A &#4BA83EForja de Fragmentos&r é o resultado da nossa alta alocação de fundos para aprender a processar as coisas de forma mais eficiente. Ela é capaz de fornecer uma &#3E77A8produção&r melhor para o mesmo &#7EA83Einsumo&r."]
 	quest.1756F81ACFC56C58.quest_subtitle: "Tier: &e5"
-	quest.17598C171E610752.quest_desc: ["Eu nem sei o que dizer sobre isso. Estou me perdendo olhando as receitas. Prefiro listar todas as Árvores Genealógicas do &l&2Productive Trees&r. \\n\\nObtenha &6Motores Avançados&r e combine-os com &dVaras de Titânio&r e uma &9Unidade de Processamento&r para fazer o &6Motor Avançado Grande&r. \\nOu você pode usar um &6Braço Mecânico&r, mas não posso prometer que eles são mais fáceis de Criar!"]
-	quest.17598C171E610752.title: "&6Large Advanced Motor"
 	quest.1759A4E2AF0D2C88.quest_desc: ["Pense no &eLight Engineering Block&r, agora apenas torne todos os seus componentes muito mais difíceis de fazer! \\n\\n1º precisamos de &eElectrum&r, que é uma Liga de &eOuro&r e &7Prata&r feita na &6&lFornalha de Liga&r. \\n\\n2º precisamos de 4 &8Chapas de Aço&r, que como a &7Chapa de Ferro&r, precisam de 4 &8Placas&r combinadas. \\n\\n3º são nossos &8Componentes Mecânicos de Aço&r, que são um &6Barra de Cobre&r e 4 &8Placas de Aço&r em uma Mesa de Criação, ou feitos mais baratos na &6Bancada do Engenheiro&r."]
 	quest.1759A4E2AF0D2C88.title: "Bloco de Engenharia &7Pesada"
 	quest.175D943160C10646.quest_desc: [
@@ -2134,8 +2125,6 @@
 	quest.1ABEC7DE47BD6286.quest_desc: ["&5Caixotes do End&r são &5Baús do End&r que podem ser usados para transportar itens.\\n\\n&5Oculares do End&r são versões portáteis dos &5Caixotes do End&r."]
 	quest.1ABEC7DE47BD6286.quest_subtitle: "Aqui e Ali!"
 	quest.1ABEC7DE47BD6286.title: "Caixotes e Oculares do &5End"
-	quest.1ACB3EDBCB732514.quest_subtitle: "Alimente uma Abelha de Enxofre com um Bloco de Monazite"
-	quest.1ACB3EDBCB732514.title: "&fAbelha de Monazita"
 	quest.1AD87CB3226ED224.quest_desc: [
 		"Lã só faz uma coisa com o gerador: &9Silenciá-lo&r. "
 		"- Não gosta de ouvir os sons irritantes do &aGerador&r? Então use a Lã! Qualquer cor, espessura ou estampa serve!"
@@ -2445,8 +2434,6 @@
 	quest.1FA44E8FEE004AB4.title: "Seguro para uso com o &6&lGancho&r!"
 	quest.1FAFDB20F504688E.quest_desc: ["O &5Encantamento&r recebe algumas mudanças com o &5&lApotheosis&r. \\n\\nPara resumir, 15 &7Estantes de Livros&r não serão suficientes agora. \\n\\nHá novas Estantes de Livros e ações que você pode fazer com &5Mesas de Encantamento&r agora e, com sorte, estas missões ajudarão você a entender."]
 	quest.1FAFDB20F504688E.title: "&5&lEncantamento Apótico"
-	quest.1FC1588A131B6A4A.quest_desc: ["Assim como fazer a &6&lEstrela ATM&r normalmente, automatizá-la precisa estar dentro do &6&lAltar da Estrela Rúnica&r! \\n\\nConfira a Missão no Capítulo 3 para aprender a construir e usá-la."]
-	quest.1FC1588A131B6A4A.title: "&6&lAltar da Estrela Rúnica"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
 	quest.1FC7ABEAB5018E79.title: "&4Redstone&r"
 	quest.1FC88A3BFCE6C9D7.quest_desc: ["Esta aqui é apenas o Encantamento Passos Rápidos... só que agora em uma &7Unidade&r!"]
@@ -2695,8 +2682,6 @@
 	quest.22C4318523A43B49.quest_desc: ["Os &eTerminal&f fornecem acesso a qualquer conteúdo de uma Rede ME. O &eTerminal ME&f padrão simplesmente lista tudo na rede como uma grande grade para puxar e inserir, semelhante a um único inventário.\\n\\nO &eTerminal de Fabricação ME&f é uma extensão do ME Terminal que também fornece uma grade de criação embutida, permitindo a criação conveniente usando qualquer item contido na rede e visível através da tela do terminal."]
 	quest.22C4318523A43B49.quest_subtitle: "[piada de usuário de Linux vai aqui]"
 	quest.22C4318523A43B49.title: "Terminais"
-	quest.22CF5AD56C1BB8D5.quest_subtitle: "Alimente uma Abelha Diamante com um Bloco Escuro"
-	quest.22CF5AD56C1BB8D5.title: "&fAbelha de Gema Escura"
 	quest.22D0C3F454F5E8F1.quest_subtitle: "Tier: &b4"
 	quest.22D2CFDDB06C720C.quest_desc: ["Ferramentas são muito importantes no &2&lMinecraft&r, mas o espaço no inventário também é. Então, por que não liberar espaço criando uma Paxel! \\nPaxels são uma combinação de &ePicaretas&r, &eMachados&r, e &ePás&r. \\n\\nElas podem descascar madeira, fazer caminhos e minerar quaisquer blocos que uma picareta/machado/pá do mesmo Tier consiga!"]
 	quest.22D2CFDDB06C720C.title: "Paxel"
@@ -2849,8 +2834,6 @@
 	quest.24E800EEC2CAD626.quest_desc: ["A &2Unidade Geiger&r funcionará como a &aUnidade de Dosímetro&r, mas em vez de medir a &aRadiação&r em você, ela mede a &aRadiação&r ao seu redor! \\n\\nApenas para que você possa encontrar onde ela pode estar escondida. \\n\\nVocê também pode ativá-la e desativá-la!"]
 	quest.24E800EEC2CAD626.quest_subtitle: "Peitoral"
 	quest.24E800EEC2CAD626.title: "&2Unidade Geiger"
-	quest.24F3E90C14BFD1B4.quest_desc: ["O &7&lModern Industrialization&r é um mod tão grande quanto o seu nome! \\n\\nEle tem vários níveis de máquinas e, felizmente, não precisamos ir até o último para a &6&lEstrela&r. \\n\\nNa verdade, agora é totalmente opcional! Se preferir brincar com o &6&lCreate&r para criar (entendeu?) a &6&lEstrela ATM&r, você pode!"]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
 	quest.24FCFF18296ED907.quest_desc: ["Para aprimorar as &9Estante de Livros Profunda&r ainda mais, surpreendentemente não precisamos de &d&lInfusão&r! Em vez disso, precisamos de mais Criação! \\n\\nPrimeiro, são 5 &3Blocos de Sculk&r e um &3Catalisador de Sculk&r. Ambos podem ser encontrados dentro do &9Deep Dark&r e precisarão de &5Toque Suave&r para coletar. \\n\\nPor último, há o &9Tentáculo do Warden&r... este é um Drop do &9&lWarden&r... Sim, você precisará matar o &9&lWarden&r. \\n\\nQuando tiver tudo isso, poderá criar uma das melhores &7Estantes&r! Uma que dá &a10 de Eterna&r, &c15% de Quanta&r e &510% de Arcana&r. \\n\\nE o mais importante, nos dá um máximo de &aEterna&r de &a80&r! Quase 100!"]
 	quest.24FCFF18296ED907.title: "&9Estante de Sculk Tocada pela Alma"
 	quest.25080E3295B1DF01.quest_desc: ["A &5Unobtainium Furnace&r funde itens mais rápido do que qualquer outra fornalha no pacote!"]
@@ -3208,8 +3191,6 @@
 	quest.2A559D527BC88DEC.quest_desc: ["Jogue um &9Ovo de Geração de Abelha Espacial&r e um &8Bloco de Aço do Céu&r na &6lava&r, espere alguns ticks e voilà, você terá um Ovo de Geração de Abelha de Aço do Céu."]
 	quest.2A559D527BC88DEC.title: "&fAbelha de Aço do Céu"
 	quest.2A5C5B44E9643A5D.title: "Módulo de Velocidade Caótico"
-	quest.2A6753C806D2AF8D.quest_desc: ["Causa mais dano do que você jamais precisaria! Tem algumas desvantagens, no entanto."]
-	quest.2A6753C806D2AF8D.quest_subtitle: "&f∞ &cDano de Ataque"
 	quest.2A6900E87DE8BAE0.quest_desc: ["O Filtro de Mod é outro Filtro bem básico. Neste você coloca Itens e ele fará o mesmo com Lista Branca ou Lista Negra. Mas em vez de ser apenas aquele Item, será qualquer Item daquele Mod. \\n\\nUma Gema do Apotheosis só permitirá Itens do Apotheosis. Uma Liga do Mekanism só permitirá Itens do Mekanism. E assim por diante."]
 	quest.2A6FC21142E75DD5.quest_desc: [
 		"Os Lagos, Oceanos, Lagoas e Rios da &l&6Bumblezone&r. \\n\\nProvavelmente era originalmente apenas &bÁgua&r, mas todo o tempo que passou dentro da &eColmeia&r a tornou &bÁgua com Açúcar&r. \\n\\nEstes são muito úteis para sair da &l&6Bumblezone&r, pois há muito menos Blocos neste Bioma. \\n\\nTambém, &6Slimes de Mel&r aparecem às vezes aqui."
@@ -3275,8 +3256,6 @@
 	]
 	quest.2AED15E3AC0346FE.quest_subtitle: "Coisas muito úteis"
 	quest.2AED15E3AC0346FE.title: "Melhorias Simples"
-	quest.2AEEDCC6826CF4AB.quest_subtitle: "Negócio Suspeito"
-	quest.2AEEDCC6826CF4AB.title: "&fAbelha de Petróleo"
 	quest.2AF31F1769085641.quest_desc: [
 		"O &aReprocessador&r é uma estrutura multibloco de 3x3x7 que possui regras específicas para concluir a construção do multibloco."
 		""
@@ -3287,8 +3266,6 @@
 	quest.2B05A29C62676EB2.title: "&l&9Recompensa do Mundo Superior:&r&e Zumbis"
 	quest.2B08B19B35EEBCBA.quest_desc: ["Essas Relíquias podem ser encontradas no &cNether&r!"]
 	quest.2B08B19B35EEBCBA.title: "&cO Nether"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["As &aBarras de Combustível Quádruplas de Urânio&r são uma combinação de várias Ligas à prova de Explosão e Radioatividade e, claro, Materiais radioativos. \\n\\nTodos eles se juntarão para fazer um combustível maravilhoso para um reator! Ou o &c&lCombustível dos Filósofos&r! \\n\\nOu você pode apenas usar um &cQueimador de Blaze&r... mas vamos lá, isso não tem graça!"]
-	quest.2B0C3AAAA6D0B0D2.title: "&aBarras de Combustível Quádruplas de Urânio"
 	quest.2B115519A21F9CB7.quest_desc: [
 		"O &d&lGuardião do Ender&r é uma besta colossal de Endstone, &dPurpur&r e &5Obsidiana&r que aguarda dentro do &dAltar do Vazio&r. \\nEle tem 13.320 &4Corações&r e cuidado para não chegar muito perto ou você pode ser puxado para mais perto dele! \\n\\nEle tem uma tonelada de ataques e habilidades, um sendo um soco muito simples para aqueles que estão muito perto de seu espaço pessoal, ou uma pancada que o jogará para trás. \\n\\nSe você estiver mais longe dele, ele pode fechar a distância avançando e colidindo com você. Ou ele pode pisar e produzir &dRunas do Vazio&r para atingi-lo! Ele também pode enviar &dBolas de Shulker&r em uma fileira. \\n\\nE lembra quando eu disse que ele pode te puxar para mais perto dele? Sim, ele faz isso com uma coisa chamada &dTufão do Vazio&r, que ele também pode invocar aos seus Pés para te prender. Depois que você fica lá por muito tempo, ele explode, muito provavelmente te danificando no processo. \\n\\nQuando você o leva à metade da &4Vida&r, sua Máscara se quebra revelando sua verdadeira Cabeça! Com raiva, ele destruirá o chão da arena, levando vocês dois para o nível inferior. \\n\\nAgora ele vai te sugar mais, enviar mais &dRunas do Vazio&r atrás de você e atacar mais rápido e mais forte!"
 		"{image:atm:textures/questpics/cataclysm/cataclysm_guardiuan.png width:100 height:100 align:center}"
@@ -3858,9 +3835,6 @@
 	quest.33D2901594655A77.title: "Módulo de Área de Efeito Caótico"
 	quest.33F4A7613764A016.quest_desc: ["Funciona como os Importadores, só que eles exportam."]
 	quest.33F4A7613764A016.quest_subtitle: "Exportando"
-	quest.3403D7502F7BC897.quest_desc: ["Literalmente invencível, nada pode te atingir e causar dano. \\n\\nAtualmente você precisa melhorar a &cArmadura de Netherita&r com uma &eMelhoria &bQuântica&r, mas seus amigos da &6&lEquipe ATM&r estão trabalhando para tornar essa receita mais difícil! \\n\\nE você não pode fazer nada para impedir! &lBWAHAHAHAHA"]
-	quest.3403D7502F7BC897.quest_subtitle: "Invencível"
-	quest.3403D7502F7BC897.title: "&eArmadura &bQuântica&r (&l&7MI&r)"
 	quest.340F93695FFF8D76.quest_desc: ["Com isso, o &b&lLançador Químico&r será mais um Atirador Químico. \\n\\nO alcance será aumentado, mas a largura do spray será diminuída. Então é mais preciso!"]
 	quest.341486C9F277FEB7.title: "Reator (Vibrante)"
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Neptunium&r é uma recompensa da Recompensa de Netuno, que é obtida através da Pesca! \\nTambém concede bônus por estar debaixo d'água."]
@@ -4633,8 +4607,6 @@
 	quest.3D9964CB0440DD5A.quest_desc: ["Jogar Brasa de Blaze em Polymorphic Fluid criará Combustível de Brasa de Blaze Não Refinado. Realizar a Dispersão de Gosma com gosma de Tier Dois ou superior converterá o Combustível de Brasa de Blaze Não Refinado em Combustível de Brasa de Blaze."]
 	quest.3DA5F622E3266AE5.quest_subtitle: "Feito no Reprocessador"
 	quest.3DA5F622E3266AE5.title: "&fAbelha de Ridiculite"
-	quest.3DB5874FA93FDA50.quest_subtitle: "Eletrolise 3 Ovos de Geração de Abelha de Esmeralda em um Ovo de Geração de Abelha de Berílio"
-	quest.3DB5874FA93FDA50.title: "&fAbelha de Berílio"
 	quest.3DCF26B53AE1EBF6.quest_desc: ["Dentro da &2Floresta Negra&r, você encontrará uma estrutura que leva ao subsolo.\\n\\nPara entrar, você precisará colocar um dos troféus de chefe que adquiriu no pedestal próximo, não se preocupe com qual você coloca, você pode pegá-lo de volta.\\n\\nNa 3ª camada, você encontrará os Cavaleiros Fantasmas. Derrote-os para desbloquear o próximo chefe."]
 	quest.3DCF26B53AE1EBF6.quest_subtitle: "A Mais Escura das Florestas"
 	quest.3DCF26B53AE1EBF6.title: "&2A Floresta Negra"
@@ -5029,8 +5001,6 @@
 	quest.429B5A81DF6C43FE.title: "&6Comando de Conjuração Aberto de Abra"
 	quest.42AAEC41F2BC2474.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_glacite.png width:100 height:150 align:center}"]
 	quest.42AAEC41F2BC2474.title: "&bGlacita&r"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["Você pode fazer &2Liga à Prova de Explosão&r combinando os três Metais mais fortes disponíveis. &5Tungstênio&r, &dTitânio&r e &7Aço Inoxidável&r. Sim, as manchas importam, aparentemente. \\n\\nCom eles, você pode combiná-los para fazer o &2Invólucro&r. \\n\\nPara o &3&lDispositivo de Probabilidade Improvável&r, precisaremos de 2 &2Invólucros à Prova de Explosão&r, ou 2 Células de Item Portáteis de 256M, ou podemos usar uma mistura de ambos!"]
-	quest.42AF4EBDA5D6CC36.title: "&2Invólucro à Prova de Explosão"
 	quest.42CB494F72FA1FD1.quest_desc: ["Crie 6 &eColmeias&r ou &eNinhos de Abelha&r. Isso inclui as &eColmeias&r do &l&6Productive Bee's&r também!"]
 	quest.42D173B9FF8D16E4.quest_desc: ["Procurando por opções de energia no início do jogo? Estas são boas maneiras de começar a gerar energia.\\n\\nElas não produzem uma tonelada de energia, mas geralmente são fáceis ou baratas de obter no início do jogo!"]
 	quest.42D173B9FF8D16E4.quest_subtitle: "Energia Inicial"
@@ -5078,8 +5048,6 @@
 	quest.437F4945AFBE0825.quest_desc: ["Quando você clica com o botão direito em um Importer ou Exporter, um menu aparece. O menu é principalmente para filtragem, digamos que você tenha um Variable Card configurado para Cobblestone, seu Exporter enviará apenas Cobblestone.\\n\\nHá um pequeno \"+\" à esquerda das variáveis quando você as insere, clicar nele abre outra GUI. Aqui você pode alterar as taxas de transferência para poder enviar itens/fluidos/energia &dINFINITOS&r, além de poder fazer outras coisas.\\n\\nNo canto superior esquerdo temos as configurações, que são, na maior parte, a mesma coisa que as configurações da interface."]
 	quest.438F734D16DA9638.quest_desc: ["Nós temos nosso &aPolônio&r e o resto é o que já devemos ter! \\n\\nUma &2&lP.R.C.&r, &9Água&r e &dPó de Fluorita&r! \\n\\nCombine 1.000mB de &9Água&r com 1.000mB de &aPolônio&r e 1 &dPó de Fluorita&r para fazer 1 &aPastilha de Polônio&r e 1.000mB de &8Rejeito Nuclear&r. \\n\\nO &dPó de Fluorita&r pode ser feito como qualquer Pó de Metal: no &4&lTriturador&r, na &d&lCâmara de Enriquecimento&r ou até mesmo com um Martelo de Minério!"]
 	quest.438F734D16DA9638.title: "&aPastilhas de Polônio!"
-	quest.439B5FDAC84271A2.quest_subtitle: "Diamante + Ferro"
-	quest.439B5FDAC84271A2.title: "&fAbelha de Titânio"
 	quest.43A1BC20BB054A14.quest_desc: ["Glitterkelp cresce em Mares Ancestrais e Gelados. \\n\\nEles não fazem muito além de Brilhar e podem ser transformados em Torta!"]
 	quest.43A5B83862D9E94C.quest_desc: ["O &bEye of Flame&r o levará para a &bBurning Arena&r para lutar contra o &b&lIgnis&r."]
 	quest.43A5B83862D9E94C.title: "&bEye of Flame&r"
@@ -5352,8 +5320,6 @@
 	quest.478C1AF86610A8B7.quest_desc: ["O &#EDD653&nCompressor&r é usado para fazer &#53EDAAChapas&r, &#53EDAACurvas&r e &#53EDAAAnéis&r."]
 	quest.478C1AF86610A8B7.title: "&fO &#ED9553Compressor de Bronze"
 	quest.47A2BEFB11F4D581.quest_desc: ["O Filtro Básico é bem... fácil de usar! Simplesmente coloque Itens nele e eles agora estão filtrados. \\n\\nVocê pode alterá-lo para que ele Coloque na Lista Branca/permita apenas esses Itens ou que ele Coloque na Lista Negra/negue apenas esses Itens. \\n\\nVocê também pode fazer com que ele corresponda aos dados NBT ou não. Corresponder aos Dados NBT significaria ter os mesmos Encantamentos, Durabilidade ou até mesmo Mobs dentro de qualquer Item. Se selecionado para não corresponder, ele fará qualquer um desse Item, independentemente do NBT."]
-	quest.47A57DF7964D71B9.quest_subtitle: "Você apenas o cria"
-	quest.47A57DF7964D71B9.title: "&fAbelha Sanguinária"
 	quest.47A6769B6BF1A46D.quest_desc: ["&eFunis&r são como se um Funil e um Ejetor tivessem um bebê. \\n\\nQuando colocados em um Bloco com um Inventário, como Baús, eles automaticamente retiram &eItens&r um de cada vez. \\nSe você segurar Shift e clicar com o botão direito, eles automaticamente colocarão &eItens&r no Inventário. \\n\\nAmbos podem ser desligados com um &4Sinal de Redstone&r!"]
 	quest.47A6769B6BF1A46D.title: "&eFunil de Andesito"
 	quest.47AED7219704EB3E.quest_subtitle: "&f18 &cde Dano de Ataque"
@@ -5593,8 +5559,6 @@
 	quest.4B42D962FE910CB3.quest_desc: ["Com isto adicionado ao seu &d&lRevólver&r, suas Balas darão aos Mobs que você atingir o Efeito de Atordoamento."]
 	quest.4B4F5341D6DBDD19.quest_desc: ["Mantenha sua respiração debaixo d'água, assim que suas bolhas descerem para 5, elas serão recarregadas! Também permite que você veja muito mais facilmente debaixo d'água!"]
 	quest.4B4F5341D6DBDD19.quest_subtitle: "Máx: 1"
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r é tudo sobre as 5 Cores diferentes, isso inclui usá-las para Blocos! \\n\\n&aVerde&r, &cVermelho&r, &9Azul&r, &8Escuro&r e Blocos de Luz de todos os tipos!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lMundo"
 	quest.4B62AF0405F68041.quest_desc: ["Adiciona um filtro que permite que você diga à Mochila quais itens ela deve manter em estoque. Clicar com o botão direito do mouse em um inventário irá reabastecê-lo."]
 	quest.4B62AF0405F68041.quest_subtitle: "Tudo abastecido"
 	quest.4B76FE0348DB0E45.quest_desc: ["O Cartão de Quantum Bridge é um método alternativo para obter acesso interdimensional sem fio ao seu sistema Applied Energistics. Você precisará de uma Ponte Quântica conectada em sua base e um Cartão de Quantum Bridge em seu terminal. Esses túneis são então ligados com uma &5Singularidades Quanticamente Entrelaçadas&r para obter acesso onde quer que você vá."]
@@ -6814,8 +6778,6 @@
 		"- Explosão Aérea: Distância de lançamento aprimorada e consome FE."
 		"- Deslocamento do Vazio: Teletransporta o jogador na direção que ele está olhando, consumindo FE no processo."
 	]
-	quest.5B969BF6F00A84D8.quest_subtitle: "Centrifugue 6 Ovos de Geração de Abelha Rubi em 1 Ovo de Geração de Abelha de Cromo"
-	quest.5B969BF6F00A84D8.title: "&fAbelha de Cromo"
 	quest.5B9F3F32AB28A83A.quest_desc: ["O interior, e a parte importante, da &6&lCaldeira Termoelétrica&r é feito de Blocos chiques! \\n\\n&6Elementos de Superaquecimento&r, que trabalham transferindo &6Calor&r para a &9Água&r, e &9Dispersores de Pressão&r, que ajudarão a criar o Vapor! \\n\\nSe usarmos Construções maiores, podemos deixar espaço entre os diferentes Blocos dentro da &6&lCaldeira&r para dar mais armazenamento para Vapor e &9Água&r. \\n\\nAr entre o Topo e os &9Dispersores de Pressão&r aumentará o Armazenamento de Vapor. Ar entre os &9Dispersores de Pressão&r e os &6Elementos de Superaquecimento&r dará mais espaço para a &9Água&r."]
 	quest.5B9F3F32AB28A83A.title: "A parte Termo da &6&lCaldeira Termoelétrica"
 	quest.5B9F933ECD6B24FD.quest_desc: ["Permite que você pule mais alto do que com o Nível II."]
@@ -7036,8 +6998,6 @@
 	quest.5E4FE420B6D2C97F.quest_desc: ["Compacta itens na mochila para sua receita 3x3."]
 	quest.5E4FE420B6D2C97F.quest_subtitle: "Mais Opções de Filtragem"
 	quest.5E4FE420B6D2C97F.title: "&eMelhoria de Compactação Avançada"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r adiciona muitos Vidros com seu &lNúcleo do Mundo&r! \\n\\nDesde aqueles que você pode atravessar, até os brilhantes, e os mais fortes!"]
-	quest.5E5D5D28D82F6891.title: "Vidro do &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.5E63C78CDC44FF95.quest_desc: ["Rotten Blisterberries não podem ser arremessadas, mas quando transformadas em Blisterbombs, elas podem! \\n\\nVocê pode ir ainda mais longe e fazer Boomgourds, que agirão como TNTs que lançam Blisterberries para todo lado."]
 	quest.5E63C78CDC44FF95.title: "Explosivos!!!"
 	quest.5E6585F7627247E3.quest_desc: ["Quando aplicada como um upgrade a qualquer dispositivo compatível, como uma Interface ou um Ponto de Exportação, a &bCartão de Fabricação&f permite que o dispositivo em questão envie automaticamente suas próprias solicitações de fabricação para um item necessário (filtrado). As CPUs de Fabricação podem ser configuradas para responder apenas a essas solicitações para evitar a ocupação de CPUs destinadas a fabricações solicitadas pelo jogador.\\n\\nQuando o &eEmissor de Nível&f é atualizado com o Cartão de Fabricação, ele pode ser configurado para emitir um sinal de redstone para facilitar diretamente a fabricação, emitindo um sinal &odurante&r a detecção de uma tarefa de fabricação para o item especificado ou especificamente &opara&r fabricar o item. O último caso se aplicaria a situações em que a única coisa necessária para fazer um item é um sinal de redstone, sem sequer exigir um padrão de fabricação."]
@@ -7531,8 +7491,6 @@
 	quest.6674270897997BF7.quest_desc: ["Permite que você pule mais alto do que o normal e o torna elástico, proporcionando viagens mais rápidas.\\n\\nVocê só pode ter um nível desses Upgrades nas Perneiras de cada vez."]
 	quest.6674270897997BF7.quest_subtitle: "Máx: 1"
 	quest.6678AB58930F4B91.quest_subtitle: "White Willow + Aspen"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r, claro, sendo todo sobre Cores, as Luzes também são baseadas em Cor. \\n\\nAs Luzes RGB serão da cor do Corante com o qual são feitas. \\n\\nO Corante especificamente, não a Gema."]
-	quest.667CD7C6E87A05F4.title: "&fLuzes &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.668C313FF46B6005.quest_desc: ["Adiciona uma INTERFACE de Fornalha à Mochila."]
 	quest.6690AEE064DC2A7C.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -8288,33 +8246,6 @@
 	quest.70C7D92844089DEB.title: "&bPingente de Choque (Shock Pendant)&r"
 	quest.70C878DB6AE413B2.quest_subtitle: "Magmatic + Carvão"
 	quest.70C878DB6AE413B2.title: "&fAbelha de Enxofre"
-	quest.70CCE558E03227AB.quest_desc: [
-		"O &6&lAltar Estelar Rúnico&r é um Multibloco feito pelo nosso próprio &3Drack.ion&r via &7&lModern Industrialization&r! \\n\\nÉ uma Estrutura de 15x8x15 que começa com o &5Bloco de Altar Estelar Rúnico&r. Coloque-o e use uma &eChave de Boca&r (do &7&lModern Industrialization&r) nele. Ao fazer isso, você terá destaques que pode seguir para construir o Multibloco. \\n\\nDepois de construí-lo (com a ajuda da 2ª Página da Missão ou da &eChave de Boca&r) em cada lado do &6&lAltar&r, você pode substituir a &9Pedra Sombria Polida&r ao lado da &6Pedra Sombria Polida Arcana&r por Alçapões. Estes são necessários para a verdadeira criação da &6&lEstrela&r. \\n\\nUse Alçapões de Entrada de Itens (todos do &l&7Modern Industrialization&r), é onde a Receita será colocada. Os Alçapões de Saída de Itens são de onde a &6&lEstrela&r virá. E as Entradas de Energia são necessárias para alimentar o &6&lAltar&r! \\nFalando em Energia, o &6&lAltar Estelar&r precisará de um impulso para obter FE/t suficiente. Para isso, podemos usar pilhas de Upgrades do &7&lModern Industrialization&r. Estes são colocados no &5Bloco de Altar&r e quando seguramos Shift ao ver o Item, podemos ver o quanto ele impulsiona o &6&lAltar&r! \\n\\nVocê pode verificar o &5Bloco de Altar&r para iniciar Receitas com o &6&lAltar&r ou, se não estiver construído corretamente, ele avisará. \\n\\n(A propósito, a Sacola de Saque usada em sua receita é da &5&lMonstruosidade Lunar&r. Além disso, a direção de blocos como &9Escadas&r ou &6Pilares&r não importa para o &6Altar&r)."
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:125 height:75 align:center}"
-		"A 1ª Camada é apenas &9Pedra Sombria Polida&r, &9Escadas de Pedra Sombria Polida&r e &6Pedra Sombria Polida Arcana&r, junto com o &5Bloco de Altar&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:125 height:75 align:center}"
-		"A 2ª Camada é mais &9Pedra Sombria Polida&r, &9Escadas&r, e agora &6Gilded Chiseled Polished Darkstone&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:125 height:100 align:center}"
-		"A 3ª adiciona &bObeliscos de Cristal Arcano&r, &7Blocos de Runas&r, &6Pedra Sombria Polida Arcana Cinzelada&r e &9Lajes de Pedra Sombria Polida&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:125 height:100 align:center}"
-		"A 4ª Camada é onde temos nossos &6Pedestais de Pedra Escura&r, um &7Pedestal de Pedra Escura Magnetizada&r no meio, e &6Pilares de Pedra Sombria Polida Arcana&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:125 height:100 align:center}"
-		"A 5ª Camada é bem simples, apenas mais alguns &6Pilares&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:125 height:100 align:center}"
-		"A 6ª Camada precisa de mais &6Pilares&r mais um &7Injetor Quântico&r acima do &7Pedestal de Pedra Escura Magnetizada&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"A 7ª é muito simples também, apenas mais &6Pilares&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"A última Camada, precisa de mais &6Pilares&r, claro, além de mais &7Blocos de Runas&r e &bBlocos de Cristal Arcano&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:125 height:100 align:center}"
-		"Agora podemos adicionar nossos Frascos Utrem! O &5Bloco de Altar&r parecia irritado quando os Frascos não estavam cheios..."
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer11.png width:200 height:100 align:center}"
-		"A última coisa que precisamos fazer para iniciar o &6&lAltar&r é adicionar nossos Alçapões. Coloque-os na parte externa da &6Pedra Sombria Polida Arcana&r como mostrado, você precisará de algumas Entradas de Item, Saídas e Entradas de Energia."
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "Criando a &l&6Estrela ATM"
-	quest.70CCE558E03227AB.title: "&l&6Altar Estelar Rúnico"
 	quest.70CDA5F1593DB4B2.quest_desc: [
 		"A &eThe Cursed Pyramid&r aparece em desertos e é muito difícil não a ver. Uma pirâmide massiva com enormes pilares na entrada. \\n\\Entra e encontrarás armadilhas por toda parte, &eKoboletons&r e mini-bosses! \\n\\nNão te preocupes, também há Baús, Potes e até Areia Suspeita que precisarás para o..."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_pyramid.png width:200 height:100 align:center}"
@@ -8371,8 +8302,6 @@
 	]
 	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium&r é um mod adicionado especificamente pela &6Equipe AllTheMods&r para adicionar mais conteúdo após a Netherite! \\n\\nVocê precisará se aventurar por ele para obter alguns Itens necessários para a &6&lEstrela ATM&r. \\n\\nHá uma página de Missões agora que você pode seguir para isso!"]
 	quest.7154D73516548149.title: "&l&6Allthemodium"
-	quest.715588642623A8A1.quest_subtitle: "Cristalino + Ferro"
-	quest.715588642623A8A1.title: "&fAbelha de Ferro Enriquecido em Quartzo "
 	quest.71581992E8E4C43E.quest_desc: ["Jogue alguns &8Crânios de Esqueleto Wither&r e uma &dEssência de Abjuração&r para fazer um &3Glifo&r de &8Wither&r! \\n\\nSe não funcionou, você pode precisar de mais &aEXP&r."]
 	quest.71581992E8E4C43E.title: "&3Glifo de &8Wither"
 	quest.715B86DC82EA636B.quest_desc: [
@@ -9172,8 +9101,6 @@
 	]
 	quest.7B9672C4FCFFB887.quest_desc: ["Esses &9Modelos&r podem ser criados e, nossa, como são baratos! \\n\\nSinais de Aviso são decorações muito simples que podemos fazer com &7Chapas de Metal&r, Corantes e este &9Modelo&r."]
 	quest.7B9672C4FCFFB887.title: "&9Modelos de Sinais de Aviso "
-	quest.7B99AA20DC55263C.quest_subtitle: "Chumbo + Prata"
-	quest.7B99AA20DC55263C.title: "&fAbelha de Antimônio"
 	quest.7B9F5EEC76FDD0D4.title: "Módulo de Dano Dracônico"
 	quest.7BC289DEF023FEAA.quest_subtitle: "Nível: &63"
 	quest.7BC8F50A89A3BE1A.quest_desc: ["Estes são apenas usados para Conectar &cNós de Laser&r uns aos outros e a Conectores. Não são muito importantes, eu só queria manter o tema das Chaves Inglesas. \\n\\nFunciona como uma Chave Inglesa para outras Configurações!"]
@@ -9467,7 +9394,6 @@
 	quest.7FE969CB4B419FC6.quest_subtitle: "Não funciona só para Energia"
 	quest.7FE969CB4B419FC6.title: "&9Mekanism: &6Entreleportador Quântico"
 	quest.7FF77463F2A0E210.quest_desc: ["Lama do Anoitecer só pode ser encontrada nos Pântanos Escuros. \\n\\nVocê pode fazer mais Blocos com ela!"]
-	reward_table.00E1FAFD0EF07752.title: "MI: Vapor"
 	reward_table.04285B94275AB879.title: "Powah: Varas e Cabos"
 	reward_table.047C4C58EC06DBF3.title: "Powah: Endurecido"
 	reward_table.06C4634E81851A6C.title: "Recompensa: Comum"
@@ -9485,9 +9411,7 @@
 	reward_table.1EC6956FA2BB2B00.title: "Armazenamento Básico: Recompensas"
 	reward_table.21B1896C13F84C09.title: "MA: Saco de Sementes Nível 2"
 	reward_table.2A2E3EFEF58354A9.title: "Immersive: Bloco de Construção"
-	reward_table.2B3CE3172F836885.title: "MI: Fim de Jogo"
 	reward_table.37F912BDB7C8E6B6.title: "Gaveta de Madeira 1x1"
-	reward_table.38EA3D35FF94DD47.title: "MI: Elétrica Inicial"
 	reward_table.3A3BDBA4E9AD13C4.title: "Recompensa: Incomum"
 	reward_table.3AC97B13FF3E4FD3.title: "Powah: Inicial"
 	reward_table.43C220CBD5447FE6.title: "PNC: Nível de PCB"
@@ -9504,22 +9428,17 @@
 	reward_table.5958F7D688A0101D.title: "Productive Bees: Genes"
 	reward_table.5A138D1EDF8AA0C1.title: "PNC: Nível de Plástico"
 	reward_table.5AF0FD7302DEC2B1.title: "MA: Saco de Sementes Nível 1"
-	reward_table.5B1B065B81883FF5.title: "RS: Materiais Básicos"
-	reward_table.5F919CCD30D9E7F6.title: "MI: Elétrico Tardio"
 	reward_table.611A165B35847A5A.title: "Bumblezone: Recompensas"
 	reward_table.617F6D802ED0FD00.title: "Recompensa: Épica"
 	reward_table.6329856B9A5563C4.title: "DE: Dracônico"
 	reward_table.636C0F2A58AD8FC1.title: "MA: Recompensas Básicas"
 	reward_table.63E11953DD289422.title: "Mekanism: Recompensas"
 	reward_table.64E6D6A658988648.title: "MA: Saco de Sementes Nível 3"
-	reward_table.677C7D01E9C0064B.title: "MI: Digital Inicial"
 	reward_table.73742263F9E32427.title: "DE: Básico"
 	reward_table.73E94318B401E916.title: "IF: Recompensas Avançadas"
 	reward_table.74164DBBE7919A3B.title: "Reatores Mekanism: Recompensas"
-	reward_table.74447919FD89521E.title: "MI: Digital Tardio"
 	reward_table.75FE7CDF68581EDE.title: "RailCraft: Aleatório"
 	reward_table.7609CF2A167B45C8.title: "Theurgy: Sal"
-	reward_table.788F9A636009996D.title: "RS: Parte de Armazenamento"
 	reward_table.79C7738D7CEDABD4.title: "MA: Saco de Sementes Nível 5"
 	reward_table.7FB97C5850827C71.title: "PNC: Nível Avançado"
 	task.00CBF98DE4E9CC90.title: "TodosOsDireitosReservados"

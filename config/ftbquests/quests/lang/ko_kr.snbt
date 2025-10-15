@@ -69,7 +69,6 @@
 	chapter_group.49AECADBA9E79A3B.title: "힘"
 	chapter_group.5A4775CCD6D26C80.title: "탐험"
 	chapter_group.6614EE2378B8AFB9.title: "자원"
-	chapter_group.6700DB960E16A321.title: "모던 인더스트리얼라이제이션"
 	chapter_group.68BDE5700A9B0002.title: "도구 및 장비"
 	file.0000000000000001.title: "올 더 모드 10"
 	quest.00075A5F9AC120ED.quest_desc: ["이것은 당신의 입력 상자에서 아이템을 꺼낼 것입니다."]
@@ -1413,8 +1412,6 @@
 	quest.17542D7633FBF098.quest_subtitle: "&o스폰지밥이 별이 아니라서 아쉽네요."
 	quest.17542D7633FBF098.title: "&d&l뚱이 &a별&r"
 	quest.1756F81ACFC56C58.quest_subtitle: "티어: &e5"
-	quest.17598C171E610752.quest_desc: ["이것에 대해 뭐라고 말해야 할지도 모르겠네요. 레시피를 보다가 길을 잃었어요. &l&2Productive Trees&r의 모든 가계도를 나열하는 것이 낫겠어요. \\n\\n&6발전된 모터&r를 구해서 &d티타늄 막대&r와 &9프로세싱 유닛&r을 결합하여 &6대형 발전된 모터&r를 만드세요."]
-	quest.17598C171E610752.title: "&6대형 발전된 모터"
 	quest.1759A4E2AF0D2C88.quest_desc: ["&e빛 공학 블록&r을 생각해 보세요. 이제 모든 구성 요소를 훨씬 더 만들기 어렵게 만드세요! \\n\\n첫째, &e호박금&r이 필요합니다. 이는 &e금&r과 &7은&r의 &6&l합금 가마&r에서 만들어진 합금입니다. \\n\\n둘째, &8강철 판금&r 4개가 필요합니다. 이는 &7철 판금&r처럼 &8판&r 4개를 합쳐서 만들어야 합니다. \\n\\n셋째는 &8강철 기계 부품&r입니다. 이는 제작대에서 &6구리 주괴&r 1개와 &8강철 판&r 4개로 만들거나 &6엔지니어 작업대&r에서 더 저렴하게 만들 수 있습니다."]
 	quest.1759A4E2AF0D2C88.title: "&7중형 엔지니어링 블록"
 	quest.175D943160C10646.quest_desc: [
@@ -1902,8 +1899,6 @@
 	quest.1FA44E8FEE004AB4.title: "&6&l엔지니어의 스카이훅&r 사용에 안전합니다!"
 	quest.1FAFDB20F504688E.quest_desc: ["어포테오시스에서는 마법 부여에 몇 가지 변경 사항이 있습니다. 요약하자면, 이제 책장 15개로는 충분하지 않습니다. 이제 새로운 책장과 마법 부여대에서 할 수 있는 액션이 생겼으며, 이 퀘스트가 이해하는 데 도움이 되기를 바랍니다."]
 	quest.1FAFDB20F504688E.title: "아포틱 마법 부여"
-	quest.1FC1588A131B6A4A.quest_desc: ["일반적으로 &6&lATM 별&r을 만드는 것처럼, 자동화하려면 &6&l룬 문자 별 제단&r 내에서 해야 합니다! \\n\\n제3 챕터의 퀘스트를 확인하여 제작 및 사용법을 알아보세요."]
-	quest.1FC1588A131B6A4A.title: "&6&l룬 문자 별 제단"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
 	quest.1FC7ABEAB5018E79.title: "&4레드스톤&r"
 	quest.1FCC474860587169.quest_desc: ["나중에 나올 제작법을 얻으려면 &6제련로 프리즘&r이 필요할 가능성이 높으며, 걱정하지 마세요. 티어 1 Forge만 있으면 됩니다! \\n\\nJEI에서 Forge에 필요한 각 스탯의 양을 확인할 수 있습니다! 또한 &6블레이즈 가루&r 4개, &8석탄&r 2개, &b아케인 크리스탈&r 1개가 필요합니다. \\n\\n마지막으로, &9엘리멘타리움&r이 필요합니다. 이것은 정글 사원, 사막 피라미드, 해저 유적에서 찾을 수 있습니다!"]
@@ -2203,8 +2198,6 @@
 	]
 	quest.24D38DA8E86DD897.title: "&c부패귀&r"
 	quest.24E658BA47367A44.quest_desc: ["&n&5밧줄 도르래&r는 블록을 위 또는 아래로 움직일 수 있으며, 블록끼리 접착될 수 있습니다."]
-	quest.24F3E90C14BFD1B4.quest_desc: ["&7&l모던 인더스트리얼라이제이션&r은 이름만큼이나 큰 모드입니다! \\n\\n이것은 여러 티어의 기계를 가지고 있으며 다행히도 &6&l별&r을 얻기 위해 마지막 티어까지 갈 필요는 없습니다."]
-	quest.24F3E90C14BFD1B4.title: "&7&l모던 인더스트리얼라이제이션"
 	quest.24FCFF18296ED907.quest_desc: ["놀랍게도 이것들에는 주입이 필요하지 않습니다! 바닐라 Minecraft에서 가장 강력한 보스를 처치하기만 하면 됩니다! &9스컬크 선반&r은 &a에테르나&r를 &a80&r까지 증가시켜 다음 아이템을 주입할 수 있게 해줍니다."]
 	quest.24FCFF18296ED907.title: "&9영혼이 깃든 스컬크 책장"
 	quest.25080E3295B1DF01.quest_desc: ["&5언옵테이니움 화로&r는 팩에 있는 다른 어떤 화로보다 아이템을 더 빠르게 제련합니다!"]
@@ -2503,8 +2496,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_hivewall.png width:200 height:100 align:center}"
 	]
 	quest.2A50A687C40DB864.title: "&6&l벌집 벽"
-	quest.2A6753C806D2AF8D.quest_desc: ["필요 이상으로 더 많은 피해를 줍니다! 하지만 몇 가지 단점도 있습니다."]
-	quest.2A6753C806D2AF8D.quest_subtitle: "&f∞ &c공격 피해"
 	quest.2A6900E87DE8BAE0.quest_desc: ["모드 필터는 또 다른 꽤 기본적인 필터입니다. 이 필터에 아이템을 넣으면 화이트리스트 또는 블랙리스트와 동일한 방식으로 작동합니다. 하지만 특정 아이템만 필터링하는 것이 아니라 해당 모드의 모든 아이템을 필터링합니다.\\n\\napotheosis 젬은 apotheosis 아이템만 허용합니다. 메카니즘 합금은 메카니즘 아이템만 허용합니다. 이런 식으로 작동합니다."]
 	quest.2A6FC21142E75DD5.quest_desc: [
 		"&l&6범블존&r의 호수, 바다, 연못, 그리고 강입니다.\\n\\n아마 원래는 그냥 &b물&r이었겠지만, &e벌집&r 안에서 오랜 시간을 보내면서 &b설탕물&r이 되었습니다.\\n\\n이것들은 &l&6범블존&r에서 나가는 데 매우 유용합니다. 왜냐하면 이 생물 군계에는 블록이 훨씬 적기 때문입니다.\\n\\n또한 &6꿀 슬라임&r이 가끔 이곳에 생성됩니다."
@@ -2570,8 +2561,6 @@
 	quest.2B05A29C62676EB2.title: "&l&9오버월드 현상금:&r&e 좀비"
 	quest.2B08B19B35EEBCBA.quest_desc: ["이 &c네더&r에서 이러한 유물을 찾을 수 있습니다!"]
 	quest.2B08B19B35EEBCBA.title: "&c네더"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&a우라늄 사중 연료 막대&r는 여러 가지 다른 폭발 및 방사능 방지 합금과 물론 방사성 물질의 조합입니다.\\n\\n이 모든 것이 합쳐져 원자로를 위한 훌륭한 연료가 될 것입니다! 아니면 &c&l연금술사의 연료&r!"]
-	quest.2B0C3AAAA6D0B0D2.title: "&a우라늄 사중 연료 막대"
 	quest.2B115519A21F9CB7.quest_desc: [
 		"&d&l엔더 가디언&r은 엔드스톤, &d푸르푸르&r 및 &5흑요석&r으로 이루어진 거대한 야수로, &d무효의 제단&r 안에서 기다리고 있습니다. \\n\\n그는 13,320 &4하트&r를 가지고 있으며, 너무 가까이 가지 않도록 조심하세요. 그렇지 않으면 그에게 더 가까이 빨려 들어갈 수 있습니다!\\n\\n\\n\\n그는 수많은 공격과 능력을 가지고 있는데, 그중 하나는 그의 개인 공간에 너무 가까이 있는 사람들을 위한 매우 간단한 밀어내기 공격이거나, 당신을 뒤로 밀어내는 발구르기 공격입니다.\\n\\n\\n\\n만약 당신이 그에게서 더 멀리 떨어져 있다면, 그는 돌진하여 당신을 밀어 넘어뜨려 거리를 좁힐 수 있습니다. 아니면 발을 구르며 &d무효 룬&r을 생성하여 당신을 공격할 수도 있습니다! 그는 또한 &d셜커 탄&r을 연속으로 발사할 수도 있습니다.\\n\\n\\n\\n또한 그가 당신을 자신에게 더 가까이 빨아들일 수 있다고 말했던 것을 기억하십니까? 네, 그는 &d무효 타이폰&r이라는 것으로 그렇게 하는데, 이것을 당신의 발 아래에 소환하여 당신을 꼼짝 못하게 할 수도 있습니다. 너무 오래 그곳에 있으면 폭발하여 당신에게 피해를 줄 가능성이 큽니다.\\n\\n\\n\\n체력이 절반으로 줄어들면 &4체력&r이 절반으로 줄어들면 그의 가면이 부서져 그의 진짜 머리가 드러납니다! 분노한 그는 경기장 바닥을 파괴하여 당신과 그를 모두 아래층으로 데려갈 것입니다.\\n\\n\\n\\n이제 그는 당신을 더 많이 빨아들이고, 더 많은 &d무효 룬&r을 당신에게 날리며, 더 빠르고 강하게 공격할 것입니다!"
 		"{image:atm:textures/questpics/cataclysm/cataclysm_guardiuan.png width:100 height:100 align:center}"
@@ -3039,9 +3028,6 @@
 	quest.33D23C65E7274A8F.title: "&d각성&r"
 	quest.33F4A7613764A016.quest_desc: ["임포터처럼 작동하지만, 대신 내보냅니다."]
 	quest.33F4A7613764A016.quest_subtitle: "내보내는 중"
-	quest.3403D7502F7BC897.quest_desc: ["말 그대로 무적입니다. 그 무엇도 당신을 때려 피해를 줄 수 없습니다.\\n\\n현재 &c네더라이트 갑옷&r을 &e퀀텀&b 상위 버전으로 변환&r해야 하지만, &6&lATM 팀&r의 친구들이 그 제작법을 더 어렵게 만들려고 노력하고 있습니다!\\n\\n그리고 당신은 그걸 막기 위해 아무것도 할 수 없습니다! &lBWAHAHAHAHA"]
-	quest.3403D7502F7BC897.quest_subtitle: "무적"
-	quest.3403D7502F7BC897.title: "&e퀀텀 &b갑옷&r (&l&7MI&r)"
 	quest.340F93695FFF8D76.quest_desc: ["이것으로 &b&l화학 투척기&r는 화학 물질 슈터에 더 가까워질 것입니다.\\n\\n범위는 증가하지만 분사 폭은 적게 됩니다. 따라서 더 정확합니다!"]
 	quest.341486C9F277FEB7.title: "원자로 (활기찬)"
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3넵튜늄&r은 낚시를 통해 얻을 수 있는 넵튠의 보상에서 얻는 보상입니다! 또한 수중에 있을 때 버프를 부여합니다."]
@@ -3932,8 +3918,6 @@
 	quest.429B5A81DF6C43FE.title: "&6Abras의 Open Commanding Conjure"
 	quest.42AAEC41F2BC2474.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_glacite.png width:100 height:150 align:center}"]
 	quest.42AAEC41F2BC2474.title: "&b글래사이트&r"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["사용 가능한 세 가지 가장 강력한 금속을 결합하여 &2방폭 합금&r을 만들 수 있습니다. &5텅스텐&r, &d티타늄&r 및 &7스테인리스 강&r입니다. 네, 얼룩은 분명히 중요합니다. \\n\\n이것들을 결합하여 &2케이싱&r을 만들 수 있습니다."]
-	quest.42AF4EBDA5D6CC36.title: "&2폭발내성 케이싱"
 	quest.42CB494F72FA1FD1.quest_desc: ["6개의 &e벌통&r 또는 &e벌집&r을 제작하세요. 여기에는 &l&6생산적인 꿀벌&r의 &e벌집&r도 포함됩니다!"]
 	quest.42D173B9FF8D16E4.quest_desc: ["초반 게임에 사용할 힘 설정을 찾고 계신가요? 이것들은 힘을 생성하는 데 도움이 되는 좋은 방법입니다.\\n\\n이것들은 많은 힘을 생산하지는 않지만, 일반적으로 초반 게임에서 얻기 쉽거나 저렴합니다!"]
 	quest.42D173B9FF8D16E4.quest_subtitle: "스타터 힘"
@@ -4371,8 +4355,6 @@
 	quest.4B42D962FE910CB3.quest_desc: ["이것을 당신의 &d&l리볼버&r에 추가하면, 당신의 총알이 당신이 맞춘 몹에게 기절 효과를 줍니다."]
 	quest.4B4F5341D6DBDD19.quest_desc: ["물 속에서 숨쉬기를 유지하세요. 방울이 5개 아래로 내려가면 다시 채워질 것입니다! 또한 물 속에서 훨씬 쉽게 볼 수 있습니다!"]
 	quest.4B4F5341D6DBDD19.quest_subtitle: "최대: 1"
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r는 5가지의 다양한 색상에 관한 모든 것이며, 블록에 사용하는 것도 포함됩니다! \\n\\n&a초록색&r, &c빨간색&r, &9파란색&r, &8어두운색&r 그리고 모든 종류의 밝은 블록!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &l세계"
 	quest.4B62AF0405F68041.quest_desc: ["배낭에 보관할 아이템을 지정할 수 있는 필터를 추가합니다. Shift 키를 누른 채로 인벤토리를 우클릭하면 다시 채워집니다."]
 	quest.4B62AF0405F68041.quest_subtitle: "모두 보관 완료"
 	quest.4B76FE0348DB0E45.quest_desc: ["퀀텀 브리지 카드는 어플라이드 에너제틱스 시스템에 무선 차원 간 액세스를 얻을 수 있는 대체 메서드입니다. 기지에 연결된 퀀텀 브리지와 단자에 퀀텀 브리지 카드가 필요합니다. 그런 다음 이 터널은 퀀텀 얽힘 특이점으로 함께 귀속되어 어디든 액세스할 수 있습니다."]
@@ -5513,8 +5495,6 @@
 	quest.5E4FE420B6D2C97F.quest_desc: ["배낭 안의 아이템을 3x3 제작법으로 압축합니다."]
 	quest.5E4FE420B6D2C97F.quest_subtitle: "기타 필터링 설정"
 	quest.5E4FE420B6D2C97F.title: "&e고급 압축 기능"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r는 &l월드 코어&r로 다양한 유리를 추가합니다! \\n\\n걸어 다닐 수 있는 것부터, 발광하는 것, 더 튼튼한 것까지!"]
-	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r 유리"
 	quest.5E63C78CDC44FF95.quest_desc: ["썩은 물집딸기는 던질 수 없지만 발포 폭탄으로 만들면 던질 수 있습니다! \\n\\n더 나아가 폭탄호박을 만들어 모든 곳에 물집딸기를 던지는 TNT처럼 작동하게 할 수도 있습니다."]
 	quest.5E63C78CDC44FF95.title: "폭발물!!!"
 	quest.5E6585F7627247E3.quest_desc: ["인터페이스 또는 익스포트 버스와 같이 지원되는 모든 장치에 상위 버전으로 변환하여 적용하면 &b제작 카드&f를 통해 해당 장치는 필요한 (필터링된) 아이템에 대한 자체 제작 요청을 자동으로 보낼 수 있습니다. 제작 CPU는 플레이어가 요청한 제작에 사용되는 CPU를 점유하지 않도록 이러한 요청에만 응답하도록 설정할 수 있습니다.\\n\\n&e레벨 방출기&f가 제작 카드로 업그레이드되면 주어진 아이템에 대한 제작 작업이 &o진행되는 동안&r 또는 특정 아이템을 &o제작하기&r 위해 신호를 방출하여 제작을 직접 용이하게 하기 위해 레드스톤을 방출하도록 구성할 수 있습니다. 후자는 제작 패턴조차 필요 없이 주어진 아이템을 만드는 데 필요한 유일한 것이 레드스톤 신호인 경우에 적용됩니다."]
@@ -5923,8 +5903,6 @@
 	quest.6674270897997BF7.quest_desc: ["평소보다 더 높이 점프할 수 있게 하고 탄력 있게 만들어 더 빠르게 이동할 수 있습니다.\\n\\n레깅스에는 이러한 상위 버전으로 변환을 한 번에 한 단계만 적용할 수 있습니다."]
 	quest.6674270897997BF7.quest_subtitle: "최대: 1"
 	quest.6678AB58930F4B91.quest_subtitle: "하얀색 버드나무 + 아스펜"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r 물론 모든 색상과 마찬가지로 조명도 색상을 기반으로 합니다. \\n\\nRGB 조명은 어떤 염료로 만들어졌는지에 따라 결정됩니다.\\n\\n특히 보석이 아닌 염료입니다."]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r 조명"
 	quest.668C313FF46B6005.quest_desc: ["배낭에 화로 GUI를 추가합니다."]
 	quest.6690AEE064DC2A7C.quest_desc: [
 		"&l능력 유형:&r 패시브"
@@ -6493,32 +6471,6 @@
 	quest.70C7D92844089DEB.quest_desc: ["다른 펜던트처럼 이것도 당신을 공격하는 상대를 공격할 확률이 있습니다. 이번에는 번개로요! \\n\\n또한 당신이 운이 좋든 (나쁘든) 번개에 맞아도 피해를 입지 않게 해줍니다."]
 	quest.70C7D92844089DEB.quest_subtitle: "목걸이"
 	quest.70C7D92844089DEB.title: "&b충격적인 펜던트&r"
-	quest.70CCE558E03227AB.quest_desc: [
-		"&6&l룬 별 제단&r은 &3Drack.ion&r 님이 &l모듈러 머시너리&r를 통해 만든 멀티블록입니다! \\n\\n&a룬 별 제단 컨트롤러&r로 시작하는 15x9x15 구조물입니다. 컨트롤러를 놓고 &c기계 설계도&r를 사용하세요. 그러면 멀티블록을 만드는 데 따라갈 수 있는 하이라이트가 표시됩니다. \\n\\n&a컨트롤러&r에 들어가서 자동으로 만들 수도 있습니다. 더 빠르다고 약속할 수 있습니다! \\n\\n&6&l제단&r의 각 면에서 &9연마된 다크스톤&r을 &6아케인 연마된 다크스톤&r 옆에 있는 해치로 교체할 수 있습니다. 이것들은 실제 &6&l별&r 제작에 필요합니다. \\n\\n아이템 입력 해치(&l모듈러 머시너리&r에서 모두 가져옴)를 사용하세요. 이곳은 제작법이 놓이는 곳입니다. 아이템 출력 해치는 &6&l별&r이 나오는 곳입니다. 그리고 &6&l제단&r에 전력을 공급하려면 에너지 입력이 필요합니다! \\n\\n&a컨트롤러&r에서 제작법 진행 상황 또는 &6&l제단&r의 문제를 확인할 수 있습니다. \\n\\n(참고로 제작법에 사용된 전리품 상자는 &5달의 괴물&r에서 나옵니다. 또한 &9계단&r 또는 &6기둥&r과 같은 블록의 방향은 &6제단&r에 중요하지 않습니다.)"
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:100 height:100 align:center}"
-		"첫 번째 레이어는 &9연마된 다크스톤&r, &9연마된 다크스톤 계단&r, 그리고 &6아케인 연마된 다크스톤&r과 함께 &a컨트롤러&r로 되어 있습니다."
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:100 height:100 align:center}"
-		"두 번째 레이어는 &9연마된 다크스톤&r, &9계단&r 외에 이제 &6금박이 입혀진 조각된 연마된 다크스톤&r입니다."
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:100 height:100 align:center}"
-		"세 번째로 추가된 것은 &b아케인 크리스탈 오벨리스크&r, 룬 블록, &6아케인 조각된 연마된 다크스톤&r 및 &9연마된 다크스톤 반쪽 블록&r입니다!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:100 height:100 align:center}"
-		"4번째 레이어는 &6다크스톤 받침대&r, 중앙에 &7자화된 다크스톤 받침대&r, 유트렘 항아리, 그리고 &6아케인 연마된 다크스톤 기둥&r이 있는 곳입니다."
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:100 height:100 align:center}"
-		"5번째 레이어는 꽤 단순하며, &6기둥&r이 조금 더 있습니다."
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:100 height:100 align:center}"
-		"6번째 레이어에는 더 많은 &6기둥&r과 &7자화된 다크스톤 받침대&r 위에 &7퀀텀 주입기&r가 필요합니다."
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"7번째도 매우 단순하며, 단지 더 많은 &6기둥&r입니다!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"같은 패턴을 따라 8번째, 더 많은 &6기둥&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:100 height:100 align:center}"
-		"마지막 레이어인 레이어 9에는 더 많은 &6기둥&r이 필요하며, 물론 더 많은 룬 블록과 &b아케인 크리스탈 블록&r도 필요합니다."
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"마지막으로 &6&l제단&r을 시작하기 위해 해야 할 일은 해치를 추가하는 것입니다. &6아케인 연마된 다크스톤&r 외부에 표시된 것처럼 배치하세요. 아이템 입력, 출력 및 에너지 입력이 필요합니다."
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "&l&6ATM의 별 제작"
-	quest.70CCE558E03227AB.title: "&l&6룬 별 제단"
 	quest.70CDA5F1593DB4B2.quest_desc: [
 		"&e저주받은 피라미드&r는 사막에서 스폰되며 놓치기 매우 어렵습니다. 입구에 거대한 기둥이 있는 거대한 피라미드입니다.\\n\\n내부에 들어가면 사방에 함정, &e코볼레톤&r과 미니 보스가 있습니다!\\n\\n걱정하지 마세요. 상자, 냄비, 심지어 the...에 필요한 수상한 모래도 있습니다."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_pyramid.png width:200 height:100 align:center}"

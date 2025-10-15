@@ -70,7 +70,6 @@
 	chapter_group.49AECADBA9E79A3B.title: "Енергія"
 	chapter_group.5A4775CCD6D26C80.title: "Дослідження"
 	chapter_group.6614EE2378B8AFB9.title: "Ресурси"
-	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	chapter_group.68BDE5700A9B0002.title: "Tools and Gear"
 	file.0000000000000001.title: "All The Mods 10"
 	quest.00075A5F9AC120ED.quest_desc: ["This will take the items out of your input chest."]
@@ -1531,8 +1530,6 @@
 	quest.175509632CBF8631.quest_desc: ["Покращує вихід у всіх рецептах пульверизації."]
 	quest.175509632CBF8631.quest_subtitle: "Кращий пульверизатор"
 	quest.1756F81ACFC56C58.quest_subtitle: "Рівень: &e5"
-	quest.17598C171E610752.quest_desc: ["I don't even know what to say for this. I'm getting lost looking through the recipes. I'd rather list out all the Family Trees for &l&2Productive Trees&r. \\n\\nGet &6Advanced Motors&r and combine them with &dTitanium Rods&r and a &9Processing Unit&r to make the &6Large Advanced Motor&r. \\nOr you can use a &6Mechanical Arm&r, but I can't promise you that those are easier to Craft!"]
-	quest.17598C171E610752.title: "&6Large Advanced Motor"
 	quest.1759A4E2AF0D2C88.quest_desc: ["Think of the &eLight Engineering Block&r, now just make all its components much harder to make! \\n\\n1st we need &eElectrum&r, which is an Alloy of &eGold&r and &7Silver&r made in the &6&lAlloy Kiln&r. \\n\\n2nd we need 4 &8Steel Sheetmetal&r, which like the &7Iron Sheetmetal&r, needs 4 &8Plates&r combined together. \\n\\n3rd is our &8Steel Mechanical Components&r which are either one &6Copper Ingot&r and 4 &8Steel Plates&r in a Crafting Table. or made cheaper in the &6Engineer's Workbench&r."]
 	quest.1759A4E2AF0D2C88.title: "&7Heavy Engineering Block"
 	quest.175D943160C10646.quest_desc: [
@@ -2047,8 +2044,6 @@
 	quest.1FA44E8FEE004AB4.title: "Safe for &6&lSkyhook&r usage!"
 	quest.1FAFDB20F504688E.quest_desc: ["&5Enchanting&r gets a few changes with &5&lApotheosis&r. \\n\\nTo summarize it, 15 &7Bookshelves&r won't be enough now. \\n\\nThere's new Bookshelves and actions you can do with &5Enchantment Tables&r now and hopefully these quests will help you understand."]
 	quest.1FAFDB20F504688E.title: "&5&lApothic Enchanting"
-	quest.1FC1588A131B6A4A.quest_desc: ["Just like making the &6&lATM Star&r normally, automating it needs to be within the &6&lRunic Star Altar&r! \\n\\nCheck out the Quest in Chapter 3 to learn how to build and use it."]
-	quest.1FC1588A131B6A4A.title: "&6&lRunic Star Altar"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
 	quest.1FC7ABEAB5018E79.title: "&4Redstone&r"
 	quest.1FCC474860587169.quest_desc: ["To get later recipes you'll most likely need a &6Smelter Prism&r and don't worry we only need a Tier 1 Forge to get it! \\n\\nYou can check how much of each Stat in the Forge you need in JEI! Plus you'll need 4 &6Blaze Powder&r, 2 &8Coal&r, and an &bArcane Crystal&r. \\n\\nLastly, you'll need &9Elementarium&r which can be found in Jungle Temples, Desert Pyramids, and Underwater Ruins!"]
@@ -2389,8 +2384,6 @@
 	quest.24D38DA8E86DD897.title: "&cRotling&r"
 	quest.24E658BA47367A44.quest_desc: ["&aЛебідка&r переміщує будь-які блоки, які прикріплені до її &aМотузки&r знизу. Це також перемістить усі блоки, &aСклеєні&r з цим блоком! \\n\\nЯкщо обертати &e&oза годинниковою стрілкою&r за допомогою &dСили обертання&r, вона опускатиме &aМотузку&r, доки не торкнеться іншого блоку або не досягне заданої висоти. \\n\\nЯкщо подати &9&oпроти годинникової стрілки&r &dСилу обертання&r, мотузка підніматиметься до &aЛебідки&r або до заданої точки. \\n\\nЧому я кажу \"заданої точки\"? Бо є налаштування призначення у Режимі Руху! \\n\\nВони визначають, де блоки зупиняться!"]
 	quest.24E658BA47367A44.title: "&aЛебідка"
-	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lModern Industrialization&r is a mod as big as its name! \\n\\nIt has multiple tiers of machines and thankfully we don't need to go to the last one for the &6&lStar&r. \\n\\nInfact now, it is entirely optional! If you'd rather play with &6&lCreate&r to create (get it?) the &6&lATM Star&r you can!"]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
 	quest.24FCFF18296ED907.quest_desc: ["To upgrade &9Deepshelves&r even farther, surprisingly we don't need &d&lInfusion&r! Instead we need more Crafting! \\n\\nFirst, is 5 &3Sculk Blocks&r and a &3Sculk Catalyst&r. Both can be found within the &9Deep Dark&r and will need &5Silk Touch&r to collect. \\n\\nLast is the &9Warden Tendril&r... this is a Drop from the &9&lWarden&r... Yes, you'll need to kill the &9&lWarden&r. \\n\\nOnce you have all that you can Craft one of the best &7Bookshelves&r! One that gives &a10 Eterna&r, &c15% Quanta&r, and &510% Arcana&r. \\n\\nAnd most importantly, gives us a max &aEterna&r of &a80&r! Almost to 100!"]
 	quest.24FCFF18296ED907.title: "&9Soul-Touched Sculkshelf"
 	quest.25080E3295B1DF01.quest_desc: ["The &5Unobtainium Furnace&r smelts items faster than any other Furnace in the pack!"]
@@ -2698,8 +2691,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_hivewall.png width:200 height:100 align:center}"
 	]
 	quest.2A50A687C40DB864.title: "&6&lСтіна Вулика"
-	quest.2A6753C806D2AF8D.quest_desc: ["Завдає більше шкоди, ніж вам коли-небудь знадобиться! Але має і свої недоліки."]
-	quest.2A6753C806D2AF8D.quest_subtitle: "&f∞ &cшкоди"
 	quest.2A6900E87DE8BAE0.quest_desc: ["Фільтр модів — ще один простий фільтр. Кладете предмети — і він працює або як білий, або як чорний список. Але замість конкретного предмета він пропускає будь-який предмет з цього мода. \\n\\nНаприклад, Самоцвіт з Apotheosis пропустить лише предмети Apotheosis. Сплав з Mekanism — лише предмети Mekanism. І так далі."]
 	quest.2A69272FD3C57924.quest_subtitle: "Трохи краще"
 	quest.2A6FC21142E75DD5.quest_desc: [
@@ -2770,8 +2761,6 @@
 	quest.2B05A29C62676EB2.title: "&l&9Винагорода Верхнього світу:&r&e Зомбі"
 	quest.2B08B19B35EEBCBA.quest_desc: ["Ці реліквії можна знайти у &cНезері&r!"]
 	quest.2B08B19B35EEBCBA.title: "&cНезер"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aUranium Quad Fuel Rods&r are a combination of multiple different Blast and Radiactive proof Alloys and of course radioactive Materials. \\n\\nThese will all come together to make a wonderful fuel for a reactor! Or &c&lPhilosphers Fuel&r!  \\n\\nOr you can just use a &cBlaze Burner&r... but come on that's no fun!"]
-	quest.2B0C3AAAA6D0B0D2.title: "&aUranium Quad Fuel Rods"
 	quest.2B115519A21F9CB7.quest_desc: [
 		"The &d&lEnder Guardian&r is a hulking beast of Endstone, &dPurpur&r, and &5Obsidian&r that waits within the &dVoid Altar&r. \\nIt has 13,320 &4Hearts&r and careful not to get too close or you might be sucked closer to him! \\n\\nHe has a ton of attacks and abilities, one being a very simple punch for those who are too close to his personal space, or a slam which will knock you back. \\n\\nIf you are farther from him, he might close the gap by charging and knocking into you. Or he might stomp and produce &dVoid Runes&r to hit you! He can also send &dShulker Balls&r in a row. \\n\\nAlso remember when I said he can suck you closer to him? Yeah he does that with a thing called a &dVoid Typhon&r, which he can also summon at your Feet to get you stuck. After you are there for too long, it will explode, most likely damaging you in the process. \\n\\nWhen you get him to half &4Health&r, his Mask will break revealing his true Head! In anger he will destroy the floor of the arena taking you both to the lower level. \\n\\nNow he will suck you in more, send more &dVoid Runes&r after you, and attack faster and stronger!"
 		"{image:atm:textures/questpics/cataclysm/cataclysm_guardiuan.png width:100 height:100 align:center}"
@@ -3264,9 +3253,6 @@
 	quest.33D23C65E7274A8F.title: "&dПробудження&r"
 	quest.33F4A7613764A016.quest_desc: ["Працює так само, як Імпортери, але експортує замість імпорту."]
 	quest.33F4A7613764A016.quest_subtitle: "Експорт"
-	quest.3403D7502F7BC897.quest_desc: ["Quite literally invincible, nothing can hit you and do damage. \\n\\nCurrently you need to upgrade &cNetherite Armor&r with a &eQuantum &bUpgrade&r but your friends in the &6&lATM Team&r are working at making that recipe harder! \\n\\nAnd you can't do anything to stop it! &lBWAHAHAHAHA"]
-	quest.3403D7502F7BC897.quest_subtitle: "Invincible"
-	quest.3403D7502F7BC897.title: "&eQuantum &bArmor&r (&l&7MI&r)"
 	quest.340F93695FFF8D76.quest_desc: ["With this the &b&lChemical Thrower&r will be more of a Chemical Shooter. \\n\\nThe range will be increased but the spray width will be decreased. So it is more accurate!"]
 	quest.341486C9F277FEB7.title: "Реактор (Надзаряджений)"
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Neptunium&r is a reward from Neptune's Bounty which is gotten through Fishing! \\nIt also grants buffs to being Underwater."]
@@ -4208,8 +4194,6 @@
 	quest.429B5A81DF6C43FE.title: "&6Abras' Open Commanding Conjure"
 	quest.42AAEC41F2BC2474.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_glacite.png width:100 height:150 align:center}"]
 	quest.42AAEC41F2BC2474.title: "&bGlacite&r"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["You can make &2Blastproof Alloy&r by combining the three strongest Metals available. &5Tungsten&r, &dTitanium&r, and &7Stainless Steel&r. Yes, stains matter apparently. \\n\\nWith these you can combine them to make the &2Casing&r. \\n\\nFor the &3&lImprobable Probablity Device&r we'll need either 2 &2Blastproof Casings&r, or 2 256M Portable Item Cells, or we can use a mix of both!"]
-	quest.42AF4EBDA5D6CC36.title: "&2Blastproof Casing"
 	quest.42CB494F72FA1FD1.quest_desc: ["Створіть 6 &eВуликів&r або &eБджолиних гнізд&r. Це також включає &l&6Productive Bee's&r &eВулики&r!"]
 	quest.42D173B9FF8D16E4.quest_desc: ["Шукаєте варіанти енергії для початку гри? Ось хороші способи розпочати генерацію енергії.\\n\\nВони не виробляють багато енергії, але зазвичай прості або дешеві для отримання на старті!"]
 	quest.42D173B9FF8D16E4.quest_subtitle: "Стартова енергія"
@@ -4686,8 +4670,6 @@
 	quest.4B42D962FE910CB3.quest_desc: ["With this added on to your &d&lRevolver&r, your Bullets will give the Mobs you hit the Stunned Effect."]
 	quest.4B4F5341D6DBDD19.quest_desc: ["Keep your breathing underwater, once your bubbles go down to 5 they will be refilled! It also allows you to see much more easily underwater!"]
 	quest.4B4F5341D6DBDD19.quest_subtitle: "Max: 1"
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r is all about the 5 different Colors, this includes using them for Blocks! \\n\\n&aGreen&r, &cRed&r, &9Blue&r, &8Dark&r, and Light Blocks of all sorts!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lWorld"
 	quest.4B5EBB46A1E58D53.quest_desc: [""]
 	quest.4B5EBB46A1E58D53.quest_subtitle: "Багато енергії"
 	quest.4B62AF0405F68041.quest_desc: ["Додає фільтр, який дозволяє вказати ранцю, які предмети потрібно тримати в запасі. Shift+ПКМ по інвентарю поповнить його."]
@@ -5904,8 +5886,6 @@
 	quest.5E4FE420B6D2C97F.quest_desc: ["Стискає предмети в ранці за рецептом 3x3."]
 	quest.5E4FE420B6D2C97F.quest_subtitle: "Більше варіантів фільтрації"
 	quest.5E4FE420B6D2C97F.title: "&eПросунуте покращення «Компактність»"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r adds plenty of Glasses with it's &lWorld Core&r! \\n\\nFrom ones you can walk through, to glowing ones, to stronger ones!"]
-	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Glass"
 	quest.5E63C78CDC44FF95.quest_desc: ["Rotten Blisterberries can't be thrown but when made into Blisterbombs they can be! \\n\\nYou can even go farther and make Boomgourds which will act like TNT that throws Blisterberries everywhere."]
 	quest.5E63C78CDC44FF95.title: "Explosives!!!"
 	quest.5E6585F7627247E3.quest_desc: ["When applied as an upgrade to any supported device such as an Interface or Export Bus, the &bCrafting Card&f allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts.\\n\\nWhen the &eLevel Emitter&f is upgraded with the Crafting Card, it can be configured to emit redstone in order to directly facilitate in crafting, by emitting a signal either &owhile&r a crafting job for its given item is detected or specifically &oto&r craft the item. The latter would apply for cases where the only thing needed to make a given item is a redstone signal, without even requiring a crafting pattern."]
@@ -6345,8 +6325,6 @@
 	quest.6674270897997BF7.quest_desc: ["Allows you to jump higher than usual and makes you springy, making for faster travel.\\n\\nYou can only have one level of these Upgrades in the Leggings at a time."]
 	quest.6674270897997BF7.quest_subtitle: "Max: 1"
 	quest.6678AB58930F4B91.quest_subtitle: "White Willow + Aspen"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r of course with being all around Colors, the Lights are also based on Color. \\n\\nThe RGB Lights will be whatever Dye they are made with. \\n\\nThe Dye specifically not the Gem."]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Lights"
 	quest.668C313FF46B6005.quest_desc: ["Додає інтерфейс печі до ранця."]
 	quest.6690AEE064DC2A7C.quest_desc: [
 		"&lAbility Type:&r Passive"
@@ -6958,33 +6936,6 @@
 	quest.70C7D92844089DEB.quest_desc: ["Як і інші кулони, цей може завдати шкоди нападнику — тільки блискавкою! \\n\\nА ще, якщо тебе (не)щастить і вдарить блискавка, ти не отримаєш шкоди."]
 	quest.70C7D92844089DEB.quest_subtitle: "Ожерелля"
 	quest.70C7D92844089DEB.title: "&bШоковий кулон&r"
-	quest.70CCE558E03227AB.quest_desc: [
-		"The &6&lRunic Star Altar&r is a Multiblock made by our very own &3Drack.ion&r via &7&lModern Industrialization&r! \\n\\nIt is a 15x8x15 Structure which starts with the &5Runic Star Altar Block&r. Place it down then use a &eWrench&r (from &7&lModern Industrialization&r) on it. Doing so will give you highlights you can follow to build the Mulitblock. \\n\\nAfter you've built it (with help from the 2nd Page of the Quest or &eWrench&r) on each side of the &6&lAltar&r you can replace the &9Polished Darkstone&r next to the &6Arcane Polished Darkstone&r with Hatches. These are needed for the actual &6&lStar&r Crafting. \\n\\nUse Item Input Hatches (all from &l&7Modern Industrialization&r), these are where the Recipe will be placed into. Item Output Hatches are where &6&lThe Star&r will come from. And Energy Inputs are needed to power the &6&lAltar&r! \\nTalking about Energy, the &6&lStar Altar&r will need a boost for getting enough FE/t. To get that we can use stacks of Upgrades from &7&lModern Industrialization&r. These are placed into the &5Altar Block&r and when we Hold Shift when viewing the Item, we can see how much it boosts the &6&lAltar&r! \\n\\nYou can check the &5Altar Block&r to start Recipes with the &6&lAltar&r or if it is not built correctly, it will tell you. \\n\\n(BTW the Loot Bag used in its recipe is from the &5&lLunar Monstrosity&r. Also the direction of blocks like &9Stairs&r or &6Pillars&r do not matter for the &6Altar&r)."
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:125 height:75 align:center}"
-		"1st Layer is just &9Polished Darkstone&r, &9Polished Darkstone Stairs&r, and &6Arcane Polished Darkstone&r, along with the &5Altar Block&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:125 height:75 align:center}"
-		"2nd Layer is more &9Polished Darkstone&r, &9Stairs&r, and now &6Gilded Chiseled Polished Darkstone&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:125 height:100 align:center}"
-		"3rd adds &bArcane Crystal Obelisks&r, &7Rune Blocks&r, &6Arcane Chiseled Polished Darkstone&r, and &9Polished Darkstone Slabs&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:125 height:100 align:center}"
-		"The 4th Layer is where we have our &6Darkstone Pedestals&r, a &7Magnetized Darkstone Pedestal&r in the middle, and &6Arcane Polished Darkstone Pillars&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:125 height:100 align:center}"
-		"5th Layer is pretty simple, just some more &6Pillars&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:125 height:100 align:center}"
-		"6th Layer needs more &6Pillars&r plus a &7Quantum Injector&r above the &7Magnetized Darkstone Pedestal&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"7th is very simple as well, just more &6Pillars&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"The last Layer, needs more &6Pillars&r of course, in addition with more &7Rune Blocks&r and &bArcane Crystal Blocks&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:125 height:100 align:center}"
-		"Now we can add our Utrem Jars! The &5Altar Block&r seemed pissy when the Jars weren't full..."
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer11.png width:200 height:100 align:center}"
-		"Last thing we need to do to start the &6&lAltar&r, is adding our Hatches. Place them on the outside of the &6Arcane Polished Darkstone&r like shown, you'll need some Item Inputs, Outputs, and Energy Inputs."
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "Crafting the &l&6ATM Star"
-	quest.70CCE558E03227AB.title: "&l&6Runic Star Altar"
 	quest.70CDA5F1593DB4B2.quest_desc: [
 		"&eThe Cursed Pyramid&r spawns in deserts and it's very hard to miss. A massive pyramid with huge pillars by the entrance. \\n\\nEnter within and you will find traps all around, &eKoboletons&r, and mini-bosses! \\n\\nDon't worry there's also Chests, Pots, and even Suspicious Sand which you will need for the..."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_pyramid.png width:200 height:100 align:center}"

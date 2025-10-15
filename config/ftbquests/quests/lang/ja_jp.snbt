@@ -71,7 +71,6 @@
 	chapter_group.49AECADBA9E79A3B.title: "パワー"
 	chapter_group.5A4775CCD6D26C80.title: "探検"
 	chapter_group.6614EE2378B8AFB9.title: "リソース"
-	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	chapter_group.68BDE5700A9B0002.title: "ツールと装備"
 	file.0000000000000001.title: "All The Mods 10"
 	quest.00075A5F9AC120ED.quest_desc: ["これはインプットチェストからアイテムを取り出します"]
@@ -958,7 +957,6 @@
 		"{image:atm:textures/questpics/eternal/starlight_ether.png width:200 height:100 align:center}"
 	]
 	quest.0BB8D556305EB307.title: "Ether River"
-	quest.0BCB7E97BC566683.quest_subtitle: "マンガンミツバチのスポーンエッグ1個のために鉄ミツバチのスポーンエッグ6個を遠心分離する"
 	quest.0BCC79C1D002F532.quest_desc: ["&bArcane Crystal Dust&r を &bLiquid Aureal&r にするには、液体が必要です！実際には THE Liquid... つまり &9水&r が必要です！\n\n&9Sink&r から &9水&r をパイプで送るだけです。無限です"]
 	quest.0BCC79C1D002F532.title: "無限の &9水&r!!!"
 	quest.0BCCDE24D378F260.quest_subtitle: "ティア: &d3"
@@ -1864,8 +1862,6 @@
 	quest.17542D7633FBF098.quest_subtitle: "&o黄色いスターがスポンジボブじゃなくて残念"
 	quest.17542D7633FBF098.title: "&d&lパトリック &aスター&r"
 	quest.1756F81ACFC56C58.quest_subtitle: "ティア: &e5"
-	quest.17598C171E610752.quest_desc: ["これについて何を言えばいいのかわかりません。レシピを見ているだけで迷子になりそうです。&l&2生産的な木&rの家系図をすべて列挙する方がまだましです。\\n\\n&6高度なモーター&rを入手し、&dチタン棒&rと&9処理ユニット&rと組み合わせて&6大型高度モーター&rを作ります。\\nまたは&6機械アーム&rを使用することもできますが、それらがより簡単にクラフトできるとは約束できません！"]
-	quest.17598C171E610752.title: "&6Large Advanced Motor"
 	quest.1759A4E2AF0D2C88.quest_desc: ["&eLight Engineering Block&r を思い浮かべてください。今回はその部品をもっと作るのが大変になっただけです！\n\nまず &eエレクトラム&r が必要です。これは &6&lAlloy Kiln&r で &e金&r と &7銀&r を合金化して作ります。\n\n次に &8Steel Sheetmetal&r が4つ必要です。&7Iron Sheetmetal&r と同様に、&8プレート&r を4つ組み合わせて作ります。\n\n3つ目は &8Steel Mechanical Components&r です。作業台で &6銅インゴット&r 1つと &8Steel Plates&r 4つを使って作るか、&6Engineer's Workbench&r でより安く作ることができます"]
 	quest.1759A4E2AF0D2C88.title: "&7Heavy Engineering Block"
 	quest.175D943160C10646.quest_desc: [
@@ -2189,7 +2185,6 @@
 	quest.1ABEC7DE47BD6286.quest_desc: ["&5Ender Crate&r は &5エンダーチェスト&r のようにアイテムを運ぶことができます。\n\n&5Ender Ocular&r は &5Ender Crate&r の携帯版です"]
 	quest.1ABEC7DE47BD6286.quest_subtitle: "ここにもあそこにも！"
 	quest.1ABEC7DE47BD6286.title: "&5Ender Crate と Ocular"
-	quest.1ACB3EDBCB732514.quest_subtitle: "モナザイトブロックを硫黄ミツバチに与える"
 	quest.1AD87CB3226ED224.quest_desc: ["羊毛はスポナーに対して一つのことしかしません。それは、うるさいスポナーの音を消すことです。スポナーの騒音が嫌なら、羊毛を使いましょう！どんな色でも、糸の本数でも、デザインでも構いません！"]
 	quest.1AD87CB3226ED224.title: "静かに、モブを起こさないで！"
 	quest.1AEFF93A398B8BBF.quest_desc: ["&b&lエリートティア&rは&c&lアドバンスド&rの直後に来ます。これらは&c&lアドバンスド&rと同じバフを持っています...ただしもっと！ \\n\\n&b&lエリート&rは&b強化合金&f、&bエリート制御回路&f、ほとんどの場合&e金インゴット&rで作られます。 \\n\\n&b強化合金&rは&c注入合金&rに20mbの&bダイヤモンド&rを注入することで得られます。それは2つの&bダイヤモンドダスト&rまたは1/4の&b濃縮ダイヤモンド&rです！ \\n\\nそれらの&b強化合金&r（2つ）を&cアドバンスド制御回路&rと一緒に使用して&bエリート制御回路&rを作ることができます。"]
@@ -2495,8 +2490,6 @@
 	quest.1FA44E8FEE004AB4.title: "&6&lSkyhook&r 使用に安全！"
 	quest.1FAFDB20F504688E.quest_desc: ["&5エンチャント&rは&5&lアポセオシス&rでいくつかの変更があります。\\n\\n要約すると、15個の&7本棚&rではもう十分ではありません。\\n\\n新しい本棚と&5エンチャントテーブル&rでできることがあり、これらのクエストがあなたの理解を助けることを願っています。"]
 	quest.1FAFDB20F504688E.title: "&5&lアポシックエンチャント"
-	quest.1FC1588A131B6A4A.quest_desc: ["通常の &6&lATM Star&r を作るのと同様に、自動化も &6&lRunic Star Altar&r 内で行う必要があります！\n\nチャプター3のクエストで作り方と使い方を確認してください"]
-	quest.1FC1588A131B6A4A.title: "&6&lRunic Star Altar"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
 	quest.1FC7ABEAB5018E79.title: "&4レッドストーン&r"
 	quest.1FC88A3BFCE6C9D7.quest_desc: ["これはただのSwift Sneakingエンチャント...今は&7ユニット&rです！"]
@@ -2747,7 +2740,6 @@
 	]
 	quest.22C4318523A43B49.quest_subtitle: "[Linuxユーザーの冗談]"
 	quest.22C4318523A43B49.title: "ターミナル"
-	quest.22CF5AD56C1BB8D5.quest_subtitle: "ダークブロックをダイアモンドミツバチに与える"
 	quest.22D0C3F454F5E8F1.quest_subtitle: "ティア: &b4"
 	quest.22D2CFDDB06C720C.quest_desc: ["道具は &2&lMinecraft&r において非常に重要ですが、インベントリのスペースも同様に重要です。Paxel を作って少しスペースを空けてみませんか！\nPaxel はツルハシ(P)、斧(axe)、シャベル(els)を組み合わせたものです。\n\n木材を剥いたり、道を作ったり、同じツルハシ/斧/シャベルの tier で採掘できるブロックを採掘することができます！"]
 	quest.22D2CFDDB06C720C.title: "Paxel"
@@ -2885,8 +2877,6 @@
 	quest.24E800EEC2CAD626.quest_desc: ["&2ガイガー&7ユニット&rは&aドシメーター&7ユニット&rのように機能しますが、あなたの中の&a放射線&rではなく、あなたの周りの&a放射線&rです！ \\n\\nそれがどこに隠れているかを見つけることができます。 \\n\\nまた、有効と無効を切り替えることもできます！"]
 	quest.24E800EEC2CAD626.quest_subtitle: "ボディアーマー"
 	quest.24E800EEC2CAD626.title: "&2ガイガー&7ユニット"
-	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lモダンインダストリアライゼーション&rはその名前と同じくらい大きなMODです！\\n\\n複数の段階の機械がありますが、ありがたいことに&6&lスター&rのために最後の段階まで行く必要はありません。\\n\\n実際、今では完全に任意です！&6&lATMスター&rを作るために&6&lCreate&rを使いたい場合は、そうすることもできます！"]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
 	quest.24FCFF18296ED907.quest_desc: ["&9ディープシェルフ&rをさらにアップグレードするには、驚くべきことに&d&l注入&rは必要ありません！代わりにもっとクラフトが必要です！\\n\\nまず、5つの&3スカルクブロック&rと1つの&3スカルク触媒&rが必要です。両方とも&9ディープダーク&rで見つけることができ、回収するには&5シルクタッチ&rが必要です。\\n\\n最後に&9ウォーデンの触手&r...これは&9&lウォーデン&rからのドロップです...はい、&9&lウォーデン&rを倒す必要があります。\\n\\nすべてを揃えたら、最高の&7本棚&rの一つをクラフトできます！&a10エテルナ&r、&c15%クオンタ&r、&510%アルカナ&rを提供するものです。\\n\\nそして最も重要なのは、最大&aエテルナ&rが&a80&rになることです！100まであと少し！"]
 	quest.24FCFF18296ED907.title: "&9Soul-Touched Sculkshelf"
 	quest.25080E3295B1DF01.quest_desc: ["&5アンオブタニウムかまど&r はこのパックの中で最も速くアイテムを精錬できます！"]
@@ -3281,8 +3271,6 @@
 	quest.2A50A687C40DB864.title: "&6&lハイブウォール"
 	quest.2A559D527BC88DEC.quest_desc: ["&9スペーシャルミツバチスポーンエッグ&rと&8スカイスチールブロック&rを溶岩に投げ込むと、スカイスチールミツバチスポーンエッグが作成されます。"]
 	quest.2A559D527BC88DEC.title: "スカイスチールハニカム"
-	quest.2A6753C806D2AF8D.quest_desc: ["必要以上のダメージを与えます！ただし、いくつかのデメリットもあります"]
-	quest.2A6753C806D2AF8D.quest_subtitle: "&f∞ &c攻撃力"
 	quest.2A6900E87DE8BAE0.quest_desc: ["Mod フィルターは別の基本的なフィルターです。これにアイテムを入れると、ホワイトリストまたはブラックリストで同じように機能します。ただし、特定のアイテムだけでなく、そのModのすべてのアイテムが対象となります。\n\nApotheosis Gemは Apotheosis アイテムのみを許可します。Mekanism Alloyは Mekanism アイテムのみを許可します。以下同様です"]
 	quest.2A6FC21142E75DD5.quest_desc: [
 		"&l&6Bumblezone&r の湖、海、池、川。\n\nもともとは単なる&b水&rだったのかもしれませんが、&e巣&rの中で長い時間を過ごすうちに&b砂糖水&rになりました。\n\nこのバイオームはブロックが少ないため、&l&6Bumblezone&rから出るのに非常に役立ちます。\n\nまた、ここでは時々&6Honey Slime&rがスポーンします"
@@ -3350,7 +3338,6 @@
 	]
 	quest.2AED15E3AC0346FE.quest_subtitle: "とても便利なもの"
 	quest.2AED15E3AC0346FE.title: "シンプルなアップグレード"
-	quest.2AEEDCC6826CF4AB.quest_subtitle: "魚の取引"
 	quest.2AF31F1769085641.quest_desc: [
 		"&aリプロセッサー&rは3x3x7のマルチブロック構造で、マルチブロックの構築を完了するための特定のルールがあります"
 		""
@@ -3361,8 +3348,6 @@
 	quest.2B05A29C62676EB2.title: "&l&9オーバーワールドの賞金首:&r&e ゾンビ"
 	quest.2B08B19B35EEBCBA.quest_desc: ["これらのレリックは&cネザー&rで見つけることができます！"]
 	quest.2B08B19B35EEBCBA.title: "&cネザー"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aウラン四重燃料棒&rは、複数の異なる爆発と放射線に耐える合金、そしてもちろん放射性物質の組み合わせです。\\n\\nこれらはすべて組み合わさって、原子炉の素晴らしい燃料になります！または&c&l哲学者の燃料&rにも！\\n\\nあるいは単に&cブレイズバーナー&rを使うこともできますが...それではつまらないでしょう！"]
-	quest.2B0C3AAAA6D0B0D2.title: "&aウラニウム Quad Fuel Rods"
 	quest.2B115519A21F9CB7.quest_desc: ["&dエンダーガーディアン&rは、エンドストーン、パーパー、オブシディアンの巨大な獣です。4995のハートと２つの段階を持っています。第1段階では、パンチ、ダッシュ、シュルカーオーブを使った攻撃、ヴォイドルーンでの打撃、そしてスタンロックがあります。体力を半分まで減らすと、ヘルメットが壊れて本当の頭が露わになり、第2段階が始まります。彼はアリーナの床を壊し、下の床を露わにした後、同じ動きであなたを引き寄せます。（また、彼は矢に免疫があるので、良い剣を持っていることを願います！）倒されると、ガードのガントレットをドロップし、音楽ディスク「エテルナl」をドロップする可能性があります"]
 	quest.2B115519A21F9CB7.title: "&dエンダー・ガーディアン&r"
 	quest.2B1BAEC5DAAF9DAC.quest_desc: [
@@ -3937,9 +3922,6 @@
 	quest.33D23C65E7274A8F.title: "&d覚醒&r"
 	quest.33F4A7613764A016.quest_desc: ["Importer のように動作しますが、エクスポートする方向です"]
 	quest.33F4A7613764A016.quest_subtitle: "エクスポート"
-	quest.3403D7502F7BC897.quest_desc: ["文字通り無敵で、何もダメージを与えることができません。\n\n現在は&cネザライト防具&rを&eQuantum &bUpgrade&rでアップグレードする必要がありますが、&6&lATM Team&rの仲間たちはそのレシピをより難しくしようと取り組んでいます！\n\nそしてあなたには止めることはできません！&lブワハハハハ"]
-	quest.3403D7502F7BC897.quest_subtitle: "無敵"
-	quest.3403D7502F7BC897.title: "&eQuantum &b防具&r (&l&7MI&r)"
 	quest.340F93695FFF8D76.quest_desc: ["これにより&b&lChemical Thrower&rはより Chemical Shooter のようになります。\n\n射程距離は増加しますが、噴射幅は減少します。そのため、より正確になります！"]
 	quest.341486C9F277FEB7.title: "リアクター（スピリテッド）"
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Neptunium&rは釣りを通じて得られる Neptune's Bounty からの報酬です！\nまた、水中でのバフも付与されます"]
@@ -4683,7 +4665,6 @@
 	quest.3D862A3D3F83CA26.title: "エンチャント装置"
 	quest.3D9964CB0440DD5A.quest_desc: ["Blaze Ember を Polymorphic 液体に落とすと、Unrefined Blaze Ember Fuel が作られます。Tier Two goo 以上で Goo Spread を行うと、Unrefined Blaze Ember Fuel が Blaze Ember Fuel に変換されます"]
 	quest.3DA5F622E3266AE5.quest_subtitle: "再処理装置で作製"
-	quest.3DB5874FA93FDA50.quest_subtitle: "エメラルドミツバチのスポーンエッグ3個を電気分解してベリリウムミツバチのスポーンエッグを作製"
 	quest.3DCF26B53AE1EBF6.quest_desc: [
 		"ダークフォレストの中には地下に続く構造物があります"
 		""
@@ -5140,8 +5121,6 @@
 	quest.429B5A81DF6C43FE.title: "&6Abras' Open Commanding Conjure"
 	quest.42AAEC41F2BC2474.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_glacite.png width:100 height:150 align:center}"]
 	quest.42AAEC41F2BC2474.title: "&bGlacite&r"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["&2耐爆合金&rは、利用可能な最も強力な3つの金属を組み合わせて作ることができます。&5タングステン&r、&dチタン&r、そして&7ステンレス鋼&rです。はい、汚れは明らかに重要です。\\n\\nこれらを組み合わせて&2ケーシング&rを作ることができます。\\n\\n&3&l確率不確定デバイス&rには、2つの&2耐爆ケーシング&r、または2つの256Mポータブルアイテムセル、あるいはその両方の組み合わせが必要です！"]
-	quest.42AF4EBDA5D6CC36.title: "&2Blastproof ケーシング"
 	quest.42CB494F72FA1FD1.quest_desc: ["6つの&eミツバチの巣&rまたは&eミツバチの巣箱&rをクラフトしましょう。これには&l&6Productive Bee's&rの&eハイブ&rも含まれます！"]
 	quest.42D173B9FF8D16E4.quest_desc: [
 		"序盤の電力オプションをお探しですか？これらは電力生成を始めるための良い方法です。"
@@ -5184,7 +5163,6 @@
 	quest.437F4945AFBE0825.quest_desc: ["Importer や Exporter を右クリックすると、メニューが表示されます。このメニューは主にフィルタリング用です。例えば、Variable Card を丸石に設定すると、Exporter は丸石のみを送信します。\n\n変数を挿入すると左側に小さな「+」が表示され、クリックすると別のGUIが開きます。ここで転送レートを変更して&dINFINITE&rのアイテム/液体/エネルギーを送信できるようになり、他のことも可能になります。\n\n左上には設定があり、これらはほとんどの場合、インターフェイスの設定と同じです"]
 	quest.438F734D16DA9638.quest_desc: ["&aポロニウム&rを手に入れ、残りは既に持っているはずです！ \\n\\n&2&lP.R.C.&r、&9水&r、&dフッ化物ダスト&r！ \\n\\n1,000mBの&9水&r、1,000mBの&aポロニウム&r、1つの&dフッ化物ダスト&rを組み合わせて1つの&aポロニウムペレット&rと1,000mBの&8使用済み核廃棄物&rを作ります。 \\n\\n&dフッ化物ダスト&rは他の金属ダストと同様に作ることができます：&4&l粉砕機&r、&d&l濃縮チャンバー&r、または鉱石ハンマーでも！"]
 	quest.438F734D16DA9638.title: "&aポロニウムペレット"
-	quest.439B5FDAC84271A2.quest_subtitle: "ダイアモンド + 鉄"
 	quest.43A1BC20BB054A14.quest_desc: ["Glitterkelp は Ancient Sea と Icy Sea で成長します。\n\n光るだけであまり用途はありませんが、パイを作ることができます！"]
 	quest.43A5B83862D9E94C.quest_desc: ["&b炎の目&rは&b燃える闘技場&rへ連れて行き、&bイグニス&rと戦うことができます"]
 	quest.43A5B83862D9E94C.title: "&bフレイムの目&r"
@@ -5471,7 +5449,6 @@
 	quest.47897D827C50629D.quest_subtitle: "なぜそれほど遠くまで動かせないの？"
 	quest.47897D827C50629D.title: "&aピストン延長"
 	quest.47A2BEFB11F4D581.quest_desc: ["Basic Filter はとても...使いやすいです！アイテムを入れるだけでフィルタリングされます。\n\nホワイトリスト（これらのアイテムのみを許可）またはブラックリスト（これらのアイテムのみを拒否）に変更することができます。\n\nまた、NBTデータを照合するかしないかを設定することもできます。NBTデータの照合とは、エンチャント、耐久値、またはアイテム内のモブなどが同じであることを意味します。照合しない設定の場合、NBTに関係なくそのアイテムすべてが対象となります"]
-	quest.47A57DF7964D71B9.quest_subtitle: "クラフトするだけです"
 	quest.47A6769B6BF1A46D.quest_desc: ["&n&5ファンネル&rは、接続されたインベントリからアイテムをインポートまたはエクスポートできます"]
 	quest.47A6769B6BF1A46D.title: "&e安山岩ファンネル"
 	quest.47AED7219704EB3E.quest_subtitle: "&f22&r &4ダメージ&r"
@@ -5710,8 +5687,6 @@
 	quest.4B42D962FE910CB3.quest_desc: ["これを &d&lリボルバー&r に追加すると、弾丸が当たったモブにスタン効果を与えます"]
 	quest.4B4F5341D6DBDD19.quest_desc: ["水中での呼吸を維持し、泡が5つになると補充されます！また、水中での視界も格段に良くなります！"]
 	quest.4B4F5341D6DBDD19.quest_subtitle: "最大: 1"
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r は5つの異なる色に関するものです。これにはブロックにも使用されます！\n\n&a緑&r、&c赤&r、&9青&r、&8暗い&r、そして明るいブロックのすべての種類！"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lワールド"
 	quest.4B62AF0405F68041.quest_desc: ["バックパックに在庫として保管すべきアイテムを指定できるフィルターを追加します。Shiftを押しながら右クリックでインベントリを補充します"]
 	quest.4B62AF0405F68041.quest_subtitle: "補充完了"
 	quest.4B76FE0348DB0E45.quest_desc: ["Quantum Bridge Card は Applied Energistics システムにワイヤレスでディメンション間アクセスを可能にする別の方法です。拠点に Quantum Bridge を設置し、端末に Quantum Bridge Card を入れる必要があります。これらのトンネルは Quantum Entangled Singularity で結びつけられ、どこへ行ってもアクセスできるようになります"]
@@ -7006,7 +6981,6 @@
 		"- Air Burst: 発射距離が改善され、FEを消費します"
 		"- Void Shift: プレイヤーが見ている方向にテレポートし、その過程でFEを消費します"
 	]
-	quest.5B969BF6F00A84D8.quest_subtitle: "RuBee スポーンエッグ6個を遠心分離して Chromium Bee スポーンエッグ1個にする"
 	quest.5B9F3F32AB28A83A.quest_desc: ["&6&l熱電ボイラー&rの内部の重要な部分は高級ブロックで作られています！ \\n\\n&6過熱要素&rは&6熱&rを&9水&rに伝達する働きをし、&9圧力分散器&rは蒸気の生成を助けます！ \\n\\nより大きな構造を使用する場合、&6&lボイラー&r内の異なるブロック間にスペースを残して、蒸気と&9水&rにより多くの貯蔵を提供できます。 \\n\\n上部と&9圧力分散器&rの間の空気は蒸気貯蔵を追加します。&9圧力分散器&rと&6過熱要素&rの間の空気は&9水&rにより多くのスペースを提供します。"]
 	quest.5B9F3F32AB28A83A.title: "&6&l熱電ボイラー&rの熱部分"
 	quest.5B9F933ECD6B24FD.quest_desc: ["ティアIIよりも高くジャンプできます"]
@@ -7240,8 +7214,6 @@
 	quest.5E4FE420B6D2C97F.quest_desc: ["バックパック内のアイテムを3x3レシピで圧縮します"]
 	quest.5E4FE420B6D2C97F.quest_subtitle: "バックパック内のアイテムを3x3レシピで圧縮"
 	quest.5E4FE420B6D2C97F.title: "&eアドバンスドコンパクティングアップグレード&r"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r は &lWorld Core&r でたくさんのガラスを追加します！\n\n通り抜けられるものから、発光するもの、より強いものまで！"]
-	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r ガラス"
 	quest.5E63C78CDC44FF95.quest_desc: ["腐った Blisterberry は投げることはできませんが、Blisterbomb にすると投げることができます！\n\nさらに進んで Boomgourd を作ることもでき、これは Blisterberry を至る所に飛ばす TNT のように機能します"]
 	quest.5E63C78CDC44FF95.title: "爆発物！！！"
 	quest.5E6585F7627247E3.quest_desc: [
@@ -7767,8 +7739,6 @@
 	quest.6674270897997BF7.quest_desc: ["通常よりも高くジャンプできるようになり、バネのような動きで素早く移動できます。\n\nこれらのアップグレードはレギンスに一度に1レベルしか装着できません"]
 	quest.6674270897997BF7.quest_subtitle: "最大: 1"
 	quest.6678AB58930F4B91.quest_subtitle: "White Willow + Aspen"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r はもちろん、色に関するすべてのものなので、ライトも色に基づいています。\n\nRGB ライトは、作成に使用された染料の色になります。\n\n特に染料であって、宝石ではありません"]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Lights"
 	quest.668C313FF46B6005.quest_desc: ["バックパックにかまどのGUIを追加します"]
 	quest.6690AEE064DC2A7C.quest_desc: [
 		"&lアビリティタイプ:&r パッシブ"
@@ -8565,32 +8535,6 @@
 	quest.70C7D92844089DEB.quest_subtitle: "ネックレス"
 	quest.70C7D92844089DEB.title: "&b雷のペンダント&r"
 	quest.70C878DB6AE413B2.quest_subtitle: "マグマティック + 石炭"
-	quest.70CCE558E03227AB.quest_desc: [
-		"&6&lルーンスターの祭壇&rは、&3Drack.ion&rによって &lModular Machinery&r で作られたマルチブロック構造です！\n\nこれは15x9x15の構造で、&aルーンスターの祭壇コントローラー&rから始まります。設置したら&c設計図&rを使用してください。これにより、マルチブロックを建設するためのガイドが表示されます。\n\n&aコントローラー&rに入って自動建設させることもできます。こちらの方が早いですよ！\n\n&6&l祭壇&rの各面で、&6アーケインポリッシュダークストーン&rの隣にある&9磨かれたダークストーン&rをハッチに置き換えることができます。これらは実際の&6&lスター&r作成に必要です。\n\nアイテム入力ハッチ（すべて&lModular Machinery&rから）を使用してください。これらはレシピを配置する場所です。アイテム出力ハッチは&6&lスター&rが出てくる場所です。そしてエネルギー入力は&6&l祭壇&rに電力を供給するために必要です！\n\n&aコントローラー&rでレシピの進行状況や&6&l祭壇&rの問題を確認できます。\n\n（ちなみに、レシピで使用される戦利品バッグは&5月の怪物&rからのものです。また、&9階段&rや&6柱&rなどのブロックの向きは&6祭壇&rには関係ありません）"
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:100 height:100 align:center}"
-		"第1層は&9磨かれたダークストーン&r、&9磨かれたダークストーンの階段&r、&6アーケインポリッシュダークストーン&r、そして&aコントローラー&rだけです"
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:100 height:100 align:center}"
-		"第2層はさらに&9磨かれたダークストーン&r、&9階段&r、そして&6金色の模様入り磨かれたダークストーン&rです"
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:100 height:100 align:center}"
-		"第3層は&bアーケインクリスタルのオベリスク&r、ルーンブロック、&6アーケイン模様入り磨かれたダークストーン&r、そして&9磨かれたダークストーンのハーフブロック&rが追加されます！"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:100 height:100 align:center}"
-		"第4層では&6ダークストーンの儀式の台座&r、中央に&7磁化されたダークストーンの儀式の台座&r、Utrem Jar、そして&6アーケインポリッシュダークストーンの柱&rがあります"
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:100 height:100 align:center}"
-		"第5層はとてもシンプルで、さらに&6柱&rがあるだけです"
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:100 height:100 align:center}"
-		"第6層はさらに&6柱&rと、&7磁化されたダークストーンの儀式の台座&rの上に&7量子インジェクター&rが必要です"
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"第7層も非常にシンプルで、さらに&6柱&rだけです！"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"第8層も同じパターンで、さらに&6柱&rです！"
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:100 height:100 align:center}"
-		"最後の第9層には、もちろんさらに&6柱&rが必要で、加えてルーンブロックと&bアーケインクリスタルブロック&rも必要です"
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"&6&l祭壇&rを起動するための最後のステップは、ハッチを追加することです。図のように&6アーケインポリッシュダークストーン&rの外側にハッチを設置してください。アイテム入力、出力、およびエネルギー入力用のハッチが必要です"
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "&l&6ATM Star のクラフト"
-	quest.70CCE558E03227AB.title: "&l&6ルーンスターの祭壇"
 	quest.70CDA5F1593DB4B2.quest_desc: ["&e呪われたピラミッド&rは砂漠に出現し、見逃すことはほとんどありません。入口に巨大な柱がある巨大なピラミッドです。中には多くの罠、ハスク、そして戦利品があります！底に到達すると、多くの&eコボルトン&rと眠っている巨人を見つけるでしょう。それを起こすには..."]
 	quest.70CDA5F1593DB4B2.title: "&e呪われたピラミッド&r：&eエンシェントレムナント&rの住処"
 	quest.70D2C5FAC661E01A.quest_desc: ["&b心鍛造シーシェルフ&rは&b注入されたシーシェルフ&rのもう一つのアップグレードです。\\n\\n少し高価ですが、多くの&5アルカナ&rを提供します！\\n\\nこれは後の&d&l注入&rで多くの&5アルカナ&rが必要な場合に非常に役立ちます。"]
@@ -8627,7 +8571,6 @@
 	]
 	quest.7154D73516548149.quest_desc: ["&6&lオールザモディウム&r は &6AllTheMods Team&r によってネザライトの後のコンテンツを追加するために特別に追加されたModです！\n\n&6&lATM Star&r に必要なアイテムを入手するには、この中を冒険する必要があります。\n\nこれに関するクエストページが追加されました！"]
 	quest.7154D73516548149.title: "&l&6オールザモディウム"
-	quest.715588642623A8A1.quest_subtitle: "クリスタライン + 鉄"
 	quest.71581992E8E4C43E.quest_desc: ["&8ウィザースケルトンの頭&r と &dAbjuration Essence&r を投げて &8ウィザー &3グリフ&r を作ります！\n\nうまくいかない場合は、より多くの &a経験値&r が必要かもしれません"]
 	quest.71581992E8E4C43E.title: "&3&8ウィザー&r のグリフ"
 	quest.715B86DC82EA636B.quest_desc: [
@@ -9433,7 +9376,6 @@
 	]
 	quest.7B9672C4FCFFB887.quest_desc: ["これらの &9設計図&r はクラフトできて、とても安価です！\n\n警告サインは &7Metal Plates&r、染料、そしてこの &9設計図&r で作れる非常にシンプルな装飾品です"]
 	quest.7B9672C4FCFFB887.title: "&9Warning Signs 設計図"
-	quest.7B99AA20DC55263C.quest_subtitle: "鉛 + 銀"
 	quest.7BC289DEF023FEAA.quest_subtitle: "ティア: &63"
 	quest.7BC8F50A89A3BE1A.quest_desc: ["これらは &cLaser Nodes&r を互いに、そしてコネクターに接続するためだけに使用されます。あまり重要ではありませんが、レンチのテーマを保ちたかっただけです。\n\n他の設定にもレンチとして機能します！"]
 	quest.7BCD4A425CF6199B.quest_desc: ["&9Xeovrenth Adjure&r から召喚された Mercy の Goat を倒した後、あなたは Cruelty Essence を一つ手に入れることができます。これをカカオ豆と組み合わせて Brown Chalk を作りましょう。"]
