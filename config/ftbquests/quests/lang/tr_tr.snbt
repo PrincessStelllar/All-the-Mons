@@ -357,8 +357,6 @@
 	quest.17542D7633FBF098.quest_subtitle: "&oSünger Bob'un Yıldız olmaması çok kötü."
 	quest.17542D7633FBF098.title: "&d&lPatrick &aYıldızı&r"
 	quest.1756F81ACFC56C58.quest_subtitle: "Kademe: &e5"
-	quest.17598C171E610752.quest_desc: ["Bunun için ne diyeceğimi bile bilmiyorum. Tariflere bakarken kayboluyorum. Bunun yerine &l&2Productive Trees&r için tüm Aile Ağaçlarını listelemeyi tercih ederim. \\n\\n&6Gelişmiş Motor&r'lar elde et ve bunları &dTitanyum Çubuk&r'lar ve bir &9İşlem Birimi&r ile birleştirerek &6Büyük Gelişmiş Motor&r yap."]
-	quest.17598C171E610752.title: "&6Büyük Gelişmiş Motor"
 	quest.17A68C4E9E9EA2B7.quest_desc: ["&eAltın Zırh&r, Demir ve &7Deri&r arasında yer alır. Ancak Dayanıklılığı &7Deri&r'ye çok daha yakın. \\n\\nBirkaç &eAltın Zırh&r giyerken Piglin'lerin sana karşı Tarafsız olması dışında pek bir faydası yok."]
 	quest.17A68C4E9E9EA2B7.title: "&eAltın Zırh"
 	quest.17DC77F7F8C68AE6.quest_desc: ["Trash Can'ler istenmeyen eşyaları, sıvıyı ve gücü yok edecek bir yol olarak işlev görür."]
@@ -462,7 +460,6 @@
 	quest.1F31EBF49079F9D3.title: "Yenilenmiş Creeper'lar"
 	quest.1F6C8117F3CED939.title: "&6Allthemodium Yay"
 	quest.1F7DFA5AA65F2812.quest_desc: ["&bHızlandırma Kartı&f, kendisiyle yükseltilen cihaza bağlı olarak ya cihazın çalışma hızını artıracak ya da cihazın tek seferde daha fazla işlem yapmasını sağlayacaktır.\\n\\n&eMoleküler Derleyici&f'ye takıldığında, 5 karttan oluşan tam bir set, MD'nin bir işi yerine getirmesi için geçen süreyi bir saniyeden (kartsız) bir &otik&r'e düşürür."]
-	quest.1FC1588A131B6A4A.quest_desc: ["Tıpkı normalde &6&lATM Yıldızı&r yapmak gibi. Bunu otomatikleştirmek de &6&lRunic Star Altar&r'ın içinde olmalı! \\n\\nNasıl inşa edileceğini ve kullanılacağını öğrenmek için Bölüm 3'teki Görev'e göz at."]
 	quest.1FCC474860587169.quest_desc: ["Daha sonraki tarifleri elde etmek için büyük olasılıkla bir &6Smelter Prism&r'e ihtiyacın olacak ve endişelenme, bunu elde etmek için sadece Tier 1 Forge'a ihtiyacımız var! \\n\\nJEI'de Forge'daki her İstatistikten ne kadar ihtiyacın olduğunu kontrol edebilirsin! Ayrıca 4 &6Blaze Tozu&r, 2 &8Kömür&r ve bir &bArcane Crystal&r'e ihtiyacın olacak. \\n\\nSon olarak, Orman Tapınaklarında, Çöl Piramitlerinde ve Su Altı Harabelerinde bulunabilen &9Elementarium&r'a ihtiyacın olacak!"]
 	quest.1FE052F643401232.quest_desc: ["Sırt Çantası Yükseltmeleri yapmak için bunlara ihtiyacın olacak."]
 	quest.1FE052F643401232.quest_subtitle: "Yükseltmeler için Temel"
@@ -547,7 +544,6 @@
 	quest.24934231538B6492.title: "Antik Piramit"
 	quest.24C9BA6DC32CFAD9.quest_desc: ["Kömür ilk gerçek güç kaynağındır. Eğer kömürün azalıyorsa ve hiç kömür bulamıyorsan, senin için daha iyi bir alternatif Odun Kömür'ü olacaktır. "]
 	quest.24C9BA6DC32CFAD9.quest_subtitle: "Kütüklerini erit"
-	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lModern Industrialization&r adı kadar büyük bir mod! \\n\\nBirden fazla makine kademesi var ve neyse ki &6&lYıldız&r için sonuncusuna gitmemize gerek yok."]
 	quest.252169A6EB4DD75B.quest_subtitle: "&f9 &cSaldırı Hasarı"
 	quest.2559201BCF5D497C.quest_desc: ["Çeşitli Ana Dünya malzemeleri yapar."]
 	quest.25AFD10D008DF30B.quest_desc: ["Ender Sandıklarının hepsi aynı envanteri paylaşır ve bu envanter her oyuncu için farklıdır. Bunlar 1 tane olacak şekilde birleştirilemezler."]
@@ -600,8 +596,6 @@
 	quest.29D28983E0200A3C.quest_desc: ["&l&dArs Nouveau&r tamamen Büyü Kitaplarındaki Glifleri, Büyü olarak kullanmakla alakalı bir mod!"]
 	quest.2A4FE9644F3B9DC1.quest_desc: ["&2Prudentium&r'un yükseltilmiş versiyonu."]
 	quest.2A4FE9644F3B9DC1.title: "&cTertium Zırh"
-	quest.2A6753C806D2AF8D.quest_desc: ["İhtiyacın olandan daha fazla hasar verir! Yine de bazı olumsuz yanları var."]
-	quest.2A6753C806D2AF8D.quest_subtitle: "&f∞ &cSaldırı Hasarı"
 	quest.2A72B262AF4F11C9.quest_desc: ["&6Socotra Dragon&r Sapling elde etmek için &7Wenge&r ile &4Cocobolo&r'u melezlemen gerekiyor. \\n\\n&7Wenge&r elde etmek için &4Cocobolo&r ile &fBalsa&r'yı melezlemen gerekiyor. \\n\\n&4Cocobolo&r elde etmek için Balsa ile &8Koyu Meşe&r'yi melezlemen gerekiyor. \\n\\n&fBalsa&r elde etmek için &cAkasya&r ile &eTeak&r'i melezlemen gerekiyor. \\n\\n&fTeak&r elde etmek için &2Orman Ağacı&r ile &8Koyu Meşe&r'yi melezlemen gerekiyor."]
 	quest.2AD78E22988A92D3.quest_desc: ["Seni görüyorum! \\n\\n&2Night Vision Goggles&r taktığında, karanlıkta görme yeteneğine sahip olursun! Başka bir şeye değil..."]
 	quest.2AD78E22988A92D3.quest_subtitle: "Kafa"
@@ -610,8 +604,6 @@
 	quest.2B05A29C62676EB2.title: "&l&9Ana Dünya Ödülü:&r&e Zombiler"
 	quest.2B08B19B35EEBCBA.quest_desc: ["Bu Relic'ler, &cNether&r'da bulunabilir!"]
 	quest.2B08B19B35EEBCBA.title: "&cNether"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aUranyum Dörtlü Yakıt Çubuk&r'ları birden fazla farklı Patlamaya ve Radyasyona dayanıklı Alaşımların ve tabii ki Radyoaktif Malzemelerin bir birleşimidir. \\n\\nBunların hepsi bir araya gelerek reaktör için harika bir yakıt oluşturacak! Ya da &c&lFilozof'un Yakıtı&r!  "]
-	quest.2B0C3AAAA6D0B0D2.title: "&aUranyum Dörtlü Yakıt Çubuk"
 	quest.2B31E6C1707D8195.quest_desc: ["Kablosuz ağ erişimine izin vermek için yapılacak bir sonraki şey &bME Kablosuz Erişim Noktası&f'dır. Erişim Noktası, ağı bir &ekablosuz terminal&f aracılığıyla kablosuz erişime açmak için kullanılır ve erişim noktasına kaç tane &ekablosuz güçlendirici&f takıldığına bağlı olarak belirli (sınırlı) bir menzile sahiptir."]
 	quest.2B422B7E0CE3590D.quest_desc: ["Sıkıştıran Çekmece, içine yerleştirilen eşyaları parça veya blok formlarına dönüştürebilir.\\n\\nÖrneğin: İçine bir Demir Külçesi yerleştirdiğinde, 9 demir parçası çıkarmanı sağlar veya daha fazla Demir yerleştirilirse Demir Bloklara dönüştürür."]
 	quest.2B422B7E0CE3590D.quest_subtitle: "Otomatik Sıkıştırır/Açar"
@@ -719,9 +711,6 @@
 	quest.338BD467EBE6EE1F.title: "Nöbetçi Zırh Süslemesi"
 	quest.33AADC1B97E9F7A9.quest_desc: ["Sandıklı Vagonlar, içinde Sandık bulunan Vagonlardır. Bunları süremezsin ancak eşyaları Raylı sistemler arasında taşımak için faydalı olabilirler."]
 	quest.33ADE41526C39AFD.quest_desc: ["Bu davranış Functional Storage çekmecesi gibi bir şeye benzemektedir; burada bir bölmedeki eşyaların diğerlerine sızmasına ve diğer eşya türlerinin dışarıda kalmasına izin vermek yerine her bölme belirli sayıda istif tutmaktadır."]
-	quest.3403D7502F7BC897.quest_desc: ["Kelimenin tam anlamıyla yenilmezsin. Hiçbir şey sana vuramaz ve hasar veremez. \\n\\nŞu anda &cNetherit Zırh&r'ı, &eKuantum &bYükseltme&r ile yükseltmen gerekiyor. Ancak &6&lATM Ekibindeki&r arkadaşların bu tarifi zorlaştırmak için çalışıyor! \\n\\nVe bunu durdurmak için hiçbir şey yapamazsın! &lBWAHAHAHAHA"]
-	quest.3403D7502F7BC897.quest_subtitle: "Yenilmez"
-	quest.3403D7502F7BC897.title: "&eKuantum &bZırhı&r (&l&7MI&r)"
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Neptünyum&r, Balıkçılık yoluyla elde edilen Neptün'ün Ödülünden bir ödüldür! \\nAyrıca Su Altında olmaya da güçlendirmeler sağlar."]
 	quest.3416DB9F58D8AA2C.title: "&3Neptünyum Zırh"
 	quest.3446803FB59D8875.quest_desc: ["Sana Dikenli özelliği verir. Zırhına değil, sana! Kirpi balığı gibi!"]
@@ -949,8 +938,6 @@
 	quest.427516AA3E8C9442.quest_subtitle: "Çok Amaçlı Çapa"
 	quest.427BBEB1F24E9DEE.quest_desc: ["&5Corrupti Dust&r'ın çoğu kolayca otomatikleştirilebilir. \\n\\n&4Nether Yumrusu&r herhangi bir otomatik toplama yeriyle elde edilebilir. &cBlaze Tozu&r ve &3Enderpearl Fragment&r'lar &b&lHNN&r'den elde edilebilir. Ve &bArcane Crystal&r'leri nasıl elde edeceğin başka bir Görevde gösterilmiştir. \\n\\nSadece &5Obsidiansteel&r'in &b&lRunic Crucible&r ile otomatikleştirilmesi gerekecek."]
 	quest.42822B1E8A53D051.title: "&l&9Ana Dünya Ödülü:&r&e İskeletler"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["Mevcut en güçlü üç Metali birleştirerek &2Patlamaya Dayanıklı Alaşım&r yapabilirsin. &5Tungsten&r, &dTitanyum&r ve &7Paslanmaz Çelik&r. Evet, görünüşe göre paslar önemli. \\n\\nBunlarla &2Muhafaza&r yapmak için, bunları birleştirebilirsin."]
-	quest.42AF4EBDA5D6CC36.title: "&2Patlamaya Dayanaklı Muhafaza"
 	quest.42D7C8CD8E6F5CD7.quest_desc: ["Canavar Çağırıcı üzerinde Nakarat Meyvesi kullanarak, ortaya çıkacak olan yaratıkların ruhlarını emersin, sadece eskiden oldukları şeyden, içi boş bir kabuk bırakırsın. Yaratıklar tüm yapay zekalarını kaybederler, bu yüzden temelde bir zırh standı ne yapıyorsa onu yaparlar. Sana vuramazlar, ışınlanamazlar, kendi başlarına hareket edemezler. Orada öldürülmeye hazır bir şekilde bekliyorlar, ne kadar heyecan verici!"]
 	quest.42D7C8CD8E6F5CD7.title: "YZ Yok"
 	quest.43021923E220CF68.quest_desc: ["Toprağı tarlaya dönüştürmek için bir çapaya ihtiyacın olacak."]
@@ -1026,8 +1013,6 @@
 	quest.4A9CB8778D37049F.title: "&6Uyandırılmış Supremium Zırh"
 	quest.4B12425E74C5E511.quest_desc: ["&cExplosive Mycelial Generator&r, Patlamaları emmek konusunda harika bir iş çıkarıyor. \\n\\nBunu &d&lTitreşen &8Kara Delik&r yapmak için kullanabilirsin!"]
 	quest.4B2146C9527C54E7.quest_desc: ["Açıkçası artık Bölüm 2'de olduğuna göre, &2&lVanilla Minecraft&r'ı bitirmişsindir! \\n\\nŞimdiye kadar &5Netherit&r'e sahip olmalı ve &2&lMinecraft&r'ın sahip olduğu tüm patronları öldürmüş olmalısın. Peki sırada ne var? \\n\\nTabii ki de sırada &6&lAllTheModium&r var! Ancak &6AllTheModium&r'u elde etmeye başlamak için &5Netherit&r'e ihtiyacın olacak. Hadi oradan başlayalım!"]
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r tamamen 5 farklı renkle ilgili, bu renkleri Bloklar için kullanmayı da içeriyor! \\n\\n&aYeşil&r, &cKırmızı&r, &9Mavi&r, &8Karanlık&r ve her türden Aydınlık Bloklar!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lDünya"
 	quest.4B62AF0405F68041.quest_desc: ["Sırt Çantasına hangi eşyaları stokta tutması gerektiğini söylemeni sağlayan filtre ekler. Bir envantere Shift sağ tıklandığında yeniden doldurulur."]
 	quest.4B62AF0405F68041.quest_subtitle: "Hepsi Stoklandı"
 	quest.4B76FE0348DB0E45.quest_desc: ["Quantum Bridge Card, Applied Energistics sistemine kablosuz boyutlar arası erişim sağlamak için alternatif bir yöntemdir. Üssünde bağlı bir Kuantum Köprüsüne ve terminalinde bir Quantum Bridge Card'a ihtiyacın olacaktır. Bu tüneller daha sonra nereye gidersen git erişim sağlamak için bir Kuantum Dolanıklık Tekilliği ile birbirine bağlanır."]
@@ -1255,8 +1240,6 @@
 	quest.5E4FE420B6D2C97F.quest_desc: ["Sırt çantasındaki eşyaları 3x3'lük tariflerine göre sıkıştırır."]
 	quest.5E4FE420B6D2C97F.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.5E4FE420B6D2C97F.title: "&eGelişmiş Sıkıştırma Yükseltmesi"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r, &lWorld Core&r'u ile çok sayıda Cam ekliyor! \\n\\nİçinden yürüyebildiklerinden, parlayanlara ve daha güçlü olanlara kadar!"]
-	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Camı"
 	quest.5E6585F7627247E3.quest_desc: ["Arayüz veya Dışa Aktarma Veriyolu gibi desteklenen herhangi bir cihaza yükseltme olarak uygulandığında, &bÜretim Kartı&f söz konusu cihazın gerekli (filtrelenmiş) bir eşya için otomatik olarak kendi üretim taleplerini göndermesini sağlar. Üretim CPU'ları, oyuncu tarafından talep edilen üretimler için CPU'ların kullanılmasını önlemek amacıyla yalnızca bu taleplere yanıt verecek şekilde ayarlanabilir.\\n\\n&eSeviye Vericisi&f, Üretim Kartı ile yükseltildiğinde, verilen eşya için bir üretim işi tespit edildiğinde ya da özellikle eşyayı üretmek için bir sinyal yayarak doğrudan üretimi kolaylaştırmak için redstone yayacak şekilde yapılandırılabilir. İkincisi, belirli bir eşyayı yapmak için gereken tek şeyin bir üretim şablonu bile gerektirmeden, redstone sinyali olduğu durumlar için geçerli olacaktır."]
 	quest.5E6585F7627247E3.quest_subtitle: "Yükseltme biçiminde otomasyon!"
 	quest.5E799B92358A8732.quest_desc: ["&cNether&r'da, &6Antik Kalıntı&r ile karşılacaksın. Bunlar eritilerek Hurdalara dönüştürebilir ve bunlar da Altınla birlikte oyundaki en güçlü alet ve zırhlardan bazılarını yapmak için kullanılan oyun sonu metali olan &6Netherit Külçeleri&r elde etmek için birleştirilebilir."]
@@ -1333,8 +1316,6 @@
 	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Alaşımı Külçesi"
 	quest.6607E5CDB3D17D67.quest_desc: ["Merak etme, bunlar yanmaz!"]
 	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Yünü"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r tabii ki Renklere ilgili olmakla birlikte, Işıklar da Renklere dayanmaktadır. \\n\\nRGB Işıklar hangi Boya ile yapılmışsa o olacaktır. \\n\\nBoya özellikle Değerli Taş değildir."]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Işıkları"
 	quest.668C313FF46B6005.quest_desc: ["Sırt Çantasına Ocak GUI'si ekler."]
 	quest.66BAC2B478F9B119.title: "&6&lATM Yıldızı&r'nın Üst parçası"
 	quest.66C21934DAFFAC7F.quest_subtitle: "Yaşlı Gardiyanlardan düşer"
@@ -1472,31 +1453,6 @@
 	quest.70B6C9409AE69284.title: "Arama İçin Pusulalar"
 	quest.70C7D92844089DEB.quest_desc: ["Diğer Kolyeler gibi bunun da saldırganına zarar verme şansı var. Sadece Yıldırım ile! \\n\\nAyrıca, Yıldırım tarafından vurulacak kadar şanslıysan/şanslı değilsen. Sana zarar vermez."]
 	quest.70C7D92844089DEB.quest_subtitle: "Kolye"
-	quest.70CCE558E03227AB.quest_desc: [
-		"&6&lRunic Star Altar&r, &lModular Machinery&r aracılığıyla &3Drack.ion&r'umuz tarafından yapılmış bir Çoklu Bloktur! \\n\\n15x9x15 boyutlarında Yapıdır ve &aRunic Star Altar Controller&r ile başlar. Onu yerleştir ve üzerinde bir &cMachine Blueprint&r kullan. Bunu yapmak sana Çoklu Blok'u inşa etmek için takip edebileceğin vurgular gösterecektir. \\n\\nAyrıca &aController&r'a girip otomatik olarak inşa etmesini sağlayabilirsin, bunun daha hızlı olacağına söz verebilirim! \\n\\n&6&lAltar&r'ın her iki yanında &6Arcane Polished Darkstone&r'un yanındaki &9Polished Darkstone&r'u Hatch'lerle değiştirebilirsin. Bunlar gerçek &6&lYıldız&r Üretimi için gerekli. \\n\\nItem Input Hatch'lerini kullan (hepsi &lModular Machinery&r'den). Bunlar Tarifin içine yerleştirileceği yerlerdir. Item Output Hatch'leri &6&lYıldız&r'ın geleceği yerdir. Ve &6&lAltar&r'a güç sağlamak için Energy Input'larına ihtiyaç var! \\n\\nTarifin ilerleyişini veya &6&lAltar&r ile ilgili sorunları görmek için &aController&r'ı kontrol edebilirsin. \\n\\n(Bu arada tarifinde kullanılan Loot Bag &5Lunar Monstrosity&r'den alınmıştır. Ayrıca &9Stair&r'ler ya da &6Pillar&r'lar gibi blokların yönü &6Altar&r için önemli değil)."
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:100 height:100 align:center}"
-		"1. Katman sadece &9Polished Darkstone&r, &9Polished Darkstone Stair&r'ler ve &6Arcane Polished Darkstone&r ile birlikte &aController&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:100 height:100 align:center}"
-		"2. Katman daha fazla &9Polished Darkstone&r, &9Stair&r'ler ve şimdi &6Gilded Chiseled Polished Darkstone&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:100 height:100 align:center}"
-		"3. &bArcane Crystal Obelisks&r, Rune Blocks, &6Arcane Chiseled Polished Darkstone&r ve &9Polished Darkstone Slab&r'ler!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:100 height:100 align:center}"
-		"4. Katmanda &6Darkstone Pedestal&r'ler, ortada bir &7Magnetized Darkstone Pedestal&r, Utrem Jar'lar ve &6Arcane Polished Darkstone Pillar&r'lar."
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:100 height:100 align:center}"
-		"5. Katman oldukça basit, sadece biraz daha &6Pillar&r'lar."
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:100 height:100 align:center}"
-		"6. Katmanın daha fazla &6Pillar&r'lara ve &7Magnetized Darkstone Pedestal&r'in üzerine &7Quantum Injector&r'e ihtiyacı var."
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"7.'si de oldukça basit, sadece daha fazla &6Pillar&r'lar!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"8. aynı modeli takip ederek, daha fazla &6Pillar&r'lar!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:100 height:100 align:center}"
-		"Son Katman olan 9. Katman, daha fazla Rune Block'ları ve &bArcane Crystal Block&r'larına ek olarak elbette daha fazla &6Pillar&r'lara ihtiyaç duyar."
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"&6&lAltar&r'ı başlatmak için yapmamız gereken son şey, Hatch'leri eklemek. Bunları gösterildiği gibi &6Arcane Polished Darkstone&r'un dışına yerleştir. Bazı Item Input'ları, Output'ları ve Energy Input'larına ihtiyacın olacak."
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "&l&6ATM Yıldızı&r'nın Üretilmesi"
 	quest.70DB76D3E7704E2C.quest_subtitle: "&f12 &cSaldırı Hasarı"
 	quest.70ED849A2EB44DEE.quest_subtitle: "Kademe: &b3"
 	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium&r, Netherit'den sonra daha fazla içerik eklemek için &6AllTheMods Team&r tarafından özel olarak eklenmiş bir moddur! \\n\\n&6&lATM Yıldızı&r'na gerekli bazı Eşyaları elde etmek için maceraya atılman gerekecek. \\n\\nArtık bunun için takip edebileceğin bir Görev sayfası var!"]

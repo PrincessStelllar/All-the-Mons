@@ -79,8 +79,6 @@
 	quest.44688FC2E34FF09F.quest_desc: ["Minecraft already adds hundreds of Blocks, and Mods add hundreds more! But sometimes it is still not enough. \\n\\nWith some Mods we can change the Blocks we already have into ones with different shapes, designs, and even into entirely new Blocks!"]
 	quest.44688FC2E34FF09F.title: "Changing Blocks"
 	quest.48971CE964CF037F.quest_desc: ["While protecting our Nuclear Reactors are important and viewing the contents of them relate to the safety of it. \\n\\nThe Glass can also be used to make our bases look better! \\n\\nAnd really what's more important: safety and protection of our nuclear reactors? Or making our bases look better!"]
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r is all about the 5 different Colors, this includes using them for Blocks! \\n\\n&aGreen&r, &cRed&r, &9Blue&r, &8Dark&r, and Light Blocks of all sorts!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lWorld"
 	quest.51E77B9CD3FB6DEA.quest_desc: ["This isn't necessary but I find it very helpful. \\n\\nThe Digging Claws increases your Pickaxe Tier, for your Hands. So you can Mine up to Iron Ore with just your Fists! \\n\\nThat also includes mining things like Stone, Terracotta, and Concrete. And you can even mine those with the Blocks in your Hands. \\n\\nHonestly it basically is needed."]
 	quest.5716E84828EC0C23.quest_desc: ["Plastic Construction Bricks are Blocks made through &l&7PneumaticCraft: Repressurized&r. \\n\\nJust like their real life counter parts they hurt to step on! \\n\\nSo either wear Shoes or smooth down the Bricks."]
 	quest.5716E84828EC0C23.title: "Plastic Construction Bricks"
@@ -92,8 +90,6 @@
 	quest.5C2B30655A44227F.title: "&5&lEternal Starlight&r Metals"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r is all about Farming and Cooking Food Items! We can also use those same Items for Decoration and usage! \\n\\nThe Stove, Pots, and Pans are perfect for a Kitchen. \\n\\nThe Food Barrels are great for a Pantry. \\n\\nThe Farm stuff is great for outdoor decor and the Cabinets are perfect for anywhere!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r adds plenty of Glasses with it's &lWorld Core&r! \\n\\nFrom ones you can walk through, to glowing ones, to stronger ones!"]
-	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Glass"
 	quest.5EB488C393B084C4.quest_desc: ["A continuation of &lChiseled&r, &4&lRechiseled&r! \\n\\nAll of this Mod works within the Chisel Tool, Right Click with it to pull up its GUI. \\nOn the Left is where you choose the design and the Bottom Right is where you put the Blocks. \\n\\nAbove it you can view the design in set patterns: just the 1 Block, 3x1 Blocks, or 3x3 Wall of that Block. You can also set the image to either spin or not spin by clicking the button! \\n\\nNext to where the Blocks go, you can click the Chisel, doing this will set the selected design, to every Block in your Inventory that can be changed. \\n\\nAlso does not have Durability!"]
 	quest.5EB488C393B084C4.title: "&4&lRechiseled&r"
 	quest.5F7F753FD72BFBBF.quest_desc: ["More Blocks added by &l&7Railcraft&r? I'm starting to doubt if it's even about Trains!"]
@@ -103,8 +99,6 @@
 	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
 	quest.6607E5CDB3D17D67.quest_desc: ["Don't worry, these won't set on fire!"]
 	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Wool"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r of course with being all around Colors, the Lights are also based on Color. \\n\\nThe RGB Lights will be whatever Dye they are made with. \\n\\nThe Dye specifically not the Gem."]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Lights"
 	quest.6B0D84B730C6C76C.quest_desc: ["The 16 Colors &2&lMinecraft&r gives you isn't enough? \\n\\nWell I guess you could have 18 more! \\n\\n&l&cDy&6en&ea&ami&bcs&r gives us 18 more Dyes all which can be used for the exact same Items and Blocks &2&lMinecraft's&r Dyes do! \\n\\nYou want a &6Peach&r Candle? You can get one! You want a &dBumblegum&r Shulker? Why not! You want a &eFluorscent&r Bed? Of course!"]
 	quest.6B0D84B730C6C76C.title: "&l&cDy&6en&ea&ami&bcs&r"
 	quest.6BC78AF7C9D93F11.quest_desc: ["Even Glazed versions!"]
@@ -157,16 +151,13 @@
 	task.46803BBAC2069773.title: "Blocks"
 	task.4732C2BE50DB2A80.title: "Dyenamics Dyes"
 	task.484375E0BC0F9177.title: "Builds from our friends"
-	task.4B13D48FF9D2530E.title: "XyCraft Lights"
 	task.4B274207A9646FE9.title: "Farmer's Delight"
 	task.4E28970476CABACD.title: "Chipped Lights"
 	task.50BED71A6677392E.title: "Railcraft Stones"
 	task.53A682560123F9B6.title: "Glassential"
 	task.58B9B9D13F4CD1B2.title: "Eternal Starlight Stones"
 	task.5936B8B8EDE0AE55.title: "Metal and Gem Blocks"
-	task.5DEABD15EDE5736F.title: "XyCraft Glass"
 	task.5FB27C61053F7FB5.title: "Ars Nouveau Lights"
-	task.624ADD79136376C0.title: "XyCraft World Items"
 	task.690A9C3BC2417BB9.title: "Undergarden Metals"
 	task.6AA335ED81844F9F.title: "AllRightsReserved"
 	task.6BD970777103D55D.title: "Stairs"

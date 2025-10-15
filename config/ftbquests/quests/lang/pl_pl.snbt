@@ -64,7 +64,6 @@
 	chapter_group.49AECADBA9E79A3B.title: "Energia"
 	chapter_group.5A4775CCD6D26C80.title: "Eksploracja"
 	chapter_group.6614EE2378B8AFB9.title: "Zasoby"
-	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	quest.0052E5592A6BBEC1.quest_desc: [
 		"To jest &2&lMinecraft&r, Nie mogę powiedzieć Ci jak masz budować..."
 		"{@pagebreak}"
@@ -215,8 +214,6 @@
 	quest.1F31EBF49079F9D3.quest_desc: ["&aOverhauled Creepers&r to modyfikacja która dodaje do naszego świata wiele nowych Creeperów. \\n\\nKażdy z nich daje inny loot a niektóre są nawet &dprzyjazne&r! \\n\\nMimo to wszystkie nadal boją się kotów..."]
 	quest.1F31EBF49079F9D3.title: "Odnowione Creepery"
 	quest.1F6C8117F3CED939.title: "&6Allthemodiumowy Łuk "
-	quest.1FC1588A131B6A4A.quest_desc: ["Tak jak przy normalnym tworzeniu &6&lATM Star&r, automatyzowanie musi odbyć się wewnątrz &6&lRunic Star Altara&r! \\n\\nSprawdź zadanie w Rozdziale 3 by nauczyć się go budować i z niego korzystać."]
-	quest.1FC1588A131B6A4A.title: "&6&lRunic Star Altar"
 	quest.1FE47F03B5DF492D.title: "&5Zbroja Unobtainium Arcanist"
 	quest.1FFF00B5D90C3905.quest_desc: ["Możesz zdobyć &cPył Mundabituru&r możesz zdobyć na wiele sposobów więc tylko zrobię Ci krótki wstęp do &bTajemniczych Kryształów&r! \\n\\nKtóre są jednym z materiałów potrzebnych do utworzenia pyłu. \\n\\nBędziesz musiał wykopać najpierw &bTajemniczy Kryształ&r; następnie, możesz użyć &2&lMystical Agriculture &r lub &6&lPszczół&r By zrobić ich więcej!"]
 	quest.1FFF00B5D90C3905.title: "&bTajemniczy Kryształy"
@@ -386,8 +383,6 @@
 	quest.4A4C71C43519D5FE.title: "&6Wezwanie &5Withera"
 	quest.4B2146C9527C54E7.quest_desc: ["Oczywistym jest że skoro rozpocząłeś rozdział drugi oznacza to, że ukończyłeś &2&lVanilla Minecraft&r! \\n\\nNa tym etapie powinieneś posiadać &5Netheryt&r i pokonać wszystkie bossy w &2&lMinecraftcie&r. A więc… co dalej? \\n\\n&6&lAllthemodium&r! Zanim jednak zaczniesz z &6Allthemodium&r potrzebujesz &5Netherytu&r. Zaczynajmy!"]
 	quest.4B2146C9527C54E7.title: "&6&lAllthemodium"
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r kręci się wokół pięciu kolorów, które można użyć na blokach! \\n\\n&aZielony&r, &cCzerwony&r, &9Niebieski&r, &8Ciemny&r, i Jasny!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lWorld"
 	quest.4DE1158931F84F22.quest_desc: [
 		"Jeśli masz przynajmniej żelazny kilof, jesteś w stanie wykopać &cRedstone&r."
 		""
@@ -443,8 +438,6 @@
 	quest.5CF320E9C4C1B1E1.title: "&ePrzede wszystkim...&r"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r skupia się na rolnictwie i gotowaniu! Możemy tych samych przedmiotów wykorzystywać zarówno do gotowania jak i dekoracyjnie! \\n\\nKuchenka, Garnki i Patelnie fantastycznie sprawdzają się w kuchni. \\n\\nSkrzynki z jedzeniem są świetne do spiżarni. \\n\\nWarzywa świetnie sprawdzają się jako dekoracja na zewnątrz a szafki będą dobre gdziekolwiek!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r dodaje wiele różnych szkieł! \\n\\nOd tych przez które możesz przechodzić, przez świecące a nawet i wzmocnione!"]
-	quest.5E5D5D28D82F6891.title: "Szkło &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.5E799B92358A8732.quest_desc: ["Wewnątrz &cNetheru&r, natrafisz na &6Pradawne zgliszcza&r. Te mogą zostać przepalone na odłamki a w połączeniu ze sztabkami złota możesz utworzyć &6Sztabki Netherytu&r, które są endgame’owym metalem do wytwarzania jednych z najlepszych narzędzi i zbrój w grze."]
 	quest.5E799B92358A8732.title: "&dPradawne Metale"
 	quest.5EB488C393B084C4.quest_desc: ["Kontynuacja modyfikacji &lChiseled&r, &4&lRechiseled&r! \\n\\nWszystko w tej modyfikacji działa w przedmiocie Chisel, Aby otworzyć GUI należy kliknąć PPM. \\nPo lewej stronie wybieramy design a w prawym dolnym rogu wsadzamy bloki. \\n\\nPowyżej znajduje się podgląd razem z gotowymi wzorami: pojedynczy blok, 3x1 i ścianka 3x3. Możesz też włączyć rotację wzoru by obejrzeć go z każdej strony! \\n\\nZaraz obok miejsca na bloki, po kliknięciu na Chisel przemienisz wszystkie bloki w twoim ekwipunku z poprzednim designem (lub brakiem) na wyznaczony. \\n\\nWarto zaznaczyć że ten przedmiot się nie zużywa!"]
@@ -471,8 +464,6 @@
 	quest.66039B738CF0718A.title: "Sztabka Stopu &3Vibranium&r - &6Allthemodium&r"
 	quest.6607E5CDB3D17D67.quest_desc: ["Nie martw się, ta mnie nie podpali"]
 	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Wełna"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r kręci się oczywiście wokół kolorów, światła także kręcą się wokół kolorów. \\n\\nŚwiatła RGB mogą mieć taki kolor, z jakiego zostaną utworzone. \\n\\nKonkretnie barwnik, nie kryształ."]
-	quest.667CD7C6E87A05F4.title: "Światła &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.66BAC2B478F9B119.quest_subtitle: "1/5"
 	quest.66BAC2B478F9B119.title: "Górna Część &6&lATM Star&r"
 	quest.672134A1A620EEAB.quest_desc: [

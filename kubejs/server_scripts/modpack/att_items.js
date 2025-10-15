@@ -19,7 +19,7 @@ ServerEvents.recipes(allthemods => {
  allthemods.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CGC', 'FDF'], {
   A: 'mekanism:pellet_antimatter',
   B: 'ae2:singularity',
-  C: Ingredient.of(['megacells:portable_item_cell_256m', 'modern_industrialization:blastproof_casing']),
+  C: 'megacells:portable_item_cell_256m',
   D: 'pneumaticcraft:aerial_interface',
   F: 'ironfurnaces:million_furnace', 
   G: 'mega_showdown:zygarde_cube'
@@ -56,7 +56,7 @@ ServerEvents.recipes(allthemods => {
   A: 'generatorgalore:ender_generator',
 	B: 'ironfurnaces:rainbow_coal'  ,
 	C: 'bigreactors:insanite_block' ,
-	D: Ingredient.of(['modern_industrialization:uranium_fuel_rod_quad','create:blaze_burner']),
+	D: 'create:blaze_burner',
 	E: 'mysticalagradditions:insanium_coal_block',
   F: 'forbidden_arcanus:smelter_prism',
 	G: 'mysticalagriculture:awakened_supremium_ingot_block',
@@ -69,7 +69,7 @@ ServerEvents.recipes(allthemods => {
   A: 'powah:player_transmitter_nitro',
   B: 'ae2wtlib:wireless_universal_terminal[ae2wtlib:has_ex_pattern_access_terminal={},ae2wtlib:has_pattern_encoding_terminal={},ae2wtlib:has_crafting_terminal={},ae2wtlib:has_pattern_access_terminal={},ae2:stored_energy=6400000.0d]',
   F: [Item.of('mekanism:module_gravitational_modulating_unit')],
-  D: Ingredient.of(['modern_industrialization:large_advanced_motor',"create:mechanical_arm"]),
+  D: 'create:mechanical_arm',
   E: 'immersiveengineering:tesla_coil',
   C: 'advanced_ae:quantum_multi_threader',
   G: 'aeinfinitybooster:infinity_card'

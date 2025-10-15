@@ -69,7 +69,6 @@
 	chapter_group.49AECADBA9E79A3B.title: "Energía"
 	chapter_group.5A4775CCD6D26C80.title: "Exploración"
 	chapter_group.6614EE2378B8AFB9.title: "Recursos"
-	chapter_group.6700DB960E16A321.title: "Modern Industrialization"
 	chapter_group.68BDE5700A9B0002.title: "Herramientas y Equipamiento"
 	file.0000000000000001.title: "All The Mods 10"
 	quest.00075A5F9AC120ED.quest_desc: ["Esto sacará los objetos de tu cofre de entrada."]
@@ -1454,8 +1453,6 @@
 	quest.17542D7633FBF098.quest_subtitle: "&oQué pena que Bob Esponja no sea una Estrella."
 	quest.17542D7633FBF098.title: "&d&lPatrick &aEstrella&r"
 	quest.1756F81ACFC56C58.quest_subtitle: "Tier: &e5"
-	quest.17598C171E610752.quest_desc: ["Ni siquiera sé qué decir para esto. Me estoy perdiendo mirando las recetas. Preferiría enumerar todos los Árboles Genealógicos de &l&2Productive Trees&r. \\n\\nConsigue &6Motores Avanzados&r y combínalos con &dVaras de Titanio&r y una &9Unidad de Procesamiento&r para hacer el &6Motor Avanzado Grande&r. \\n¡O puedes usar un &6Brazo Mecánico&r, pero no puedo prometerte que esos sean más fáciles de Fabricar!"]
-	quest.17598C171E610752.title: "&6Motor Avanzado Grande"
 	quest.1759A4E2AF0D2C88.quest_desc: ["Piensa en el &eBloque de Ingeniería Ligera&r, ¡ahora simplemente haz que todos sus componentes sean mucho más difíciles de hacer! \\n\\nPrimero necesitamos &eElectrum&r, que es una Aleación de &eOro&r y &7Plata&r hecha en el &6&lHorno de Aleación&r. \\n\\nSegundo necesitamos 4 &8Chapas de Acero&r, que como la &7Chapa de Hierro&r, necesita 4 &8Placas&r combinadas juntas. \\n\\nTercero son nuestros &8Componentes Mecánicos de Acero&r que son o un &6Lingote de Cobre&r y 4 &8Placas de Acero&r en una Mesa de Fabricación. o hechos más baratos en el &6Banco de Trabajo del Ingeniero&r."]
 	quest.1759A4E2AF0D2C88.title: "&7Bloque de Ingeniería Pesada"
 	quest.175D943160C10646.quest_desc: [
@@ -1950,8 +1947,6 @@
 	quest.1FA44E8FEE004AB4.title: "¡Seguro para el uso del &6&lGancho&r!"
 	quest.1FAFDB20F504688E.quest_desc: ["El &5Encantamiento&r recibe algunos cambios con &5&lApotheosis&r. \\n\\nPara resumirlo, 15 &7Estanterías&r no serán suficientes ahora. \\n\\nHay nuevas Estanterías y acciones que puedes hacer con las &5Mesas de Encantamientos&r ahora y espero que estas misiones te ayuden a entender."]
 	quest.1FAFDB20F504688E.title: "&5&lEncantamiento Apótico"
-	quest.1FC1588A131B6A4A.quest_desc: ["Al igual que hacer la &6&lEstrella ATM&r normalmente, ¡automatizarla necesita estar dentro del &6&lAltar Estelar Rúnico&r! \\n\\nRevisa la Misión en el Capítulo 3 para aprender cómo construirlo y usarlo."]
-	quest.1FC1588A131B6A4A.title: "&6&lAltar Estelar Rúnico"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
 	quest.1FC7ABEAB5018E79.title: "&4Redstone&r"
 	quest.1FCC474860587169.quest_desc: ["Para obtener recetas posteriores lo más probable es que necesites un &6Prisma Fundidor&r ¡y no te preocupes, solo necesitamos una Forja de Tier 1 para conseguirlo! \\n\\n¡Puedes comprobar cuánta de cada Estadística necesitas en la Forja en JEI! Además necesitarás 4 &6Polvo de Blaze&r, 2 &8Carbón&r, y un &bCristal Arcano&r. \\n\\n¡Por último, necesitarás &9Elementarium&r que puede encontrarse en Templos de la Jungla, Pirámides del Desierto y Ruinas Submarinas!"]
@@ -2257,8 +2252,6 @@
 	quest.24D38DA8E86DD897.title: "&cRotling&r"
 	quest.24E658BA47367A44.quest_desc: ["La &aPolea de Cuerda&r moverá cualquier Bloque que esté conectado a su &aCuerda&r en la parte inferior. ¡Esto también moverá cualquier Bloque &aPegado&r a ese Bloque! \\n\\nCuando se mueve en &e&oSentido Horario&r por &dPotencia Rotacional&r, bajará la &aCuerda&r hasta que golpee otro Bloque, o hasta donde esté configurada. \\n\\nCuando se le da &dPotencia Rotacional&r &9&oSentido Antihorario&r moverá la &aCuerda&r hacia la &aPolea&r hasta que golpee la &aPolea&r o vaya a donde esté configurada para ir. \\n\\n¿Por qué sigo diciendo \"configurada para ir\"? ¡Porque hay configuraciones de destino con el Modo de Movimiento! \\n\\n¡Estas decidirán dónde terminarán deteniéndose los Bloques!"]
 	quest.24E658BA47367A44.title: "&aPolea de Cuerda"
-	quest.24F3E90C14BFD1B4.quest_desc: ["¡&7&lModern Industrialization&r es un mod tan grande como su nombre! \\n\\nTiene múltiples tiers de máquinas y afortunadamente no necesitamos ir al último para la &6&lEstrella&r. \\n\\n¡De hecho ahora, es completamente opcional! ¡Si prefieres jugar con &6&lCreate&r para crear (¿lo pillas?) la &6&lEstrella ATM&r puedes!"]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
 	quest.24FCFF18296ED907.quest_desc: ["Para mejorar aún más las &9Estanterías Profundas&r, ¡sorprendentemente no necesitamos &d&lInfusión&r! ¡En cambio necesitamos más Fabricación! \\n\\nPrimero, son 5 &3Bloques de Sculk&r y un &3Catalizador de Sculk&r. Ambos pueden encontrarse dentro de la &9Oscuridad Profunda&r y necesitarán &5Toque de Seda&r para recolectarlos. \\n\\nLo último es el &9Tentáculo de Warden&r... esto es un Drop del &9&lWarden&r... Sí, necesitarás matar al &9&lWarden&r. \\n\\n¡Una vez que tengas todo eso puedes Fabricar una de las mejores &7Estanterías&r! Una que da &a10 Eterna&r, &c15% Quanta&r, y &510% Arcana&r. ¡Y lo más importante, nos da una &aEterna&r máxima de &a80&r! ¡Casi a 100!"]
 	quest.24FCFF18296ED907.title: "&9Estantería de Sculk Tocada por el Alma"
 	quest.25080E3295B1DF01.quest_desc: ["¡El &5Horno de Unobtainium&r funde objetos más rápido que cualquier otro Horno en el pack!"]
@@ -2560,8 +2553,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_hivewall.png width:200 height:100 align:center}"
 	]
 	quest.2A50A687C40DB864.title: "&6&lPared de la Colmena"
-	quest.2A6753C806D2AF8D.quest_desc: ["¡Hace más daño del que necesitarías! Sin embargo, tiene algunas desventajas."]
-	quest.2A6753C806D2AF8D.quest_subtitle: "&fâˆž &cDaño de Ataque"
 	quest.2A6900E87DE8BAE0.quest_desc: ["El Filtro de Mod es otro Filtro bastante básico. Este pones Objetos y hará lo mismo ya sea con Lista Blanca o Negra. Pero en lugar de ser solo ese Objeto será cualquier Objeto de ese Mod. \\n\\nLa Gema de Apotheosis solo permitirá Objetos de Apotheosis. La Aleación de Mekanism solo permitirá Objetos de Mekanism. Y así sucesivamente."]
 	quest.2A6FC21142E75DD5.quest_desc: [
 		"Los Lagos, Océanos, Estanques y Ríos del &l&6Bumblezone&r. \\n\\nProbablemente originalmente era solo &bAgua&r pero todo el tiempo que ha pasado dentro de la &eColmena&r se ha convertido en &bAgua Azucarada&r. \\n\\nEstos son muy útiles para salir del &l&6Bumblezone&r ya que hay muchos menos Bloques en este Bioma. \\n\\nAdemás a veces aparecen &6Slimes de Miel&r aquí."
@@ -2629,8 +2620,6 @@
 	quest.2B05A29C62676EB2.title: "&l&9Recompensa del Overworld:&r&e Zombis"
 	quest.2B08B19B35EEBCBA.quest_desc: ["¡Estas Reliquias pueden encontrarse en el &cNether&r!"]
 	quest.2B08B19B35EEBCBA.title: "&cEl Nether"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["Las &aVarillas de Combustible Cuádruples de Uranio&r son una combinación de múltiples Aleaciones diferentes a prueba de Explosiones y Radiactividad y por supuesto Materiales radiactivos. \\n\\n¡Todos estos se unirán para hacer un combustible maravilloso para un reactor! ¡O &c&lCombustible de Filósofo&r! \\n\\nO simplemente puedes usar un &cQuemador de Blaze&r... ¡pero vamos, eso no es divertido!"]
-	quest.2B0C3AAAA6D0B0D2.title: "&aVarillas de Combustible Cuádruples de Uranio"
 	quest.2B115519A21F9CB7.quest_desc: [
 		"El &d&lGuardián del Ender&r es una bestia descomunal de Piedra del End, &dPurpur&r, y &5Obsidiana&r que espera dentro del &dAltar del Vacío&r. \\n¡Tiene 13,320 &4Corazones&r y cuidado de no acercarte demasiado o podrías ser succionado más cerca de él! \\n\\nTiene un montón de ataques y habilidades, una siendo un simple puñetazo para aquellos que están demasiado cerca de su espacio personal, o un golpe que te derribará. \\n\\nSi estás más lejos de él, podría cerrar la brecha cargando y chocando contigo. ¡O podría pisotear y producir &dRunas del Vacío&r para golpearte! También puede lanzar &dBolas de Shulker&r seguidas. \\n\\n¿Además recuerdas cuando dije que puede succionarte más cerca de él? Sí, lo hace con una cosa llamada &dTifón del Vacío&r, que también puede invocar a tus Pies para atraparte. Después de que estés allí demasiado tiempo, explotará, muy probablemente dañándote en el proceso. \\n\\n¡Cuando lo lleves a la mitad de &4Salud&r, su Máscara se romperá revelando su verdadera Cabeza! Enfadado destruirá el suelo de la arena llevándolos a ambos al nivel inferior. \\n\\n¡Ahora te succionará más, lanzará más &dRunas del Vacío&r tras de ti, y atacará más rápido y más fuerte!"
 		"{image:atm:textures/questpics/cataclysm/cataclysm_guardiuan.png width:100 height:100 align:center}"
@@ -3110,9 +3099,6 @@
 	quest.33D23C65E7274A8F.title: "&dEl Despertar&r"
 	quest.33F4A7613764A016.quest_desc: ["Funciona como los Importadores, solo que exportan en su lugar."]
 	quest.33F4A7613764A016.quest_subtitle: "Exportando"
-	quest.3403D7502F7BC897.quest_desc: ["Literalmente invencible, nada puede golpearte y hacerte daño. \\n\\nActualmente necesitas mejorar la &cArmadura de Netherita&r con una &eMejora &bCuántica&r ¡pero tus amigos del &6&lEquipo ATM&r están trabajando en hacer esa receta más difícil! \\n\\n¡Y no puedes hacer nada para detenerlo! &lBUAJAJAJAJA"]
-	quest.3403D7502F7BC897.quest_subtitle: "Invencible"
-	quest.3403D7502F7BC897.title: "&eArmadura &bCuántica&r (&l&7MI&r)"
 	quest.340F93695FFF8D76.quest_desc: ["Con esto el &b&lLanzador Químico&r será más un Tirador Químico. \\n\\nEl rango aumentará pero el ancho del rocío disminuirá. ¡Así que es más preciso!"]
 	quest.341486C9F277FEB7.title: "Reactor (Espiritual)"
 	quest.3416DB9F58D8AA2C.quest_desc: ["El &3Neptunio&r es una recompensa de la Recompensa de Neptuno ¡que se obtiene Pescando! \\n\\nTambién otorga buffs por estar Bajo el Agua."]
@@ -4026,8 +4012,6 @@
 	quest.429B5A81DF6C43FE.title: "&6Conjuro de Comando Abierto de Abras"
 	quest.42AAEC41F2BC2474.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_glacite.png width:100 height:150 align:center}"]
 	quest.42AAEC41F2BC2474.title: "&bGlacite&r"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["Puedes hacer &2Aleación a Prueba de Explosiones&r combinando los tres Metales más fuertes disponibles. &5Tungsteno&r, &dTitanio&r y &7Acero Inoxidable&r. Sí, aparentemente las manchas importan. \\n\\nCon estos puedes combinarlos para hacer la &2Carcasa&r. \\n\\nPara el &3&lDispositivo de Probabilidad Improbable&r necesitaremos 2 &2Carcasas a Prueba de Explosiones&r, o 2 Celdas de Objetos Portátiles de 256M, ¡o podemos usar una mezcla de ambos!"]
-	quest.42AF4EBDA5D6CC36.title: "&2Carcasa a Prueba de Explosiones"
 	quest.42CB494F72FA1FD1.quest_desc: ["Craftea 6 &eColmenas&r o &eNidos de Abejas&r. ¡Esto incluye también las &eColmenas&r de las &l&6Abejas Productivas&r!"]
 	quest.42D173B9FF8D16E4.quest_desc: ["¿Buscas opciones de energía para el juego temprano? Estas son buenas maneras de empezar a generar energía.\\n\\nNo producen mucha energía, ¡pero suelen ser fáciles o baratas de conseguir al principio del juego!"]
 	quest.42D173B9FF8D16E4.quest_subtitle: "Energía Inicial"
@@ -4478,8 +4462,6 @@
 	quest.4B42D962FE910CB3.quest_desc: ["Con esto añadido a tu &d&lRevólver&r, tus Balas darán a los Mobs que golpees el Efecto Aturdido."]
 	quest.4B4F5341D6DBDD19.quest_desc: ["¡Mantén tu respiración bajo el agua, una vez que tus burbujas bajen a 5 se rellenarán! ¡También te permite ver mucho más fácilmente bajo el agua!"]
 	quest.4B4F5341D6DBDD19.quest_subtitle: "Máx: 1"
-	quest.4B552E9D05FF5415.quest_desc: ["¡&l&9X&cy&aC&8r&aa&cf&9t&r trata sobre los 5 colores diferentes, esto incluye usarlos para Bloques! \\n\\n¡Bloques &aVerdes&r, &cRojos&r, &9Azules&r, &8Oscuros&r y Claros de todo tipo!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lMundo"
 	quest.4B62AF0405F68041.quest_desc: ["Añade un filtro que te permite decirle a la Mochila qué objetos debe mantener abastecidos. Hacer clic derecho agachado en un inventario lo rellenará."]
 	quest.4B62AF0405F68041.quest_subtitle: "Todo Abastecido"
 	quest.4B76FE0348DB0E45.quest_desc: ["La Tarjeta de Puente Cuántico es un método alternativo para obtener acceso inalámbrico interdimensional a tu sistema de Applied Energistics. Necesitarás un Puente Cuántico conectado en tu base y una Tarjeta de Puente Cuántico en tu terminal. Estos túneles se unen luego con una Singularidad Cuántica Entrelazada para obtener acceso dondequiera que vayas."]
@@ -5660,8 +5642,6 @@
 	quest.5E4FE420B6D2C97F.quest_desc: ["Compacta objetos en la mochila a su receta de 3x3."]
 	quest.5E4FE420B6D2C97F.quest_subtitle: "Más Opciones de Filtrado"
 	quest.5E4FE420B6D2C97F.title: "&eMejora de Compactación Avanzada"
-	quest.5E5D5D28D82F6891.quest_desc: ["¡&l&9X&cy&aC&8r&aa&cf&9t&r añade un montón de Cristales con su &lNúcleo del Mundo&r! \\n\\n¡Desde unos que puedes atravesar, hasta otros que brillan, pasando por otros más resistentes!"]
-	quest.5E5D5D28D82F6891.title: "Cristal &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.5E63C78CDC44FF95.quest_desc: ["Las Bayas Ampollosas Podridas no se pueden lanzar, ¡pero cuando se convierten en Bombas Ampollosas sí! \\n\\nIncluso puedes ir más allá y hacer Calabazas Explosivas que actuarán como TNT que lanza Bayas Ampollosas por todas partes."]
 	quest.5E63C78CDC44FF95.title: "¡¡¡Explosivos!!!"
 	quest.5E6585F7627247E3.quest_desc: ["Cuando se aplica como una mejora a cualquier dispositivo compatible, como una Interfaz o un Bus de Exportación, la &bTarjeta de Crafteo&f permite que el dispositivo en cuestión envíe automáticamente sus propias solicitudes de crafteo para un objeto requerido (filtrado). Las CPU de Crafteo se pueden configurar para responder solo a estas solicitudes para evitar ocupar CPU destinadas a crafteos solicitados por el jugador.\\n\\nCuando el &eEmisor de Nivel&f se actualiza con la Tarjeta de Crafteo, se puede configurar para emitir redstone para facilitar directamente el crafteo, emitiendo una señal ya sea &omientras&r se detecta un trabajo de crafteo para su objeto dado o específicamente &opara&r craftear el objeto. Esto último se aplicaría en los casos en los que lo único necesario para hacer un objeto dado es una señal de redstone, sin siquiera requerir un patrón de crafteo."]
@@ -6081,8 +6061,6 @@
 	quest.6674270897997BF7.quest_desc: ["Te permite saltar más alto de lo normal y te hace elástico, lo que permite viajar más rápido.\\n\\nSolo puedes tener un nivel de estas Mejoras en las Grebas a la vez."]
 	quest.6674270897997BF7.quest_subtitle: "Máx: 1"
 	quest.6678AB58930F4B91.quest_subtitle: "Sauce Blanco + Álamo Temblón"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r por supuesto, al estar todo relacionado con los Colores, las Luces también se basan en el Color. \\n\\nLas Luces RGB serán del Tinte con el que estén hechas. \\n\\nEl Tinte específicamente, no la Gema."]
-	quest.667CD7C6E87A05F4.title: "Luces &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.668C313FF46B6005.quest_desc: ["Añade una GUI de Horno a la Mochila."]
 	quest.6690AEE064DC2A7C.quest_desc: [
 		"&lTipo de Habilidad:&r Pasiva"
@@ -6668,32 +6646,6 @@
 	quest.70C7D92844089DEB.quest_desc: ["Como los otros Colgantes, este tiene una posibilidad de herir a tu atacante, ¡solo que con Rayos! \\n\\nTambién hace que si tienes la (mala) suerte de ser golpeado por un Rayo, no te duela."]
 	quest.70C7D92844089DEB.quest_subtitle: "Collar"
 	quest.70C7D92844089DEB.title: "&bColgante de Choque&r"
-	quest.70CCE558E03227AB.quest_desc: [
-		"¡El &6&lAltar Estelar Rúnico&r es un Multibloque hecho por nuestro propio &3Drack.ion&r vía &lMaquinaria Modular&r! \\n\\nEs una Estructura de 15x9x15 que comienza con el &aControlador del Altar Estelar Rúnico&r. Colócalo y luego usa un &cPlano de Máquina&r en él. Hacerlo te dará puntos destacados que puedes seguir para construir el Multibloque. \\n\\nTambién puedes ir al &aControlador&r y hacer que lo construya automáticamente, ¡te puedo prometer que es más rápido! \\n\\nEn cada lado del &6&lAltar&r puedes reemplazar la &9Piedra Oscura Pulida&r junto a la &6Piedra Oscura Pulida Arcana&r con Escotillas. Estas son necesarias para la Fabricación real de la &6&lEstrella&r. \\n\\nUsa Escotillas de Entrada de Objetos (todas de &lMaquinaria Modular&r), aquí es donde se colocará la Receta. Las Escotillas de Salida de Objetos son de donde vendrá &6&lLa Estrella&r. ¡Y las Entradas de Energía son necesarias para alimentar el &6&lAltar&r! \\n\\nPuedes revisar el &aControlador&r para ver el progreso de la Receta o problemas con el &6&lAltar&r. \\n\\n(PD: La Bolsa de Botín usada en su receta es de la &5Monstruosidad Lunar&r. Además, la dirección de bloques como &9Escaleras&r o &6Pilares&r no importa para el &6Altar&r)."
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:100 height:100 align:center}"
-		"La 1ra Capa es solo &9Piedra Oscura Pulida&r, &9Escaleras de Piedra Oscura Pulida&r, y &6Piedra Oscura Pulida Arcana&r, junto con el &aControlador&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:100 height:100 align:center}"
-		"La 2da Capa es más &9Piedra Oscura Pulida&r, &9Escaleras&r, y ahora &6Piedra Oscura Pulida Cincelada Dorada&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:100 height:100 align:center}"
-		"La 3ra añade &bObeliscos de Cristal Arcano&r, Bloques de Runas, &6Piedra Oscura Pulida Cincelada Arcana&r, ¡y &9Losas de Piedra Oscura Pulida&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:100 height:100 align:center}"
-		"La 4ta Capa es donde tenemos nuestros &6Pedestales de Piedra Oscura&r, un &7Pedestal de Piedra Oscura Magnetizada&r en el medio, Jarrones Utrem, y &6Pilares de Piedra Oscura Pulida Arcana&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:100 height:100 align:center}"
-		"La 5ta Capa es bastante simple, solo algunos &6Pilares&r más."
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:100 height:100 align:center}"
-		"La 6ta Capa necesita más &6Pilares&r más un &7Inyector Cuántico&r encima del &7Pedestal de Piedra Oscura Magnetizada&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"La 7ma es muy simple también, ¡solo más &6Pilares&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"La 8va siguiendo el mismo patrón, ¡más &6Pilares&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:100 height:100 align:center}"
-		"La última Capa, la Capa 9 necesita más &6Pilares&r por supuesto, además de más Bloques de Runas y &bBloques de Cristal Arcano&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"Lo último que necesitamos hacer para iniciar el &6&lAltar&r, es agregar nuestras Escotillas. Colócalas en el exterior de la &6Piedra Oscura Pulida Arcana&r como se muestra, necesitarás algunas Entradas de Objetos, Salidas y Entradas de Energía."
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "Fabricando la &l&6Estrella ATM"
-	quest.70CCE558E03227AB.title: "&l&6Altar Estelar Rúnico"
 	quest.70CDA5F1593DB4B2.quest_desc: [
 		"&eLa Pirámide Maldita&r aparece en los desiertos y es muy difícil de pasar por alto. Una pirámide masiva con enormes pilares en la entrada. \\n\\nEntra y encontrarás trampas por todas partes, &eKoboletones&r, ¡y minijefes! \\n\\nNo te preocupes, también hay Cofres, Vasijas e incluso Arena Sospechosa que necesitarás para el..."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_pyramid.png width:200 height:100 align:center}"

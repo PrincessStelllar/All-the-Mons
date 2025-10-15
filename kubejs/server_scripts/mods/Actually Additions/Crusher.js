@@ -71,10 +71,6 @@ ServerEvents.recipes(allthemods => {
 	//Occultism
 	addAACrusher('occultism:raw_iesnium', 'occultism:iesnium_dust', 1, 0.5)
 
-	//Modern Industrialization
-	addAACrusher('modern_industrialization:raw_antimony', 'modern_industrialization:antimony_dust', 1, 0.5)
-	addAACrusher('modern_industrialization:raw_tungsten', 'modern_industrialization:tungsten_dust', 1, 0.5)
-
 	//ATO
 	addAACrusher('#c:ores/sulfur', 'alltheores:sulfur', 4, 0.5)
 	addAACrusher('#c:ores/salt', 'alltheores:salt', 4, 0.5)

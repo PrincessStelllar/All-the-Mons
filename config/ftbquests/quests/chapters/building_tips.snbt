@@ -241,8 +241,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(ars_nouveau:glyph_light)item(ars_additions:magelight_lantern)item(ars_additions:golden_magelight_lantern)item(ars_additions:sourcestone_magelight_lantern)item(ars_additions:polished_sourcestone_magelight_lantern)item(ars_additions:archwood_magelight_lantern)item(ars_additions:soul_magelight_lantern))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: -3.0d
+			x: 14.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["2094D1CE4BA66091"]
@@ -321,29 +321,6 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: -4.0d
-		}
-		{
-			dependencies: ["2094D1CE4BA66091"]
-			icon: {
-				id: "xycraft_world:lamp_lantern_white"
-			}
-			id: "667CD7C6E87A05F4"
-			rewards: [{
-				count: 3
-				id: "6C2DE67295E2C11B"
-				item: {
-					count: 1
-					id: "alltheores:aluminum_ingot"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4B13D48FF9D2530E"
-				item: { components: { "ftbfiltersystem:filter": "or(item(xycraft_world:lamp_lantern_white)item(xycraft_world:lamp_flush_white)item(xycraft_world:lamp_cube_white)item(xycraft_world:lamp_pillar_white))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 14.0d
 			y: -4.0d
 		}
 		{
@@ -492,29 +469,6 @@
 			}]
 			x: -9.0d
 			y: -3.5d
-		}
-		{
-			dependencies: ["0FE30548F25FEDB1"]
-			icon: {
-				id: "xycraft_world:glass_viewer_rgb_white"
-			}
-			id: "5E5D5D28D82F6891"
-			rewards: [{
-				count: 5
-				id: "34D37E75CB62F9BB"
-				item: {
-					count: 1
-					id: "minecraft:glow_ink_sac"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5DEABD15EDE5736F"
-				item: { components: { "ftbfiltersystem:filter": "and(item_tag(c:glass_blocks)mod(xycraft_world))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -8.0d
-			y: -3.0d
 		}
 		{
 			dependencies: ["0FE30548F25FEDB1"]
@@ -1073,8 +1027,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(railcraft:iron_tank_valve)item_tag(railcraft:iron_tank_wall)item_tag(railcraft:steel_tank_valve)item_tag(railcraft:steel_tank_wall))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 4.0d
+			x: -1.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["2094D1CE4BA66091"]
@@ -1357,72 +1311,6 @@
 			}]
 			x: 10.5d
 			y: 3.0d
-		}
-		{
-			dependencies: ["0A21773B773F34F8"]
-			icon: {
-				id: "xycraft_world:inverted_bricks_cloud_blue"
-			}
-			id: "4B552E9D05FF5415"
-			rewards: [
-				{
-					count: 2
-					id: "4FEAADB2A35AA5A0"
-					item: {
-						count: 1
-						id: "xycraft_world:xychorium_gem_blue"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 2
-					id: "3F367C54EECC5722"
-					item: {
-						count: 1
-						id: "xycraft_world:xychorium_gem_green"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 2
-					id: "3C6A8A9FB9D8EC33"
-					item: {
-						count: 1
-						id: "xycraft_world:xychorium_gem_red"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 2
-					id: "6ACB599EE6DA155F"
-					item: {
-						count: 1
-						id: "xycraft_world:xychorium_gem_dark"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-				{
-					count: 2
-					id: "49492C8F5CDF5A47"
-					item: {
-						count: 1
-						id: "xycraft_world:xychorium_gem_light"
-					}
-					random_bonus: 2
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "624ADD79136376C0"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(xycraft:colors/blue)item_tag(xycraft:colors/dark)item_tag(xycraft:colors/green)item_tag(xycraft:colors/light)item_tag(xycraft:colors/red))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: 4.5d
 		}
 		{
 			icon: {
