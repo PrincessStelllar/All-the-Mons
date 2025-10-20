@@ -40,7 +40,6 @@ ServerEvents.recipes(allthemods => {
     cell('kubejs:cobbled_deepslate_cell', 'allthecompressed:cobbled_deepslate_6x', 'minecraft:lava_bucket', 'minecraft:packed_ice', 'megacells:cell_component_256m')
     cell('kubejs:soul_sand_cell', 'allthecompressed:soul_sand_6x', 'allthemodium:soul_lava_bucket', 'minecraft:sand', 'megacells:cell_component_256m')
     cell('kubejs:sky_stone_cell', 'allthecompressed:sky_stone_block_5x', 'allthemodium:soul_lava_bucket', 'ae2:sky_dust', 'megacells:cell_component_256m')
-    cell('kubejs:kivi_cell', 'allthecompressed:kivi_5x', 'allthemodium:soul_lava_bucket', 'minecraft:water_bucket', 'megacells:cell_component_256m')
     cell('kubejs:ancient_stone_cell', 'allthecompressed:ancient_stone_5x', 'allthemodium:soul_lava_bucket', 'minecraft:lava_bucket', 'megacells:cell_component_256m')
 
 
