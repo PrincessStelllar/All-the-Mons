@@ -19,7 +19,7 @@
   "team": [
   {
     "species": "slowbro",
-    "gender": "female",
+    "gender": "FEMALE",
     "level": 100,
     "nature": "bold",
     "ability": "regenerator",
@@ -49,7 +49,7 @@
   },
   {
     "species": "garchomp",
-    "gender": "male",
+    "gender": "MALE",
     "level": 100,
     "nature": "jolly",
     "ability": "roughskin",
@@ -76,7 +76,7 @@
   },
   {
     "species": "toxapex",
-    "gender": "female",
+    "gender": "FEMALE",
     "level": 100,
     "nature": "bold",
     "ability": "regenerator",
@@ -103,7 +103,7 @@
   },
   {
     "species": "dragapult",
-    "gender": "male",
+    "gender": "MALE",
     "level": 100,
     "nature": "timid",
     "ability": "infiltrator",
@@ -130,7 +130,7 @@
   },
   {
     "species": "corviknight",
-    "gender": "male",
+    "gender": "MALE",
     "level": 100,
     "nature": "impish",
     "ability": "pressure",
@@ -157,7 +157,7 @@
   },
   {
     "species": "rotom-wash",
-    "gender": "genderless",
+    "gender": "GENDERLESS",
     "level": 100,
     "nature": "timid",
     "ability": "levitate",
