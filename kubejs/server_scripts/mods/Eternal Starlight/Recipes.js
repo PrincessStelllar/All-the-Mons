@@ -36,7 +36,7 @@ ServerEvents.recipes(allthemods => {
     prediction_convert('16x eternal_starlight:dead_lunar_bush', 'minecraft:dead_bush')
     prediction_convert('16x eternal_starlight:glowing_mushroom', ['minecraft:brown_mushroom', 'minecraft:red_mushroom'])
     prediction_convert('16x eternal_starlight:icicle', 'minecraft:pointed_dripstone')
-    prediction_convert('4x eternal_starlight:swamp_silver_ingot', '#c:ingots/silver')
+    prediction_convert('4x eternal_starlight:deepsilver_ingot', '#c:ingots/silver')
     prediction_convert('4x eternal_starlight:glacite', 'minecraft:blue_ice')
     prediction_convert('2x eternal_starlight:oxidized_golem_steel_ingot', '#c:ingots/steel')
     prediction_convert('eternal_starlight:raw_aethersent', '#c:gems/diamond')
