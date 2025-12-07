@@ -95,7 +95,6 @@ ServerEvents.tags('item', allthemods => {
 })
 
 ServerEvents.tags('entity_type', allthemods => {
-
     allthemods.add('c:bosses', [
         "allthemodium:piglich",
         "cataclysm:amethyst_crab",
@@ -151,6 +150,14 @@ ServerEvents.tags('entity_type', allthemods => {
 ServerEvents.tags('worldgen/structure', allthemods => {
     // Cataclysm
     allthemods.add('cataclysm:berserker_spawn', "betterfortresses:fortress");
+
+    allthemods.remove("villagesandpillages:village_witch",["villagesandpillages:village_witch"])
+});
+
+ServerEvents.tags('raid:boss', allthemods => {
+    allthemods.remove("cobblemonraiddens:avalugg_hisuian",["cobblemonraiddens:avalugg_hisuian"])
+    allthemods.remove("cobblemonraiddens:arcanine_hisuian",["cobblemonraiddens:arcanine_hisuian"])
+    allthemods.remove("cobblemonraiddens:growlithe_hisuian",["cobblemonraiddens:growlithe_hisuian"])
 });
 
 ServerEvents.tags('enchantment', allthemods => {
@@ -164,314 +171,12 @@ ServerEvents.tags('block_entity_type', allthemods => {
 });
 
 ServerEvents.tags('item', allthemods => {
-    // Fix dyenamicandfriends
-    
-  allthemods.remove('c:crops/pumpkin', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_pumpkin"
-  ])
-  
-  allthemods.remove('c:pumpkins/carved', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_carved_pumpkin"
-  ])
-  
-  allthemods.remove('c:pumpkins/jack_o_lanterns', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_navy_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_rose_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_amber_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_persimmon_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_conifer_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_maroon_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_bubblegum_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_ultramarine_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_fluorescent_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_peach_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_mint_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_lavender_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_honey_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_aquamarine_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_spring_green_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_icy_blue_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_wine_jack_o_lantern"
-  ])
-  
-  allthemods.remove('c:pumpkins', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_pumpkin"
-  ])
-  
-  allthemods.remove('minecraft:enchantable/equippable', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_carved_pumpkin"
-  ])
-  
-  allthemods.remove('minecraft:enchantable/vanishing', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_carved_pumpkin"
-  ])
+  allthemods.remove("minecraft:head_armor",["pkgbadges:alians_scraf_helmet"])
+  allthemods.add("minecraft:head_armor",["pkgbadges:alians_scraf"])
 })
 
 ServerEvents.tags('block', allthemods => {
-    // Fix dyenamicandfriends
-
-  allthemods.remove('c:pumpkins', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_pumpkin"
-  ])
-    
-  allthemods.remove('c:pumpkins/carved', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_carved_pumpkin"
-  ])
   
-  allthemods.remove('c:pumpkins/jack_o_lanterns', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_navy_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_rose_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_amber_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_persimmon_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_conifer_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_maroon_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_bubblegum_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_ultramarine_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_fluorescent_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_peach_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_mint_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_lavender_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_honey_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_aquamarine_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_spring_green_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_icy_blue_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_wine_jack_o_lantern"
-  ])
-  
-  allthemods.remove('minecraft:mineable/axe', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_cherenkov_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_cherenkov_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_navy_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_rose_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_amber_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_persimmon_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_conifer_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_maroon_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_bubblegum_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_ultramarine_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_fluorescent_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_peach_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_mint_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_lavender_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_honey_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_aquamarine_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_spring_green_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_icy_blue_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_wine_jack_o_lantern"
-  ])
-  
-  allthemods.remove('minecraft:sword_efficient', [
-    "dyenamicsandfriends:chromacarvings_cherenkov_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_pumpkin",
-    "dyenamicsandfriends:chromacarvings_cherenkov_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_navy_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_rose_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_amber_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_persimmon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_conifer_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_maroon_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_bubblegum_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_ultramarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_fluorescent_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_peach_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_mint_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_lavender_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_honey_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_aquamarine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_spring_green_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_icy_blue_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_wine_carved_pumpkin",
-    "dyenamicsandfriends:chromacarvings_cherenkov_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_navy_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_rose_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_amber_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_persimmon_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_conifer_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_maroon_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_bubblegum_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_ultramarine_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_fluorescent_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_peach_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_mint_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_lavender_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_honey_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_aquamarine_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_spring_green_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_icy_blue_jack_o_lantern",
-    "dyenamicsandfriends:chromacarvings_wine_jack_o_lantern"
-  ])
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {

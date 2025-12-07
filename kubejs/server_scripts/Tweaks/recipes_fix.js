@@ -169,46 +169,67 @@ KubeJSTweaks.beforeRecipes(event => {
 
   // event.disable(/^botanypots:cobblemon\/crop\/.*$/)
   
-  event.getEntry(/^botanypots:cobblemon\/crop\/.*$/).forEach(entry => {
-	  let type = entry.json().get("type").getAsString()
-	  if (type == "botanypots:crop") {
-		entry.replaceValueAtKey("type", null, "botanypots:crop", "botanypots:block_derived_crop")
-		entry.renameKey("seed", "input", false)
-		entry.renameKey("growthTicks", "grow_time", false)
-		let display = entry.json().get("display")
-		let displayBlock = display.get("block")
+  // event.getEntry(/^botanypots:cobblemon\/crop\/.*$/).forEach(entry => {
+	//   let type = entry.json().get("type").getAsString()
+	//   if (type == "botanypots:crop") {
+	// 	entry.replaceValueAtKey("type", null, "botanypots:crop", "botanypots:block_derived_crop")
+	// 	entry.renameKey("seed", "input", false)
+	// 	entry.renameKey("growthTicks", "grow_time", false)
+	// 	let display = entry.json().get("display")
+	// 	let displayBlock = display.get("block")
 		
-		if (display.has("rotation")) {
-			let rotation = display.remove("rotation")
-			display.add("block_state", JsonIO.toObject({block: displayBlock}))
-			display.add("options", JsonIO.toObject({rotation: rotation}))
-		}
-		entry.json().add("block", displayBlock)
-		entry.fixItemAtKey("drops")
+	// 	if (display.has("rotation")) {
+	// 		let rotation = display.remove("rotation")
+	// 		display.add("block_state", JsonIO.toObject({block: displayBlock}))
+	// 		display.add("options", JsonIO.toObject({rotation: rotation}))
+	// 	}
+	// 	entry.json().add("block", displayBlock)
+	// 	entry.fixItemAtKey("drops")
 		
-		let drops = entry.json().get("drops")
+	// 	let drops = entry.json().get("drops")
 		
-		for (let drop of drops) {
-          let output = drop.remove("output")
-		  output.add("id", output.remove("item"))
-		  drop.add("result", output)
-        }
-		entry.json().add("drops", JsonIO.toArray([{type: "botanypots:items", items: drops}]))
+  //   let shouldAdd = false
+	// 	for (let drop of drops) {
+  //     let output = drop.remove("output")
+  //     if (output == null) continue
+  //     shouldAdd = true
+  //     output.add("id", output.remove("item"))
+  //     drop.add("result", output)
+  //   }
+	// 	if (shouldAdd) entry.json().add("drops", JsonIO.toArray([{type: "botanypots:items", items: drops}]))
 		
-		let categories = entry.json().remove("categories")
-		let soilIngredients = JsonIO.toArray([])
-		for (let category of categories) {
-			soilIngredients["add(com.google.gson.JsonElement)"](JsonIO.toObject({tag: "botanypots:soil/" + (category.getAsString() == "stone" ? "moss" : category.getAsString())}))
-		}
-		let soil = JsonIO.toObject({type: "bookshelf:either", ingredients: soilIngredients})
-		entry.json().add("soil", soil)
-	  }
-	  //console.log(entry.json())
-  })
+	// 	let categories = entry.json().remove("categories")
+	// 	let soilIngredients = JsonIO.toArray([])
+	// 	if (categories == null) return
+	// 	for (let category of categories) {
+	// 		soilIngredients["add(com.google.gson.JsonElement)"](JsonIO.toObject({tag: "botanypots:soil/" + (category.getAsString() == "stone" ? "moss" : category.getAsString())}))
+	// 	}
+	// 	let soil = JsonIO.toObject({type: "bookshelf:either", ingredients: soilIngredients})
+	// 	entry.json().add("soil", soil)
+	//   }
+	//   //console.log(entry.json())
+  // })
 
   event.getEntry("bellsandwhistles:metro/metro_window").forEach(entry => {
 	entry.replaceValueAtKey("ingredients", "tag", "c:glass", "c:glass_blocks")
   })
+
+  event.getEntry(/^create:.*\/compat\/silentgems\//)
+    .forEach(entry => {
+      entry.addConditionsFromKey("ingredients")
+    })
+
+  event.getEntry("farmersdelight:integration/create/filling/chocolate_pie")
+    .forEach(entry => {
+      entry.replaceValueAtKey("ingredients", "fluid_tag", "c:chocolates", "c:chocolate")
+    })
+	
+    event.getEntry("mekmm:compat/mysticalagradditions/planting/awakened_draconium")
+    .forEach(entry => {
+	    entry.fixItemAtKey("main_output")
+	    let ci = entry.json().get("chemical_input")
+      ci.add("chemical", ci.remove("gas"))
+	  })
 
   console.log(`Fixing recipes took ${timer.stop().elapsed("milliseconds")} ms...`)
 })
