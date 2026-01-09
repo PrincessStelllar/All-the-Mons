@@ -1570,7 +1570,7 @@
 					id: "0BAA616086292311"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -1604,7 +1604,7 @@
 			]
 			tasks: [{
 				id: "0D1F556618F008B4"
-				item: { components: { "ftbfiltersystem:filter": "or(item(eternal_starlight:aethersent_block)item(eternal_starlight:glacite)item(eternal_starlight:thermal_springstone)item(eternal_starlight:swamp_silver_block)item(eternal_starlight:oxidized_golem_steel_block)item(eternal_starlight:golem_steel_block)item(eternal_starlight:thioquartz_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(eternal_starlight:aethersent_block)item(eternal_starlight:glacite)item(eternal_starlight:thermal_springstone)item(eternal_starlight:deepsilver_block)item(eternal_starlight:oxidized_golem_steel_block)item(eternal_starlight:golem_steel_block)item(eternal_starlight:thioquartz_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -6.5d

@@ -55,7 +55,6 @@
 	quest.0A11725B41AB45F6.quest_desc: ["これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\n\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\n\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"]
 	quest.0AF2460579C6BD8C.quest_subtitle: "オスミウム + 黒曜石"
 	quest.0B2210804594E7B8.quest_subtitle: "単純にクラフトする"
-	quest.0BCB7E97BC566683.quest_subtitle: "マンガンミツバチのスポーンエッグ1個のために鉄ミツバチのスポーンエッグ6個を遠心分離する"
 	quest.0CD6F30BBEE20E15.quest_subtitle: "グロウストーン + オスミウム"
 	quest.0D5D76B3551CD5A7.quest_desc: ["はい、アルミニウムミツバチと呼ばれています"]
 	quest.0D5D76B3551CD5A7.quest_subtitle: "クリスタリン + アッシュマイニング"
@@ -152,7 +151,6 @@
 	quest.198EDBAC1D6E2339.quest_subtitle: "ハイブ内でミツバチのテレポートを防ぐ"
 	quest.1A0672C7509271B3.quest_subtitle: "フッ化物をダイアモンドミツバチに与える"
 	quest.1A4FAE5705B53753.quest_subtitle: "エンチャント装置でクラフト"
-	quest.1ACB3EDBCB732514.quest_subtitle: "モナザイトブロックを硫黄ミツバチに与える"
 	quest.1C40B30823B2A254.quest_subtitle: "釣りで入手"
 	quest.1C474B46AECCCFE9.quest_subtitle: "グラベルまたはストーンネストを使用してスポーン"
 	quest.1D720AC88431BD70.quest_desc: ["エンダーミツバチとラピスミツバチを交配させてダイヤモンドミツバチを作ります！"]
@@ -178,7 +176,6 @@
 	quest.21FDF07571B5DCA7.quest_subtitle: "プリモゲルグーを鉄ミツバチに与える"
 	quest.2226555D9552236E.quest_subtitle: "ほとんどのウッドネストから出現"
 	quest.22647504C37E547C.quest_subtitle: "シアナイトブロックを放射性ミツバチに与える"
-	quest.22CF5AD56C1BB8D5.quest_subtitle: "ダークブロックをダイアモンドミツバチに与える"
 	quest.23820B0DCEC022D1.quest_subtitle: "樹脂 + 木材"
 	quest.244ACD7024566001.quest_subtitle: "スウェットミツバチにアイスを与える！"
 	quest.244ACD7024566001.title: "フロスティミツバチ"
@@ -206,7 +203,6 @@
 	quest.2A559D527BC88DEC.title: "スカイスチールハニカム"
 	quest.2AEC294578952BFD.quest_subtitle: "ラピス + スケルタル"
 	quest.2AEC294578952BFD.title: "染料ミツバチ"
-	quest.2AEEDCC6826CF4AB.quest_subtitle: "魚の取引"
 	quest.2BE538246C672689.quest_desc: ["&9ヴィブラニウム&rミツバチを手に入れたら、&5溶融アンオブタニウム&rを注いで&5アンオブタニウムミツバチ&rを入手します。"]
 	quest.2BE538246C672689.quest_subtitle: "オールザモディウム + ヴィブラニウム"
 	quest.2BE538246C672689.title: "アンオブタニウムミツバチ"
@@ -281,7 +277,6 @@
 	quest.3D7480E4F9063E93.quest_subtitle: "ランバー + スウェット"
 	quest.3D7480E4F9063E93.title: "ランチャーミツバチ"
 	quest.3DA5F622E3266AE5.quest_subtitle: "再処理装置で作製"
-	quest.3DB5874FA93FDA50.quest_subtitle: "エメラルドミツバチのスポーンエッグ3個を電気分解してベリリウムミツバチのスポーンエッグを作製"
 	quest.3E301F3EEC8C763A.quest_desc: [
 		"赤ちゃんミツバチの成長速度を速めるために使用することができますし、新しいスポーンエッグを作成するためにも使用できます"
 		""
@@ -303,9 +298,7 @@
 	quest.41FD145B911BD625.quest_subtitle: "銀ミツバチのスポーンエッグをスピリットファイアに"
 	quest.437DB2CE10D33A08.quest_desc: ["グロウストーンネストを手に入れ、ネザーに行ってこのミツバチを捕まえる必要があります！"]
 	quest.437DB2CE10D33A08.title: "グローイングミツバチ"
-	quest.439B5FDAC84271A2.quest_subtitle: "ダイアモンド + 鉄"
 	quest.447CAC472A99835B.quest_subtitle: "スノーネストから出現"
-	quest.47A57DF7964D71B9.quest_subtitle: "クラフトするだけです"
 	quest.47CEFA06392C4211.quest_desc: ["アドバンスド ミツバチハイブの上に Expansion Box を設置して、ハイブ内のミツバチの数を合計5スロットまで増やすことができます"]
 	quest.47CEFA06392C4211.quest_subtitle: "ミツバチ ストレージの拡大"
 	quest.47CEFA06392C4211.title: "Expansion Box"
@@ -359,7 +352,6 @@
 	quest.59135B04FC7C3E61.quest_subtitle: "クロッグラムブロックを鉄ミツバチに与える"
 	quest.5962DC39E5874FB9.quest_subtitle: "ラピス + スケルタル"
 	quest.5AE851B8074BC7E6.quest_subtitle: "発光 + チョコ採鉱"
-	quest.5B969BF6F00A84D8.quest_subtitle: "RuBee スポーンエッグ6個を遠心分離して Chromium Bee スポーンエッグ1個にする"
 	quest.5CC9CB0911954215.quest_desc: ["リードネストは、どのオーバーワールドバイオームにも設置でき、メイソンミツバチまたはリードミツバチを引き寄せます"]
 	quest.5CC9CB0911954215.quest_subtitle: "どのオーバーワールドバイオームでもミツバチを引き寄せる"
 	quest.5CF2A069A3CC4EF6.quest_subtitle: "レジン + リード"
@@ -431,7 +423,6 @@
 	quest.70C878DB6AE413B2.quest_subtitle: "マグマティック + 石炭"
 	quest.70FB4088084018D3.quest_desc: [""]
 	quest.70FB4088084018D3.quest_subtitle: "再処理装置で作成"
-	quest.715588642623A8A1.quest_subtitle: "クリスタライン + 鉄"
 	quest.71667FFC8011525C.quest_subtitle: "マグマティック + リーフカッター"
 	quest.71667FFC8011525C.title: "石炭ミツバチ"
 	quest.7277D695C4CB7840.quest_subtitle: "エナジャイザーで作成"
@@ -481,7 +472,6 @@
 	]
 	quest.7B5A0BFD47D96BDE.quest_subtitle: "ミツバチを捕まえる"
 	quest.7B72CF322A3C985D.quest_desc: ["&8オブシディアン・ビー&rが&4レッドストーン・ビーのスポーンエッグ&rを受粉すると、&2フラックスダスト・ビーのスポーンエッグ&rに変換されます。"]
-	quest.7B99AA20DC55263C.quest_subtitle: "鉛 + 銀"
 	quest.7C169A4A39F37FAC.quest_desc: [
 		"バニラのミツバチの巣を使って、&eアドバンスドミツバチの巣&rを作ります。オークまたは他の種類の木材が使えます"
 		""

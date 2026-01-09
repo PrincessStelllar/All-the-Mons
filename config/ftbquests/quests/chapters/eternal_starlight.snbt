@@ -1403,7 +1403,7 @@
 				id: "2C1EB30D6FA19A2A"
 				item: {
 					count: 1
-					id: "eternal_starlight:swamp_silver_ingot"
+					id: "eternal_starlight:deepsilver_ingot"
 				}
 				type: "item"
 			}]
@@ -1411,7 +1411,7 @@
 			size: 1.3d
 			tasks: [{
 				id: "0DDC5131385A31C8"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_ingot" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_ingot" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -1517,7 +1517,7 @@
 				id: "2B670BD16B1522CF"
 				item: {
 					count: 1
-					id: "eternal_starlight:atalphaite_block"
+					id: "eternal_starlight:starcore_block"
 				}
 				type: "item"
 			}]
@@ -1525,7 +1525,7 @@
 			size: 1.3d
 			tasks: [{
 				id: "4AF16007B3C6224E"
-				item: { count: 1, id: "eternal_starlight:atalphaite" }
+				item: { count: 1, id: "eternal_starlight:starcore" }
 				type: "item"
 			}]
 			x: -2.0d
@@ -2044,7 +2044,7 @@
 					id: "499B871B4FE08262"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -2056,7 +2056,7 @@
 			]
 			tasks: [{
 				id: "6618053E00147EE9"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_helmet" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_helmet" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2071,7 +2071,7 @@
 					id: "423FEB123996A793"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -2083,7 +2083,7 @@
 			]
 			tasks: [{
 				id: "242B4552785FCC54"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_chestplate" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_chestplate" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2098,7 +2098,7 @@
 					id: "2DE762606825FE4E"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -2110,7 +2110,7 @@
 			]
 			tasks: [{
 				id: "0266C4B946061D4B"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_leggings" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_leggings" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2125,7 +2125,7 @@
 					id: "67F6093F6B193894"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -2137,7 +2137,7 @@
 			]
 			tasks: [{
 				id: "5A2823AC2F1170A7"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_boots" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_boots" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2152,7 +2152,7 @@
 					id: "75E9EF5B94A3E352"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -2164,7 +2164,7 @@
 			]
 			tasks: [{
 				id: "66755A2D873AEB81"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_sword" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_sword" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2179,7 +2179,7 @@
 					id: "2DC3F334D860CD26"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -2191,7 +2191,7 @@
 			]
 			tasks: [{
 				id: "759F6D1EA0FAD887"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_pickaxe" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_pickaxe" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2206,7 +2206,7 @@
 					id: "20760BB54C31ED80"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -2218,7 +2218,7 @@
 			]
 			tasks: [{
 				id: "30E738F2377C94F8"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_axe" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_axe" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2233,7 +2233,7 @@
 					id: "6DFB331C101AAE41"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -2245,7 +2245,7 @@
 			]
 			tasks: [{
 				id: "54237AEE6A97B440"
-				item: { count: 1, id: "eternal_starlight:swamp_silver_sickle" }
+				item: { count: 1, id: "eternal_starlight:deepsilver_sickle" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2627,33 +2627,6 @@
 			}]
 			x: -12.5d
 			y: 6.0d
-		}
-		{
-			dependencies: ["0F4783FA019C4567"]
-			id: "4F38AD7A5733FBCE"
-			rewards: [
-				{
-					count: 2
-					id: "007F0E274B7C1D14"
-					item: {
-						count: 1
-						id: "eternal_starlight:amaramber_ingot"
-					}
-					type: "item"
-				}
-				{
-					id: "580C02005212D869"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "6487AFCE3F35E3D0"
-				item: { count: 1, id: "eternal_starlight:amaramber_helmet" }
-				type: "item"
-			}]
-			x: -14.0d
-			y: -7.0d
 		}
 		{
 			dependencies: ["0F4783FA019C4567"]

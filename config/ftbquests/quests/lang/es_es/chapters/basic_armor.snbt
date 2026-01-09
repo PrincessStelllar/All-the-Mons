@@ -124,9 +124,6 @@
 	quest.338BD467EBE6EE1F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"]
 	quest.338BD467EBE6EE1F.quest_subtitle: "Puesto de Saqueadores"
 	quest.338BD467EBE6EE1F.title: "Sentry Armor Trim"
-	quest.3403D7502F7BC897.quest_desc: ["Literalmente invencible, nada puede golpearte y hacerte daño. \\n\\nActualmente necesitas mejorar la &cArmadura de Netherita&r con una &eMejora &bCuántica&r ¡pero tus amigos del &6&lEquipo ATM&r están trabajando en hacer esa receta más difícil! \\n\\n¡Y no puedes hacer nada para detenerlo! &lBUAJAJAJAJA"]
-	quest.3403D7502F7BC897.quest_subtitle: "Invencible"
-	quest.3403D7502F7BC897.title: "&eArmadura &bCuántica&r (&l&7MI&r)"
 	quest.3416DB9F58D8AA2C.quest_desc: ["El &3Neptunio&r es una recompensa de la Recompensa de Neptuno ¡que se obtiene Pescando! \\n\\nTambién otorga buffs por estar Bajo el Agua."]
 	quest.3416DB9F58D8AA2C.quest_subtitle: "28"
 	quest.3416DB9F58D8AA2C.title: "&3Armadura de Neptunio"

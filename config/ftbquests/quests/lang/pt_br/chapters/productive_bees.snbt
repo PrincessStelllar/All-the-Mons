@@ -71,8 +71,6 @@
 	quest.0AF2460579C6BD8C.title: "&fAbelha de Obsidiana Refinada"
 	quest.0B2210804594E7B8.quest_subtitle: "Você apenas o cria"
 	quest.0B2210804594E7B8.title: "&fAbelha de Essencia Arcana"
-	quest.0BCB7E97BC566683.quest_subtitle: "Centrifugar 6 Ovos de Geração de Abelha de Ferro para 1 Ovo de Geração de Abelha de Manganês"
-	quest.0BCB7E97BC566683.title: "&fAbelha Manganês"
 	quest.0CD6F30BBEE20E15.quest_subtitle: "Pedra Luminosa + Ósmio"
 	quest.0CD6F30BBEE20E15.title: "&fAbelha de Pedra Luminosa Refinada"
 	quest.0D5D76B3551CD5A7.quest_desc: ["Sim, é chamada de Abelha de Alumínio."]
@@ -185,8 +183,6 @@
 	quest.1A0672C7509271B3.title: "&fAbelha de Fluorita"
 	quest.1A4FAE5705B53753.quest_subtitle: "Fabricado com Aparelho de Encantamento"
 	quest.1A4FAE5705B53753.title: "&fAbelha de Essência do Ar"
-	quest.1ACB3EDBCB732514.quest_subtitle: "Alimente uma Abelha de Enxofre com um Bloco de Monazite"
-	quest.1ACB3EDBCB732514.title: "&fAbelha de Monazita"
 	quest.1C40B30823B2A254.quest_subtitle: "Basta pescar"
 	quest.1C40B30823B2A254.title: "&fAbelha de Prismarinho"
 	quest.1C474B46AECCCFE9.quest_subtitle: "Gerada usando um Ninho de Cascalho ou Pedra"
@@ -218,8 +214,6 @@
 	quest.2226555D9552236E.title: "&fAbelha Carpinteira Amarela"
 	quest.22647504C37E547C.quest_subtitle: "Alimente uma Abelha Radioativa com um Bloco de Cyanita"
 	quest.22647504C37E547C.title: "&fAbelha de Cianite"
-	quest.22CF5AD56C1BB8D5.quest_subtitle: "Alimente uma Abelha Diamante com um Bloco Escuro"
-	quest.22CF5AD56C1BB8D5.title: "&fAbelha de Gema Escura"
 	quest.23820B0DCEC022D1.quest_subtitle: "Resin + Lumber"
 	quest.23820B0DCEC022D1.title: "&fAbelha de Plástico"
 	quest.244ACD7024566001.quest_subtitle: "Alimente uma Abelha Suada com Gelo"
@@ -257,8 +251,6 @@
 	quest.2A559D527BC88DEC.title: "&fAbelha de Aço do Céu"
 	quest.2AEC294578952BFD.quest_subtitle: "Lápis + Esquelético"
 	quest.2AEC294578952BFD.title: "&fAbelha de Corante"
-	quest.2AEEDCC6826CF4AB.quest_subtitle: "Negócio Suspeito"
-	quest.2AEEDCC6826CF4AB.title: "&fAbelha de Petróleo"
 	quest.2BE538246C672689.quest_desc: ["Usando uma fundição, despeje &#9332D9Unobtainium Derretido&r sobre um &#F2EB2EOvo de Geração de Abelha de Vibranium&r."]
 	quest.2BE538246C672689.quest_subtitle: "Fundindo ovos de montão!"
 	quest.2BE538246C672689.title: "&fAbelha de &dUnobtainium"
@@ -354,8 +346,6 @@
 	quest.3D7480E4F9063E93.title: "&fAbelha Fazendeira"
 	quest.3DA5F622E3266AE5.quest_subtitle: "Feito no Reprocessador"
 	quest.3DA5F622E3266AE5.title: "&fAbelha de Ridiculite"
-	quest.3DB5874FA93FDA50.quest_subtitle: "Eletrolise 3 Ovos de Geração de Abelha de Esmeralda em um Ovo de Geração de Abelha de Berílio"
-	quest.3DB5874FA93FDA50.title: "&fAbelha de Berílio"
 	quest.3E301F3EEC8C763A.quest_desc: [
 		"Isso pode ser usado para acelerar a taxa de crescimento de abelhas bebês ou para criar novos Ovos de Spawn."
 		""
@@ -380,12 +370,8 @@
 	quest.41FD145B911BD625.title: "&fAbelha de Iesnium"
 	quest.437DB2CE10D33A08.quest_desc: ["Você precisará pegar um &6Colmeia de Pedra Luminosa&r e ir para o &cNether&r para capturar esta abelha!"]
 	quest.437DB2CE10D33A08.title: "&fAbelha &6Luminosa"
-	quest.439B5FDAC84271A2.quest_subtitle: "Diamante + Ferro"
-	quest.439B5FDAC84271A2.title: "&fAbelha de Titânio"
 	quest.447CAC472A99835B.quest_subtitle: "Surge de um Ninho de Neve"
 	quest.447CAC472A99835B.title: "&fAbelha de Suor"
-	quest.47A57DF7964D71B9.quest_subtitle: "Você apenas o cria"
-	quest.47A57DF7964D71B9.title: "&fAbelha Sanguinária"
 	quest.47CEFA06392C4211.quest_desc: ["Expansion boxes são colocadas em cima das suas Colmeias Avançadas para aumentar a quantidade de abelhas que podem estar na colmeia para um total de 5 slots."]
 	quest.47CEFA06392C4211.quest_subtitle: "Aumentando nosso armazenamento de abelhas"
 	quest.47CEFA06392C4211.title: "&fCaixas de Expansão"
@@ -453,8 +439,6 @@
 	quest.5962DC39E5874FB9.title: "&fAbelha Corante"
 	quest.5AE851B8074BC7E6.quest_subtitle: "Luminoso + Mineradora de Chocolate"
 	quest.5AE851B8074BC7E6.title: "&fAbelha de Cristal de Redstone"
-	quest.5B969BF6F00A84D8.quest_subtitle: "Centrifugue 6 Ovos de Geração de Abelha Rubi em 1 Ovo de Geração de Abelha de Cromo"
-	quest.5B969BF6F00A84D8.title: "&fAbelha de Cromo"
 	quest.5CC9CB0911954215.quest_desc: ["Um &fNinho de &aCana&r funcionará em qualquer bioma do Mundo Superior e atrairá uma Abelha Pedreira ou uma Abelha de Junco."]
 	quest.5CC9CB0911954215.quest_subtitle: "Atrai abelhas em qualquer Bioma do Mundo Superior"
 	quest.5CC9CB0911954215.title: "&fNinho de &aCana"
@@ -540,8 +524,6 @@
 	quest.70FB4088084018D3.quest_desc: [""]
 	quest.70FB4088084018D3.quest_subtitle: "Feito no Reprocessador"
 	quest.70FB4088084018D3.title: "&fAbelha de Ludicrite"
-	quest.715588642623A8A1.quest_subtitle: "Cristalino + Ferro"
-	quest.715588642623A8A1.title: "&fAbelha de Ferro Enriquecido em Quartzo "
 	quest.71667FFC8011525C.quest_subtitle: "Magmática + Cortadeira de Folhas"
 	quest.71667FFC8011525C.title: "&fAbelha de Carvão"
 	quest.7277D695C4CB7840.quest_subtitle: "Feito com energizador"
@@ -604,8 +586,6 @@
 	quest.7B5A0BFD47D96BDE.title: "&fApanhador"
 	quest.7B72CF322A3C985D.quest_desc: ["Uma &8Abelha Obsidiana&r polinizando um &4Ovo de Geração de Abelha de Redstone&r irá convertê-lo em um &2Ovo de Geração de Abelha de Pó de Flux&r."]
 	quest.7B72CF322A3C985D.title: "&fAbelha de Flux"
-	quest.7B99AA20DC55263C.quest_subtitle: "Chumbo + Prata"
-	quest.7B99AA20DC55263C.title: "&fAbelha de Antimônio"
 	quest.7C169A4A39F37FAC.quest_desc: ["Com a Colmeia vanilla, usaremos isso para criar uma &eColmeia Avançada&r. Pode ser de Carvalho ou qualquer tipo de madeira.\\n\\nAs abelhas entrarão e sairão delas e deixarão Favos de Mel no inventário. Você também pode inserir garrafas de vidro para obter Garrafas de Mel.\\n\\nPrecisaremos de muitos Favos de Mel para guloseimas!"]
 	quest.7C169A4A39F37FAC.quest_subtitle: "Chega de tosquiar."
 	quest.7C169A4A39F37FAC.title: "Colmeia Avançada"

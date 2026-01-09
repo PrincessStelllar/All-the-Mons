@@ -34,8 +34,6 @@
 	quest.17542D7633FBF098.quest_desc: [""]
 	quest.17542D7633FBF098.quest_subtitle: "&oQué pena que Bob Esponja no sea una Estrella."
 	quest.17542D7633FBF098.title: "&d&lPatrick &aEstrella&r"
-	quest.17598C171E610752.quest_desc: ["Ni siquiera sé qué decir para esto. Me estoy perdiendo mirando las recetas. Preferiría enumerar todos los Árboles Genealógicos de &l&2Productive Trees&r. \\n\\nConsigue &6Motores Avanzados&r y combínalos con &dVaras de Titanio&r y una &9Unidad de Procesamiento&r para hacer el &6Motor Avanzado Grande&r. \\n¡O puedes usar un &6Brazo Mecánico&r, pero no puedo prometerte que esos sean más fáciles de Fabricar!"]
-	quest.17598C171E610752.title: "&6Motor Avanzado Grande"
 	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&oLo desconocido pero sin embargo es todo lo que conocemos."
 	quest.1CE7B24E7E62C25B.title: "&d&lAgujero Negro &8Pulsante"
@@ -61,8 +59,6 @@
 	quest.23254CE8487D2E68.title: "&8Constructor de Wither"
 	quest.23AE395433AED3C0.quest_desc: ["¡La &6&lEstrella ATM&r necesita algunos Bloques para mantener unidos los diferentes Objetos, y hacer su forma de estrella! \\n\\nLos primeros Bloques son &5Bloques&r de &6Aleación&r de &5Unobtainium&r - &6Allthemodium&r. ¡Necesitas usar un Aparato de Encantamiento de &d&lArs Nouveau&r para hacerlos! Para hacer 28 para ser exactos. \\n\\nPara 17 Bloques de Netherstar X3 necesitarás 111,537 Estrellas del Nether. (¡Por favor te lo ruego usa &l&bHNN&r simplemente no generes y mates 111,537, por favor!)"]
 	quest.23AE395433AED3C0.title: "Carcasa de la &6&lEstrella&r"
-	quest.24F3E90C14BFD1B4.quest_desc: ["¡&7&lModern Industrialization&r es un mod tan grande como su nombre! \\n\\nTiene múltiples tiers de máquinas y afortunadamente no necesitamos ir al último para la &6&lEstrella&r. \\n\\n¡De hecho ahora, es completamente opcional! ¡Si prefieres jugar con &6&lCreate&r para crear (¿lo pillas?) la &6&lEstrella ATM&r puedes!"]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
 	quest.263C9A0FC04472AB.quest_desc: ["Este puede comer &cLava&r como ningún otro, o ser usado para la &6&lEstrella&r. \\n\\nEste es difícil, me gusta ver desaparecer la &cLava&r en lugar de que mis cosas desaparezcan en la &cLava&r."]
 	quest.263C9A0FC04472AB.title: "&4Generador Magmático 64x"
 	quest.268EA2DEC8840D13.quest_desc: ["Cuando se trabaja en &4Computadoras&r, especialmente las Cuánticas, los Martillos y Alicates en la Mesa de Fabricación no podrán fabricarnos lo que necesitamos, necesitaremos un &bEnsamblador de Cristales&r. \\n\\n¡Para este necesitaremos un montón de &9Singularidades&r!"]
@@ -73,8 +69,6 @@
 	quest.2A444F4CCC72545D.title: "&5Sacrificio Abisal"
 	quest.2A72B262AF4F11C9.quest_desc: ["Para obtener el Retoño de &6Dragón de Socotra&r necesitarás Criar &7Wengué&r con &4Cocobolo&r. \\n\\nPara obtener &7Wengué&r necesitarás Criar &4Cocobolo&r con &fBalsa&r. \\n\\nPara obtener &4Cocobolo&r necesitarás Criar Balsa con &8Roble Oscuro&r. \\n\\nPara obtener &fBalsa&r necesitarás Criar &cAcacia&r con &eTeca&r. \\n\\nPara obtener &fTeca&r puedes Criar &2Jungla&r y &8Roble Oscuro&r."]
 	quest.2A72B262AF4F11C9.title: "Retoño de &6Dragón de Socotra&r"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["Las &aVarillas de Combustible Cuádruples de Uranio&r son una combinación de múltiples Aleaciones diferentes a prueba de Explosiones y Radiactividad y por supuesto Materiales radiactivos. \\n\\n¡Todos estos se unirán para hacer un combustible maravilloso para un reactor! ¡O &c&lCombustible de Filósofo&r! \\n\\nO simplemente puedes usar un &cQuemador de Blaze&r... ¡pero vamos, eso no es divertido!"]
-	quest.2B0C3AAAA6D0B0D2.title: "&aVarillas de Combustible Cuádruples de Uranio"
 	quest.2B57C8D2F98A9279.quest_desc: ["¡&l&7Pocket Storage&r es un mod que añade almacenamiento portátil simple! \\n\\nHaz Click Derecho para abrirlo y puedes meter Objetos. Tendrán un conteo máximo que puede contener, y cualquier Objeto adicional puesto más allá será anulado. También aspirará Objetos del suelo que sean iguales a los que contiene. \\n\\nTambién hay formas en que puedes volcarlo en Cofres o sacarlo de Cofres rápidamente. \\n\\nLos diferentes Tiers cuanto más altos, mayores serán las Ranuras y los Objetos Máximos."]
 	quest.2B57C8D2F98A9279.title: "&l&7Pocket Storage"
 	quest.2CECCA9D05D3EF12.quest_desc: ["La &2Estela Eterna&r es bastante cara. ¡Necesitarás una Forja de Tier 3 primero! \\n\\nLuego, necesitarás &7Pieza de Stellarita&r que puedes minar. Y tienes que conseguir 3 &aOrbes Xpetrificados&r que ya no puedes minar. ¡En cambio tendrás que alimentar un Agujero Negro con &aEXP&r para conseguirlo! \\n\\nFinalmente, necesitarás un &6Lingote de AllTheModium&r para obtener la &2Estela Eterna&r. ¡Tiene sentido por qué es tan cara ya que puede combinarse con cualquier Herramienta para hacerla Invencible!"]
@@ -116,8 +110,6 @@
 	quest.3F8AEBB994716318.quest_desc: ["¡&8Wither&r es un Efecto en &l&2Vainilla&r así que por supuesto necesitamos nuestra propia forma de usarlo y abusar de él! \\n\\nPuedes Elaborar una Poción Rara con una &8Calavera de Esqueleto Wither&r para crearla. ¡Luego puedes fabricar Flechas con ella!"]
 	quest.4195800B4D7631E2.quest_desc: ["¡Mediante el ritual de &6Eziveus' Spectral Compulsion&r podemos combinar un &7Marco de Agujero de Gusano&r, 2 Cuarzos y una &3Perla de Ender&r para obtener nuestro Agujero de Gusano!"]
 	quest.4195800B4D7631E2.title: "&6Agujero de Gusano Estable"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["Puedes hacer &2Aleación a Prueba de Explosiones&r combinando los tres Metales más fuertes disponibles. &5Tungsteno&r, &dTitanio&r y &7Acero Inoxidable&r. Sí, aparentemente las manchas importan. \\n\\nCon estos puedes combinarlos para hacer la &2Carcasa&r. \\n\\nPara el &3&lDispositivo de Probabilidad Improbable&r necesitaremos 2 &2Carcasas a Prueba de Explosiones&r, o 2 Celdas de Objetos Portátiles de 256M, ¡o podemos usar una mezcla de ambos!"]
-	quest.42AF4EBDA5D6CC36.title: "&2Carcasa a Prueba de Explosiones"
 	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r no es un Mod de Almacenamiento, es &lEL&r Mod de Almacenamiento. \\n\\nPersonalmente no sé mucho sobre el Mod, ¡pero la página de Misiones debería ayudarte a aprenderlo!"]
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
 	quest.486B5A605D79EA10.quest_desc: ["¡Estos sí que los podemos farmear! ¡Ordeña a ese &cPyromancer&r!"]
@@ -181,32 +173,6 @@
 	quest.6E3AD764A67829CB.quest_desc: ["Al igual que su hermano inferior, el &bCristal de Infusión&r, el &cCristal de Infusión Maestro&r también hace todo lo que el primero puede. \\n\\n¡Este simplemente tiene Usos Infinitos y puede mejorar 4 Bloques de Esencia al siguiente en forma de Bloque! \\n\\nRequiere &cSupremium&r para hacerlo, ¡pero créeme que vale la pena!"]
 	quest.6E3AD764A67829CB.title: "&cCristal de Infusión Maestro"
 	quest.6FC55CF56BE22866.quest_subtitle: "531,441 de Tierra"
-	quest.70CCE558E03227AB.quest_desc: [
-		"¡El &6&lAltar Estelar Rúnico&r es un Multibloque hecho por nuestro propio &3Drack.ion&r vía &lMaquinaria Modular&r! \\n\\nEs una Estructura de 15x9x15 que comienza con el &aControlador del Altar Estelar Rúnico&r. Colócalo y luego usa un &cPlano de Máquina&r en él. Hacerlo te dará puntos destacados que puedes seguir para construir el Multibloque. \\n\\nTambién puedes ir al &aControlador&r y hacer que lo construya automáticamente, ¡te puedo prometer que es más rápido! \\n\\nEn cada lado del &6&lAltar&r puedes reemplazar la &9Piedra Oscura Pulida&r junto a la &6Piedra Oscura Pulida Arcana&r con Escotillas. Estas son necesarias para la Fabricación real de la &6&lEstrella&r. \\n\\nUsa Escotillas de Entrada de Objetos (todas de &lMaquinaria Modular&r), aquí es donde se colocará la Receta. Las Escotillas de Salida de Objetos son de donde vendrá &6&lLa Estrella&r. ¡Y las Entradas de Energía son necesarias para alimentar el &6&lAltar&r! \\n\\nPuedes revisar el &aControlador&r para ver el progreso de la Receta o problemas con el &6&lAltar&r. \\n\\n(PD: La Bolsa de Botín usada en su receta es de la &5Monstruosidad Lunar&r. Además, la dirección de bloques como &9Escaleras&r o &6Pilares&r no importa para el &6Altar&r)."
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:100 height:100 align:center}"
-		"La 1ra Capa es solo &9Piedra Oscura Pulida&r, &9Escaleras de Piedra Oscura Pulida&r, y &6Piedra Oscura Pulida Arcana&r, junto con el &aControlador&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:100 height:100 align:center}"
-		"La 2da Capa es más &9Piedra Oscura Pulida&r, &9Escaleras&r, y ahora &6Piedra Oscura Pulida Cincelada Dorada&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:100 height:100 align:center}"
-		"La 3ra añade &bObeliscos de Cristal Arcano&r, Bloques de Runas, &6Piedra Oscura Pulida Cincelada Arcana&r, ¡y &9Losas de Piedra Oscura Pulida&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:100 height:100 align:center}"
-		"La 4ta Capa es donde tenemos nuestros &6Pedestales de Piedra Oscura&r, un &7Pedestal de Piedra Oscura Magnetizada&r en el medio, Jarrones Utrem, y &6Pilares de Piedra Oscura Pulida Arcana&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:100 height:100 align:center}"
-		"La 5ta Capa es bastante simple, solo algunos &6Pilares&r más."
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:100 height:100 align:center}"
-		"La 6ta Capa necesita más &6Pilares&r más un &7Inyector Cuántico&r encima del &7Pedestal de Piedra Oscura Magnetizada&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"La 7ma es muy simple también, ¡solo más &6Pilares&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"La 8va siguiendo el mismo patrón, ¡más &6Pilares&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:100 height:100 align:center}"
-		"La última Capa, la Capa 9 necesita más &6Pilares&r por supuesto, además de más Bloques de Runas y &bBloques de Cristal Arcano&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"Lo último que necesitamos hacer para iniciar el &6&lAltar&r, es agregar nuestras Escotillas. Colócalas en el exterior de la &6Piedra Oscura Pulida Arcana&r como se muestra, necesitarás algunas Entradas de Objetos, Salidas y Entradas de Energía."
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "Fabricando la &l&6Estrella ATM"
-	quest.70CCE558E03227AB.title: "&l&6Altar Estelar Rúnico"
 	quest.7154D73516548149.quest_desc: ["¡&6&lAllthemodium&r es un mod agregado específicamente por el &6Equipo AllTheMods&r para añadir más contenido después de la Netherita! \\n\\nNecesitarás aventurarte a través de él para conseguir algunos Objetos necesarios para la &6&lEstrella ATM&r. \\n\\n¡Ahora hay una página de Misiones que puedes seguir para ello!"]
 	quest.7154D73516548149.title: "&l&6Allthemodium"
 	quest.71581992E8E4C43E.quest_desc: ["¡Lanza unos cuantos &8Cráneos de Esqueleto Wither&r y una &dEsencia de Abjuración&r para hacer un &8Glifo&r de &3Wither&r! \\n\\nSi no funcionó, puede que necesites más &aEXP&r."]

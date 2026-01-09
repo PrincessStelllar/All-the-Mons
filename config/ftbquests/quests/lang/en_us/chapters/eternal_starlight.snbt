@@ -216,8 +216,18 @@
 	quest.7E90138B0A2C3210.quest_desc: ["The Northland Trees are big sturdy Trees up in the Permafrost Forests. \\n\\nThey look like Spruce but much lighter! Maybe they're an albino Spruce. \\n\\nTheir saplings need to be placed on Dirt, not Grass, and in a 2x2 formation."]
 	quest.7FBB431AC055FE93.quest_desc: ["The Soulit Spectator is crafted with a Trapped Soul and a Nightfal Spider Eye. \\n\\nIt works similar to a Sticky Camera from Tom Clancy's Splinter Cell. You can Right Click to send the Spectator and after a bit you will be able to see out of it. You can even see yourself with it! \\n\\nIt can't be ended early so careful when you use it. It also has durability and a cooldown."]
 	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud can only be found within the Dark Swamps. \\n\\nYou can make more Blocks out of it!"]
+	task.0266C4B946061D4B.title: ""
 	task.0AD8AC7ECCD8002A.title: "AllRightsReserved"
+	task.0DDC5131385A31C8.title: ""
+	task.242B4552785FCC54.title: ""
 	task.2510A7EE5D886B63.title: "AllRightsReserved"
+	task.30E738F2377C94F8.title: ""
 	task.452736994864F623.title: "Visit a Shimmer River"
+	task.4AF16007B3C6224E.title: ""
+	task.54237AEE6A97B440.title: ""
+	task.5A2823AC2F1170A7.title: ""
+	task.6618053E00147EE9.title: ""
+	task.66755A2D873AEB81.title: ""
 	task.67690077D4273A36.title: "Visit the Starlight"
+	task.759F6D1EA0FAD887.title: ""
 }

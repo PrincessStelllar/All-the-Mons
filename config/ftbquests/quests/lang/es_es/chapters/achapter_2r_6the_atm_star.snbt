@@ -43,8 +43,6 @@
 	quest.1C566975C4EC5D93.title: "&9Prisma Marino"
 	quest.1D87415343E65AA7.quest_desc: ["¡El &5Compresor &8Creativo&r te permite elegir cualquier Presión Bar que quieras! ¡Positiva, Negativa, incluso 0! Puede usarse dentro de Máquinas. \\n\\nNecesitarás 4 stacks de Tubos de Presión Avanzados, Compresor de Líquidos Avanzado, Compresor de Aire Avanzado, Compresor Electrostático y un Compresor de Flujo. \\n\\n¡No sé qué es más difícil, conseguir la &6&lEstrella&r o recordar todos los Objetos que necesitas para hacer esto!"]
 	quest.1D87415343E65AA7.title: "&5&lCompresor &8Creativo"
-	quest.1FC1588A131B6A4A.quest_desc: ["Al igual que hacer la &6&lEstrella ATM&r normalmente, ¡automatizarla necesita estar dentro del &6&lAltar Estelar Rúnico&r! \\n\\nRevisa la Misión en el Capítulo 3 para aprender cómo construirlo y usarlo."]
-	quest.1FC1588A131B6A4A.title: "&6&lAltar Estelar Rúnico"
 	quest.1FFF00B5D90C3905.quest_desc: ["Puedes obtener &cPolvo de Mundabitur&r de muchas maneras diferentes así que solo te daré una rápida introducción a los &bCristales Arcanos&r! \\n\\nQue sí son un ingrediente de fabricación si quieres fabricarlo. \\n\\nPrimero tendrás que minar &bCristales Arcanos&r; ¡luego, puedes usar &2&lMA&r o &6&lAbejas&r para hacer más!"]
 	quest.1FFF00B5D90C3905.title: "&bCristales Arcanos"
 	quest.203C91B992BA8CF9.quest_desc: ["¡Para rehacer la &6&lEstrella ATM&r necesitaremos una &dEstrella &aPatrick&r Infundida, que también necesita una &dEstrella &aPatrick&r para ella! Ambos se hacen mediante el &6&lAltar Estelar Rúnico&r. \\n\\nLos otros objetos necesarios para hacer la &dEstrella &aPatrick&r Infundida son los 4 &5Libros de Reparación&r y el &dAliento de Dragón Infundido&r que se obtienen a través del &5&lEncantamiento Rúnico&r. \\n\\n¡Los &6Fragmentos de Estrella&r que obtenemos de nuestras Abejas! \\n\\nLingotes de Aleación: Lingotes de &3Vibranium&f-&6Allthemodium&r, &5Unobtainium&f-&6Allthemodium&r, y &5Unobtainium&f-&3Vibranium&r. ¡Los tres se fabrican de sus propias maneras únicas descritas en el capítulo de &6&lAllthemodium&r! \\n\\n¡Lanza todo esto en un &6&lAltar Estelar Rúnico&r, más 85MFE, y obtendremos nuestra &dEstrella &aPatrick&r Infundida!"]
@@ -115,8 +113,6 @@
 	quest.71B72958B9F80355.title: "Lente del &4Asesino"
 	quest.73201E591C2A40CC.quest_desc: ["Ahora que tienes &6Fragmentos Estelares&r, ¡puedes comenzar a hacer las diferentes partes para rehacer nuestras &6&lEstrellas&r! \\n\\nNecesitarás 262 &6Fragmentos Estelares&r en total para rehacer 1 &6&lEstrella&r... ¡espero que tengas una buena configuración de Abejas!"]
 	quest.73201E591C2A40CC.title: "&6Fragmentos Estelares&r"
-	quest.745E616E97838D2E.quest_desc: ["¡&lEspera!&r Detén el genocidio masivo de animales, parece que PETA ha llegado a un compromiso. ¡Dejas de matar animales inocentes y te darán la &5Gota de Sangre &4Creativa&r! \\n\\n¡Con esto puedes llenar cualquier contenedor que necesite &4Sangre&r infinitamente! \\n\\nPara fabricarla necesitarás 4 &bPromesas de Tenacidad&r, una &6&lEstrella ATM&r, junto con otros 4 Objetos que necesitan estar llenos de &4Sangre&r. "]
-	quest.745E616E97838D2E.title: "&5&lGota de Sangre &4Creativa"
 	quest.7A066DD274F970C2.quest_subtitle: "2/5"
 	quest.7A066DD274F970C2.title: "Parte Derecha de la &6&lEstrella ATM&r"
 	quest.7C9154EF6068BE27.quest_desc: ["Técnicamente también puedes usar el Triturador para convertir la &6&lEstrella ATM&r en 5 &6Fragmentos Estelares&r... \\n\\nPero necesitarás 262 para hacer una nueva &6&lEstrella&r... \\n\\nEntonces, ¿por qué lo harías?"]

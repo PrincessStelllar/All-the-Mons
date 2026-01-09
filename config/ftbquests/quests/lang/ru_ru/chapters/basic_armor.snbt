@@ -124,9 +124,6 @@
 	quest.338BD467EBE6EE1F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"]
 	quest.338BD467EBE6EE1F.quest_subtitle: "Авапост разбойников"
 	quest.338BD467EBE6EE1F.title: "Украшение брони «Страж»"
-	quest.3403D7502F7BC897.quest_desc: ["Буквально неуязвима — ничто не может нанести вам урон. \\n\\nВ настоящее время вам нужно улучшить &cнезеритовую броню&r с помощью &eквантового &bулучшения&r, но ваши друзья из команды &6&lATM Team&r работают над тем, чтобы сделать этот рецепт сложнее! \\n\\nИ вы ничего не сможете с этим поделать! &lБВАХАХАХАХА"]
-	quest.3403D7502F7BC897.quest_subtitle: "Неуязвимость"
-	quest.3403D7502F7BC897.title: "&eКвантовая &bброня&r (&l&7MI&r)"
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Нептуний&r — это награда из «Сокровищ Нептуна», которую можно получить с помощью рыбалки! \\nОн также даёт бонусы для нахождения под водой."]
 	quest.3416DB9F58D8AA2C.quest_subtitle: "28"
 	quest.3416DB9F58D8AA2C.title: "&3Нептуниевая броня"

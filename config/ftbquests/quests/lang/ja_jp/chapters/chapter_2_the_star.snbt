@@ -34,8 +34,6 @@
 	quest.17542D7633FBF098.quest_desc: [""]
 	quest.17542D7633FBF098.quest_subtitle: "&o黄色いスターがスポンジボブじゃなくて残念"
 	quest.17542D7633FBF098.title: "&d&lパトリック &aスター&r"
-	quest.17598C171E610752.quest_desc: ["これについて何を言えばいいのかわかりません。レシピを見ているだけで迷子になりそうです。&l&2生産的な木&rの家系図をすべて列挙する方がまだましです。\\n\\n&6高度なモーター&rを入手し、&dチタン棒&rと&9処理ユニット&rと組み合わせて&6大型高度モーター&rを作ります。\\nまたは&6機械アーム&rを使用することもできますが、それらがより簡単にクラフトできるとは約束できません！"]
-	quest.17598C171E610752.title: "&6Large Advanced Motor"
 	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&o未知なるものは、私たちが知っているすべてです"
 	quest.1CE7B24E7E62C25B.title: "&d&l脈動する&8ブラックホール"
@@ -61,8 +59,6 @@
 	quest.23254CE8487D2E68.title: "&8Wither Builder"
 	quest.23AE395433AED3C0.quest_desc: ["&6&lATMスター&rには、異なるアイテムを一緒に保持し、星の形を作るためのいくつかのブロックが必要です！\\n\\n最初のブロックは&5アンオブタニウム&r-&6オールザモディウム&r &5合金&r &6ブロック&rです。これらを作るには&d&lアルス・ヌーヴォー&rのエンチャント装置を使用する必要があります！正確に28個作る必要があります。\\n\\n17個のX3ネザースターブロックには111,537個のネザースターが必要です。（お願いですから&l&bHNN&rを使ってください、111,537体を召喚して倒さないでください！）"]
 	quest.23AE395433AED3C0.title: "&6&lThe Star&rのケーシング"
-	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lモダンインダストリアライゼーション&rはその名前と同じくらい大きなMODです！\\n\\n複数の段階の機械がありますが、ありがたいことに&6&lスター&rのために最後の段階まで行く必要はありません。\\n\\n実際、今では完全に任意です！&6&lATMスター&rを作るために&6&lCreate&rを使いたい場合は、そうすることもできます！"]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
 	quest.263C9A0FC04472AB.quest_desc: ["これは &c溶岩&r を他のものと比べものにならないほど消費するか、&6&l星&r のために使用できます。\n\nこれは難しい選択です。私の物が &c溶岩&r に消えていくのを見るよりも、&c溶岩&r が消えていくのを見る方が好きです"]
 	quest.263C9A0FC04472AB.title: "&464x マグマ発電機"
 	quest.268EA2DEC8840D13.quest_desc: ["&4コンピューター&rの作業、特に Quantum コンピューターの作業では、作業台上のハンマーやペンチでは必要なものを作ることができません。&bCrystal Assembler&r が必要になります。\n\nこれには大量の &9Singularity&r が必要です！"]
@@ -73,8 +69,6 @@
 	quest.2A444F4CCC72545D.title: "&5Abyssal Sacrifice"
 	quest.2A72B262AF4F11C9.quest_desc: ["&6Socotra Dragon&r の苗木を入手するには、&7Wenge&r と &4Cocobolo&r を交配する必要があります。\n\n&7Wenge&r を入手するには、&4Cocobolo&r と &fBalsa&r を交配する必要があります。\n\n&4Cocobolo&r を入手するには、Balsa と &8ダークオーク&r を交配する必要があります。\n\n&fBalsa&r を入手するには、&cアカシア&r と &eTeak&r を交配する必要があります。\n\n&fTeak&r は &2ジャングル&r と &8ダークオーク&r を交配することで入手できます"]
 	quest.2A72B262AF4F11C9.title: "&6Socotra Dragon&r の苗木"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aウラン四重燃料棒&rは、複数の異なる爆発と放射線に耐える合金、そしてもちろん放射性物質の組み合わせです。\\n\\nこれらはすべて組み合わさって、原子炉の素晴らしい燃料になります！または&c&l哲学者の燃料&rにも！\\n\\nあるいは単に&cブレイズバーナー&rを使うこともできますが...それではつまらないでしょう！"]
-	quest.2B0C3AAAA6D0B0D2.title: "&aウラニウム Quad Fuel Rods"
 	quest.2B57C8D2F98A9279.quest_desc: ["&l&7Pocket Storage&r は、シンプルなポータブルストレージを追加するModです。\n\n右クリックで開いてアイテムを入れることができます。保持できる最大数が決まっており、それを超えて入れられたアイテムは消滅します。また、地面に落ちているアイテムのうち、中に入っているものと同じアイテムを自動で吸い込みます。\n\nチェストへの素早い搬入や取り出しも可能です。\n\nティアが上がるほど、スロット数と最大アイテム数が増加します"]
 	quest.2B57C8D2F98A9279.title: "&l&7Pocket Storage"
 	quest.2CECCA9D05D3EF12.quest_desc: ["&2Eternal Stella&r はかなり高価です。まずTier 3 Forgeが必要です！\n\nそして、採掘できる &7Stellarite Piece&r が必要です。そして3つの &aXpetried Orbs&r が必要ですが、これはもう採掘できません。代わりにブラックホールに &aEXP&r を与えて入手する必要があります！\n\n最後に、&2Eternal Stella&r を入手するには &6オールザモディウムインゴット&r が必要です。これを任意のツールと組み合わせて不滅にできることを考えると、高価な理由が分かります！"]
@@ -119,14 +113,10 @@
 	quest.3F8AEBB994716318.quest_desc: ["&8ウィザー&rは&l&2バニラ&rのエフェクトなので、もちろん私たちも独自の方法で使用して悪用する必要があります！\n\n不安定なポーションに&8ウィザースケルトンの頭&rを加えて作ることができます。その後、矢を作ることができます！"]
 	quest.4195800B4D7631E2.quest_desc: ["&6Eziveus の Spectral Compulsion&r の儀式を通じて、&7Wormhole Frame&r と 2つの水晶、そして&3エンダーパール&r を組み合わせることで、Wormhole を手に入れることができます！"]
 	quest.4195800B4D7631E2.title: "&6安定した Wormhole"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["&2耐爆合金&rは、利用可能な最も強力な3つの金属を組み合わせて作ることができます。&5タングステン&r、&dチタン&r、そして&7ステンレス鋼&rです。はい、汚れは明らかに重要です。\\n\\nこれらを組み合わせて&2ケーシング&rを作ることができます。\\n\\n&3&l確率不確定デバイス&rには、2つの&2耐爆ケーシング&r、または2つの256Mポータブルアイテムセル、あるいはその両方の組み合わせが必要です！"]
-	quest.42AF4EBDA5D6CC36.title: "&2Blastproof ケーシング"
 	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r はストレージ Mod ではありません、それは &lTHE&r ストレージ Mod です。\n\n個人的にこの Mod についてはあまり詳しくありませんが、クエストページがその学習に役立つはずです！"]
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
 	quest.486B5A605D79EA10.quest_desc: [""]
 	quest.486B5A605D79EA10.title: "&cマンハッタンモジュール"
-	quest.49FDD8666356A3E7.quest_desc: ["&2爆発耐性ケーシング&rまたは256Mポータブルアイテムセルのいずれかまたは両方を使用して&3&l非現実的確率装置&rをクラフトできます。 \\n\\n待って、いずれかまたは両方と言いましたか？ \\n\\nはい、そう言いました！2つの&2爆発耐性ケーシング&rまたは2つの256Mポータブルアイテムセルまたはそれぞれ1つずつ使用できます。"]
-	quest.49FDD8666356A3E7.title: "&2爆発耐性ケーシング&fと256Mポータブルアイテムセルのいずれかまたは両方"
 	quest.4B12425E74C5E511.quest_desc: ["&c爆発性菌糸ジェネレーター&r は爆発を吸収するのに素晴らしい働きをします。\n\n私たちはそれを &d&l脈動する &8ブラックホール&r のために使用できます！"]
 	quest.4B12425E74C5E511.title: "&c爆発性菌糸ジェネレーター"
 	quest.4B7D387CEFF9667E.quest_desc: ["ついに！&6&lCreate&r がアップデートされ、待った甲斐がありました！\n\n&6&lCreate&r は回転と回転力の使用に関するものです...実質的にすべてのことに！クラフト、粉砕、混合、醸造など。\n\n&6&lCreate&r の使い方を忘れてしまうほど長い時間が経っている場合は、&7&lModern Industrialization&r を使用して &6&lATM Star&r をクラフトすることができます。"]
@@ -206,32 +196,6 @@
 	quest.6E3AD764A67829CB.quest_desc: ["劣った兄弟である &bInfusion Crystal&r と同様に、&cMaster Infusion Crystal&r は前者ができることすべてを行うことができます。\n\nこちらは無限の使用回数があり、4つのエッセンスブロックを次のブロック形態にアップグレードできます！\n\n作成には &cSupremium&r が必要ですが、信じてください、それだけの価値があります！"]
 	quest.6E3AD764A67829CB.title: "&cMaster Infusion Crystal"
 	quest.6FC55CF56BE22866.quest_subtitle: "531,441 土ブロック"
-	quest.70CCE558E03227AB.quest_desc: [
-		"&6&lルーンスターの祭壇&rは、&3Drack.ion&rによって &lModular Machinery&r で作られたマルチブロック構造です！\n\nこれは15x9x15の構造で、&aルーンスターの祭壇コントローラー&rから始まります。設置したら&c設計図&rを使用してください。これにより、マルチブロックを建設するためのガイドが表示されます。\n\n&aコントローラー&rに入って自動建設させることもできます。こちらの方が早いですよ！\n\n&6&l祭壇&rの各面で、&6アーケインポリッシュダークストーン&rの隣にある&9磨かれたダークストーン&rをハッチに置き換えることができます。これらは実際の&6&lスター&r作成に必要です。\n\nアイテム入力ハッチ（すべて&lModular Machinery&rから）を使用してください。これらはレシピを配置する場所です。アイテム出力ハッチは&6&lスター&rが出てくる場所です。そしてエネルギー入力は&6&l祭壇&rに電力を供給するために必要です！\n\n&aコントローラー&rでレシピの進行状況や&6&l祭壇&rの問題を確認できます。\n\n（ちなみに、レシピで使用される戦利品バッグは&5月の怪物&rからのものです。また、&9階段&rや&6柱&rなどのブロックの向きは&6祭壇&rには関係ありません）"
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:100 height:100 align:center}"
-		"第1層は&9磨かれたダークストーン&r、&9磨かれたダークストーンの階段&r、&6アーケインポリッシュダークストーン&r、そして&aコントローラー&rだけです"
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:100 height:100 align:center}"
-		"第2層はさらに&9磨かれたダークストーン&r、&9階段&r、そして&6金色の模様入り磨かれたダークストーン&rです"
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:100 height:100 align:center}"
-		"第3層は&bアーケインクリスタルのオベリスク&r、ルーンブロック、&6アーケイン模様入り磨かれたダークストーン&r、そして&9磨かれたダークストーンのハーフブロック&rが追加されます！"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:100 height:100 align:center}"
-		"第4層では&6ダークストーンの儀式の台座&r、中央に&7磁化されたダークストーンの儀式の台座&r、Utrem Jar、そして&6アーケインポリッシュダークストーンの柱&rがあります"
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:100 height:100 align:center}"
-		"第5層はとてもシンプルで、さらに&6柱&rがあるだけです"
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:100 height:100 align:center}"
-		"第6層はさらに&6柱&rと、&7磁化されたダークストーンの儀式の台座&rの上に&7量子インジェクター&rが必要です"
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"第7層も非常にシンプルで、さらに&6柱&rだけです！"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"第8層も同じパターンで、さらに&6柱&rです！"
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:100 height:100 align:center}"
-		"最後の第9層には、もちろんさらに&6柱&rが必要で、加えてルーンブロックと&bアーケインクリスタルブロック&rも必要です"
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"&6&l祭壇&rを起動するための最後のステップは、ハッチを追加することです。図のように&6アーケインポリッシュダークストーン&rの外側にハッチを設置してください。アイテム入力、出力、およびエネルギー入力用のハッチが必要です"
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "&l&6ATM Star のクラフト"
-	quest.70CCE558E03227AB.title: "&l&6ルーンスターの祭壇"
 	quest.7154D73516548149.quest_desc: ["&6&lオールザモディウム&r は &6AllTheMods Team&r によってネザライトの後のコンテンツを追加するために特別に追加されたModです！\n\n&6&lATM Star&r に必要なアイテムを入手するには、この中を冒険する必要があります。\n\nこれに関するクエストページが追加されました！"]
 	quest.7154D73516548149.title: "&l&6オールザモディウム"
 	quest.71581992E8E4C43E.quest_desc: ["&8ウィザースケルトンの頭&r と &dAbjuration Essence&r を投げて &8ウィザー &3グリフ&r を作ります！\n\nうまくいかない場合は、より多くの &a経験値&r が必要かもしれません"]
@@ -256,8 +220,6 @@
 	quest.792990DC06DB98F9.title: "&5&lエターナル・スターライト"
 	quest.7A579E233C69871F.quest_desc: ["&b&lHostile Neural Networks&rは、モブをシミュレートしてそのドロップアイテムを農業するためのものです！\n\nそれ以外の機能はありません"]
 	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
-	quest.7B140A034DF1291C.quest_desc: ["&7&lネクシウムエミッター&rを動かすには何かが必要で、それは&6メカニカルアーム&fまたは&6大型上級モーター&rのどちらかです！ \\n\\n両方とも動くので、どちらでも動作します！"]
-	quest.7B140A034DF1291C.title: "&6メカニカルアーム&fまたは&6大型上級モーター"
 	quest.7D1A27CBF1508712.quest_desc: ["&3雪の女王&rは Glacier バイオーム内の&bオーロラパレス&rに住んでいます。\n\nGlacier バイオームに入るには Alpha Yeti を倒す必要があります。\n\n倒すと、トロフィーを含む大量の戦利品をドロップします！"]
 	quest.7D1A27CBF1508712.title: "&3雪の女王&eトロフィー"
 	quest.7D359283625C1869.quest_desc: ["&4&lCataclysm&r はボスを追加することに特化したアドベンチャー Mod です！そしてボスに関連するすべてのものも追加します！\n\n構造物は &2&lオーバーワールド&r、&4&lネザー&r、そして &5&lエンド&r のあらゆる場所で見つけることができます。\n\nその中には新しいモブ、ミニボス、そして非常に難しいボスがいます。これらをすべて倒して新しい武器、防具、アイテムを手に入れましょう！"]

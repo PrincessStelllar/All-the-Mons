@@ -345,11 +345,8 @@
 				{
 					id: "634BD1679C226F35"
 					item: {
-						components: {
-							"ftbquests:missing_item": "pamhc2foodcore:friedchickenitem"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "farmersdelight:cooked_chicken_cuts"
 					}
 					type: "item"
 				}
@@ -363,13 +360,13 @@
 				{
 					count: 10L
 					id: "611CC8005150DC9B"
-					item: { count: 10, id: "minecraft:feather" }
+					item: { count: 1, id: "minecraft:feather" }
 					type: "item"
 				}
 				{
 					count: 5L
 					id: "0CAC6A36AC5A6708"
-					item: { count: 5, id: "minecraft:chicken" }
+					item: { count: 1, id: "minecraft:chicken" }
 					type: "item"
 				}
 			]

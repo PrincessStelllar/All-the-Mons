@@ -81,8 +81,6 @@
 	quest.44688FC2E34FF09F.title: "&fMudando Blocos"
 	quest.48971CE964CF037F.quest_desc: ["Embora proteger nossos Reatores Nucleares seja importante e visualizar seu conteúdo esteja relacionado à segurança dele. \\n\\nO Vidro também pode ser usado para deixar nossas bases mais bonitas! \\n\\nE, na verdade, o que é mais importante: segurança e proteção de nossos reatores nucleares? Ou deixar nossas bases mais bonitas!"]
 	quest.48971CE964CF037F.title: "&fVidro dos &3Reatores"
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r é tudo sobre as 5 Cores diferentes, isso inclui usá-las para Blocos! \\n\\n&aVerde&r, &cVermelho&r, &9Azul&r, &8Escuro&r e Blocos de Luz de todos os tipos!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lMundo"
 	quest.51E77B9CD3FB6DEA.quest_desc: ["Isso não é necessário, mas eu acho muito útil. \\n\\nAs Garras de Escavação aumentam o Nível da sua Picareta, para suas Mãos. Assim, você pode Minerar até Minério de Ferro apenas com seus Punhos! \\n\\nIsso também inclui minerar coisas como Pedra, Terracota e Concreto. E você pode até minerar isso com os Blocos em suas Mãos. \\n\\nHonestamente, é basicamente necessário."]
 	quest.5716E84828EC0C23.quest_desc: ["Tijolos de Construção de Plástico são Blocos feitos através do &l&7PneumaticCraft: Repressurized&r. \\n\\nAssim como suas contrapartes da vida real, eles machucam ao pisar! \\n\\nEntão, ou use Sapatos ou alise os Tijolos."]
 	quest.5716E84828EC0C23.title: "Tijolos de Construção de Plástico"
@@ -94,8 +92,6 @@
 	quest.5C2B30655A44227F.title: "&fMetais do &5&lEternal Starlight&r"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r é tudo sobre Cultivar e Cozinhar Itens de Comida! Também podemos usar esses mesmos Itens para Decoração e uso! \\n\\nO Fogão, Panelas e Frigideiras são perfeitos para uma Cozinha. \\n\\nOs Barris de Comida são ótimos para uma Despensa. \\n\\nAs coisas da Fazenda são ótimas para decoração externa e os Armários são perfeitos para qualquer lugar!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r adiciona muitos Vidros com seu &lNúcleo do Mundo&r! \\n\\nDesde aqueles que você pode atravessar, até os brilhantes, e os mais fortes!"]
-	quest.5E5D5D28D82F6891.title: "Vidro do &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.5EB488C393B084C4.quest_desc: ["Uma continuação do &lChiseled&r, &4&lRechiseled&r! \\n\\nTudo neste Mod funciona dentro da Ferramenta Chisel, clique com o botão direito com ela para abrir sua GUI. \\nNa esquerda é onde você escolhe o design e no canto inferior direito é onde você coloca os Blocos. \\n\\nAcima, você pode visualizar o design em padrões definidos: apenas 1 Bloco, Blocos 3x1 ou uma Parede 3x3 daquele Bloco. Você também pode configurar a imagem para girar ou não girar clicando no botão! \\n\\nAo lado de onde os Blocos vão, você pode clicar no Chisel, fazendo isso aplicará o design selecionado a todos os Blocos em seu inventário que podem ser alterados. \\n\\nTambém não tem durabilidade!"]
 	quest.5EB488C393B084C4.title: "&4&lRechiseled&r"
 	quest.5F7F753FD72BFBBF.quest_desc: ["Mais blocos adicionados por &l&7Railcraft&r? Estou começando a duvidar se é mesmo sobre Trens!"]
@@ -106,8 +102,6 @@
 	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
 	quest.6607E5CDB3D17D67.quest_desc: ["Não se preocupe, estas não vão pegar fogo!"]
 	quest.6607E5CDB3D17D67.title: "Lã &l&bChipped&r"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r, claro, sendo todo sobre Cores, as Luzes também são baseadas em Cor. \\n\\nAs Luzes RGB serão da cor do Corante com o qual são feitas. \\n\\nO Corante especificamente, não a Gema."]
-	quest.667CD7C6E87A05F4.title: "&fLuzes &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.6B0D84B730C6C76C.quest_desc: ["As 16 Cores que o &2&lMinecraft&r te dá não são suficientes? \\n\\nBem, eu acho que você poderia ter mais 18! \\n\\n&l&cDy&6en&ea&ami&bcs&r nos dá mais 18 Corantes, todos os quais podem ser usados para os mesmos Itens e Blocos que os Corantes do &2&lMinecraft&r! \\n\\nVocê quer uma Vela &6Pêssego&r? Você pode ter uma! Você quer um Shulker &dBubblegum&r? Por que não! Você quer uma Cama &eFluorescente&r? Claro!"]
 	quest.6B0D84B730C6C76C.title: "&l&cDy&6en&ea&ami&bcs&r"
 	quest.6BC78AF7C9D93F11.quest_desc: ["Até mesmo versões Esmaltadas!"]
@@ -153,16 +147,13 @@
 	task.41602F0D9097E74F.title: "Terracota Lascada"
 	task.41FF171C7D97B574.title: "Blocos de Gemas Lascadas"
 	task.484375E0BC0F9177.title: "Construções dos nossos amigos"
-	task.4B13D48FF9D2530E.title: "Luzes do XyCraft"
 	task.4B274207A9646FE9.title: "Farmer's Delight"
 	task.4E28970476CABACD.title: "Luzes do Chipped"
 	task.50BED71A6677392E.title: "Pedras do Railcraft"
 	task.53A682560123F9B6.title: "Glassential"
 	task.58B9B9D13F4CD1B2.title: "Pedras do Eternal Starlight"
 	task.5936B8B8EDE0AE55.title: "Blocos de Metal e Gema"
-	task.5DEABD15EDE5736F.title: "Vidro do XyCraft"
 	task.5FB27C61053F7FB5.title: "Luzes do Ars Nouveau"
-	task.624ADD79136376C0.title: "Itens do Mundo do XyCraft"
 	task.6AA335ED81844F9F.title: "TodosOsDireitosReservados"
 	task.6BD970777103D55D.title: "Escadas"
 	task.6D2E8755BB3463FF.title: "Blocos Coloridos do Railcraft"

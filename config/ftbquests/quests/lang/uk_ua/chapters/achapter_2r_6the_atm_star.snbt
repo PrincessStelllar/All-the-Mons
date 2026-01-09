@@ -45,8 +45,6 @@
 	quest.1C566975C4EC5D93.title: "&9Морська призма"
 	quest.1D87415343E65AA7.quest_desc: ["The &5Creative &8Compressor&r allows you to choose any Bar Pressure you want! Positive, Negative, even 0! It can be used within Machines. \\n\\nYou'll need 4 stacks of Advanced Pressure Tubes, Advanced Liquid Compressor, Advanced Air Compressor, Electrostatic Compressor, and a Flux Compressor. \\n\\nI don't know what's harder getting the &6&lStar&r or remembering all the Items you need to make this!"]
 	quest.1D87415343E65AA7.title: "&5&lCreative &8Compressor"
-	quest.1FC1588A131B6A4A.quest_desc: ["Just like making the &6&lATM Star&r normally, automating it needs to be within the &6&lRunic Star Altar&r! \\n\\nCheck out the Quest in Chapter 3 to learn how to build and use it."]
-	quest.1FC1588A131B6A4A.title: "&6&lRunic Star Altar"
 	quest.1FFF00B5D90C3905.quest_desc: ["&cЧистий пил&r можна отримати багатьма способами, тож я коротко розповім про &bМістичні кристали&r! \\n\\nТак, вони є інгредієнтом для крафту, якщо ти хочеш створити цей пил. \\n\\nСпочатку доведеться добути &bМістичні кристали&r у шахті, а потім розмножувати їх за допомогою &2&lMA&r або &6&lБджіл&r!"]
 	quest.1FFF00B5D90C3905.title: "&bМістичні кристали"
 	quest.203C91B992BA8CF9.quest_desc: ["In order to remake the &6&lATM Star&r we'll need an Infused &dPatrick &aStar&r, which also needs a &dPatrick &aStar&r for it. Both are made via &6&lRunic Star Altar&r. \\n\\nThe other items needed to make Infused &dPatrick &aStar&r are the 4 &5Mending Books&r and &dInfused Dragon's Breath&r which are obtained through &5&lRunic Enchanting&r. \\n\\n&6Star Shards&r which we get from our Bees! \\n\\nAnd Alloy Ingots: &3Vibranium&f-&6Allthemodium&r, &5Unobtainium&f-&6Allthemodium&r, and &5Unobtainium&f-&3Vibranium&r Ingots. \\n\\nAll three are crafted in their own unique ways described in the &6&lAllthemodium&r chapter! \\n\\nThrow all of these into a &6&lRunic Star Altar&r, plus 85MFE, and we'll get our Infused &dPatrick &aStar&r!"]
@@ -116,8 +114,6 @@
 	quest.71B72958B9F80355.title: "Lens of the &4Killer"
 	quest.73201E591C2A40CC.quest_desc: ["Now that you got &6Star Shards&r, you can start making the different parts to remake our &6&lStars&r! \\n\\nYou'll need 262 &6Star Shards&r total to remake 1 &6&lStar&r... hope you've got a good Bee set up!"]
 	quest.73201E591C2A40CC.title: "&6Star Shards&r"
-	quest.745E616E97838D2E.quest_desc: ["&lWait!&r Stop the mass genocide of animals it appears that PETA has given a compromise. You stop killing innocent animals and they will give you the &5Creative &4Blood Drop&r! \\n\\nWith this you can fill any container that needs &4Blood&r infinitely! \\n\\nTo craft it you'll need 4 &bPromise of Tenacity&r, an &6&lATM Star&r, along with 4 other Items that need to be full of &4Blood&r. "]
-	quest.745E616E97838D2E.title: "&5&lCreative &4Blood Drop"
 	quest.7A066DD274F970C2.quest_subtitle: "2/5"
 	quest.7A066DD274F970C2.title: "Right &6&lATM Star&r part"
 	quest.7C9154EF6068BE27.quest_desc: ["Technically you can also use the Crusher to make the &6&lATM Star&r into 5 &6Star Shards&r... \\n\\nBut you'll need 262 to make a new &6&lStar&r... \\n\\nSo why would you?"]

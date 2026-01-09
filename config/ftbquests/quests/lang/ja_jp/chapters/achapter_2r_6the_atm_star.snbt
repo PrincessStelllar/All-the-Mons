@@ -53,8 +53,6 @@
 	quest.1C566975C4EC5D93.title: "&9シープリズム"
 	quest.1D87415343E65AA7.quest_desc: ["&5クリエイティブ &8コンプレッサー&rでは、好きな圧力バーを選択できます！プラス、マイナス、さらには0も！マシン内で使用できます。\n\nAdvanced Pressure Tubesを4スタック、Advanced Liquid Compressor、Advanced Air Compressor、Electrostatic Compressor、そしてFlux Compressorが必要です。\n\n&6&lスター&rを入手するのと、これを作るのに必要なアイテムを全て覚えているのと、どちらが難しいのかわかりません！"]
 	quest.1D87415343E65AA7.title: "&5&lクリエイティブ &8コンプレッサー"
-	quest.1FC1588A131B6A4A.quest_desc: ["通常の &6&lATM Star&r を作るのと同様に、自動化も &6&lRunic Star Altar&r 内で行う必要があります！\n\nチャプター3のクエストで作り方と使い方を確認してください"]
-	quest.1FC1588A131B6A4A.title: "&6&lRunic Star Altar"
 	quest.1FFF00B5D90C3905.quest_desc: ["&cムンダビトゥールダスト&rは多くの異なる方法で入手できるので、&bアルケインクリスタル&rの簡単な紹介をします！\\n\\nはい、クラフトしたい場合はクラフト材料です。\\n\\nまず&bアルケインクリスタル&rを採掘する必要があります。その後、&2&lMA&rや&6&lミツバチ&rを使ってより多く作ることができます！"]
 	quest.1FFF00B5D90C3905.title: "Arcane Crystal"
 	quest.203C91B992BA8CF9.quest_desc: ["&6&lATMスター&rを再作成するには、注入された&dパトリック &aスター&rが必要で、それにはまた&dパトリック &aスター&rが必要です。どちらも&6&lルーンスターの祭壇&rで作られます。\\n\\n注入された&dパトリック &aスター&rを作るために必要な他のアイテムは、4つの&5修繕の本&rと&dドラゴンブレスの注入&rで、これらは&5&lルーンエンチャント&rを通じて入手します。\\n\\n&6スターの欠片&rはミツバチから入手します！\\n\\n合金インゴット：&3ヴィブラニウム&f-&6オールザモディウム&r、&5アンオブタニウム&f-&6オールザモディウム&r、そして&5アンオブタニウム&f-&3ヴィブラニウム&rインゴット。\\n\\nこれら3つはすべて&6&lオールザモディウム&rチャプターで説明されている独自の方法で作られます！\\n\\nこれらすべてを&6&lルーンスターの祭壇&rに85MFEと一緒に投入すると、注入された&dパトリック &aスター&rが手に入ります！"]
@@ -155,8 +153,6 @@
 	quest.71B72958B9F80355.title: "&4キラー&rのレンズ"
 	quest.73201E591C2A40CC.quest_desc: ["&6スターシャード&r を手に入れたので、&6&lStars&r を作り直すための異なるパーツの作成を始めることができます！\n\n1つの &6&lStar&r を作り直すには合計262個の &6スターシャード&r が必要です... ミツバチの設備が整っていることを願います！"]
 	quest.73201E591C2A40CC.title: "&6スターシャード&r"
-	quest.745E616E97838D2E.quest_desc: ["&l待って！&r 動物の大量虐殺を止めてください。PETA が妥協案を出してきました。無実の動物を殺すのを止めれば、&5Creative &4Blood Drop&r をあげます！\n\nこれがあれば、&4Blood&r が必要なコンテナを無限に満たすことができます！\n\nクラフトには4つの &bPromise of Tenacity&r、&6&lATM Star&r、そして &4Blood&r で満たされた4つのアイテムが必要です"]
-	quest.745E616E97838D2E.title: "&5&lCreative &4Blood Drop"
 	quest.7A066DD274F970C2.quest_subtitle: "2/5"
 	quest.7A066DD274F970C2.title: "右側の &6&lATM Star&r パーツ"
 	quest.7C9154EF6068BE27.quest_desc: ["技術的には Crusher を使って &6&lATM Star&r を5つの &6スターシャード&r に分解することもできます...\n\nしかし、新しい &6&lStar&r を作るには262個必要です...\n\nなぜそんなことをするのでしょう？"]

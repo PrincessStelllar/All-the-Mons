@@ -71,8 +71,6 @@
 	quest.44688FC2E34FF09F.title: "Przekształcanie Bloków"
 	quest.48971CE964CF037F.quest_desc: ["Podczas gdy szkła reaktorowe zazwyczaj służą bezpieczeństwu i możliwości podglądu ich zawartości, \\n\\nte szkła mogą zostać aby upiększyć nasze bazy! \\n\\nA teraz szczerze, co jest ważniejsze: Bezpieczne reaktory, czy może jednak ładniejsza baza?"]
 	quest.48971CE964CF037F.title: "Szkła reaktorowe"
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r kręci się wokół pięciu kolorów, które można użyć na blokach! \\n\\n&aZielony&r, &cCzerwony&r, &9Niebieski&r, &8Ciemny&r, i Jasny!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lWorld"
 	quest.51E77B9CD3FB6DEA.quest_desc: ["Nie jest to konieczne, ale uważam to za całkiem przydatną rzecz. \\n\\nPazury do kopania Zwiekszają poziom twoich narzędzi a także twoich rąk. Oznacza to że gołymi rękami jesteś w stanie wykopać wszystko co kamienne narzędzia! \\n\\nWliczamy w to między innymi kamień, terakotę i beton. Masz drewno w ręce? Nie ma problemu, nie musisz zmieniać slotu na pustą rękę. \\n\\nSzczerze mówiąc to może jednak jest konieczny..."]
 	quest.51E77B9CD3FB6DEA.title: "Pazury do kopania"
 	quest.5716E84828EC0C23.quest_desc: ["Plastic Construction Bricks to bloki tworzone z pomocą modyfikacji &l&7PneumaticCraft: Repressurized&r. \\n\\nI podobnie jak ich odpowiedniki z prawdziwego życia - bolą jak na nie nadepniesz! \\n\\nWięc albo zacznij nosić buty albo je wygładź."]
@@ -85,8 +83,6 @@
 	quest.5C2B30655A44227F.title: "Metale &5&lEternal Starlight&r"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r skupia się na rolnictwie i gotowaniu! Możemy tych samych przedmiotów wykorzystywać zarówno do gotowania jak i dekoracyjnie! \\n\\nKuchenka, Garnki i Patelnie fantastycznie sprawdzają się w kuchni. \\n\\nSkrzynki z jedzeniem są świetne do spiżarni. \\n\\nWarzywa świetnie sprawdzają się jako dekoracja na zewnątrz a szafki będą dobre gdziekolwiek!"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r dodaje wiele różnych szkieł! \\n\\nOd tych przez które możesz przechodzić, przez świecące a nawet i wzmocnione!"]
-	quest.5E5D5D28D82F6891.title: "Szkło &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.5EB488C393B084C4.quest_desc: ["Kontynuacja modyfikacji &lChiseled&r, &4&lRechiseled&r! \\n\\nWszystko w tej modyfikacji działa w przedmiocie Chisel, Aby otworzyć GUI należy kliknąć PPM. \\nPo lewej stronie wybieramy design a w prawym dolnym rogu wsadzamy bloki. \\n\\nPowyżej znajduje się podgląd razem z gotowymi wzorami: pojedynczy blok, 3x1 i ścianka 3x3. Możesz też włączyć rotację wzoru by obejrzeć go z każdej strony! \\n\\nZaraz obok miejsca na bloki, po kliknięciu na Chisel przemienisz wszystkie bloki w twoim ekwipunku z poprzednim designem (lub brakiem) na wyznaczony. \\n\\nWarto zaznaczyć że ten przedmiot się nie zużywa!"]
 	quest.5EB488C393B084C4.title: "&4&lRechiseled&r"
 	quest.5F7F753FD72BFBBF.quest_desc: ["Więcej bloków dodanych przez &l&7Railcraft&r? Zaczynam wątpić że w ogóle chodzi o pociągi…"]
@@ -95,8 +91,6 @@
 	quest.61BE7882EE0E6FAF.title: "Pnie"
 	quest.6607E5CDB3D17D67.quest_desc: ["Nie martw się, ta mnie nie podpali"]
 	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Wełna"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r kręci się oczywiście wokół kolorów, światła także kręcą się wokół kolorów. \\n\\nŚwiatła RGB mogą mieć taki kolor, z jakiego zostaną utworzone. \\n\\nKonkretnie barwnik, nie kryształ."]
-	quest.667CD7C6E87A05F4.title: "Światła &l&9X&cy&aC&8r&aa&cf&9t&r"
 	quest.6B0D84B730C6C76C.quest_desc: ["16 Kolorów od &2&lMinecrafta&r cię nie satysfakcjonuje? \\n\\nCo powiesz na kolejne 18! \\n\\n&l&cDy&6en&ea&ami&bcs&r wprowadza ponad 18 nowych kolorów które możesz wykorzystywać w dokładnie tych samych miejscach co w zwykłym &2&lMinecraftcie&r! \\n\\nChcesz &6Brzoskwinione&r Świeczki? Możesz je mieć! Chcesz Shulkera w kolorze &dGumy Balonowej&r? Czemu nie! Może &eFluorescencyjne&r Łózko? Oczywiście!"]
 	quest.6B0D84B730C6C76C.title: "&l&cDy&6en&ea&ami&bcs&r"
 	quest.6BC78AF7C9D93F11.quest_desc: ["Nawet ta glazurowana!"]

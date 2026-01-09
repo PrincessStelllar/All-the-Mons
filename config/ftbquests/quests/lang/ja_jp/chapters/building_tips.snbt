@@ -89,8 +89,6 @@
 		""
 		"さて、どちらが重要でしょうか？原子炉の安全性と保護？それとも拠点を見栄え良くすること？"
 	]
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r は5つの異なる色に関するものです。これにはブロックにも使用されます！\n\n&a緑&r、&c赤&r、&9青&r、&8暗い&r、そして明るいブロックのすべての種類！"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lワールド"
 	quest.51E77B9CD3FB6DEA.quest_desc: [
 		"これは必須ではありませんが、とても便利です"
 		""
@@ -110,8 +108,6 @@
 	quest.5C2B30655A44227F.title: "&5&lEternal Starlight&r の金属"
 	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&rは農業と料理アイテムに関するものです！これらのアイテムは装飾や使用にも活用できます！\n\nStove、Pot、Panはキッチンに最適です。\n\nFood Barrelはパントリーに最適です。\n\n農具は屋外の装飾に最適で、Cabinetはどこにでも設置できます！"]
 	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r は &lWorld Core&r でたくさんのガラスを追加します！\n\n通り抜けられるものから、発光するもの、より強いものまで！"]
-	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r ガラス"
 	quest.5EB488C393B084C4.quest_desc: ["&lChiseled&r の続編、&4&lRechiseled&r！\n\nこのModはすべてのせん孔ツール内で動作します。右クリックでGUIを開きます。\n左側でデザインを選び、右下にブロックを置きます。\n\n上部では、1ブロック、3x1ブロック、または3x3の壁としてデザインを表示できます。ボタンをクリックすることで、画像を回転させるかどうかも設定できます！\n\nブロックを置く場所の横にあるせん孔をクリックすると、選択したデザインがインベントリ内の変更可能なすべてのブロックに適用されます。\n\n耐久度もありません！"]
 	quest.5EB488C393B084C4.title: "&4&lRechiseled&r"
 	quest.5F7F753FD72BFBBF.quest_desc: ["&l&7Railcraft&r によって追加されたブロックがさらに？これは本当に列車に関するものなのか疑問に思い始めています！"]
@@ -121,8 +117,6 @@
 	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
 	quest.6607E5CDB3D17D67.quest_desc: ["心配いりません、これらは燃えません！"]
 	quest.6607E5CDB3D17D67.title: "&l&bChipped&r 羊毛"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r はもちろん、色に関するすべてのものなので、ライトも色に基づいています。\n\nRGB ライトは、作成に使用された染料の色になります。\n\n特に染料であって、宝石ではありません"]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Lights"
 	quest.6B0D84B730C6C76C.quest_desc: ["&2&lMinecraft&r の16色では足りませんか？\n\nそれなら18色追加してみましょう！\n\n&l&cDy&6en&ea&ami&bcs&r は18色の染料を追加し、&2&lMinecraft&r の染料と同じようにアイテムやブロックに使用できます！\n\n&6Peach&r 色のろうそくが欲しいですか？作れます！&dBumblegum&r 色のシュルカーが欲しいですか？もちろん！&eFluorscent&r 色のベッドが欲しいですか？当然です！"]
 	quest.6B0D84B730C6C76C.title: "&l&cDy&6en&ea&ami&bcs&r"
 	quest.6BC78AF7C9D93F11.quest_desc: ["釉薬バージョンもあります！"]
@@ -168,16 +162,13 @@
 	task.41602F0D9097E74F.title: "安価なテラコッタ"
 	task.41FF171C7D97B574.title: "安価な宝石ブロック"
 	task.484375E0BC0F9177.title: "友達からのビルド"
-	task.4B13D48FF9D2530E.title: "XyCraft ライト"
 	task.4B274207A9646FE9.title: "Farmer's Delight"
 	task.4E28970476CABACD.title: "安価なライト"
 	task.50BED71A6677392E.title: "Railcraft の石材"
 	task.53A682560123F9B6.title: "Glassential"
 	task.58B9B9D13F4CD1B2.title: "Eternal Starlight の石材"
 	task.5936B8B8EDE0AE55.title: "金属と宝石のブロック"
-	task.5DEABD15EDE5736F.title: "XyCraft のガラス"
 	task.5FB27C61053F7FB5.title: "アルス・ヌーヴォー のライト"
-	task.624ADD79136376C0.title: "XyCraft World のアイテム"
 	task.6AA335ED81844F9F.title: "AllRightsReserved"
 	task.6BD970777103D55D.title: "階段"
 	task.6D2E8755BB3463FF.title: "レールクラフト色付きブロック"

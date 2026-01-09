@@ -117,8 +117,6 @@
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
 	quest.486B5A605D79EA10.quest_desc: [""]
 	quest.486B5A605D79EA10.title: "&cManhattan Module"
-	quest.49FDD8666356A3E7.quest_desc: ["We can use either or both &2Blastproof Casing&r or 256M Portable Item Cells to Craft the &3&lImprobable Probability Device&r. \\n\\nWait did I say either or both? \\n\\nYes I did! We can use 2 &2Blastproof Casings&r or 2 256M Portable Item Cells or one of each."]
-	quest.49FDD8666356A3E7.title: "Either or &2Blastproof Casings&f and 256M Portable Item Cells"
 	quest.4B12425E74C5E511.quest_desc: ["The &cExplosive Mycelial Generator&r does an amazing job at soaking up Explosions. \\n\\nWe could use that for a &d&lPulsating &8Black Hole&r!"]
 	quest.4B12425E74C5E511.title: "&cExplosive Mycelial Generator"
 	quest.4B7D387CEFF9667E.quest_desc: ["Finally! &6&lCreate&r has been updated and it is definitely worth the wait! \\n\\n&6&lCreate&r is all about rotating and using Rotational Power... well for practically everything! Crafting, crushing, mixing, brewing, ETC. \\n\\nIf it has been so long that you don't remember how to use &6&lCreate&r, you can use &7&lModern Industrialization&r to Craft the &6&lATM Star&r."]
@@ -204,8 +202,6 @@
 	quest.792990DC06DB98F9.title: "&5&lEternal Starlight"
 	quest.7A579E233C69871F.quest_desc: ["&b&lHostile Neural Networks&r is all about simulating Mobs for farming their Loot! \\n\\nNot much else to it."]
 	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
-	quest.7B140A034DF1291C.quest_desc: ["The &7&lNexium Emitter&r needs something to move it around, that can be either the &6Mechanical Arm&f or &6Large Advanced Motor&r! \\n\\nBoth move, so either work!"]
-	quest.7B140A034DF1291C.title: "&6Mechanical Arm&f or &6Large Advanced Motor"
 	quest.7D1A27CBF1508712.quest_desc: ["The &3Snow Queen&r lives in the &bAurora Palace&r within the Glacier Biome. \\n\\nYou'll need to kill the Alpha Yeti in order to enter the Glacier Biome. \\n\\nOnce usurped, she will drop a ton of loot, Trophy included!"]
 	quest.7D1A27CBF1508712.title: "&3Snow Queen &eTrophy"
 	quest.7D359283625C1869.quest_desc: ["&4&lCataclysm&r is an adventure Mod that is all about adding new Bosses! And everything from and around them! \\n\\nYou'll find the Structures all around the &2&lOverworld&r, &4&lThe Nether&r, and &5&lThe End&r. \\n\\nWithin will be new Mobs, Minibosses, and very difficult Bosses. You can kill them all to get new Weapons, Armor, and Items!"]

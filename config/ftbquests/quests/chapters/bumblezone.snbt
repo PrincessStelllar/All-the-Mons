@@ -579,7 +579,7 @@
 		}
 		{
 			icon: {
-				id: "modern_industrialization:copper_ring"
+				id: "the_bumblezone:ancient_wax_bricks"
 			}
 			id: "0B0BDC37185AF9EC"
 			rewards: [

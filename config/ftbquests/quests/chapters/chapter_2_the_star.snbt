@@ -448,7 +448,7 @@
 				"39F9C825B03DA317"
 				"0848056FDD3F9BDA"
 				"6A12188E50EAEB78"
-				"49FDD8666356A3E7"
+				"0923C941A9696122"
 			]
 			id: "36DF0D83EBC2B6A9"
 			rewards: [
@@ -499,7 +499,7 @@
 				"268EA2DEC8840D13"
 				"77F2271C45DB49BA"
 				"616F9B78B16B42A5"
-				"7B140A034DF1291C"
+				"5608C74936CA9E81"
 			]
 			id: "6CAD67D21E1EA861"
 			rewards: [
@@ -1381,17 +1381,6 @@
 					item: {
 						count: 1
 						id: "generatorgalore:magmatic_generator_8x"
-					}
-					type: "item"
-				}
-				{
-					id: "2A3E7F685CA9AF65"
-					item: {
-						components: {
-							"ftbquests:missing_item": "evilcraft:dark_tank"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -3586,44 +3575,6 @@
 			}]
 			x: 4.0d
 			y: -4.0d
-		}
-		{
-			dependencies: ["0923C941A9696122"]
-			dependency_requirement: "one_completed"
-			hide_dependency_lines: true
-			id: "49FDD8666356A3E7"
-			rewards: [{
-				id: "24515A90C6B390E1"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			size: 1.25d
-			tasks: [{
-				id: "44013B23AB5873A2"
-				item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:blastproof_casing)item(megacells:portable_item_cell_256m))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -6.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["5608C74936CA9E81"]
-			dependency_requirement: "one_completed"
-			hide_dependency_lines: true
-			id: "7B140A034DF1291C"
-			rewards: [{
-				id: "308C686A4888EE0B"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			size: 1.25d
-			tasks: [{
-				id: "3043AA3A143C2F09"
-				item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:large_advanced_motor)item(create:mechanical_arm))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -6.0d
-			y: 4.0d
 		}
 		{
 			dependencies: ["30CC20E33EFA2EDA"]
