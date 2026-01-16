@@ -20,7 +20,7 @@
     {
       "species": "landorus",
       "gender": "MALE",
-      "level": 93,
+      "level": 90,
       "nature": "jolly",
       "ability": "intimidate",
       "moveset": [
@@ -52,7 +52,7 @@
     {
       "species": "charizard",
       "gender": "MALE",
-      "level": 93,
+      "level": 90,
       "nature": "timid",
       "ability": "blaze",
       "moveset": [
@@ -82,7 +82,7 @@
     {
       "species": "azumarill",
       "gender": "FEMALE",
-      "level": 85,
+      "level": 90,
       "nature": "adamant",
       "ability": "hugepower",
       "moveset": [
@@ -100,7 +100,7 @@
         "spe": 31
       },
       "evs": {
-        "hp": 258,
+        "hp": 252,
         "atk": 252,
         "spe": 8
       },
@@ -111,7 +111,7 @@
     {
       "species": "gengar",
       "gender": "FEMALE",
-      "level": 66,
+      "level": 90,
       "nature": "lax",
       "ability": "levitate",
       "moveset": [
@@ -140,7 +140,7 @@
     {
       "species": "latios",
       "gender": "MALE",
-      "level": 85,
+      "level": 90,
       "nature": "timid",
       "ability": "levitate",
       "moveset": [
@@ -169,7 +169,7 @@
     {
       "species": "ferrothorn",
       "gender": "FEMALE",
-      "level": 93,
+      "level": 90,
       "nature": "relaxed",
       "ability": "ironbarbs",
       "moveset": [

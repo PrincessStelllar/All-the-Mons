@@ -72,7 +72,7 @@
       "atk": 252,
       "spe": 252
     },
-    "heldItem": "rockyhelmet"
+    "heldItem": "rocky_helmet"
   },
   {
     "species": "toxapex",
@@ -99,7 +99,7 @@
       "def": 252,
       "spd": 4
     },
-    "heldItem": "blacksludge"
+    "heldItem": "black_sludge"
   },
   {
     "species": "dragapult",
@@ -111,7 +111,7 @@
       "dracometeor",
       "shadowball",
       "thunderbolt",
-      "u-turn"
+      "uturn"
     ],
     "ivs": {
       "hp": 31,
@@ -126,7 +126,7 @@
       "spa": 252,
       "spe": 252
     },
-    "heldItem": "choicespecs"
+    "heldItem": "choice_specs"
   },
   {
     "species": "corviknight",
@@ -138,7 +138,7 @@
       "bravebird",
       "defog",
       "roost",
-      "u-turn"
+      "uturn"
     ],
     "ivs": {
       "hp": 31,
@@ -156,7 +156,8 @@
     "heldItem": "leftovers"
   },
   {
-    "species": "rotom-wash",
+    "species": "rotom",
+	"aspects": ["wash"],
     "gender": "GENDERLESS",
     "level": 100,
     "nature": "timid",
@@ -164,7 +165,7 @@
     "moveset": [
       "hydropump",
       "voltswitch",
-      "will-o-wisp",
+      "willowisp",
       "painsplit"
     ],
     "ivs": {

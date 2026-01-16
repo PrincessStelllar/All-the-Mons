@@ -20,13 +20,13 @@
   {
     "species": "noivern",
     "gender": "MALE",
-    "level": 100,
+    "level": 90,
     "nature": "timid",
     "ability": "infiltrator",
     "moveset": [
       "dracometeor",
       "hurricane",
-      "u-turn",
+      "uturn",
       "boomburst"
     ],
     "ivs": {
@@ -42,12 +42,12 @@
       "spe": 252,
       "hp": 4
     },
-    "heldItem": "choicespecs"
+    "heldItem": "choice_specs"
   },
   {
     "species": "toxtricity",
     "gender": "FEMALE",
-    "level": 100,
+    "level": 90,
     "nature": "modest",
     "ability": "punkrock",
     "moveset": [
@@ -69,12 +69,12 @@
       "spa": 252,
       "spe": 252
     },
-    "heldItem": "throatspray"
+    "heldItem": "throat_spray"
   },
   {
     "species": "ludicolo",
     "gender": "MALE",
-    "level": 100,
+    "level": 90,
     "nature": "modest",
     "ability": "swiftswim",
     "moveset": [
@@ -96,12 +96,12 @@
       "spe": 252,
       "hp": 4
     },
-    "heldItem": "lifeorb"
+    "heldItem": "life_orb"
   },
   {
     "species": "bellibolt",
     "gender": "FEMALE",
-    "level": 100,
+    "level": 90,
     "nature": "bold",
     "ability": "electromorphosis",
     "moveset": [
@@ -126,9 +126,10 @@
     "heldItem": "leftovers"
   },
   {
-    "species": "exeggutor-alolan",
-    "gender": "MALE",
-    "level": 100,
+    "species": "exeggutor",
+    "aspects": ["alolan"],
+	"gender": "MALE",
+    "level": 90,
     "nature": "modest",
     "ability": "harvest",
     "moveset": [
@@ -150,7 +151,7 @@
       "spa": 252,
       "def": 4
     },
-    "heldItem": "sitrusberry"
+    "heldItem": "sitrus_berry"
   }
 ]
 }

@@ -20,7 +20,7 @@
     {
       "species": "mimikyu",
       "gender": "MALE",
-      "level": 82,
+      "level": 90,
       "nature": "adamant",
       "ability": "disguise",
       "moveset": [
@@ -50,7 +50,7 @@
     {
       "species": "toxicroak",
       "gender": "FEMALE",
-      "level": 61,
+      "level": 90,
       "nature": "jolly",
       "ability": "poisontouch",
       "moveset": [
@@ -79,7 +79,7 @@
     {
       "species": "mismagius",
       "gender": "MALE",
-      "level": 61,
+      "level": 90,
       "nature": "timid",
       "ability": "levitate",
       "moveset": [
@@ -105,7 +105,7 @@
     {
       "species": "incineroar",
       "gender": "FEMALE",
-      "level": 62,
+      "level": 90,
       "nature": "adamant",
       "ability": "intimidate",
       "moveset": [
@@ -132,35 +132,9 @@
       ]
     },
     {
-      "species": "ditto",
-      "gender": "GENDERLESS",
-      "level": 85,
-      "nature": "jolly",
-      "ability": "imposter",
-      "moveset": [
-        "transform"
-      ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 31,
-        "spd": 31,
-        "spe": 31
-      },
-      "evs": {
-        "hp": 252,
-        "atk": 4,
-        "spe": 252
-      },
-      "heldItem": [
-        "choice_scarf"
-      ]
-    },
-    {
       "species": "toxapex",
       "gender": "FEMALE",
-      "level": 99,
+      "level": 90,
       "nature": "impish",
       "ability": "regenerator",
       "moveset": [
@@ -189,7 +163,7 @@
     {
       "species": "eelektross",
       "gender": "MALE",
-      "level": 61,
+      "level": 90,
       "nature": "modest",
       "ability": "levitate",
       "moveset": [

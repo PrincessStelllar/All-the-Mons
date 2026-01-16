@@ -20,7 +20,7 @@
     {
       "species": "combee",
       "gender": "MALE",
-      "level": 15,
+      "level": 90,
       "nature": "bashful",
       "ability": "honeygather",
       "moveset": [
@@ -35,7 +35,7 @@
     {
       "species": "cutiefly",
       "gender": "MALE",
-      "level": 37,
+      "level": 90,
       "nature": "naive",
       "ability": "swarm",
       "moveset": [
@@ -57,7 +57,7 @@
     {
       "species": "ribombee",
       "gender": "FEMALE",
-      "level": 74,
+      "level": 90,
       "nature": "timid",
       "ability": "shielddust",
       "moveset": [
@@ -86,7 +86,7 @@
     {
       "species": "vespiquen",
       "gender": "FEMALE",
-      "level": 76,
+      "level": 90,
       "nature": "adamant",
       "ability": "unnerve",
       "moveset": [
@@ -143,7 +143,7 @@
     {
       "species": "crawdaunt",
       "gender": "FEMALE",
-      "level": 95,
+      "level": 90,
       "nature": "jolly",
       "ability": "adaptability",
       "moveset": [

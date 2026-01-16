@@ -20,7 +20,7 @@
     {
       "species": "swampert",
       "gender": "FEMALE",
-      "level": 84,
+      "level": 90,
       "nature": "adamant",
       "ability": "swiftswim",
       "moveset": [
@@ -50,7 +50,7 @@
     {
       "species": "lucario",
       "gender": "FEMALE",
-      "level": 85,
+      "level": 90,
       "nature": "timid",
       "ability": "innerfocus",
       "moveset": [
@@ -80,7 +80,7 @@
     {
       "species": "groudon",
       "gender": "GENDERLESS",
-      "level": 85,
+      "level": 90,
       "nature": "careful",
       "ability": "drought",
       "moveset": [
@@ -103,7 +103,7 @@
         "spd": 252
       },
       "heldItem": [
-        "mega_showdown:redorb"
+        "mega_showdown:red_orb"
       ],
       "aspects": [
         "primal"
@@ -112,7 +112,7 @@
     {
       "species": "magnezone",
       "gender": "GENDERLESS",
-      "level": 88,
+      "level": 90,
       "nature": "modest",
       "ability": "sturdy",
       "moveset": [
@@ -141,7 +141,7 @@
     {
       "species": "lairon",
       "gender": "FEMALE",
-      "level": 77,
+      "level": 90,
       "nature": "lax",
       "ability": "sturdy",
       "moveset": [
@@ -163,7 +163,7 @@
     {
       "species": "piplup",
       "gender": "MALE",
-      "level": 99,
+      "level": 90,
       "nature": "timid",
       "ability": "torrent",
       "moveset": [

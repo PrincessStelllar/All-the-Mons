@@ -20,7 +20,7 @@
      {
       "species": "gyarados",
       "gender": "FEMALE",
-      "level": 89,
+      "level": 90,
       "nature": "quirky",
       "ability": "intimidate",
       "moveset": [
@@ -42,7 +42,7 @@
     {
       "species": "staraptor",
       "gender": "FEMALE",
-      "level": 100,
+      "level": 90,
       "nature": "jolly",
       "ability": "intimidate",
       "moveset": [
@@ -73,7 +73,7 @@
     {
       "species": "empoleon",
       "gender": "MALE",
-      "level": 58,
+      "level": 90,
       "nature": "bold",
       "ability": "competitive",
       "moveset": [
@@ -101,7 +101,7 @@
     {
       "species": "crawdaunt",
       "gender": "MALE",
-      "level": 34,
+      "level": 90,
       "nature": "docile",
       "ability": "battlearmor",
       "moveset": [
@@ -123,7 +123,7 @@
     {
       "species": "steelix",
       "gender": "MALE",
-      "level": 55,
+      "level": 90,
       "nature": "hasty",
       "ability": "sturdy",
       "moveset": [
@@ -145,7 +145,7 @@
     {
       "species": "giratina",
       "gender": "GENDERLESS",
-      "level": 93,
+      "level": 90,
       "nature": "quiet",
       "ability": "levitate",
       "moveset": [

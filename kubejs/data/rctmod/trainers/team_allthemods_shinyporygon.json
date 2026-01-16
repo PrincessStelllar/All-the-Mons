@@ -20,7 +20,7 @@
     {
       "species": "porygon",
       "gender": "GENDERLESS",
-      "level": 35,
+      "level": 90,
       "nature": "docile",
       "ability": "trace",
       "moveset": [
@@ -42,7 +42,7 @@
     {
       "species": "porygon2",
       "gender": "GENDERLESS",
-      "level": 58,
+      "level": 90,
       "nature": "relaxed",
       "ability": "trace",
       "moveset": [
@@ -69,7 +69,7 @@
     {
       "species": "porygonz",
       "gender": "GENDERLESS",
-      "level": 85,
+      "level": 90,
       "nature": "timid",
       "ability": "adaptability",
       "moveset": [
@@ -97,7 +97,7 @@
     {
       "species": "ditto",
       "gender": "GENDERLESS",
-      "level": 85,
+      "level": 90,
       "nature": "jolly",
       "ability": "imposter",
       "moveset": [
@@ -123,7 +123,7 @@
     {
       "species": "toxapex",
       "gender": "FEMALE",
-      "level": 83,
+      "level": 90,
       "nature": "impish",
       "ability": "regenerator",
       "moveset": [
@@ -152,7 +152,7 @@
     {
       "species": "garchomp",
       "gender": "FEMALE",
-      "level": 88,
+      "level": 90,
       "nature": "jolly",
       "ability": "roughskin",
       "moveset": [

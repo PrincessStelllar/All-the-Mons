@@ -20,7 +20,7 @@
   {
       "species": "dialga",
       "gender": "GENDERLESS",
-      "level": 85,
+      "level": 90,
       "nature": "calm",
       "ability": "pressure",
       "moveset": [
@@ -49,7 +49,7 @@
   {
       "species": "latios",
       "gender": "MALE",
-      "level": 85,
+      "level": 90,
       "nature": "timid",
       "ability": "levitate",
       "moveset": [
@@ -79,7 +79,7 @@
   {
       "species": "guzzlord",
       "gender": "GENDERLESS",
-      "level": 82,
+      "level": 90,
       "nature": "modest",
       "ability": "beastboost",
       "moveset": [
@@ -109,7 +109,7 @@
   {
       "species": "latias",
       "gender": "FEMALE",
-      "level": 85,
+      "level": 90,
       "nature": "timid",
       "ability": "levitate",
       "moveset": [
@@ -139,7 +139,7 @@
   {
       "species": "eternatus",
       "gender": "GENDERLESS",
-      "level": 85,
+      "level": 90,
       "nature": "timid",
       "ability": "pressure",
       "moveset": [
@@ -168,7 +168,7 @@
     {
       "species": "palkia",
       "gender": "GENDERLESS",
-      "level": 91,
+      "level": 90,
       "nature": "timid",
       "ability": "pressure",
       "moveset": [

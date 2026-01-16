@@ -20,7 +20,7 @@
     {
       "species": "dewgong",
       "gender": "FEMALE",
-      "level": 52,
+      "level": 90,
       "nature": "naughty",
       "ability": "icescales",
       "moveset": [
@@ -42,7 +42,7 @@
     {
       "species": "cloyster",
       "gender": "FEMALE",
-      "level": 51,
+      "level": 90,
       "nature": "bold",
       "ability": "skilllink",
       "moveset": [
@@ -64,7 +64,7 @@
     {
       "species": "slowbro",
       "gender": "FEMALE",
-      "level": 52,
+      "level": 90,
       "nature": "sassy",
       "ability": "owntempo",
       "moveset": [
@@ -86,7 +86,7 @@
     {
       "species": "jynx",
       "gender": "FEMALE",
-      "level": 54,
+      "level": 90,
       "nature": "bold",
       "ability": "forewarn",
       "moveset": [
@@ -108,7 +108,7 @@
     {
       "species": "lapras",
       "gender": "FEMALE",
-      "level": 54,
+      "level": 90,
       "nature": "serious",
       "ability": "hydration",
       "moveset": [

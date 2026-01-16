@@ -20,7 +20,7 @@
   {
     "species": "armarouge",
     "gender": "FEMALE",
-    "level": 100,
+    "level": 90,
     "nature": "modest",
     "ability": "flashfire",
     "moveset": [
@@ -42,12 +42,12 @@
       "spa": 252,
       "spe": 252
     },
-    "heldItem": "choicespecs"
+    "heldItem": "choice_specs"
   },
   {
     "species": "umbreon",
     "gender": "FEMALE",
-    "level": 100,
+    "level": 90,
     "nature": "calm",
     "ability": "synchronize",
     "moveset": [
@@ -74,7 +74,7 @@
   {
     "species": "greninja",
     "gender": "MALE",
-    "level": 100,
+    "level": 90,
     "nature": "timid",
     "ability": "protean",
     "moveset": [
@@ -96,12 +96,12 @@
       "spe": 252,
       "hp": 4
     },
-    "heldItem": "lifeorb"
+    "heldItem": "life_orb"
   },
   {
     "species": "suicune",
     "gender": "GENDERLESS",
-    "level": 100,
+    "level": 90,
     "nature": "bold",
     "ability": "pressure",
     "moveset": [
@@ -128,7 +128,7 @@
   {
     "species": "regigigas",
     "gender": "GENDERLESS",
-    "level": 100,
+    "level": 90,
     "nature": "adamant",
     "ability": "slowstart",
     "moveset": [
@@ -150,12 +150,12 @@
       "atk": 252,
       "spe": 4
     },
-    "heldItem": "assaultvest"
+    "heldItem": "assault_vest"
   },
   {
     "species": "squirtle",
     "gender": "MALE",
-    "level": 100,
+    "level": 90,
     "nature": "bold",
     "ability": "torrent",
     "moveset": [

@@ -20,7 +20,7 @@
      {
       "species": "gyarados",
       "gender": "FEMALE",
-      "level": 78,
+      "level": 90,
       "nature": "quirky",
       "ability": "intimidate",
       "moveset": [
@@ -42,7 +42,7 @@
     {
       "species": "electivire",
       "gender": "MALE",
-      "level": 82,
+      "level": 90,
       "nature": "jolly",
       "ability": "ironfist",
       "moveset": [
@@ -71,7 +71,7 @@
     {
       "species": "cinderace",
       "gender": "FEMALE",
-      "level": 96,
+      "level": 90,
       "nature": "jolly",
       "ability": "protean",
       "moveset": [
@@ -100,7 +100,7 @@
      {
       "species": "pikachu",
       "gender": "FEMALE",
-      "level": 84,
+      "level": 90,
       "nature": "lonely",
       "ability": "static",
       "moveset": [
@@ -122,12 +122,12 @@
     {
       "species": "eevee",
       "gender": "FEMALE",
-      "level": 89,
+      "level": 90,
       "nature": "sassy",
       "ability": "runaway",
       "moveset": [
         "toxic",
-        "synchronoize",
+        "synchronoise",
         "lastresort",
         "takedown"
       ],
@@ -144,7 +144,7 @@
     {
       "species": "charizard",
       "gender": "MALE",
-      "level": 99,
+      "level": 90,
       "nature": "jolly",
       "ability": "blaze",
       "moveset": [

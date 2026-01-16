@@ -20,7 +20,7 @@
     {
       "species": "slowpoke",
       "gender": "FEMALE",
-      "level": 51,
+      "level": 100,
       "nature": "bold",
       "ability": "owntempo",
       "moveset": [
@@ -46,7 +46,7 @@
     {
       "species": "slowbro",
       "gender": "FEMALE",
-      "level": 93,
+      "level": 100,
       "nature": "bold",
       "ability": "regenerator",
       "moveset": [
@@ -76,7 +76,7 @@
     {
       "species": "slowbro",
       "gender": "MALE",
-      "level": 92,
+      "level": 100,
       "nature": "modest",
       "ability": "regenerator",
       "moveset": [
@@ -107,7 +107,7 @@
     {
       "species": "slowking",
       "gender": "FEMALE",
-      "level": 64,
+      "level": 100,
       "nature": "careful",
       "ability": "owntempo",
       "moveset": [
@@ -129,7 +129,7 @@
     {
       "species": "slowking",
       "gender": "FEMALE",
-      "level": 99,
+      "level": 100,
       "nature": "adamant",
       "ability": "owntempo",
       "moveset": [

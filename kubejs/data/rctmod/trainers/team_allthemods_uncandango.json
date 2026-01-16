@@ -20,7 +20,7 @@
     {
       "species": "salamence",
       "gender": "FEMALE",
-      "level": 50,
+      "level": 90,
       "nature": "adamant",
       "ability": "intimidate",
       "moveset": [
@@ -49,11 +49,11 @@
 	{
       "species": "espeon",
       "gender": "FEMALE",
-      "level": 50,
+      "level": 90,
       "nature": "timid",
       "ability": "synchronize",
       "moveset": [
-        "hiddenpowerelectric",
+        "hiddenpower",
         "psychic",
         "morningsun",
         "signalbeam"
@@ -79,13 +79,13 @@
 	{
       "species": "blaziken",
       "gender": "FEMALE",
-      "level": 50,
+      "level": 90,
       "nature": "rash",
       "ability": "blaze",
       "moveset": [
         "superpower",
         "fireblast",
-        "hiddenpowerrock",
+        "hiddenpower",
         "agility"
       ],
       "ivs": {
@@ -108,13 +108,13 @@
 	{
       "species": "charizard",
       "gender": "FEMALE",
-      "level": 50,
+      "level": 90,
       "nature": "modest",
       "ability": "blaze",
       "moveset": [
         "substitute",
         "fireblast",
-        "hiddenpowergrass",
+        "hiddenpower",
         "ancientpower"
       ],
       "ivs": {
@@ -138,7 +138,7 @@
 	{
       "species": "heracross",
       "gender": "MALE",
-      "level": 50,
+      "level": 90,
       "nature": "adamant",
       "ability": "guts",
       "moveset": [
