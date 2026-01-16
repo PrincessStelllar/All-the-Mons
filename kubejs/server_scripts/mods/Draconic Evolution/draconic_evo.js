@@ -11,10 +11,17 @@ ServerEvents.recipes(allthemods =>{
         ]
     }).id(`allthemods:create/crushing/awakened_draconium_dust`)
 
-    allthemods.recipes.occultism.crushing(RecipeResult.of("draconicevolution:awakened_draconium_dust"), Ingredient.of("draconicevolution:awakened_draconium_ingot"))
-	  .ignoreCrushingMultiplier(true)
-	  .id(`allthemods:occultism/crushing/awakened_draconium_dust`)
-    
+	allthemods.custom({  "type": "occultism:crushing",
+	  "ignore_crushing_multiplier": true,
+	  "ingredient": {
+		"item": "draconicevolution:awakened_draconium_ingot"
+	  },
+	  "result": {
+		"type": "occultism:item",
+		"count": 1,
+		"id": "draconicevolution:awakened_draconium_dust"
+	}}).id(`allthemods:occultism/crushing/awakened_draconium_dust`)
+
     allthemods.custom({
         type: 'immersiveengineering:crusher',
         energy: 3200,
@@ -38,9 +45,17 @@ ServerEvents.recipes(allthemods =>{
         ]
     }).id(`allthemods:create/crushing/draconium_dust`)
 
-    allthemods.recipes.occultism.crushing(RecipeResult.of("draconicevolution:draconium_dust"), "draconicevolution:draconium_ingot")
-	  .ignoreCrushingMultiplier(true)
-	  .id(`allthemods:occultism/crushing/draconium_dust`)
+	allthemods.custom({  "type": "occultism:crushing",
+	  "ignore_crushing_multiplier": true,
+	  "ingredient": {
+		"item": "draconicevolution:draconium_ingot"
+	  },
+	  "result": {
+		"type": "occultism:item",
+		"count": 1,
+		"id": "draconicevolution:draconium_dust"
+	}}).id(`allthemods:occultism/crushing/draconium_dust`)
+	  
 
     allthemods.custom({
         type: 'immersiveengineering:crusher',

@@ -228,7 +228,9 @@ KubeJSTweaks.beforeRecipes(event => {
     .forEach(entry => {
       entry.fixItemAtKey("main_output")
       let ci = entry.json().get("chemical_input")
-      ci.add("chemical", ci.remove("gas"))
+      if (ci.has("gas")) {
+        ci.add("chemical", ci.remove("gas"))	  
+	  }	  
     })
 
   event.getEntry("botanypots:allthemodium/crop/ancient_soulberries")
