@@ -299,11 +299,6 @@
 	quest.7FABB77A60E7962C.title: "&5Refined Obsidian Armor"
 	quest.7FBC64E6408D8D7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_knightmetal.png width:100 height:150 align:center}"]
 	quest.7FBC64E6408D8D7F.title: "&7Knightmetal"
-	task.0B2D12F2EEAE26B5.title: ""
-	task.336F743A90D79EA5.title: ""
 	task.4BDF268861CA744F.title: "AllRightsReserved"
-	task.4FD31875EE131079.title: ""
-	task.53E8D3055F57BC80.title: ""
 	task.57895147416291FE.title: "AllRightsReserved"
-	task.7FE454AB1A3D8C04.title: ""
 }

@@ -1,0 +1,39 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bdsp_wip"
+	group: "21FB9D458E942C6D"
+	icon: {
+		id: "pkgbadges:the_coal_badge"
+	}
+	id: "35AA168F4AE3085B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "pkgbadges:the_coal_badge"
+			}
+			id: "5F8517375C745FAF"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_roark_1"
+				criterion: ""
+				id: "00B29512152CC0E7"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			id: "6BFE3D64D2FB19C6"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_cynthia_1"
+				criterion: ""
+				id: "5485D61F336F1849"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+	]
+}

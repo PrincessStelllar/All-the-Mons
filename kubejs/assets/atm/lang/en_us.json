@@ -5,4 +5,11 @@
 	"packmenu.atm.patreon": "Donate",
 	"trainer_type.allthemons.team_allthemods.title": "ATM Team",
 	"series.rctmod.atm_team.description": "ATM Team series",
-	"series.rctmod.atm_team.title": "ATM Team"}
+	"series.rctmod.atm_team.title": "ATM Team",
+	"trainer_type.allthemons.contentcreators.title": "Content Creators Team",
+	"series.rctmod.contentcreators.description": "Content Creators Team series",
+	"series.rctmod.contentcreators.title": "Content Creators Team",	
+	"kubejs.atm.click_here": "Click here to dismiss",
+	"announcements.atm.dismiss_up_to_version": "[Dismiss announcements up to version %s]",
+	"announcements.atm.dismissed_up_to_version": "Dismissed announcements up to version %s!"
+}

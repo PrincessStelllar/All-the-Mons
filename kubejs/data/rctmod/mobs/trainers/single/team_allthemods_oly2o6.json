@@ -16,7 +16,7 @@
   "series": [
     "atm_team"
   ],
-  "signatureItem": "cobblemon:covert_cloak",
-  "spawnWeightFactor": 1.25,
+  "signatureItem": "allthemodium:unobtainium_block",
+  "spawnWeightFactor": 0.25,
   "type": "team_allthemods"
 }

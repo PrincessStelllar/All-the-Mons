@@ -17,7 +17,7 @@
   "series": [
      "atm_team"
   ],
-  "signatureItem": "cobblemon:covert_cloak",
-  "spawnWeightFactor": 1.25,
+  "signatureItem": "allthemons:pika_star",
+  "spawnWeightFactor": 0,
   "type": "team_allthemods"
 }

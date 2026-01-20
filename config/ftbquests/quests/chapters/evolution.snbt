@@ -101,37 +101,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["3B04DBF92FDF859F"]
-			id: "269D24B28FA92DF8"
-			rewards: [
-				{
-					count: 3
-					id: "753F7CFA3B90992F"
-					item: {
-						count: 1
-						id: "cobblemon:remedy"
-					}
-					type: "item"
-				}
-				{
-					id: "340FA0D1B69A8C73"
-					item: {
-						count: 1
-						id: "cobblemon:revive"
-					}
-					type: "item"
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "2FA2AF7976882BDE"
-				item: { count: 1, id: "rctmod:trainer_card" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: -0.5d
-		}
-		{
 			dependencies: ["269D24B28FA92DF8"]
 			id: "0ADFE26AD63EC714"
 			rewards: [{
@@ -173,25 +142,11 @@
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
-				action: "level_up_to"
-				amount: 1L
-				biome: ""
-				dex_progress: "seen"
-				dimension: ""
-				form: ""
-				gender: ""
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
 				id: "09E7D93E692CB782"
-				max_level: 15
-				min_level: 15
-				natures: ""
-				poke_ball_used: ""
-				pokemon: ""
-				pokemon_type: ""
-				region: ""
-				shiny: false
-				time_max: 24000L
-				time_min: 0L
-				type: "cobblemon_tasks:cobblemon_task"
+				type: "custom"
 			}]
 			x: -6.5d
 			y: -0.5d
@@ -220,25 +175,11 @@
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
-				action: "evolve"
-				amount: 1L
-				biome: ""
-				dex_progress: "seen"
-				dimension: ""
-				form: ""
-				gender: ""
+				icon: {
+					id: "cobblemon:great_ball"
+				}
 				id: "6D8B0FFD3F4C0BCB"
-				max_level: 0
-				min_level: 0
-				natures: ""
-				poke_ball_used: ""
-				pokemon: ""
-				pokemon_type: ""
-				region: ""
-				shiny: false
-				time_max: 24000L
-				time_min: 0L
-				type: "cobblemon_tasks:cobblemon_task"
+				type: "custom"
 			}]
 			x: 2.5d
 			y: -0.5d
@@ -269,25 +210,10 @@
 			]
 			shape: "circle"
 			tasks: [{
-				action: "defeat_npc"
-				amount: 1L
-				biome: ""
-				dex_progress: "seen"
-				dimension: ""
-				form: ""
-				gender: ""
-				id: "310CD0CB7469EE1D"
-				max_level: 0
-				min_level: 0
-				natures: ""
-				poke_ball_used: ""
-				pokemon: ""
-				pokemon_type: ""
-				region: ""
-				shiny: false
-				time_max: 24000L
-				time_min: 0L
-				type: "cobblemon_tasks:cobblemon_task"
+				advancement: "rctmod:trainers/defeat_any"
+				criterion: ""
+				id: "5D31E78BF3718CB2"
+				type: "advancement"
 			}]
 			x: 0.0d
 			y: -0.5d
@@ -898,6 +824,37 @@
 			}]
 			x: -3.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["3B04DBF92FDF859F"]
+			id: "269D24B28FA92DF8"
+			rewards: [
+				{
+					count: 3
+					id: "753F7CFA3B90992F"
+					item: {
+						count: 1
+						id: "cobblemon:remedy"
+					}
+					type: "item"
+				}
+				{
+					id: "340FA0D1B69A8C73"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "2FA2AF7976882BDE"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
 		}
 	]
 }

@@ -18,10 +18,10 @@
 			y: -1.5d
 		}
 		{
-			height: 20.0d
-			image: "cobblemon_quests:item/poke_ball_icon"
+			height: 25.0d
+			image: "cobblemon:item/poke_balls/poke_ball"
 			rotation: 0.0d
-			width: 20.0d
+			width: 25.0d
 			x: -7.5d
 			y: -10.0d
 		}

@@ -62,8 +62,10 @@
 	quest.6E780D295717056D.title: "&cFire Stone"
 	quest.7A4A07325C00A238.quest_desc: ["&9Slow&dpoke&r is very similar to &cCharcadet&r, both have 2 different &bEvolutions&r they can get with Items. \\n\\nBy giving &9Slow&dpoke&r a &6Glarica Cuff&r you will get a &9Slow&dbro&r. \\n\\nUse a &6Glarica Wreath&r instead and you'll get a &9Slow&dking&r!"]
 	quest.7A4A07325C00A238.title: "&9Slow&dpoke &bEvolution&r Items"
+	task.09E7D93E692CB782.title: "Level up to 15"
 	task.2FF61E9EBBEDE7EF.title: "Trade Items"
 	task.47E6E6B51447C8DC.title: "Slowpoke Evolution Items"
 	task.48230014D8628136.title: "Milcrey Evolution&r Items"
 	task.6097F6DEBA79FDF0.title: "Charcadet Evolution Items"
+	task.6D8B0FFD3F4C0BCB.title: "Evolve a Pokémon"
 }

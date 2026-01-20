@@ -1,0 +1,45 @@
+{
+  "name": "Nofaxu",
+  "identity": "Nofaxu",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 2
+    }
+  ],
+  "team": [
+  {
+    "species": "magikarp",
+    "gender": "FEMALE",
+    "level": 15,
+    "nature": "modest",
+    "ability": "flashfire",
+    "moveset": [
+      "splash"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 4,
+      "spa": 252,
+      "spe": 252
+    },
+    "heldItem": "choice_specs"
+  }
+]
+}
