@@ -5,25 +5,6 @@ title: "[Crash]: "
 labels:
   - Crash
 body:
-  - type: markdown
-    attributes:
-      value: >
-        **Prior to filling out this crash report, please make sure of the
-        following:**
-
-        - You tried on the latest version of the pack.
-
-        - You don't have any extra other mods installed.
-  - type: dropdown
-    id: fixes
-    attributes:
-      label: Possible Fixes
-      description: Have you tried the above mentioned points?
-      options:
-        - 'No'
-        - 'Yes'
-    validations:
-      required: true
   - type: input
     id: pack-version
     attributes:
@@ -91,3 +72,11 @@ body:
       placeholder: https://mclo.gs/... (Not required if already sent message from Crash Assistant...)
     validations:
       required: false
+  - type: checkboxes
+    attributes:
+      label: Read this!
+      description: Make sure you are on latest version of the pack and provide either a Crash Assistant Message or logs.
+        Your post will be closed if you do NOT meet those requirements.
+      options:
+        - label: I agree that my post will be closed if above requirements does not meet.
+          required: true
