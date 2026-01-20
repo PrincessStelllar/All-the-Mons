@@ -1,6 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#c:is_overworld",
+  "biomes": "#allthemons:has_structure/pokecenter",
   "step": "surface_structures",
   "spawn_overrides": {
     "monster": {
@@ -8,7 +8,7 @@
       "spawns": []
     }
   },
-  "terrain_adaptation": "beard_thin",
+  "terrain_adaptation": "beard_box",
   "start_pool": "allthemons:poke_center",
   "size": 4,
   "start_height": {
