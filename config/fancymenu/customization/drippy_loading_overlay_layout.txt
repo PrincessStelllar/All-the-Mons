@@ -44,7 +44,7 @@ layout_action_executable_blocks {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/mojang.png
+  source = [source:local]/config/fancymenu/assets/logo.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -64,11 +64,11 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
-  anchor_point = mid-centered
-  x = -258
+  anchor_point = top-centered
+  x = -208
   y = -59
-  width = 512
-  height = 122
+  width = 400
+  height = 400
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
