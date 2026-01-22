@@ -144,12 +144,12 @@
     "curseForgeHash": 3791403444,
     "modrinthHash": "2956e0e6055c21e4b7fc1fc407dbeae30d7bb949"
   },
-  "allthemons-0.0.17.jar": {
-    "jarName": "allthemons-0.0.17.jar",
+  "allthemons-0.0.18.jar": {
+    "jarName": "allthemons-0.0.18.jar",
     "modId": "allthemons",
-    "version": "0.0.17",
-    "curseForgeHash": 3998562844,
-    "modrinthHash": "5d8c37211e953a56a0fcd24841d0fb0e0a9f3a07"
+    "version": "0.0.18",
+    "curseForgeHash": 55706548,
+    "modrinthHash": "ebb93e44fb6e0dd4f5e76d949ddaadf5cce671a0"
   },
   "alltheores-3.1.8_neoforge_1.21.1.jar": {
     "jarName": "alltheores-3.1.8_neoforge_1.21.1.jar",
@@ -556,6 +556,13 @@
     "version": "1.21.1-1.2.0",
     "curseForgeHash": 3303919950,
     "modrinthHash": "33e082c5a0c62b8b57d49ac7e8db0c7f0b2045fd"
+  },
+  "CobblemonMoveInspector-neoforge-1.3.0.jar": {
+    "jarName": "CobblemonMoveInspector-neoforge-1.3.0.jar",
+    "modId": "cobblemon_move_inspector",
+    "version": "1.3.0",
+    "curseForgeHash": 813779363,
+    "modrinthHash": "428b18c023a0dff9871d231f454d10db34212fa7"
   },
   "cobblemonraiddens-neoforge-0.5.5+1.21.1.jar": {
     "jarName": "cobblemonraiddens-neoforge-0.5.5+1.21.1.jar",
@@ -1205,8 +1212,8 @@
     "jarName": "fusion-1.2.12-neoforge-mc1.21.1.jar",
     "modId": "fusion",
     "version": "1.2.12",
-    "curseForgeHash": 2460799322,
-    "modrinthHash": "480f281f5c096900ca2b9cfaf0dd841c7c20b8cf"
+    "curseForgeHash": 1484771835,
+    "modrinthHash": "d86f641b67d4b01d99da8424ba2a3edc0e6690b6"
   },
   "fzzy_config-0.7.4+1.21+neoforge.jar": {
     "jarName": "fzzy_config-0.7.4+1.21+neoforge.jar",
@@ -2032,12 +2039,12 @@
     "curseForgeHash": 777475879,
     "modrinthHash": "86657ffa019e5acba00d0105090a5091cf25937f"
   },
-  "pylons-1.21.1-5.3.0.jar": {
-    "jarName": "pylons-1.21.1-5.3.0.jar",
+  "pylons-1.21.1-5.4.0.jar": {
+    "jarName": "pylons-1.21.1-5.4.0.jar",
     "modId": "pylons",
-    "version": "5.3.0",
-    "curseForgeHash": 1567458274,
-    "modrinthHash": "6254ee59dbc328aaa31e4a388386f7b652544399"
+    "version": "5.4.0",
+    "curseForgeHash": 1082133295,
+    "modrinthHash": "50caff1c9980df518dc8bdc48a982cc970f66135"
   },
   "railcraft-reborn-1.21.1-1.2.10.jar": {
     "jarName": "railcraft-reborn-1.21.1-1.2.10.jar",
@@ -2645,5 +2652,8 @@
     "version": "1.21.1-2.4.21",
     "curseForgeHash": 3927732622,
     "modrinthHash": "7df2558f45c3e41bebe86a5ee2b28d56007bdbda"
+  },
+  "Maxi\u0027s-JM+CM_Pixel-U8.zip (resourcepack)": {
+    "jarName": "Maxi\u0027s-JM+CM_Pixel-U8.zip (resourcepack)"
   }
 }
