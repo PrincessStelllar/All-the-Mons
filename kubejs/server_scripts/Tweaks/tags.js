@@ -113,6 +113,8 @@ ServerEvents.tags('entity_type', allthemods => {
         "cataclysm:the_leviathan",
         "cataclysm:the_prowler",
         "cataclysm:wadjet",
+        "eternal_starlight:starlight_golem",
+        "eternal_starlight:the_gatekeeper",
         "#neoforge:bosses"
     ])
 

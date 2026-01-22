@@ -12,7 +12,7 @@ ServerEvents.recipes(allthemods => {
     I: 'allthemodium:piglich_heart_block',
     B: 'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:soul_lava"}]',
 	  G: 'cataclysm:abyssal_sacrifice',
-    E: 'mega_showdown:dynamax_candy'
+    E: 'eternal_starlight:chain_of_souls'
   }).id('allthemods:allthetweaks/dragon_soul')
 
  // Improbable Probability Device
@@ -95,7 +95,7 @@ allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', 'GHI'], {
   F: 'occultism:stable_wormhole',
   G: 'rootsclassic:crystal_staff',
   H: 'industrialforegoing:mycelial_explosive',
-  I: 'mega_showdown:dynamax_candy'
+  I: 'eternal_starlight:tear_bomb'
 }).id('allthemods:pressure/allthetweaks/pulsating_black_hole')
 
   // Creative Essence

@@ -162,9 +162,9 @@ ItemEvents.modifyTooltips(allthemods => {
     ])
 
 	//Eternal Starlight
-    // allthemods.add('eternal_starlight:loot_bag[eternal_starlight:loot_table="eternal_starlight:bosses/lunar_monstrosity"]', [
-    //     Text.of('This loot bag is from the \"Lunar Monstrosity\".')
-    // ])
+    allthemods.add('eternal_starlight:loot_bag[eternal_starlight:loot_table="eternal_starlight:bosses/lunar_monstrosity"]', [
+        Text.of('This loot bag is from the \"Lunar Monstrosity\".')
+    ])
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
