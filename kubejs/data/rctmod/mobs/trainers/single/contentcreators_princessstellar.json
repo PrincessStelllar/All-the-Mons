@@ -11,13 +11,12 @@
   "optional": false,
   "requiredDefeats": [
     [
-	"contentcreators_mitinhoplayer"
     ]
   ],
   "series": [
     "contentcreators"
   ],
-  "signatureItem": "minecraft:white_concrete",
+  "signatureItem": "allthemodium:allthemodium_ingot",
   "spawnWeightFactor": 0.25,
   "type": "contentcreators"
 }

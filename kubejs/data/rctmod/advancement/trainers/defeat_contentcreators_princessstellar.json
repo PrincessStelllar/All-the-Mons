@@ -1,13 +1,13 @@
 {
   "criteria": {
-    "defeat_contentcreators_joeychin01": {
+    "defeat_contentcreators_princessstellar": {
       "conditions": {
         "count": 1,
         "entity": {
           "type": null
         },
         "trainer_ids": [
-          "contentcreators_joeychin01"
+          "contentcreators_princessstellar"
         ],
         "trainer_type": null
       },
@@ -18,7 +18,7 @@
     "announce_to_chat": true,
     "background": null,
     "description": {
-      "translate": "advancements.rctmod.defeat_contentcreators_joeychin01.description"
+      "translate": "advancements.rctmod.defeat_contentcreators_princessstellar.description"
     },
     "frame": "goal",
     "hidden": false,
@@ -27,13 +27,13 @@
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.rctmod.defeat_contentcreators_joeychin01.title"
+      "translate": "advancements.rctmod.defeat_contentcreators_princessstellar.title"
     }
   },
-  "parent": "rctmod:trainers/defeat_contentcreators_princessstellar",
+  "parent": "rctmod:trainers/defeat_any",
   "requirements": [
     [
-      "defeat_contentcreators_joeychin01"
+      "defeat_contentcreators_princessstellar"
     ]
   ]
 }
