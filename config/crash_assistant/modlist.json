@@ -67,6 +67,13 @@
     "curseForgeHash": 3070169364,
     "modrinthHash": "d9acf9aa56528bd37f63ad23bdaba3184634b0e4"
   },
+  "ae2jeiintegration-1.2.0.jar": {
+    "jarName": "ae2jeiintegration-1.2.0.jar",
+    "modId": "ae2jeiintegration",
+    "version": "1.2.0",
+    "curseForgeHash": 1005889796,
+    "modrinthHash": "69bfbeca11c604a5da3be548ae582d5afbdc3d17"
+  },
   "AE2NetworkAnalyzer-1.21-2.1.4-neoforge.jar": {
     "jarName": "AE2NetworkAnalyzer-1.21-2.1.4-neoforge.jar",
     "modId": "ae2netanalyser",
@@ -137,12 +144,12 @@
     "curseForgeHash": 3791403444,
     "modrinthHash": "2956e0e6055c21e4b7fc1fc407dbeae30d7bb949"
   },
-  "allthemons-0.0.21.jar": {
-    "jarName": "allthemons-0.0.21.jar",
+  "allthemons-0.0.22.jar": {
+    "jarName": "allthemons-0.0.22.jar",
     "modId": "allthemons",
-    "version": "0.0.21",
-    "curseForgeHash": 767672440,
-    "modrinthHash": "5184802788e764b24c380ee0a3a8c8711b923390"
+    "version": "0.0.22",
+    "curseForgeHash": 1020074256,
+    "modrinthHash": "a20637133f5f19a81f3ecfea82aed76c02475791"
   },
   "alltheores-3.1.8_neoforge_1.21.1.jar": {
     "jarName": "alltheores-3.1.8_neoforge_1.21.1.jar",
@@ -256,12 +263,12 @@
     "curseForgeHash": 2444389435,
     "modrinthHash": "ad9c8b4793fad4d20c0e3f4e276437688a2d0fa9"
   },
-  "ars_creo-1.21.1-5.1.0.jar": {
-    "jarName": "ars_creo-1.21.1-5.1.0.jar",
+  "ars_creo-1.21.1-5.2.0.jar": {
+    "jarName": "ars_creo-1.21.1-5.2.0.jar",
     "modId": "ars_creo",
-    "version": "5.1.0",
-    "curseForgeHash": 104671911,
-    "modrinthHash": "04b316216debfc9427ee6d38a4382180b2d2003e"
+    "version": "5.2.0",
+    "curseForgeHash": 161940455,
+    "modrinthHash": "87e08998db6d6dc269db890416c9a05c3bfe941f"
   },
   "ars_elemancy-1.21.1-1.11.jar": {
     "jarName": "ars_elemancy-1.21.1-1.11.jar",
@@ -1068,12 +1075,12 @@
     "curseForgeHash": 3399518281,
     "modrinthHash": "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3"
   },
-  "FastSuite-1.21.1-6.0.6.jar": {
-    "jarName": "FastSuite-1.21.1-6.0.6.jar",
+  "FastSuite-1.21.1-6.0.7.jar": {
+    "jarName": "FastSuite-1.21.1-6.0.7.jar",
     "modId": "fastsuite",
-    "version": "6.0.6",
-    "curseForgeHash": 2158052502,
-    "modrinthHash": "281117322556e6e1d46094a6e1a4cfa8af41df2f"
+    "version": "6.0.7",
+    "curseForgeHash": 4068539984,
+    "modrinthHash": "664e62684311f727f1fac18f0de28e5317874b7e"
   },
   "FastWorkbench-1.21.1-9.1.3.jar": {
     "jarName": "FastWorkbench-1.21.1-9.1.3.jar",
@@ -1584,12 +1591,12 @@
     "curseForgeHash": 1129925363,
     "modrinthHash": "492d597ca216f9d099be112e77a9a5c7ed138770"
   },
-  "lootr-neoforge-1.21.1-1.11.36.110.jar": {
-    "jarName": "lootr-neoforge-1.21.1-1.11.36.110.jar",
+  "lootr-neoforge-1.21.1-1.11.36.114.jar": {
+    "jarName": "lootr-neoforge-1.21.1-1.11.36.114.jar",
     "modId": "lootr",
-    "version": "1.21.1-1.11.36.110",
-    "curseForgeHash": 30459468,
-    "modrinthHash": "406211226f2fe1e40eb29db9fcdba1a557c1a068"
+    "version": "1.21.1-1.11.36.114",
+    "curseForgeHash": 3637588497,
+    "modrinthHash": "931d703192a2de5052d5836bfda066ef7061b55f"
   },
   "luminax-1.3.1_neoforge_1.21.1.jar": {
     "jarName": "luminax-1.3.1_neoforge_1.21.1.jar",
@@ -2157,6 +2164,13 @@
     "version": "1.0.2",
     "curseForgeHash": 2277692956,
     "modrinthHash": "6559a203e264afacc40af5010ad6a85b21e20a17"
+  },
+  "repelreforged-1.0.1.jar": {
+    "jarName": "repelreforged-1.0.1.jar",
+    "modId": "repelreforged",
+    "version": "1.0.1",
+    "curseForgeHash": 1784384982,
+    "modrinthHash": "44dffdf9e62bcb1f1e9d68888cc373e157cc126e"
   },
   "resourcefulconfig-neoforge-1.21-3.0.11.jar": {
     "jarName": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
