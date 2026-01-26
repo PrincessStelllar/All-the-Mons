@@ -146,6 +146,8 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add('enderio:spawner_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('ars_additions:source_spawner_denylist', '#allthemods:jank_blacklist')
     allthemods.add('oritech:spawner_blacklist', '#allthemods:jank_blacklist')
+    
+	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])
 });
 
 ServerEvents.tags('worldgen/structure', allthemods => {

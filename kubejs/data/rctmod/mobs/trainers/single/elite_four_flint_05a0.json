@@ -1,22 +1,24 @@
 {
   "battleCooldownTicks": 240,
   "biomeTagBlacklist": [
-    "is_void"
+    "is_void",
+    "is_end",
+    "is_wet"
   ],
   "biomeTagWhitelist": [
-    "allthemodium:other_biomes"
+    "is_hot"
   ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": false,
   "requiredDefeats": [
     [
+      "elite_four_bertha_059f"
     ]
   ],
   "series": [
-    "atm_team"
+    "bdsp"
   ],
-  "signatureItem": "allthemodium:unobtainium_block",
   "spawnWeightFactor": 0.25,
-  "type": "team_allthemods_custom_gym"
+  "type": "normal"
 }
