@@ -2165,13 +2165,6 @@
     "curseForgeHash": 2277692956,
     "modrinthHash": "6559a203e264afacc40af5010ad6a85b21e20a17"
   },
-  "repelreforged-1.0.1.jar": {
-    "jarName": "repelreforged-1.0.1.jar",
-    "modId": "repelreforged",
-    "version": "1.0.1",
-    "curseForgeHash": 1784384982,
-    "modrinthHash": "44dffdf9e62bcb1f1e9d68888cc373e157cc126e"
-  },
   "resourcefulconfig-neoforge-1.21-3.0.11.jar": {
     "jarName": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
     "modId": "resourcefulconfig",
