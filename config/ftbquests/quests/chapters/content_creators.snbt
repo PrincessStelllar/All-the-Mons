@@ -5,7 +5,7 @@
 	group: "21FB9D458E942C6D"
 	icon: {
 		components: {
-			"ftbquests:icon": "ftblibrary:icons/camera"
+			"ftbquests:icon": "actuallyadditions:item/youtube"
 		}
 		id: "ftbquests:custom_icon"
 	}
