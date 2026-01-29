@@ -1977,34 +1977,6 @@
 				"576ABF43FCF886B7"
 				"0B37355262121DD5"
 			]
-			id: "0BE6CE2C264140AD"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5B7A51AD90915835"
-					table_id: 2427872771413920777L
-					type: "random"
-				}
-				{
-					id: "6A5B75625CD9E5F4"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "7DB7534C6C6DFD07"
-				item: { count: 1, id: "mysticalagriculture:kivi_seeds" }
-				type: "item"
-			}]
-			x: 14.5d
-			y: -4.375d
-		}
-		{
-			dependencies: [
-				"576ABF43FCF886B7"
-				"0B37355262121DD5"
-			]
 			id: "7AD9DF3FFCB03495"
 			rewards: [
 				{
@@ -5408,34 +5380,6 @@
 			}]
 			x: 20.5d
 			y: -8.375d
-		}
-		{
-			dependencies: [
-				"76071C22A73A2026"
-				"0B37355262121DD5"
-			]
-			id: "7EFEE009212A4FD4"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "24A8CEDA679C2A2A"
-					table_id: 7270734658375550536L
-					type: "random"
-				}
-				{
-					id: "700D8E27F1D7B95D"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "7DCF0602D1855782"
-				item: { count: 1, id: "mysticalagriculture:xychorium_gem_seeds" }
-				type: "item"
-			}]
-			x: 20.0d
-			y: -9.875d
 		}
 		{
 			dependencies: [
