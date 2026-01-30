@@ -158,12 +158,12 @@
     "curseForgeHash": 807229151,
     "modrinthHash": "3185b3c8c5853797ca0e33d8b0837d67122d1f8a"
   },
-  "allthetweaks-1.21.1-2.8.1.jar": {
-    "jarName": "allthetweaks-1.21.1-2.8.1.jar",
+  "allthetweaks-1.21.1-2.8.2.jar": {
+    "jarName": "allthetweaks-1.21.1-2.8.2.jar",
     "modId": "allthetweaks",
-    "version": "2.8.1",
-    "curseForgeHash": 2433194327,
-    "modrinthHash": "c45c2f5945ea73465095ac1e1f6e387511c9a144"
+    "version": "2.8.2",
+    "curseForgeHash": 3624963879,
+    "modrinthHash": "a78eccdfde69daf808498b523396e0dda731016a"
   },
   "almostunified-neoforge-1.21.1-1.3.0.jar": {
     "jarName": "almostunified-neoforge-1.21.1-1.3.0.jar",
@@ -1556,12 +1556,12 @@
     "curseForgeHash": 2672915247,
     "modrinthHash": "6548ec47aa6b0498c3018cde40d9d0a203b67446"
   },
-  "L_Ender\u0027s Cataclysm 1.21.1-3.17.jar": {
-    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.17.jar",
+  "L_Ender\u0027s Cataclysm 1.21.1-3.19.jar": {
+    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.19.jar",
     "modId": "cataclysm",
-    "version": "3.17",
-    "curseForgeHash": 3114335209,
-    "modrinthHash": "2519f9fe2aac26139532e04870f5cf448258c9eb"
+    "version": "3.19",
+    "curseForgeHash": 530996735,
+    "modrinthHash": "6bdb4b51f240a99d06e6fb755a884dd51b405a0b"
   },
   "laserbridges-1.21.1-neoforge-5.3.jar": {
     "jarName": "laserbridges-1.21.1-neoforge-5.3.jar",
@@ -1626,12 +1626,12 @@
     "curseForgeHash": 2382558381,
     "modrinthHash": "4c415df21ffe02b6619c204b84d20dbe94b5f3b1"
   },
-  "mega_showdown-neoforge-1.6.3+1.7.2+1.21.1.jar": {
-    "jarName": "mega_showdown-neoforge-1.6.3+1.7.2+1.21.1.jar",
+  "mega_showdown-neoforge-1.6.4+1.7.2+1.21.1.jar": {
+    "jarName": "mega_showdown-neoforge-1.6.4+1.7.2+1.21.1.jar",
     "modId": "mega_showdown",
-    "version": "1.6.3+1.7.2+1.21.1",
-    "curseForgeHash": 1359049714,
-    "modrinthHash": "8fe2076b0273175d2673056e5a55cd0fad6178a7"
+    "version": "1.6.4+1.7.2+1.21.1",
+    "curseForgeHash": 2546026954,
+    "modrinthHash": "099d66c28017e99104549fbebf6f12f56f1e28d0"
   },
   "megacells-4.10.2.jar": {
     "jarName": "megacells-4.10.2.jar",
@@ -2471,12 +2471,12 @@
     "curseForgeHash": 3647687006,
     "modrinthHash": "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085"
   },
-  "tesseract-api-neoforge-1.11.5-1.21.1.jar": {
-    "jarName": "tesseract-api-neoforge-1.11.5-1.21.1.jar",
+  "tesseract-api-neoforge-1.11.6-1.21.1.jar": {
+    "jarName": "tesseract-api-neoforge-1.11.6-1.21.1.jar",
     "modId": "tesseract_api",
-    "version": "1.11.5-1.21.1",
-    "curseForgeHash": 795102600,
-    "modrinthHash": "be5658e24ae5db462128ba6a8b89861d4298337b"
+    "version": "1.11.6-1.21.1",
+    "curseForgeHash": 2420595402,
+    "modrinthHash": "f6bbc003df447c88ffdcf258c8238c1189bea64a"
   },
   "the_bumblezone-7.11.8+1.21.1-neoforge.jar": {
     "jarName": "the_bumblezone-7.11.8+1.21.1-neoforge.jar",
