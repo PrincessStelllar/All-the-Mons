@@ -132,9 +132,11 @@ ServerEvents.tags('entity_type', allthemods => {
         "forbidden_arcanus:corrupt_lost_soul",
         "forbidden_arcanus:lost_soul",
         "forbidden_arcanus:enchanted_lost_soul",
-        "@cobblemon"
+        "@cobblemon",
+        "the_bumblezone:bee_queen"
     ])
 
+    allthemods.add('ars_nouveau:jar_blacklist', ["the_bumblezone:bee_queen","@cobblemon"])
     allthemods.add('apothic_spawners:blacklisted_from_spawners', '#allthemods:jank_blacklist')
     allthemods.add('enderio:soul_vial_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('industrialforegoing:mob_duplicator_blacklist', '#allthemods:jank_blacklist')
@@ -146,6 +148,7 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add('enderio:spawner_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('ars_additions:source_spawner_denylist', '#allthemods:jank_blacklist')
     allthemods.add('oritech:spawner_blacklist', '#allthemods:jank_blacklist')
+    allthemods.add('ars_elemental:charm_blacklist', '#allthemods:jank_blacklist')
     
 	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])
 });
