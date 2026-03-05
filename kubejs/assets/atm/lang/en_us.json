@@ -18,6 +18,8 @@
 	"command.kubejs.wits.error": "No structures found.",
 	"announcements.atm.dismiss_up_to_version": "[Dismiss announcements up to version %s]",
 	"announcements.atm.dismissed_up_to_version": "Dismissed announcements up to version %s!",
+	"advancements.rctmod.defeat_contentcreators_bucketst.description": "Defeat BucketSt",
+	"advancements.rctmod.defeat_contentcreators_bucketst.title": "Defeat BucketSt",
 	"advancements.rctmod.defeat_contentcreators_chosenarchitect.description": "Defeat ChosenArchitect",
 	"advancements.rctmod.defeat_contentcreators_chosenarchitect.title": "Defeat ChosenArchitect",
 	"advancements.rctmod.defeat_contentcreators_danrique.description": "Defeat Danrique",
