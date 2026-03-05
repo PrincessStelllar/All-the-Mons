@@ -29,8 +29,8 @@
         "range_type": "heightmap_relative",
         "heightmap": "MOTION_BLOCKING_NO_LEAVES",
         "permitted_range": [
-          -10,
-          10
+          -20,
+          20
         ]
       }
     },

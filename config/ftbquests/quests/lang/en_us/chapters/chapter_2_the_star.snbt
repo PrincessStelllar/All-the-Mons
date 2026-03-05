@@ -34,8 +34,6 @@
 	quest.17542D7633FBF098.quest_desc: [""]
 	quest.17542D7633FBF098.quest_subtitle: "&oToo bad SpongeBob isn't a Star."
 	quest.17542D7633FBF098.title: "&d&lPatrick &aStar&r"
-	quest.17BDF307F3DC0E12.quest_desc: ["We're still working on the recipe. \\n\\nWe have the Chapter up just so you know it is still planned to be put into AllTheMons. "]
-	quest.17BDF307F3DC0E12.title: "Not finished yet!"
 	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&oThe unknown but yet it is everything we do know."
 	quest.1CE7B24E7E62C25B.title: "&d&lPulsating &8Black Hole"
@@ -59,7 +57,7 @@
 	quest.21AB14A8553896E9.title: "&2&lProductive Trees"
 	quest.23254CE8487D2E68.quest_desc: ["The &8Wither Builder&r is one of the greatest Machines you can get from &lIndustrial Foregoing&r, and because of that it's expensive. \\n\\nFirst you will need the parts that make a &8Wither&r and a drop from the &8Wither&r. \\n\\nThen, you'll need a &6Supreme Machine Frame&r which you need &bEther Gas&r to make. Guess what you need for &bEther Gas&r? That's right! A &8Wither&r! You'll need a Laser Drill working on a &8Wither&r to get it. \\n\\n&8Withers&r like to leave and kill things so a Stasis Chamber would make milking them easier! "]
 	quest.23254CE8487D2E68.title: "&8Wither Builder"
-	quest.23AE395433AED3C0.quest_desc: ["The &6&lATM Star&r needs a few Blocks to hold together the different Items, and make its star shape! \\n\\nThe first Blocks are &5Unobtainium&r - &6Allthemodium&r &5Alloy&r &6Blocks&r. You need to use an Enchanting Apparatus from &d&lArs Nouveau&r to make them! To make 28 to be exact. \\n\\nFor 17 X3 Netherstar Blocks you'll need 111,537 Netherstars. (Please I am begging you use &l&bHNN&r just don't spawn and kill 111,537, please!)"]
+	quest.23AE395433AED3C0.quest_desc: ["The &6&lATM Star&r needs a few Blocks to hold together the different Items, and make its star shape! \\n\\nThe first Blocks are &5Unobtainium&r - &6Allthemodium&r &5Alloy&r &6Blocks&r. You need to use an Enchanting Apparatus from &d&lArs Nouveau&r to make them!"]
 	quest.23AE395433AED3C0.title: "&6&lThe Star's&r Casing"
 	quest.263C9A0FC04472AB.quest_desc: ["This one can either eat &cLava&r like no other, or be used for the &6&lStar&r. \\n\\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
 	quest.263C9A0FC04472AB.title: "&464x Magmatic Generator"
@@ -131,7 +129,8 @@
 	quest.4E82E843737045D9.quest_subtitle: "&oEssence of the most powerful beings."
 	quest.4E82E843737045D9.title: "&d&lDragon Soul"
 	quest.4E8C32CD6057A1AB.quest_desc: ["To make the &c&lPhilospher's Fuel&r we get a choice of whether we want to use &cBlaze Burners&r or &aUranium Quad Fuel Rods&r. \\n\\nWhichever you find easier to Craft! \\n\\n(AKA the &cBlaze Burner&r!)"]
-	quest.4E8C32CD6057A1AB.title: "&cBlaze Burner&f or &aUranium Quad Fuel Rods"
+	quest.4E8C32CD6057A1AB.quest_subtitle: ""
+	quest.4E8C32CD6057A1AB.title: "&cBlaze Burner&f"
 	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r is a Boss added by &6&lAllthemodium&r which lives in the Ancient Pyramid in &l&bThe Other&r. \\n\\nOn death he'll drop 1 of his Hearts! You'll need 9 of them dead to make a Block of it... \\n\\nThankfully there are ways to farm them!"]
 	quest.501A0AEEC73C0790.title: "&6Piglich Heart Block"
 	quest.535525EA4DF4AB59.quest_desc: ["The &cPlayer Transmitter&r will supply energy to anyone with the Binded Card. That includes energy to all armor, tools, and items in their inventory. \\n\\nThe &cNitro Tier&r is needed for the &6&lStar&r, which is of course the last and hardest one to get."]
@@ -163,8 +162,6 @@
 	quest.616F9B78B16B42A5.quest_desc: ["The recipe for the &6Tesla Coil&r might seem complicated, especially in a recipe tree, but we can break it down to be simpler!\\n\\nThe &7Aluminum Plates&r are very simple, just needing to use a Hammer on Ingots or the Metal Press Multiblock.\\n\\nThe &8Iron Mechanical Component&r is simple as well, just a few Iron Plates and a &6Copper Ingot&r.\\n\\n&eElectrum Coil Block&r will need a bunch of &eElectrum Ingots&r cut up into Wires. &eElectrum&r is an alloy of &eGold&r and Silver.\\n\\nThe &6Advanced Electronic Component&r is a whole array of using the Engineers Workbench and &9Blueprints&r. It's Duroplast Sheet requires a lot of refining and fermenting with Multiblock Machines!\\n\\nThe last item, the &cHV Accumulator&r needs some simple Items like &8Steel&r, &7Aluminum Plate&r, &cRedstone Acid&r, and &4Treated Wood&r. It also needs a more complicated Item called &8HOP Graphite Ingot&r."]
 	quest.616F9B78B16B42A5.title: "&6Tesla Coil"
 	quest.62B5A84753ADFC35.quest_subtitle: "8 Dry Dark Pink Blocks"
-	quest.62DDE5B1287BEB36.quest_desc: ["Another part of the &6&lATM Star's&r juicy insides is the &6Awakened &5Unobtainium&f-&3Vibranium&r Alloy Block, which I am going to just called &6Awakened Alloy&r block. \\nTo get this you'll need a &6&lStar Altar&r multiblock, (check out Crafting the Star Quest for more info!) \\n\\nThere you'll need to input the &5Unobtainium&f-&3Vibranium&r Block, 4 Unbreaking I Books, 4 &6Awakened Supremium Gemstones&r, and 4 &6Awakened Supremium Essence&r. \\n\\nYou'll then need to give it 85 Million FE... After that, your Alloy should now be Awakened!"]
-	quest.62DDE5B1287BEB36.title: "&6Awakened &5Unobtainium&f-&3Vibranium&r Alloy Block"
 	quest.67C76EDD4BCCFF3F.quest_desc: ["Through &bStrigeor's Higher Binding&r we can make an &bEmpty Soul Gem&r. \\n\\nThese can be used to transport Mobs safely, or make the &d&lDragon Soul&r. \\n\\nPersonally I think we should do both!"]
 	quest.67C76EDD4BCCFF3F.title: "&bEmpty Soul Gem"
 	quest.6877F33323910716.quest_desc: ["Tier 4 Pocket Storage has 64 Slots for Items and each hold 1,048,575 Items. That's 67,108,800 Items total. Move over Backpacks you've been replaced! \\n\\nIt only costs a few Nether Stars which in Modded honestly isn't expensive for what you get!"]
@@ -212,6 +209,10 @@
 	quest.7D972A3C4211EB26.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
 	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah&r is about power! Generating Power like FE to use Machines from other Mods like &5&lMekanism&r or &lIndustrial Foregoing&r! \\n\\nThere's different Tiers you'll have to craft up to and of course we'll need the last one for the &6&lStar&r!"]
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
+	task.0DAD392A4942D6A5.title: ""
+	task.1C6FD3400BF1D256.title: ""
+	task.32477B38D883D94A.title: ""
 	task.644EBD9EBC93EB3C.title: "AllRightsReserved"
 	task.662F6B4EF078E3A2.title: "AllRightsReserved"
+	task.7098EE34DE595CD4.title: ""
 }

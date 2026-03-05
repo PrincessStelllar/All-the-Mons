@@ -9,7 +9,7 @@
     "start_jigsaw_name": "allthemons:bee_gym/start",
     "project_start_to_heightmap": "WORLD_SURFACE_WG",
     "start_height": {
-      "absolute": -3
+      "absolute": -2
     },
     "size": 7,
     "spawn_overrides": {
