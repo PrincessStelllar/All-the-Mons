@@ -37,7 +37,7 @@ ServerEvents.recipes((allthemods) => {
           item: "allthetweaks:patrick_star",
         },
         J: {
-          item: "allthecompressed:nether_star_block_3x",
+          item: "allthecompressed:nether_star_block_2x",
         },
         K: {
           item: "allthetweaks:philosophers_fuel",
@@ -48,17 +48,20 @@ ServerEvents.recipes((allthemods) => {
         M: {
           item: "cobblemon:master_ball",
         },
+        U: {
+          item: "sgearmetalworks:uru_metal_block",
+        },
       },
       pattern: [
         "    A    ",
         "   AJA   ",
-        "AAAJFJAAA",
+        "AAUJFJUAA",
         "AJJCDEJJA",
-        " AMBIHMA ",
-        "  AKGLA  ",
-        " AJJAJJA ",
-        "AJJA AJJA",
-        "AAA   AAA",
+        " UMBIHMU ",
+        "  UKGLU  ",
+        " UJJUJJU ",
+        "AJJU UJJA",
+        "AAU   UAA",
       ],
       result: {
         count: 1,
@@ -121,6 +124,36 @@ ServerEvents.recipes((allthemods) => {
       show_notification: false,
     })
     .id("allthetweaks:allthetweaks/patrick_star");
+
+  //Patric Star - Create
+  allthemods
+      .custom({
+        type: "create:mechanical_crafting",
+        accept_mirrored: false,
+        category: "misc",
+        key: {
+          S: {
+            item: "allthetweaks:atm_star_shard",
+          }
+        },
+        pattern: [
+          "    S    ",
+          "   SSS   ",
+          "SSSSSSSSS",
+          "SSSSSSSSS",
+          " SSSSSSS ",
+          "  SSSSS  ",
+          " SSSSSSS ",
+          "SSSS SSSS",
+          "SSS   SSS",
+        ],
+        result: {
+          count: 1,
+          id: "allthetweaks:atm_star",
+        },
+        show_notification: false,
+      })
+      .id("allthetweaks:allthetweaks/atm_star_from_shard");
 });
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
