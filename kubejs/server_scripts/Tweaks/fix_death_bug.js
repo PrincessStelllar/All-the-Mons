@@ -25,7 +25,7 @@ function syncBattleTowerShop(/** @type {$SimplePlayerKubeEvent} */  event) {
         if (itemId != null) {
           /** @type {$CompoundTag} */
           let currentItem = NBT.compoundTag()
-          currentItem.putString("item",itemId)
+          currentItem.putString("item", itemId.getAsString())
           currentItem.putInt("count", itemObj.get("quantity").getAsInt())
           currentItem.putInt("cost", itemObj.get("bp_cost").getAsInt())
           shopItems.addLast(currentItem)
@@ -39,7 +39,7 @@ function syncBattleTowerShop(/** @type {$SimplePlayerKubeEvent} */  event) {
       let itemId = itemObj.get("item_id")
       if (itemId != null) {
           let currentItem = NBT.compoundTag()
-          currentItem.putString("item",itemId)
+          currentItem.putString("item", itemId.getAsString())
           currentItem.putInt("count", itemObj.get("quantity").getAsInt())
           currentItem.putInt("cost", itemObj.get("bp_cost").getAsInt())
           shopItems.addLast(currentItem)

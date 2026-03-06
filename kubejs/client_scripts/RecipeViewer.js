@@ -64,9 +64,14 @@ NetworkEvents.dataReceived("battle_tower_shop_items", event => {
       for (let item of event.data.get("shop_items")) {
         let cost = item.get("cost").getAsInt()
         let count = item.get("count").getAsInt()
-        let stack = Item.of(item.get("item").getAsString())
-        let recipe = $IngredientInfoRecipe.create(jeiRuntime.getIngredientManager(), [stack], $VanillaTypes.ITEM_STACK, [Text.of(`This item is for sale at Holo Battle Tower. Each ${count} for ${cost} Battle Points.`)])
-        recipes.push(recipe)
+        let itemId = item.get("item").getAsString()
+        if (Item.exists(itemId)) {
+          let stack = Item.of(itemId)
+          let recipe = $IngredientInfoRecipe.create(jeiRuntime.getIngredientManager(), [stack], $VanillaTypes.ITEM_STACK, [Text.of(`This item is for sale at Holo Battle Tower. Each ${count} for ${cost} Battle Points.`)])
+          recipes.push(recipe)			
+        } else {
+          console.log("[Battle Tower Shop] Item for id " + itemId + " does not exist!")
+        }
       }
       recipeManager.addRecipes($RecipeTypes.INFORMATION, recipes)
     }
