@@ -14,6 +14,13 @@ ServerEvents.recipes(allthemods => {
 	allthemods.remove({ id: 'cobblemon_utility:def_silver_cap' })
 	allthemods.remove({ id: 'cobblemon_utility:hp_silver_cap' })
 	allthemods.remove({ id: 'cobblemon_utility:poke_treat' })
+
+	allthemods.remove({ id: 'cobblemon_utility:shining_atk_cap' })
+	allthemods.remove({ id: 'cobblemon_utility:shining_spatk_cap' })
+	allthemods.remove({ id: 'cobblemon_utility:shining_spdef_cap' })
+	allthemods.remove({ id: 'cobblemon_utility:shining_speed_cap' })
+	allthemods.remove({ id: 'cobblemon_utility:shining_def_cap' })
+	allthemods.remove({ id: 'cobblemon_utility:shining_hp_cap' })
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

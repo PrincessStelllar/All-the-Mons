@@ -52,9 +52,9 @@
         "terablast"
       ],
       "ivs": {
-        "hp": 252,
+        "hp": 25,
         "atk": 25,
-        "def": 252,
+        "def": 25,
         "spa": 25,
         "spd": 25,
         "spe": 25
