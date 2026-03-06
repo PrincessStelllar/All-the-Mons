@@ -88,6 +88,10 @@
         {
             "id": "eternal_starlight:moonring_bow",
             "count": 1
+        },
+        {
+            "id": "eternal_starlight:tenacious_vine",
+            "count": 16
         }
     ],
     "data_per_kill": {
