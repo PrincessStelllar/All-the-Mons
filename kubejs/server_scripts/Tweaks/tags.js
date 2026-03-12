@@ -104,8 +104,9 @@ ServerEvents.tags('item', allthemods => {
     // FTBChunks
     allthemods.add("ftbchunks:right_click_whitelist",["#cobblemon:poke_balls"])
 
-
     allthemods.add('c:gems/rose_quartz', 'create:rose_quartz')
+
+    allthemods.add("apothic_enchanting:cannot_be_converted_to_xp", ["trophymanager:trophy"])
 })
 
 ServerEvents.tags('entity_type', allthemods => {
