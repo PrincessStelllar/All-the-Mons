@@ -6,8 +6,6 @@
 	quest.041ED280691BB05D.quest_subtitle: "18"
 	quest.041ED280691BB05D.title: "&9Froststeel Armor"
 	quest.04B31A600004F7CB.quest_desc: ["Цей квест був створений &6командою AllTheMods&r або &2учасником спільноти&r для використання у збірках AllTheMods.\\n\\nОскільки всі збірки &6AllTheMods&r ліцензовані як &eВсі права захищено&r, цей квест не дозволяється використовувати у жодних публічних збірках, які не випущені командою &6AllTheMods Team&r без явного дозволу.\\n\\nЦей квест навмисно прихований, якщо ви його бачите — ви перебуваєте в режимі редагування."]
-	quest.055CCAE237DF3EEF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ironwood.png width:100 height:150 align:center}"]
-	quest.055CCAE237DF3EEF.title: "&8Ironwood"
 	quest.05B5E640F1B68A28.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_golem.png width:100 height:150 align:center}"]
 	quest.05B5E640F1B68A28.title: "&3Golem Steel&r"
 	quest.074EC1E636CD6605.quest_desc: ["&cNetherite Armor&r is the best &l&2Vanilla&r can get. It has same Armor Points as &bDiamond&r but more Armor Toughness. \\n\\nProbably because you need &bDiamond&r to make it!"]
@@ -34,11 +32,6 @@
 	quest.1366B946928C873B.quest_desc: ["Checkout the &6&lBumblezone&r Quest Page to learn more!"]
 	quest.1366B946928C873B.quest_subtitle: "10"
 	quest.1366B946928C873B.title: "Bee Armor 1"
-	quest.140DF670162C68DA.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_steeleaf.png width:100 height:150 align:center}"]
-	quest.140DF670162C68DA.title: "&aSteeleaf"
-	quest.1452D9CF827782B5.quest_desc: ["Arctic Gear is made with Arctic Fur. Arctic Fur is dropped from Winter Wolves and Yetis! \\n\\nNo, you can't shear either of them. \\n\\nThe Gear can be dyed like &7Leather Armor&r!"]
-	quest.1452D9CF827782B5.quest_subtitle: "16"
-	quest.1452D9CF827782B5.title: "&fArctic Gear"
 	quest.15978093237448FE.quest_desc: ["Why upgrade &cNetherite&r to &6Allthemodium&r or even anything else when we can upgrade it to &3Warden Armor&r! \\n\\nYou'll need a few Warden Drops in order to make it though!"]
 	quest.15978093237448FE.quest_subtitle: "24"
 	quest.15978093237448FE.title: "&3Warden Armor"
@@ -59,8 +52,6 @@
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
 	quest.1CC627D3FB348C89.quest_subtitle: "Trail Ruins"
 	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
-	quest.1D23F53C585185B7.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_naga.png width:100 height:150 align:center}"]
-	quest.1D23F53C585185B7.title: "&2Naga Scales"
 	quest.1D27EE427ECFD6CE.quest_desc: ["Upgraded version of &cTertium&r."]
 	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
 	quest.1D27EE427ECFD6CE.title: "&9Imperium Armor"
@@ -107,15 +98,6 @@
 	quest.2FA0F5B348322095.quest_desc: ["&7Cloggrum&r is the Iron Ore of &2&lUndergarden&r. It spawns everywhere."]
 	quest.2FA0F5B348322095.quest_subtitle: "14"
 	quest.2FA0F5B348322095.title: "&7Cloggrum Armor"
-	quest.3061B67330367CE2.quest_desc: ["If you've somehow slain the Hydra or Ur-Ghast, then you'll have access to &4Fiery Tears/Blood&r, either work! \\n\\nNow you can make &4Fiery Armor&r, by upgrading your Iron Armor with either of the &4Fiery Vials&r. \\n\\nNow your Armor is stronger than &cNetherite&r and anyone unfortunate to hit you will be set ablaze!"]
-	quest.3061B67330367CE2.quest_subtitle: "24"
-	quest.3061B67330367CE2.title: "&4Fiery Armor"
-	quest.30A61E1A1EFA81E6.quest_desc: ["&2Steeleaf&r is, technically an Ingot, found within Chests in &9&lThe Twilight Forest&r. \\nEach part of the Armor gives a different Enchantment!"]
-	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
-	quest.30A61E1A1EFA81E6.title: "&2Steeleaf Armor"
-	quest.3215A3D706CECCEF.quest_desc: ["By combining some Liveroot, an Iron Ingot, and a &eGold Nugget&r you can craft &7Ironwood&r! \\n\\nSounds like you'll need an Axe and a Pickaxe to get some. \\n\\nAll of the &7Ironwood Armor&r come with a level of Protection for free!"]
-	quest.3215A3D706CECCEF.quest_subtitle: "16"
-	quest.3215A3D706CECCEF.title: "&7Ironwood Armor"
 	quest.3260EDAD3A619479.quest_desc: ["&5Aethersent Ore&r is found during Meteorite Showers in &5&lEternal Starlight&r. Small ones break on impact, you'll need to wait for big Meteors! \\n\\nOr is it Meteorites? What's the difference?"]
 	quest.3260EDAD3A619479.quest_subtitle: "14"
 	quest.3260EDAD3A619479.title: "&5Aethersent Armor"
@@ -195,9 +177,6 @@
 	quest.50B127137AA9E660.quest_desc: ["Finally &6Copper&r has a real use!"]
 	quest.50B127137AA9E660.quest_subtitle: "13"
 	quest.50B127137AA9E660.title: "&6Copper Armor"
-	quest.52A29269A23F85B3.quest_desc: ["The &9Yeti Outfit&r needs Alpha Yeti Fur, which you guessed it! Only drops from Alpha Yetis. \\n\\nAtleast the Outfit will slow down your Enemies by chilling them!"]
-	quest.52A29269A23F85B3.quest_subtitle: "20"
-	quest.52A29269A23F85B3.title: "&9Yeti Outfit"
 	quest.52AFABA08674B6A8.quest_desc: ["&3Vibranium Armor&r but with buffs to &d&lArs Nouveau&r Spells!"]
 	quest.52AFABA08674B6A8.quest_subtitle: "32"
 	quest.52AFABA08674B6A8.title: "&3Vibranium Arcanist Gear"
@@ -219,8 +198,6 @@
 	quest.5E6D7C1D7957DD4D.title: "&aForgotten&r"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6Allthemodium&r"
-	quest.606775701551F3EE.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_carminite.png width:100 height:150 align:center}"]
-	quest.606775701551F3EE.title: "&4Carminite"
 	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
 	quest.62161BDE9AAAA4BF.quest_subtitle: "Trail Ruins"
 	quest.62161BDE9AAAA4BF.title: "Wayfinder Armor Trim"
@@ -250,9 +227,6 @@
 	quest.6ED2CDD01659FD10.quest_desc: ["This armor set has same Armor Points as Iron but is better in both Toughness and Knockback Resistance."]
 	quest.6ED2CDD01659FD10.quest_subtitle: "15"
 	quest.6ED2CDD01659FD10.title: "&7Compressed Iron Armor"
-	quest.6F335B4F3FD660E7.quest_desc: ["These are not a fun one to get. \\n\\nYou'll need &aKnightmetal Ingots&r which are obtained from Smelting &aArmor Shard Clusters&r. \\n\\nYou get &aArmor Shard Clusters&r from combining 9 &aArmor Shards&r. \\n\\n&aArmor Shards&r are dropped from the &l&9Twilight Forest&r Goblins and rarely from Helmet Crabs."]
-	quest.6F335B4F3FD660E7.quest_subtitle: "20"
-	quest.6F335B4F3FD660E7.title: "&aKnightmetal Armor"
 	quest.6F76DA3BBAE8337B.quest_desc: ["The greatest Armor we can get from &6&lAllthemodium&r, &5Unobtainium&r! \\n\\nNow with 100% Knockback Resistance and higher stats everywhere! \\n\\nAlso needs &3Vibranium Armor&r to make it."]
 	quest.6F76DA3BBAE8337B.quest_subtitle: "40"
 	quest.6F76DA3BBAE8337B.title: "&5Unobtainium Armor"
@@ -292,13 +266,9 @@
 	quest.7C1D407CF67786F6.title: "&fAethermancer Outfit"
 	quest.7F11ABFB2E21B7E4.quest_desc: ["Armor is a very important part of &l&2Minecraft&r, it is what protects you from harm. \\n\\nDifferent pieces of Armor give different Armor Points. These are what determine the effectiveness for your Armor, the more the merrier!\\n\\nMost armor can be changed for more decoration with Armor Trims, use a piece of Armor with an Armor Trim, and an Item for coloring to change the look!"]
 	quest.7F11ABFB2E21B7E4.title: "&l&bBasic Armor&r"
-	quest.7F8B6D5F360D985A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_fiery.png width:100 height:150 align:center}"]
-	quest.7F8B6D5F360D985A.title: "&eFiery"
 	quest.7FABB77A60E7962C.quest_desc: ["By infusing Obsidian with &bDiamonds&r we can get Refined Obsidian Dust! \\n\\nThen, we can compress &7Osmium&r into it to get it in Ingot form. \\n\\nAfter that, we can turn those Ingots into Armor with better stats than even &6Усемодієві обладунки&r!"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
 	quest.7FABB77A60E7962C.title: "&5Refined Obsidian Armor"
-	quest.7FBC64E6408D8D7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_knightmetal.png width:100 height:150 align:center}"]
-	quest.7FBC64E6408D8D7F.title: "&7Knightmetal"
 	task.4BDF268861CA744F.title: "AllRightsReserved"
 	task.57895147416291FE.title: "AllRightsReserved"
 }

@@ -81,7 +81,7 @@ allthemods.shaped('allthetweaks:oblivion_shard', [' AB', 'DCF', 'BE '], {
   B: 'forbidden_arcanus:eternal_stella',
   C: 'cataclysm:gauntlet_of_maelstrom',
   D: 'cataclysm:meat_shredder',
-  E: 'twilightforest:snow_queen_trophy',
+  E: 'mega_showdown:zygarde_cube',
   F: 'cataclysm:void_forge'
 }).id('allthemods:allthetweaks/oblivion_shard')
 

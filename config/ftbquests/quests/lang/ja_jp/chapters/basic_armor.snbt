@@ -6,8 +6,6 @@
 	quest.041ED280691BB05D.quest_subtitle: "18"
 	quest.041ED280691BB05D.title: "&9Froststeel 防具"
 	quest.04B31A600004F7CB.quest_desc: ["これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\n\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\n\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"]
-	quest.055CCAE237DF3EEF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ironwood.png width:100 height:150 align:center}"]
-	quest.055CCAE237DF3EEF.title: "&8Ironwood"
 	quest.05B5E640F1B68A28.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_golem.png width:100 height:150 align:center}"]
 	quest.05B5E640F1B68A28.title: "&3Golem Steel&r"
 	quest.074EC1E636CD6605.quest_desc: ["&cネザライト防具&r は &l&2バニラ&r で最高の防具です。&bダイアモンド&r と同じ防具ポイントですが、防具の強度が高くなっています。\n\n&bダイアモンド&r が必要なのはそのためでしょう！"]
@@ -34,11 +32,6 @@
 	quest.1366B946928C873B.quest_desc: ["詳しくは&6&lBumblezone&rクエストページをチェックしてください！"]
 	quest.1366B946928C873B.quest_subtitle: "10"
 	quest.1366B946928C873B.title: "ミツバチ防具 1"
-	quest.140DF670162C68DA.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_steeleaf.png width:100 height:150 align:center}"]
-	quest.140DF670162C68DA.title: "&a葉鋼"
-	quest.1452D9CF827782B5.quest_desc: ["Arctic Gear は Arctic Fur で作られます。Arctic Fur は Winter Wolves と Yetis からドロップします！\n\nいいえ、どちらも毛刈りはできません。\n\nこの防具は&7革の防具&rのように染色できます！"]
-	quest.1452D9CF827782B5.quest_subtitle: "16"
-	quest.1452D9CF827782B5.title: "&fArctic Gear"
 	quest.15978093237448FE.quest_desc: ["&cネザライト&rを&6オールザモディウム&rやその他にアップグレードする必要はありません。&3ウォーデンアーマー&rにアップグレードしましょう！\\n\\nただし、作るにはいくつかのウォーデンドロップが必要です！"]
 	quest.15978093237448FE.quest_subtitle: "24"
 	quest.15978093237448FE.title: "&3ウォーデン アーマー"
@@ -59,8 +52,6 @@
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
 	quest.1CC627D3FB348C89.quest_subtitle: "Trail Ruins"
 	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
-	quest.1D23F53C585185B7.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_naga.png width:100 height:150 align:center}"]
-	quest.1D23F53C585185B7.title: "&2Naga Scales"
 	quest.1D27EE427ECFD6CE.quest_desc: ["&cTertium&r のアップグレードバージョンです"]
 	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
 	quest.1D27EE427ECFD6CE.title: "&9Imperium Armor"
@@ -107,15 +98,6 @@
 	quest.2FA0F5B348322095.quest_desc: ["&7Cloggrum&r は &2&lUndergarden&r の鉄鉱石です。どこでも生成されます"]
 	quest.2FA0F5B348322095.quest_subtitle: "14"
 	quest.2FA0F5B348322095.title: "&7Cloggrum 防具"
-	quest.3061B67330367CE2.quest_desc: ["もしあなたが Hydra や Ur-Ghast を倒したのなら、&4Fiery Tears/Blood&r のどちらかを手に入れることができます！\n\nこれで &4Fiery Armor&r を作ることができます。鉄の防具を &4Fiery Vials&r のどちらかでアップグレードすることで作れます。\n\nこの防具は &cネザライト&r よりも強力で、あなたを攻撃した不運な相手は炎上してしまいます！"]
-	quest.3061B67330367CE2.quest_subtitle: "24"
-	quest.3061B67330367CE2.title: "&4Fiery Armor"
-	quest.30A61E1A1EFA81E6.quest_desc: ["&2葉鋼&r は技術的にはインゴットで、&9&lトワイライトフォレスト&r のチェストの中で見つかります。\n防具の各部位には異なるエンチャントが付与されています！"]
-	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
-	quest.30A61E1A1EFA81E6.title: "&2葉鋼 防具"
-	quest.3215A3D706CECCEF.quest_desc: ["Liveroot、鉄インゴット、&e金の欠片&rを組み合わせることで&7Ironwood&rを作ることができます！\n\nいくつか入手するには斧とツルハシが必要になりそうです。\n\nすべての&7Ironwood 防具&rには無料で Protection エンチャントが付いています！"]
-	quest.3215A3D706CECCEF.quest_subtitle: "16"
-	quest.3215A3D706CECCEF.title: "&7Ironwood 防具"
 	quest.3260EDAD3A619479.quest_desc: ["&5Aethersent Ore&r は &5&lEternal Starlight&r での流星群で見つかります。小さなものは衝突時に壊れてしまうので、大きな流星を待つ必要があります！\n\nそれとも隕石？違いは何でしょう？"]
 	quest.3260EDAD3A619479.quest_subtitle: "14"
 	quest.3260EDAD3A619479.title: "&5Aethersent アーマー"
@@ -195,9 +177,6 @@
 	quest.50B127137AA9E660.quest_desc: ["ついに &6銅&r に本当の用途ができました！"]
 	quest.50B127137AA9E660.quest_subtitle: "13"
 	quest.50B127137AA9E660.title: "&6銅の防具"
-	quest.52A29269A23F85B3.quest_desc: ["&9イエティの装備&rにはアルファイエティの毛皮が必要です。予想通り、アルファイエティからのみドロップします！\n\nこの装備は敵を冷やして動きを遅くすることができます！"]
-	quest.52A29269A23F85B3.quest_subtitle: "20"
-	quest.52A29269A23F85B3.title: "&9イエティの装備"
 	quest.52AFABA08674B6A8.quest_desc: ["&3ヴィブラニウムアーマー&rに&d&lアルス・ヌーヴォー&rの呪文強化が付いたもの！"]
 	quest.52AFABA08674B6A8.quest_subtitle: "32"
 	quest.52AFABA08674B6A8.title: "&3ヴィブラニウム アルカニストギア"
@@ -219,8 +198,6 @@
 	quest.5E6D7C1D7957DD4D.title: "&a忘れられし者&r"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6オールザモディウム&r"
-	quest.606775701551F3EE.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_carminite.png width:100 height:150 align:center}"]
-	quest.606775701551F3EE.title: "&4カーマイナイト"
 	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
 	quest.62161BDE9AAAA4BF.quest_subtitle: "Trail Ruins"
 	quest.62161BDE9AAAA4BF.title: "Wayfinder アーマートリム"
@@ -250,9 +227,6 @@
 	quest.6ED2CDD01659FD10.quest_desc: ["この防具セットは鉄と同じ防具ポイントを持ちますが、防具強度とノックバック耐性が優れています"]
 	quest.6ED2CDD01659FD10.quest_subtitle: "15"
 	quest.6ED2CDD01659FD10.title: "圧縮鉄の防具"
-	quest.6F335B4F3FD660E7.quest_desc: ["これらを入手するのは楽しくありません。\n\n&aKnightmetal Ingot&r が必要で、これは &aArmor Shard Cluster&r を製錬して入手できます。\n\n&aArmor Shard Cluster&r は9つの &aArmor Shard&r を組み合わせて作ります。\n\n&aArmor Shard&r は &l&9Twilight Forest&r のゴブリンやまれにヘルメットクラブからドロップします"]
-	quest.6F335B4F3FD660E7.quest_subtitle: "20"
-	quest.6F335B4F3FD660E7.title: "&aKnightmetal 防具"
 	quest.6F76DA3BBAE8337B.quest_desc: ["&6&lオールザモディウム&rから得られる最高の防具、&5アンオブタニウム&r！\\n\\n100%のノックバック耐性と全体的に高いステータスを持っています！\\n\\n作成には&3ヴィブラニウム防具&rが必要です。"]
 	quest.6F76DA3BBAE8337B.quest_subtitle: "40"
 	quest.6F76DA3BBAE8337B.title: "&5アンオブタニウム防具"
@@ -292,13 +266,9 @@
 	quest.7C1D407CF67786F6.title: "&fAethermancer 装備"
 	quest.7F11ABFB2E21B7E4.quest_desc: ["防具は&l&2Minecraft&rの非常に重要な部分で、ダメージから身を守るものです。\n\n異なる防具は異なる防具ポイントを与えます。これらは防具の効果を決定するもので、多ければ多いほど良いです！\n\n防具トリムを使用して装飾を変更できます。防具と防具トリム、そして色付けのためのアイテムを使用して見た目を変更しましょう！"]
 	quest.7F11ABFB2E21B7E4.title: "&l&b基本的な防具&r"
-	quest.7F8B6D5F360D985A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_fiery.png width:100 height:150 align:center}"]
-	quest.7F8B6D5F360D985A.title: "&e炎の"
 	quest.7FABB77A60E7962C.quest_desc: ["黒曜石に&bダイアモンド&rを注入することで、精製黒曜石の粉を得ることができます！\\n\\nそして、&7オスミウム&rをそれに圧縮してインゴット形式にすることができます。\\n\\nその後、これらのインゴットを&6オールザモディウム防具&rよりも優れたステータスを持つ防具に変えることができます！"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
 	quest.7FABB77A60E7962C.title: "&5精製黒曜石の防具"
-	quest.7FBC64E6408D8D7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_knightmetal.png width:100 height:150 align:center}"]
-	quest.7FBC64E6408D8D7F.title: "&7Knightmetal"
 	task.4BDF268861CA744F.title: "AllRightsReserved"
 	task.57895147416291FE.title: "AllRightsReserved"
 }

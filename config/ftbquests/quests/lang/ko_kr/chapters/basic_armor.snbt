@@ -6,8 +6,6 @@
 	quest.041ED280691BB05D.quest_subtitle: "18"
 	quest.041ED280691BB05D.title: "&9서리철 갑옷"
 	quest.04B31A600004F7CB.quest_desc: ["이 퀘스트는 &6AllTheMods Staff&r 또는 AllTheMods 모드팩에서 사용하기 위해 &2커뮤니티 기여자&r가 작성했습니다. \\n\\n모든 &6AllTheMods&r 팩은 &eAll Rights Reserved&r에 따라 라이선스가 부여되므로, 이 퀘스트는 &6AllTheMods Team&r에서 명시적인 허가 없이 출시되지 않은 공개 팩에서 사용할 수 없습니다.\\n\\n이 퀘스트는 의도적으로 숨겨져 있습니다. 이 퀘스트가 보인다면 편집 모드에 있는 것입니다."]
-	quest.055CCAE237DF3EEF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ironwood.png width:100 height:150 align:center}"]
-	quest.055CCAE237DF3EEF.title: "&8아이언우드"
 	quest.05B5E640F1B68A28.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_golem.png width:100 height:150 align:center}"]
 	quest.05B5E640F1B68A28.title: "&3골렘 강철&r"
 	quest.074EC1E636CD6605.quest_desc: ["&c네더라이트 갑옷&r은 &l&2바닐라&r에서 얻을 수 있는 최고의 갑옷입니다. &b다이아몬드&r와 동일한 방어력을 가지지만, 갑옷 강도는 더 높습니다.\\n\\n아마도 &b다이아몬드&r가 있어야 만들 수 있기 때문일 겁니다!"]
@@ -34,11 +32,6 @@
 	quest.1366B946928C873B.quest_desc: ["&6&l범블존&r 퀘스트 페이지를 확인하여 자세한 내용을 알아보세요!"]
 	quest.1366B946928C873B.quest_subtitle: "10"
 	quest.1366B946928C873B.title: "벌 갑옷 1"
-	quest.140DF670162C68DA.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_steeleaf.png width:100 height:150 align:center}"]
-	quest.140DF670162C68DA.title: "&a강철잎"
-	quest.1452D9CF827782B5.quest_desc: ["극지 장비는 극지동물의 털로 만들어집니다. 극지동물의 털은 겨울 늑대와 예티가 떨어뜨립니다! \\n\\n아니요, 둘 다 털을 깎을 수는 없습니다.\\n\\n이 장비는 &7가죽 갑옷&r처럼 염색할 수 있습니다!"]
-	quest.1452D9CF827782B5.quest_subtitle: "16"
-	quest.1452D9CF827782B5.title: "&f극지 장비"
 	quest.15978093237448FE.quest_desc: ["왜 &c네더라이트&r를 &6올더모듐&r으로, 아니면 다른 것으로 업그레이드하겠어요? &3워든 갑옷&r으로 업그레이드할 수 있는데! \\n\\n만들려면 워든 떨굼 설정 몇 개가 필요할 거예요!"]
 	quest.15978093237448FE.quest_subtitle: "24"
 	quest.15978093237448FE.title: "&3워든 갑옷"
@@ -59,8 +52,6 @@
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
 	quest.1CC627D3FB348C89.quest_subtitle: "자국 유적"
 	quest.1CC627D3FB348C89.title: "조형가 갑옷 장식"
-	quest.1D23F53C585185B7.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_naga.png width:100 height:150 align:center}"]
-	quest.1D23F53C585185B7.title: "&2나가 비늘"
 	quest.1D27EE427ECFD6CE.quest_desc: ["&cTertium&r의 상위 버전."]
 	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
 	quest.1D27EE427ECFD6CE.title: "&9임퍼륨 갑옷"
@@ -107,15 +98,6 @@
 	quest.2FA0F5B348322095.quest_desc: ["&7클로그럼&r은 &2&l언더가든&r의 철 광석입니다. 모든 곳에 스폰됩니다."]
 	quest.2FA0F5B348322095.quest_subtitle: "14"
 	quest.2FA0F5B348322095.title: "&7클로그룸 갑옷"
-	quest.3061B67330367CE2.quest_desc: ["어떻게든 히드라 또는 우르-가스트를 처치했다면 &4파이어리 눈물/피&r를 얻을 수 있습니다. 둘 다 괜찮습니다! \\n\\n이제 &4파이어리 갑옷&r을 만들 수 있습니다. &4파이어리 바이알&r 중 하나로 철 갑옷을 업그레이드하세요.\\n\\n이제 갑옷은 &c네더라이트&r보다 강해졌고, 불행히도 당신을 때리는 사람은 누구든 불이 붙을 것입니다!"]
-	quest.3061B67330367CE2.quest_subtitle: "24"
-	quest.3061B67330367CE2.title: "&4파이어리 갑옷"
-	quest.30A61E1A1EFA81E6.quest_desc: ["&2강철잎&r은 엄밀히 말하면 &9&l황혼의 숲&r의 상자 안에서 발견되는 주괴입니다. 갑옷의 각 부분은 서로 다른 마법 부여를 제공합니다!"]
-	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
-	quest.30A61E1A1EFA81E6.title: "&2강철잎 갑옷"
-	quest.3215A3D706CECCEF.quest_desc: ["리버뿌리, 철 주괴, 그리고 &e금 조각&r을 조합하여 &7아이언우드&r를 제작할 수 있습니다! \\n\\n얻으려면 도끼와 곡괭이가 필요할 것 같습니다.\\n\\n모든 &7아이언우드 갑옷&r에는 보호 레벨이 기본으로 제공됩니다!"]
-	quest.3215A3D706CECCEF.quest_subtitle: "16"
-	quest.3215A3D706CECCEF.title: "&7아이언우드 갑옷"
 	quest.3260EDAD3A619479.quest_desc: ["&5에테르센트 광석&r은 &5&l영원한 별빛&r 속 유성우 동안 발견됩니다. 작은 것은 충돌 시 파괴되므로 큰 유성을 기다려야 합니다! \\n\\n아니면 운석일까요? 차이점이 뭘까요?"]
 	quest.3260EDAD3A619479.quest_subtitle: "14"
 	quest.3260EDAD3A619479.title: "&5에테르센트 갑옷"
@@ -195,9 +177,6 @@
 	quest.50B127137AA9E660.quest_desc: ["드디어 &6구리&r가 제대로 쓰이게 되었어요!"]
 	quest.50B127137AA9E660.quest_subtitle: "13"
 	quest.50B127137AA9E660.title: "&6구리 갑옷"
-	quest.52A29269A23F85B3.quest_desc: ["&9예티 의상&r에는 우두머리 예티 모피가 필요합니다. 짐작하셨겠지만! 우두머리 예티에게서만 얻을 수 있습니다.\\n\\n적어도 이 의상은 적들을 냉정하게 만들어 &9느리게&r 만들 것입니다!"]
-	quest.52A29269A23F85B3.quest_subtitle: "20"
-	quest.52A29269A23F85B3.title: "&9예티 의상"
 	quest.52AFABA08674B6A8.quest_desc: ["&3바이브라늄 갑옷&r이지만 &d&lArs Nouveau&r 마법에 버프가 있습니다!"]
 	quest.52AFABA08674B6A8.quest_subtitle: "32"
 	quest.52AFABA08674B6A8.title: "&3바이브라늄 비전술사 장비"
@@ -219,8 +198,6 @@
 	quest.5E6D7C1D7957DD4D.title: "&a잊혀진&r"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6올더모듐&r"
-	quest.606775701551F3EE.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_carminite.png width:100 height:150 align:center}"]
-	quest.606775701551F3EE.title: "&4카미나이트"
 	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
 	quest.62161BDE9AAAA4BF.quest_subtitle: "자국 유적"
 	quest.62161BDE9AAAA4BF.title: "길잡이 갑옷 장식"
@@ -250,9 +227,6 @@
 	quest.6ED2CDD01659FD10.quest_desc: ["이 갑옷 세트는 철과 동일한 방어 포인트를 가지지만, 강도와 밀치기 저항 모두에서 더 좋습니다."]
 	quest.6ED2CDD01659FD10.quest_subtitle: "15"
 	quest.6ED2CDD01659FD10.title: "&7압축된 철 갑옷"
-	quest.6F335B4F3FD660E7.quest_desc: ["이것들은 얻기가 쉽지 않습니다.\\n\\n&a갑옷 조각 더미&r를 제련하여 얻을 수 있는 &a기사금속 주괴&r가 필요합니다.\\n\\n&a갑옷 조각&r 9개를 합쳐서 &a갑옷 조각 더미&r를 얻을 수 있습니다.\\n\\n&a갑옷 조각&r은 &l&9황혼의 숲&r 고블린에게서 떨어지며, 드물게 투구 게에게서도 떨어집니다."]
-	quest.6F335B4F3FD660E7.quest_subtitle: "20"
-	quest.6F335B4F3FD660E7.title: "&a기사금속 갑옷"
 	quest.6F76DA3BBAE8337B.quest_desc: ["저희가 &6&l올더모듐&r, &5언옵테이니움&r에서 얻을 수 있는 최고의 갑옷입니다! \\n\\n이제 100% 밀치기 저항과 더 높은 스탯을 모두 갖추었습니다!\\n\\n또한 제작하려면 &3바이브라늄 갑옷&r이 필요합니다."]
 	quest.6F76DA3BBAE8337B.quest_subtitle: "40"
 	quest.6F76DA3BBAE8337B.title: "&5언옵테이니움 갑옷"
@@ -292,13 +266,9 @@
 	quest.7C1D407CF67786F6.title: "&f에테르맨서 의상"
 	quest.7F11ABFB2E21B7E4.quest_desc: ["갑옷은 &l&2Minecraft&r에서 매우 중요한 부분이며, 당신을 피해로부터 보호해 줍니다. \\n\\n서로 다른 갑옷 조각들은 서로 다른 방어 포인트를 제공합니다. 이것들은 당신의 갑옷의 효과를 결정하는 것으로, 많을수록 좋습니다!\\n\\n대부분의 갑옷은 갑옷 장식으로 더 많은 장식을 위해 변경할 수 있습니다. 갑옷 장식과 함께 갑옷 조각을 사용하고, 색상을 입힐 아이템을 사용하여 외형을 변경하세요!"]
 	quest.7F11ABFB2E21B7E4.title: "&l&b기본 방어구&r"
-	quest.7F8B6D5F360D985A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_fiery.png width:100 height:150 align:center}"]
-	quest.7F8B6D5F360D985A.title: "&e파이어리"
 	quest.7FABB77A60E7962C.quest_desc: ["&b다이아몬드&r를 흑요석에 주입하여 정제된 흑요석 가루를 얻을 수 있습니다! \\n\\n그런 다음 &7오스뮴&r을 압축하여 주괴 형태로 만들 수 있습니다. \\n\\그 후, 그 주괴들을 &6올더모듐 갑옷&r보다 더 나은 스탯을 가진 갑옷으로 만들 수 있습니다!"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
 	quest.7FABB77A60E7962C.title: "&5정제된 흑요석 갑옷"
-	quest.7FBC64E6408D8D7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_knightmetal.png width:100 height:150 align:center}"]
-	quest.7FBC64E6408D8D7F.title: "&7기사금속"
 	task.4BDF268861CA744F.title: "AllRightsReserved"
 	task.57895147416291FE.title: "AllRightsReserved"
 }

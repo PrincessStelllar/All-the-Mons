@@ -6,8 +6,6 @@
 	quest.041ED280691BB05D.quest_subtitle: "18"
 	quest.041ED280691BB05D.title: "&9Armadura de Froststeel"
 	quest.04B31A600004F7CB.quest_desc: ["Esta Misión ha sido creada por el &6Personal de AllTheMods&r, o un &2contribuidor de la Comunidad&r para su uso en los Modpacks de AllTheMods. \\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Misión no puede ser utilizada en ningún pack público no lanzado por el &6Equipo de AllTheMods&r sin permiso explícito. \\n\\nEsta misión está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
-	quest.055CCAE237DF3EEF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ironwood.png width:100 height:150 align:center}"]
-	quest.055CCAE237DF3EEF.title: "&8Ironwood"
 	quest.05B5E640F1B68A28.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_golem.png width:100 height:150 align:center}"]
 	quest.05B5E640F1B68A28.title: "&3Acero de Golem&r"
 	quest.074EC1E636CD6605.quest_desc: ["La &cArmadura de Netherita&r es lo mejor que &l&2Vainilla&r puede ofrecer. Tiene los mismos Puntos de Armadura que la de &bDiamante&r pero más Resistencia de Armadura. \\n\\n¡Probablemente porque necesitas &bDiamante&r para hacerla!"]
@@ -34,11 +32,6 @@
 	quest.1366B946928C873B.quest_desc: ["¡Revisa la Página de Misiones de &6&lBumblezone&r para aprender más!"]
 	quest.1366B946928C873B.quest_subtitle: "10"
 	quest.1366B946928C873B.title: "Armadura de Abeja 1"
-	quest.140DF670162C68DA.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_steeleaf.png width:100 height:150 align:center}"]
-	quest.140DF670162C68DA.title: "&aSteeleaf"
-	quest.1452D9CF827782B5.quest_desc: ["El Equipo Ártico está hecho con Piel Ártica. ¡La Piel Ártica es soltada por Lobos de Invierno y Yetis! \\n\\nNo, no puedes esquilar a ninguno de ellos. \\n\\n¡El Equipo puede teñirse como la &7Armadura de Cuero&r!"]
-	quest.1452D9CF827782B5.quest_subtitle: "16"
-	quest.1452D9CF827782B5.title: "&fEquipo Ártico"
 	quest.15978093237448FE.quest_desc: ["¡Por qué mejorar la &cNetherita&r a &6Allthemodium&r o incluso cualquier otra cosa cuando podemos mejorarla a &3Armadura de Warden&r! \\n\\n¡Necesitarás algunos Drops de Warden para hacerla!"]
 	quest.15978093237448FE.quest_subtitle: "24"
 	quest.15978093237448FE.title: "&3Armadura de Warden"
@@ -59,8 +52,6 @@
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
 	quest.1CC627D3FB348C89.quest_subtitle: "Ruinas del Sendero"
 	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
-	quest.1D23F53C585185B7.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_naga.png width:100 height:150 align:center}"]
-	quest.1D23F53C585185B7.title: "&2Escamas de Naga"
 	quest.1D27EE427ECFD6CE.quest_desc: ["Versión mejorada de &cTertium&r."]
 	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
 	quest.1D27EE427ECFD6CE.title: "&9Armadura de Imperium"
@@ -107,15 +98,6 @@
 	quest.2FA0F5B348322095.quest_desc: ["El &7Cloggrum&r es el Mineral de Hierro del &2&lUndergarden&r. Aparece en todas partes."]
 	quest.2FA0F5B348322095.quest_subtitle: "14"
 	quest.2FA0F5B348322095.title: "&7Armadura de Cloggrum"
-	quest.3061B67330367CE2.quest_desc: ["Si de alguna manera has matado a la Hidra o al Ur-Ghast, entonces tendrás acceso a &4Sangre/Lágrimas Ígneas&r, ¡cualquiera funciona! \\n\\nAhora puedes hacer &4Armadura Ígnea&r, mejorando tu Armadura de Hierro con cualquiera de los &4Viales Ígneos&r. \\n\\n¡Ahora tu Armadura es más fuerte que la de &cNetherita&r y cualquiera lo suficientemente desafortunado como para golpearte será prendido en llamas!"]
-	quest.3061B67330367CE2.quest_subtitle: "24"
-	quest.3061B67330367CE2.title: "&4Armadura Ígnea"
-	quest.30A61E1A1EFA81E6.quest_desc: ["El &2Steeleaf&r es, técnicamente un Lingote, encontrado dentro de Cofres en el &9&lBosque Crepuscular&r. \\n¡Cada parte de la Armadura da un Encantamiento diferente!"]
-	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
-	quest.30A61E1A1EFA81E6.title: "&2Armadura de Steeleaf"
-	quest.3215A3D706CECCEF.quest_desc: ["Combinando algo de Raízviva, un Lingote de Hierro y una &ePepita de Oro&r ¡puedes fabricar &7Ironwood&r! \\n\\nSuena como si necesitaras un Hacha y un Pico para conseguir algo. \\n\\n¡Toda la &7Armadura de Ironwood&r viene con un nivel de Protección gratis!"]
-	quest.3215A3D706CECCEF.quest_subtitle: "16"
-	quest.3215A3D706CECCEF.title: "&7Armadura de Ironwood"
 	quest.3260EDAD3A619479.quest_desc: ["El Mineral de Aethersent se encuentra durante las Lluvias de Meteoritos en el &5&lEternal Starlight&r. ¡Los pequeños se rompen al impactar, necesitarás esperar a Meteoros grandes! \\n\\n¿O son Meteoritos? ¿Cuál es la diferencia?"]
 	quest.3260EDAD3A619479.quest_subtitle: "14"
 	quest.3260EDAD3A619479.title: "&5Armadura de Aethersent"
@@ -195,9 +177,6 @@
 	quest.50B127137AA9E660.quest_desc: ["¡Finalmente el &6Cobre&r tiene un uso real!"]
 	quest.50B127137AA9E660.quest_subtitle: "13"
 	quest.50B127137AA9E660.title: "&6Armadura de Cobre"
-	quest.52A29269A23F85B3.quest_desc: ["¡El &9Atuendo de Yeti&r necesita Pelaje de Yeti Alfa, que lo adivinaste! Solo lo sueltan los Yetis Alfa.\n\\n¡Al menos el Atuendo ralentizará a tus Enemigos enfriándolos!"]
-	quest.52A29269A23F85B3.quest_subtitle: "20"
-	quest.52A29269A23F85B3.title: "&9Atuendo de Yeti"
 	quest.52AFABA08674B6A8.quest_desc: ["¡&3Armadura de Vibranium&r pero con mejoras para los Hechizos de &d&lArs Nouveau&r!"]
 	quest.52AFABA08674B6A8.quest_subtitle: "32"
 	quest.52AFABA08674B6A8.title: "&3Equipo Arcanista de Vibranium"
@@ -219,8 +198,6 @@
 	quest.5E6D7C1D7957DD4D.title: "&aOlvidado&r"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6Allthemodium&r"
-	quest.606775701551F3EE.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_carminite.png width:100 height:150 align:center}"]
-	quest.606775701551F3EE.title: "&4Carminita"
 	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
 	quest.62161BDE9AAAA4BF.quest_subtitle: "Ruinas del Sendero"
 	quest.62161BDE9AAAA4BF.title: "Diseño de Armadura Buscadora de Caminos"
@@ -250,9 +227,6 @@
 	quest.6ED2CDD01659FD10.quest_desc: ["Este conjunto de armadura tiene los mismos Puntos de Armadura que el Hierro pero es mejor tanto en Dureza como en Resistencia al Retroceso."]
 	quest.6ED2CDD01659FD10.quest_subtitle: "15"
 	quest.6ED2CDD01659FD10.title: "&7Armadura de Hierro Comprimido"
-	quest.6F335B4F3FD660E7.quest_desc: ["Estos no son divertidos de conseguir. \\n\\nNecesitarás &aLingotes de Metal de Caballero&r que se obtienen Fundiendo &aCúmulos de Esquirlas de Armadura&r. \\n\\nObtienes &aCúmulos de Esquirlas de Armadura&r combinando 9 &aEsquirlas de Armadura&r. \\n\\nLas &aEsquirlas de Armadura&r las sueltan los Goblins del &l&9Bosque Crepuscular&r y raramente los Cangrejos Ermitaños."]
-	quest.6F335B4F3FD660E7.quest_subtitle: "20"
-	quest.6F335B4F3FD660E7.title: "&aArmadura de Metal de Caballero"
 	quest.6F76DA3BBAE8337B.quest_desc: ["¡La mejor Armadura que podemos obtener de &6&lAllthemodium&r, &5Unobtainium&r! \\n\\n¡Ahora con 100% de Resistencia al Retroceso y estadísticas más altas en todas partes! \\n\\nTambién necesita &3Armadura de Vibranium&r para hacerla."]
 	quest.6F76DA3BBAE8337B.quest_subtitle: "40"
 	quest.6F76DA3BBAE8337B.title: "&5Armadura de Unobtainium"
@@ -292,13 +266,9 @@
 	quest.7C1D407CF67786F6.title: "&fAtuendo de Aeromante"
 	quest.7F11ABFB2E21B7E4.quest_desc: ["La Armadura es una parte muy importante de &l&2Minecraft&r, es lo que te protege del daño. \\n\\nDiferentes piezas de Armadura dan diferentes Puntos de Armadura. Estos son los que determinan la efectividad de tu Armadura, ¡cuantos más, mejor!\\n\\n¡La mayoría de las armaduras pueden modificarse para mayor decoración con Diseños de Armadura, usa una pieza de Armadura con un Diseño de Armadura y un Objeto para colorear para cambiar el aspecto!"]
 	quest.7F11ABFB2E21B7E4.title: "&l&bArmadura Básica&r"
-	quest.7F8B6D5F360D985A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_fiery.png width:100 height:150 align:center}"]
-	quest.7F8B6D5F360D985A.title: "&eArdiente"
 	quest.7FABB77A60E7962C.quest_desc: ["¡Infundiendo Obsidiana con &bDiamantes&r podemos obtener Polvo de Obsidiana Refinada! \\n\\nLuego, podemos comprimir &7Osmio&r en él para obtenerlo en forma de Lingote. \\n\\n¡Después de eso, podemos convertir esos Lingotes en Armadura con mejores estadísticas que incluso la &6Armadura de Allthemodium&r!"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
 	quest.7FABB77A60E7962C.title: "&5Armadura de Obsidiana Refinada"
-	quest.7FBC64E6408D8D7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_knightmetal.png width:100 height:150 align:center}"]
-	quest.7FBC64E6408D8D7F.title: "&7Metal de Caballero"
 	task.4BDF268861CA744F.title: "TodosLosDerechosReservados"
 	task.57895147416291FE.title: "TodosLosDerechosReservados"
 }

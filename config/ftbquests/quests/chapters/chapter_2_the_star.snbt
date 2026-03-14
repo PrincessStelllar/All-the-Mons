@@ -3316,15 +3316,15 @@
 			y: 12.0d
 		}
 		{
-			dependencies: ["1682CED78D9D4BA7"]
 			hide_dependent_lines: true
 			id: "7D1A27CBF1508712"
 			rewards: [
 				{
+					count: 5
 					id: "4F2605F8EB52886D"
 					item: {
 						count: 1
-						id: "twilightforest:triple_bow"
+						id: "mega_showdown:zygarde_cell"
 					}
 					type: "item"
 				}
@@ -3337,7 +3337,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "482F3627D0B36B10"
-				item: { count: 1, id: "twilightforest:snow_queen_trophy" }
+				item: { count: 1, id: "mega_showdown:zygarde_cube" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -3372,37 +3372,6 @@
 			}]
 			x: -2.0d
 			y: -12.0d
-		}
-		{
-			icon: {
-				id: "twilightforest:time_sapling"
-			}
-			id: "1682CED78D9D4BA7"
-			rewards: [
-				{
-					count: 3
-					id: "4EF4E3620A7DE746"
-					item: {
-						count: 1
-						id: "twilightforest:cooked_venison"
-					}
-					type: "item"
-				}
-				{
-					id: "5E13A5A23EC1E79F"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "17E6AEEE9C081DB1"
-				item: { count: 1, id: "minecraft:diamond" }
-				type: "item"
-			}]
-			x: -2.5d
-			y: -16.0d
 		}
 		{
 			icon: {

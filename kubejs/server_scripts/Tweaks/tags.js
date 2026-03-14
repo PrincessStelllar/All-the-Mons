@@ -139,8 +139,6 @@ ServerEvents.tags('entity_type', allthemods => {
         'artifacts:mimic',
         'create:package',
         'mekanism:robit',
-        'twilightforest:hedge_spider',
-        'twilightforest:swarm_spider',
         '#c:bosses',
         '@occultism',
         '@productivebees',

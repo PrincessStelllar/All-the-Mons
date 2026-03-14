@@ -897,7 +897,7 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
+			x: 6.0d
 			y: -7.5d
 		}
 		{
@@ -930,7 +930,7 @@
 					type: "item"
 				}
 			]
-			x: 11.5d
+			x: 12.0d
 			y: -4.5d
 		}
 		{
@@ -1293,7 +1293,7 @@
 					type: "item"
 				}
 			]
-			x: 6.5d
+			x: 6.0d
 			y: -4.5d
 		}
 		{
@@ -2814,204 +2814,6 @@
 			y: 6.0d
 		}
 		{
-			id: "3215A3D706CECCEF"
-			optional: true
-			rewards: [{
-				id: "2655900FB6DB26FA"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "431707BC9C3528DD"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:aqua_affinity": 1 } } }, count: 1, id: "twilightforest:ironwood_helmet" }
-					type: "item"
-				}
-				{
-					id: "10BC689D545D1870"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 1 } } }, count: 1, id: "twilightforest:ironwood_chestplate" }
-					type: "item"
-				}
-				{
-					id: "4B7B84ACD17773A8"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 1 } } }, count: 1, id: "twilightforest:ironwood_leggings" }
-					type: "item"
-				}
-				{
-					id: "64C439E8FC1D3708"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:feather_falling": 1 } } }, count: 1, id: "twilightforest:ironwood_boots" }
-					type: "item"
-				}
-			]
-			x: 2.0d
-			y: -7.0d
-		}
-		{
-			id: "30A61E1A1EFA81E6"
-			optional: true
-			rewards: [{
-				id: "4F9F8371C9D24218"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "46EFEFF32FE4D730"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:projectile_protection": 2 } } }, count: 1, id: "twilightforest:steeleaf_helmet" }
-					type: "item"
-				}
-				{
-					id: "581DC07847EC3A7C"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:blast_protection": 2 } } }, count: 1, id: "twilightforest:steeleaf_chestplate" }
-					type: "item"
-				}
-				{
-					id: "4D93B214C0C68B93"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:fire_protection": 2 } } }, count: 1, id: "twilightforest:steeleaf_leggings" }
-					type: "item"
-				}
-				{
-					id: "7FADF4F1520D26CC"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:feather_falling": 2 } } }, count: 1, id: "twilightforest:steeleaf_boots" }
-					type: "item"
-				}
-			]
-			x: 6.5d
-			y: -7.5d
-		}
-		{
-			id: "6F335B4F3FD660E7"
-			optional: true
-			rewards: [{
-				id: "6AE9D2B7704F7336"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "6E0AC216105E53DA"
-					item: { count: 1, id: "twilightforest:knightmetal_helmet" }
-					type: "item"
-				}
-				{
-					id: "61AB232FA7BBD09F"
-					item: { count: 1, id: "twilightforest:knightmetal_chestplate" }
-					type: "item"
-				}
-				{
-					id: "33AC6DA0DD5FC353"
-					item: { count: 1, id: "twilightforest:knightmetal_leggings" }
-					type: "item"
-				}
-				{
-					id: "2E3A4DCAECC2A880"
-					item: { count: 1, id: "twilightforest:knightmetal_boots" }
-					type: "item"
-				}
-			]
-			x: 5.5d
-			y: -4.5d
-		}
-		{
-			id: "3061B67330367CE2"
-			optional: true
-			rewards: [{
-				id: "55931ECD588C9370"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [
-				{
-					id: "6F9146859A9AFF8C"
-					item: { count: 1, id: "twilightforest:fiery_helmet" }
-					type: "item"
-				}
-				{
-					id: "684F701B235D4A13"
-					item: { count: 1, id: "twilightforest:fiery_chestplate" }
-					type: "item"
-				}
-				{
-					id: "38E7F992C422761A"
-					item: { count: 1, id: "twilightforest:fiery_leggings" }
-					type: "item"
-				}
-				{
-					id: "6A4D7A78B26A0089"
-					item: { count: 1, id: "twilightforest:fiery_boots" }
-					type: "item"
-				}
-			]
-			x: 12.5d
-			y: -4.5d
-		}
-		{
-			id: "1452D9CF827782B5"
-			optional: true
-			rewards: [{
-				id: "47565BBADF21BA9B"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [
-				{
-					id: "3BB5D2F9EA4E7874"
-					item: { count: 1, id: "twilightforest:arctic_helmet" }
-					type: "item"
-				}
-				{
-					id: "1F5A503E6527E499"
-					item: { count: 1, id: "twilightforest:arctic_chestplate" }
-					type: "item"
-				}
-				{
-					id: "20263C2E79446597"
-					item: { count: 1, id: "twilightforest:arctic_leggings" }
-					type: "item"
-				}
-				{
-					id: "4CD08502735C9562"
-					item: { count: 1, id: "twilightforest:arctic_boots" }
-					type: "item"
-				}
-			]
-			x: 2.0d
-			y: -5.0d
-		}
-		{
-			id: "52A29269A23F85B3"
-			optional: true
-			rewards: [{
-				id: "2C50351F5E0BF263"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [
-				{
-					id: "47B5191FB3FE8DCD"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 2 } } }, count: 1, id: "twilightforest:yeti_helmet" }
-					type: "item"
-				}
-				{
-					id: "1D124E1EF54CC9B4"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 2 } } }, count: 1, id: "twilightforest:yeti_chestplate" }
-					type: "item"
-				}
-				{
-					id: "1BA0C9EE6D4F05A1"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 2 } } }, count: 1, id: "twilightforest:yeti_leggings" }
-					type: "item"
-				}
-				{
-					id: "26C64FF965BB659E"
-					item: { components: { "minecraft:enchantments": { levels: { "minecraft:feather_falling": 4, "minecraft:protection": 2 } } }, count: 1, id: "twilightforest:yeti_boots" }
-					type: "item"
-				}
-			]
-			x: 8.0d
-			y: -4.5d
-		}
-		{
 			id: "34D14B807A2DAC0F"
 			optional: true
 			rewards: [{
@@ -3044,108 +2846,6 @@
 			]
 			x: 22.0d
 			y: -5.25d
-		}
-		{
-			id: "055CCAE237DF3EEF"
-			optional: true
-			rewards: [{
-				id: "064E42C1B9071700"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "6133812BF2F62EF3"
-				item: { count: 1, id: "twilightforest:ironwood_ingot" }
-				type: "item"
-			}]
-			x: 15.5d
-			y: 4.75d
-		}
-		{
-			id: "140DF670162C68DA"
-			optional: true
-			rewards: [{
-				id: "14C8352B1E7C3418"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "06302CB7FBC72D06"
-				item: { count: 1, id: "twilightforest:steeleaf_ingot" }
-				type: "item"
-			}]
-			x: 16.5d
-			y: 4.75d
-		}
-		{
-			id: "7FBC64E6408D8D7F"
-			optional: true
-			rewards: [{
-				id: "3E9583CD06EC948F"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "2B404A77CDDD71EE"
-				item: { count: 1, id: "twilightforest:knightmetal_ingot" }
-				type: "item"
-			}]
-			x: 17.5d
-			y: 4.75d
-		}
-		{
-			id: "1D23F53C585185B7"
-			optional: true
-			rewards: [{
-				id: "222725DE91F338D4"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "4794D3FEBA6435C5"
-				item: { count: 1, id: "twilightforest:naga_scale" }
-				type: "item"
-			}]
-			x: 18.5d
-			y: 4.75d
-		}
-		{
-			id: "606775701551F3EE"
-			optional: true
-			rewards: [{
-				id: "5B82F99AE345FD70"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "39B2A759F44C2BEB"
-				item: { count: 1, id: "twilightforest:carminite" }
-				type: "item"
-			}]
-			x: 19.5d
-			y: 4.75d
-		}
-		{
-			id: "7F8B6D5F360D985A"
-			optional: true
-			rewards: [{
-				id: "22A7F806F656779A"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "7E77D2F303071514"
-				item: { count: 1, id: "twilightforest:fiery_ingot" }
-				type: "item"
-			}]
-			x: 20.5d
-			y: 4.75d
 		}
 	]
 }
