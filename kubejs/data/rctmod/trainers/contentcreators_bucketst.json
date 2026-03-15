@@ -19,7 +19,7 @@
   "team": [
     {
       "species": "swampert",
-      "nature": "timid",
+      "nature": "adamant",
       "ability": "torrent",
       "moveset": [
         "stealthrock",
@@ -29,20 +29,20 @@
       ],
       "evs": {
         "hp": 0,
-        "spa": 252,
+        "spa": 0,
         "spe": 252,
         "spd": 4,
         "def": 0,
-        "atk": 0
+        "atk": 252
       },
       "heldItem": "mega_showdown:swampertite",
       "ivs": {
         "hp": 31,
         "atk": 31,
-        "def": 30,
-        "spa": 30,
+        "def": 31,
+        "spa": 31,
         "spd": 31,
-        "spe": 30
+        "spe": 31
       },
       "gender": "MALE",
       "level": 100
@@ -83,23 +83,23 @@
     },
     {
       "species": "whimsicott",
-      "nature": "jolly",
+      "nature": "timid",
       "ability": "infiltrator",
       "moveset": [
-        "dragondance",
-        "outrage",
-        "earthquake",
-        "roost"
+        "energyball",
+        "uturn",
+        "moonblast",
+        "psychic"
       ],
       "evs": {
         "hp": 0,
-        "spa": 0,
+        "spa": 252,
         "spe": 252,
         "spd": 4,
         "def": 0,
-        "atk": 252
+        "atk": 0
       },
-      "heldItem": "life_orb",
+      "heldItem": "mega_showdown:pixie_plate",
       "ivs": {
         "hp": 31,
         "atk": 31,
@@ -114,7 +114,7 @@
     {
       "species": "reshiram",
       "nickname": "Blue Eyes",
-      "nature": "jolly",
+      "nature": "modest",
       "ability": "turboblaze",
       "moveset": [
         "blueflare",
@@ -124,11 +124,11 @@
       ],
       "evs": {
         "hp": 0,
-        "spa": 0,
+        "spa": 252,
         "spe": 252,
         "spd": 0,
         "def": 0,
-        "atk": 252
+        "atk": 0
       },
       "heldItem": "life_orb",
       "ivs": {
@@ -186,11 +186,11 @@
       ],
       "evs": {
         "hp": 0,
-        "spa": 0,
+        "spa": 252,
         "spe": 252,
         "spd": 0,
         "def": 0,
-        "atk": 252
+        "atk": 0
       },
       "heldItem": "choice_specs",
       "ivs": {
