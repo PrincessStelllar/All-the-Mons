@@ -35,57 +35,57 @@
         allthemods.remove({id: 'oritech:refinery/oilbase'})
 
         allthemods.custom({
-  "type": "oritech:refinery",
-  "fluidInput": {
-    "amount": 1000,
-    "fluid": "#c:crude_oil"
-  },
-  "fluidOutputs": [
-    {
-      "amount": 500,
-      "fluid": "oritech:still_heavy_oil"
-    },
-    {
-      "amount": 250,
-      "fluid": "oritech:still_naphtha"
-    },
-    {
-      "amount": 250,
-      "fluid": "oritech:still_sulfuric_acid"
-    }
-  ],
-  "ingredients": [],
-  "results": [],
-  "time": 120
-})
-    allthemods.custom({
-  "type": "oritech:refinery",
-  "fluidInput": {
-    "amount": 1000,
-    "fluid": "#c:crude_oil"
-  },
-  "fluidOutputs": [
-    {
-      "amount": 500,
-      "fluid": "oritech:still_diesel"
-    },
-    {
-      "amount": 500,
-      "fluid": "oritech:still_naphtha"
-    },
-    {
-      "amount": 500,
-      "fluid": "oritech:still_sulfuric_acid"
-    }
-  ],
-  "ingredients": [
-    {
-      "item": "oritech:clay_catalyst_beads"
-    }
-  ],
-  "results": [],
-  "time": 120
-})
+          "type": "oritech:refinery",
+          "fluidInput": {
+            "amount": 1000,
+            "fluid": "#c:crude_oil"
+          },
+          "fluidOutputs": [
+            {
+              "amount": 500,
+              "fluid": "oritech:still_heavy_oil"
+            },
+            {
+              "amount": 250,
+              "fluid": "oritech:still_naphtha"
+            },
+            {
+              "amount": 250,
+              "fluid": "oritech:still_sulfuric_acid"
+            }
+          ],
+          "ingredients": [],
+          "results": [],
+          "time": 120
+        })
+        allthemods.custom({
+          "type": "oritech:refinery",
+          "fluidInput": {
+            "amount": 1000,
+            "fluid": "#c:crude_oil"
+          },
+          "fluidOutputs": [
+            {
+              "amount": 500,
+              "fluid": "oritech:still_diesel"
+            },
+            {
+              "amount": 500,
+              "fluid": "oritech:still_naphtha"
+            },
+            {
+              "amount": 500,
+              "fluid": "oritech:still_sulfuric_acid"
+            }
+          ],
+          "ingredients": [
+            {
+              "item": "oritech:clay_catalyst_beads"
+            }
+          ],
+          "results": [],
+          "time": 120
+        })
         // Remove enchanting stuff
         allthemods.remove({id: 'oritech:crafting/catalyst_alt'})
         allthemods.remove({id: 'oritech:crafting/catalyst'})
@@ -94,6 +94,36 @@
         // Cheaty alloys
         allthemods.remove({id: 'oritech:crafting/alloy/steel'})
         allthemods.remove({id: 'oritech:crafting/alloy/electrum'})
+
+        // Zygarde cube
+        allthemods.custom({
+            "type": "oritech:assembler",
+            "fluidInput": {
+                "amount": 0,
+                "fluid": "minecraft:empty"
+            },
+            "ingredients": [
+                {
+                    "item": "powah:crystal_spirited"
+                },
+                {
+                    "item": "justdirethings:time_crystal"
+                },
+                {
+                    "item": "justdirethings:time_crystal"
+                },
+                {
+                    "item": "powah:crystal_spirited"
+                }
+            ],
+            "results": [
+                {
+                    "count": 1,
+                    "id": "mega_showdown:zygarde_cube"
+                }
+            ],
+            "time": 120
+        }).id(`mega_showdown:zygarde_cube`)
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
