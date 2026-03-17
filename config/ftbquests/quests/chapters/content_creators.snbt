@@ -231,12 +231,19 @@
 			id: "261E8EE0C7E7E2F0"
 			shape: "none"
 			size: 2.0d
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_contentcreators_danrique"
-				criterion: ""
-				id: "3FA5123B68F4939D"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "rctmod:trainers/defeat_contentcreators_danrique"
+					criterion: ""
+					id: "3FA5123B68F4939D"
+					type: "advancement"
+				}
+				{
+					id: "03493876EF6CB850"
+					structure: "allthemons:futuristic_steelworks"
+					type: "structure"
+				}
+			]
 			x: -11.0d
 			y: 4.0d
 		}
@@ -310,12 +317,19 @@
 			id: "13EB9A996928ED60"
 			shape: "none"
 			size: 2.0d
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_contentcreators_nofaxu"
-				criterion: ""
-				id: "482E95ABD31A74E1"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "rctmod:trainers/defeat_contentcreators_nofaxu"
+					criterion: ""
+					id: "482E95ABD31A74E1"
+					type: "advancement"
+				}
+				{
+					id: "4FFF3A1A51D303FC"
+					structure: "allthemons:futuristic_steelworks"
+					type: "structure"
+				}
+			]
 			x: -2.0d
 			y: 4.0d
 		}
