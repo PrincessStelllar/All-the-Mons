@@ -118,7 +118,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["49F4016F012BFA95"]
+			dependencies: ["51C8B7AAA05EA266"]
 			icon: {
 				id: "cobblemon:hard_stone"
 			}
@@ -661,7 +661,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["0AE4F79296B6A4E4"]
+			dependencies: ["5D635B2021C98D41"]
 			icon: {
 				id: "cobblemon:cleanse_tag"
 			}
@@ -686,7 +686,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["0AE4F79296B6A4E4"]
+			dependencies: ["5D635B2021C98D41"]
 			icon: {
 				id: "cobblemon:focus_band"
 			}
@@ -711,7 +711,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["0AE4F79296B6A4E4"]
+			dependencies: ["5D635B2021C98D41"]
 			icon: {
 				id: "cobblemon:dragon_fang"
 			}
@@ -736,7 +736,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["0AE4F79296B6A4E4"]
+			dependencies: ["5D635B2021C98D41"]
 			icon: {
 				id: "cobblemon:never_melt_ice"
 			}
@@ -795,7 +795,7 @@
 				type: "advancement"
 			}]
 			x: 23.5d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["7C112EF6EA2BB232"]
@@ -843,6 +843,46 @@
 			}]
 			x: 29.0d
 			y: -2.0d
+		}
+		{
+			dependencies: ["0AE4F79296B6A4E4"]
+			id: "5D635B2021C98D41"
+			size: 1.25d
+			tasks: [{
+				icon: {
+					id: "explorerscompass:explorerscompass"
+				}
+				id: "6D98623D05A1125E"
+				structure: "rgs:kanto_league"
+				type: "structure"
+			}]
+			x: 23.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49F4016F012BFA95"]
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:villager"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "51C8B7AAA05EA266"
+			size: 1.25d
+			tasks: [
+				{
+					id: "40BA828B52E56FB9"
+					structure: "#minecraft:village"
+					type: "structure"
+				}
+				{
+					id: "54F546DE71C0F66D"
+					type: "checkmark"
+				}
+			]
+			x: 30.5d
+			y: -1.0d
 		}
 	]
 }
