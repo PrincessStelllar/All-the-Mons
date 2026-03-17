@@ -2,8 +2,9 @@
 	quest.06AC44758A00C280.quest_desc: [
 		"Aumento de nível para 21. "
 		""
-		"Item de Assinatura é &7Pedra Dura&r."
+		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
+	quest.06AC44758A00C280.quest_subtitle: ""
 	quest.06AC44758A00C280.title: "&aLíder Brock"
 	quest.0AE4F79296B6A4E4.quest_desc: [
 		"Aumento de nível para 85."
@@ -20,7 +21,7 @@
 	quest.0C92029DF6B9080A.quest_desc: [
 		"Aumento de nível para 79."
 		""
-		"Item de Assinatura é &0Graveto de Carvão Vegetal&r."
+		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
 	quest.0C92029DF6B9080A.title: "&aLíder Blaine"
 	quest.1665D7A3BDC93BEA.quest_desc: [
@@ -32,7 +33,7 @@
 	quest.17CADE883895E1C4.quest_desc: [
 		"Aumento de nível para 46."
 		""
-		"Item de Assinatura é &aSemente Milagrosa&r."
+		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
 	quest.17CADE883895E1C4.title: "&aLíder Erika"
 	quest.23A05E86B1DF7B1E.quest_desc: [
@@ -44,7 +45,7 @@
 	quest.245203DBA9D45934.quest_desc: [
 		"Aumento de nível para 44."
 		""
-		"Item de Assinatura é o &cÍmã&r do &l&cCobble&fmon&r."
+		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
 	quest.245203DBA9D45934.title: "&aLíder Lt. Surge"
 	quest.3150CD77C1E90229.quest_desc: [
@@ -56,13 +57,13 @@
 	quest.34B53B764112A1BF.quest_desc: [
 		"Aumento de nível para 63."
 		""
-		"Item de Assinatura é &7Colher Torta&r."
+		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
 	quest.34B53B764112A1BF.title: "&aLíder Sabrina"
 	quest.3D24607A51997B39.quest_desc: [
 		"Sem aumento de nível."
 		""
-		"Item de Assinatura é &7Etiqueta &cPurificadora&r."
+		"Encontrado no 3º andar da &cLiga Kanto&r."
 	]
 	quest.3D24607A51997B39.title: "&3Elite dos Quatro Agatha"
 	quest.49F4016F012BFA95.quest_desc: ["&4&oRadical Red&r é uma ROM Hack para Pokemon Red, segue a mesma história de Pokemon Red... apenas muito mais difícil. \\\\n\\\\nSim, isso não será fácil. \\\\n\\\\nVocê pode começar a &4&oSérie&r trocando com um &4Associado de Treinador&r para dar a ele seu &4Cartão de Trocas&r para que possa começar &4&oRadical Red&r."]
@@ -72,7 +73,7 @@
 	quest.514A8996A1C18BAF.quest_desc: [
 		"Aumento de nível para 29."
 		""
-		"Item de Assinatura é &bÁgua Mística&r."
+		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
 	quest.514A8996A1C18BAF.title: "&aLíder Misty"
 	quest.5184669F1F038E9A.quest_desc: [
@@ -81,6 +82,12 @@
 		"Item de Assinatura é &ePepita de Ouro&r."
 	]
 	quest.5184669F1F038E9A.title: "&6Rival Terry"
+	quest.51C8B7AAA05EA266.quest_desc: [
+		"Alguns líderes &lAPENAS&r geram nos &9Ginásios&r que geram em vilas, então anote quais &bLíderes de Ginásio&r você encontrou!"
+		"&6Você precisará deles mais tarde!!!&r"
+	]
+	quest.51C8B7AAA05EA266.quest_subtitle: "&e&lAVISO&r"
+	quest.51C8B7AAA05EA266.title: ""
 	quest.54B5E76DD69EA4CD.quest_desc: [
 		"Aumento de nível para 68."
 		""
@@ -90,13 +97,13 @@
 	quest.5C335DBA0A7C23B5.quest_desc: [
 		"Sem aumento de nível."
 		""
-		"Item de Assinatura é Presa de Dragão."
+		"Encontrado no 4º andar da &cLiga Kanto&r."
 	]
 	quest.5C335DBA0A7C23B5.title: "&3Elite dos Quatro Lance"
 	quest.60C7BBFC8CA911FF.quest_desc: [
 		"Sem aumento de nível."
 		""
-		"Item de Assinatura é &6Faixa Focalizadora&r."
+		"Encontrado no 2º andar da &cLiga Kanto&r."
 	]
 	quest.60C7BBFC8CA911FF.title: "&3Elite dos Quatro Bruno"
 	quest.61CC4CEE94D2B612.quest_desc: [
@@ -120,13 +127,13 @@
 	quest.67C1FC2100E5A73C.quest_desc: [
 		"Aumento de nível para 73."
 		""
-		"Item de Assinatura é &dFarpa Venenosa&r."
+		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
 	quest.67C1FC2100E5A73C.title: "&aLíder Koga"
 	quest.68618D5F4FC2F331.quest_desc: [
 		"Sem aumento de nível."
 		""
-		"Item de Assinatura é &bGelo Eterno&r."
+		"Encontrado no 1º andar da &cLiga Kanto&r."
 	]
 	quest.68618D5F4FC2F331.title: "&3Elite dos Quatro Lorelei"
 	quest.71525B9B007ECD34.quest_desc: [
@@ -150,15 +157,13 @@
 	quest.78843287D1EB98E2.quest_desc: [
 		"Aumento de nível para 81."
 		""
-		"Item de Assinatura é a &bEscama de Dragão&r do &l&cCobble&fmon&r. "
-		""
-		"Sim, eu sei que existem 3 diferentes. Use apenas o do &l&cCobble&fmon&r aqui!"
+		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
 	quest.78843287D1EB98E2.title: "&aLíder Clair"
 	quest.7C112EF6EA2BB232.quest_desc: [
 		"Ainda sem aumento de nível, mas ei, você derrotou o &5Campeão&r!"
 		""
-		"Item de Assinatura é &dOrbe da Vida&r."
+		"Encontrado no último andar da &cLiga Kanto&r."
 		""
 		"&5Campeão Terry&r é a última pessoa a derrotar na &4&oSérie&r, mas isso não é tudo para a Região de Kanto..."
 	]
@@ -169,4 +174,6 @@
 		"Item de Assinatura é &dDisco Duvidoso&r."
 	]
 	quest.7DF8583CAB36812E.title: "&7Chefe Giovanni"
+	task.40BA828B52E56FB9.title: ""
+	task.54F546DE71C0F66D.title: "!!!LEIA ISSO!!!"
 }
