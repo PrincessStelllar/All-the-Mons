@@ -90,7 +90,7 @@
 	quest.5AAF6CA41209B365.title: "&3Vibranium Tools"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Yes it can make pathways don't worry!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6Allthemodium &5Alloy &3Shovel"
-	quest.5BA986D7928BF09F.quest_desc: ["You might want to Catch them because that is the way to get &ePiglich Hearts&r in &l&cAll&7The&fMons&r! \\n\\nSimply let your &ePiglichu&r wander around freely with a Pasture and they'll start Dropping &ePiglich Hearts&r. \\n\\nThey just randomly Drop them on the ground so you might want to use an Ender Hopper to collect them."]
+	quest.5BA986D7928BF09F.quest_desc: ["You might want to Catch them because that is the way to get &ePiglich Hearts&r in &l&cAll&7The&fMons&r! \\n\\nSimply let your &ePiglichu&r wander around freely with a Pasture and they'll start Dropping &ePiglich Hearts&r. \\n\\nThey just randomly Drop them on the ground unless you have a Chest nearby then they'll put the &eHearts&r there."]
 	quest.5BA986D7928BF09F.title: "Piglichu Hearts?"
 	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r combined with &6Allthemodium&r!"]
 	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Alloy Ingot"
