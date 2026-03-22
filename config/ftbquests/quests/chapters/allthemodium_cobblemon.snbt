@@ -57,42 +57,11 @@
 			y: 6.5d
 		}
 	]
-	order_index: 2
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["5EEEB61899F66962"]
-			id: "6294AFDD1123C127"
-			rewards: [
-				{
-					count: 3
-					id: "740F998DFC9143F5"
-					item: {
-						count: 1
-						id: "cobblemon:red_apricorn"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "151723310D25FB87"
-					item: {
-						count: 1
-						id: "cobblemon:white_apricorn"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "05319B1FFE57656F"
-				item: { count: 1, id: "create:mechanical_saw" }
-				type: "item"
-			}]
-			x: -8.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["6294AFDD1123C127"]
+			dependencies: ["44F63C35341C3198"]
 			id: "37F71E88EDF6BA2D"
 			rewards: [{
 				count: 4
@@ -583,8 +552,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "6E5C41919D0C25E8"
-				item: { count: 1, id: "create:deployer" }
+				id: "3DB2FA49FDFC7C5C"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:deployer)item(pneumaticcraft:pressure_chamber_interface)item(pneumaticcraft:assembly_controller))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -859,8 +828,8 @@
 				}
 			]
 			tasks: [{
-				id: "499F9A666AC910A6"
-				item: { count: 1, id: "create:mechanical_press" }
+				id: "77F0DB74FE6EAF02"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:mechanical_press)item(oritech:atomic_forge_block)item(pneumaticcraft:assembly_controller))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -6.5d
@@ -966,8 +935,8 @@
 				}
 			]
 			tasks: [{
-				id: "48A59CED61131EE2"
-				item: { count: 1, id: "create:mechanical_saw" }
+				id: "6806B1C9835081DC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:mechanical_saw)item(ars_nouveau:glyph_cut)item(mekanism:precision_sawmill)item(oritech:fragment_forge_block)item(pneumaticcraft:assembly_controller))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -4.5d
@@ -996,8 +965,8 @@
 				}
 			]
 			tasks: [{
-				id: "579AE6EA6DAB4719"
-				item: { count: 1, id: "create:deployer" }
+				id: "3DC690209559396D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:deployer)item(pneumaticcraft:pressure_chamber_interface)item(oritech:assembler_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -4.5d
@@ -1226,6 +1195,35 @@
 			}]
 			x: -9.0d
 			y: 0.5d
+		}
+		{
+			id: "76BF91F3D73B4E68"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "407F0CA54F2E525B"
+					type: "checkmark"
+				}
+				{
+					id: "13DC280F10DD1580"
+					type: "checkmark"
+				}
+			]
+			x: -10.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5EEEB61899F66962"]
+			id: "44F63C35341C3198"
+			tasks: [{
+				id: "29716E4C600DC1DE"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:mechanical_saw)item(ars_nouveau:glyph_cut)item(mekanism:precision_sawmill)item(oritech:fragment_forge_block)item(pneumaticcraft:assembly_controller))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -1.0d
 		}
 	]
 }

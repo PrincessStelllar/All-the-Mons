@@ -52,7 +52,7 @@
 	]
 	quest.226B8B60AF864FEF.title: "&3Vibranium Smithing Template&r"
 	quest.24934231538B6492.quest_desc: [
-		"The Ancient Pyramid is one of the 3 Structures in &b&lThe Other&r. \\n\\nClearly it is a Pyramid and no this one doesn't have a basement! \\n\\nInstead it has the Piglich.\\n"
+		"The Ancient Pyramid is one of the 3 Structures in &b&lThe Other&r. \\n\\nClearly it is a Pyramid and no this one doesn't have a basement! \\n\\nInstead it has the &ePiglichu&r! \\n\\nYou heard me right, here it is no longer the &ePiglich&r, they have been transformed into a &cPokemon&r named &ePiglichu&r. \\n\\nYou can Fight and Catch them just like any other &cPokemon&r! \\n"
 		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.24934231538B6492.title: "Ancient Pyramid"
@@ -90,8 +90,8 @@
 	quest.5AAF6CA41209B365.title: "&3Vibranium Tools"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Yes it can make pathways don't worry!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6Allthemodium &5Alloy &3Shovel"
-	quest.5BA986D7928BF09F.quest_desc: ["The Piglich is a Boss added by &6&lAllthemodium&r. \\n\\nHas he 1000 Hearts and currently has no attacks but trust me when he does they will be devastating! \\n\\nWhen killed he'll drop his Heart which will be needed for Alloys and the ATM Star! \\n\\n(Look into ways of farming them like with HNN or EnderIO!)"]
-	quest.5BA986D7928BF09F.title: "Piglich Boss"
+	quest.5BA986D7928BF09F.quest_desc: ["You might want to Catch them because that is the way to get &ePiglich Hearts&r in &l&cAll&7The&fMons&r! \\n\\nSimply let your &ePiglichu&r wander around freely with a Pasture and they'll start Dropping &ePiglich Hearts&r. \\n\\nThey just randomly Drop them on the ground unless you have a Chest nearby then they'll put the &eHearts&r there."]
+	quest.5BA986D7928BF09F.title: "Piglichu Hearts?"
 	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r combined with &6Allthemodium&r!"]
 	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Alloy Ingot"
 	quest.68E6AE1B9EBCEFFF.title: "&3Vibranium Mace"
