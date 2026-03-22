@@ -97,14 +97,6 @@
 			y: -2.5d
 		}
 		{
-			height: 0.3d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: 15.5d
-			y: -0.5999999999999996d
-		}
-		{
 			height: 2.0d
 			image: "atm:textures/questpics/allthemodium/all_title.png"
 			rotation: 0.0d
