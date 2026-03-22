@@ -1,6 +1,7 @@
 {
 	quest.012A8C905608C86E.quest_desc: ["&cPokemon Centers&r are now their own Structures, outside of Villages. \\n\\nWell if you weren't playing before Public Release you wouldn't know that... \\n\\nThey are big buildings made mostly out of White Concrete. Once you see the Glass &cPoke&rball on top you'll recognize them! \\n\\n&cPokemon Centers&r spawn all throughout your World. In it will be Villagers and plenty of Machines, like..."]
 	quest.012A8C905608C86E.title: "&cPokemon Center"
+	quest.0287136D3E986317.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.0328E5E416D0F785.quest_desc: ["&nStrong&r \\n\\n&aBug&r \\n&2Grass&r \\n&bIce&r \\n&7Steel&r \\n\\n&nVunerable&r \\n\\n&6Rock&r \\n&6Ground&r \\n&bWater&r"]
 	quest.0328E5E416D0F785.title: "&cFire"
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remedy&r is made from Smelting a Big Root. \\n\\nIt is an Item that can be Fed to a &cPokemon&r in or out of Battle to restore Health (not at the exchange for &dFriendship&r). \\n\\nYou can Craft with it to make even better &6Remedies&r!"]
@@ -102,6 +103,8 @@
 	quest.7D0F4EF83BA40D66.quest_desc: ["&nStrong&r \\n\\n&9Dragon&r \\n&9Flying&r \\n&2Grass&r \\n&6Ground&r \\n\\n&nVunerable&r \\n\\n&4Fighting&r \\n&cFire&r \\n&6Rock&r \\n&7Steel&r"]
 	quest.7D0F4EF83BA40D66.title: "&bIce"
 	task.06D7446522B1CF78.title: "Apricorns"
+	task.07BE9AE873DB60D3.title: "AllRightsReserved"
+	task.1341FBFC95647A1E.title: "AllRightsReserved"
 	task.4E9620F93F7144CB.title: "Pokedex"
 	task.55EC49744EF03C63.title: "Pokeballs"
 }
