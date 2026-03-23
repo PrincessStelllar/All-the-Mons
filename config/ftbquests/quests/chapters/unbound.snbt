@@ -902,5 +902,23 @@
 			x: 9.5d
 			y: 0.5d
 		}
+		{
+			id: "6BC95A9DCF6C2E06"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "55D53521DD98578F"
+					type: "checkmark"
+				}
+				{
+					id: "67B795BEFD076DA4"
+					type: "checkmark"
+				}
+			]
+			x: 8.0d
+			y: -10.0d
+		}
 	]
 }

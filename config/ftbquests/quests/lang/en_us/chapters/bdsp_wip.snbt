@@ -25,6 +25,7 @@
 	quest.27ACBFA9D014D2A6.title: "&aGym Leader Volkner"
 	quest.3A12B03FE9C9D925.quest_desc: ["Finally you're face to face with the &5Champion&f, &5Cynthia&r! \\n\\nIf you beat her your Level Cap will rise to 69. \\n\\nHer Signature Item is a &3Prism Scale&r."]
 	quest.3A12B03FE9C9D925.title: "&5Champion Cynthia"
+	quest.3B57EEC3E8E67D12.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.3D63B8A64B561A71.quest_desc: ["He will raise your Level Cap to 36. \\n\\nHis Signature Item this time is &dEviolite&r. \\n\\nYou'll need to Fight him 3 times. Not just Fight but also Win!"]
 	quest.3D63B8A64B561A71.title: "&6Pokemon Trainer Cedric"
 	quest.45135F112E05F9B5.quest_desc: ["The &4&oSeries&r isn't done yet! You'll need to Rematch the &3Final Four&r and &5Champion Cynthia&r. \\n\\nYou can find them on their biomes only, check &4Trainer Card&r! \\n\\nBeating &3Aaron&r will raise your Level to 71. \\n&3Bertha&r to 73. \\n\\n&3Flint&r to 75. \\n\\n&3Lucian&r to 78. \\n\\nAnd &5Champion Cynthia&r to 79."]
@@ -57,4 +58,6 @@
 	quest.716F9AA2E9011F06.title: "&7Team Galactic Boss Cyrus"
 	quest.7F124EAE153EFE7F.quest_desc: ["Now we get the last Battle of the &4&oSeries&r. Just one last Battle with &5Champion Cynthia&r. \\n\\nShe won't raise your Level Cap, instead it will finish the &4&oSeries&r. Then, you can start a new one! Like the &6&oATM&r one."]
 	quest.7F124EAE153EFE7F.title: "Finished &4&oSeries"
+	task.5D2F31B6D492426B.title: "AllRightsReserved"
+	task.72B575AD169F9D75.title: "AllRightsReserved"
 }

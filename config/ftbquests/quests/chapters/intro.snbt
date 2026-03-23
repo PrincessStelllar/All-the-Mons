@@ -24,5 +24,22 @@
 		x: 1.0d
 		y: 2.5d
 	}]
-	quests: [ ]
+	quests: [{
+		id: "1DAEB18081B4F22B"
+		invisible: true
+		optional: true
+		shape: "circle"
+		tasks: [
+			{
+				id: "304D934EA294735D"
+				type: "checkmark"
+			}
+			{
+				id: "7555D68F63A0C8CF"
+				type: "checkmark"
+			}
+		]
+		x: 1.0d
+		y: 1.5d
+	}]
 }
