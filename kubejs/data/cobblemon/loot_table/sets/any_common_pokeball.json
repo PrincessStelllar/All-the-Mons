@@ -14,6 +14,41 @@
                     "name": "createmonballsoverhaul:blank_ball_lid",
                     "weight": 70
                 },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:red_ball_lid",
+                    "weight": 30
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:green_ball_lid",
+                    "weight": 20
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:blue_ball_lid",
+                    "weight": 20
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:yellow_ball_lid",
+                    "weight": 20
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:white_ball_lid",
+                    "weight": 20
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:black_ball_lid",
+                    "weight": 20
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:pink_ball_lid",
+                    "weight": 20
+                },
 				{
                     "type": "minecraft:item",
                     "name": "createmonballsoverhaul:copper_ball_mechanism",
