@@ -197,6 +197,7 @@ ServerEvents.tags('block_entity_type', allthemods => {
 ServerEvents.tags('item', allthemods => {
   allthemods.remove("minecraft:head_armor",["pkgbadges:alians_scraf_helmet"])
   allthemods.add("minecraft:head_armor",["pkgbadges:alians_scraf"])
+  allthemods.add('cobblemon:recipe_filters/bait_seasoning', ["allthemodium:allthemodium_apple", "allthemodium:allthemodium_carrot"]);
 })
 
 ServerEvents.tags('block', allthemods => {
