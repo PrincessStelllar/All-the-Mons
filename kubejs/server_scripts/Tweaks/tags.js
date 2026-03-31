@@ -167,6 +167,7 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add("justdirethings:polymorphic_target_deny", ['@cobblemon', '@rctmod', '@cobbleloots'])
     allthemods.add("c:capturing_not_supported", '@cobblemon')
     allthemods.add("occultism:trinity_gem_deny_list", "#c:capturing_not_supported")
+    allthemods.add("industrialforegoing:mob_imprisonment_tool_blacklist", "#c:capturing_not_supported")
 
 	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])
 });
