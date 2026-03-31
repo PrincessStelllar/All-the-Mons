@@ -170,6 +170,8 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add("industrialforegoing:mob_imprisonment_tool_blacklist", "#c:capturing_not_supported")
 
 	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])
+
+	allthemods.add("minecraft:beehive_inhabitors", "occultism:possessed_bee")
 });
 
 ServerEvents.tags('worldgen/structure', allthemods => {
