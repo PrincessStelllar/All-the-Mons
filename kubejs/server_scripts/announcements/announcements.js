@@ -16,6 +16,7 @@ function initAnnouncements(){
   addAnnouncement("0.11.0-beta", "EnderDrive will be removed from the pack, check your storages!")
   addAnnouncement("0.12.0-beta", "Twilight Forest will be removed from the pack!")
   addAnnouncement("0.13.0-beta", "Ender Storage will be removed. Move your stuff to Dim Storage instead, it has the same functionality.")
+  addAnnouncement("0.15.0-beta", "Relics + Artifact Compat were completely reworked, old items are gone. Quest rework will follow in another update.")
 
   addPermanentAnnouncement(Text.of("").append(Text.red("This is a beta version, everything is subject to change!")))
   addPermanentAnnouncement(Text.of("For issues, visit: ").append(Text.green("Github Issues").clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/issues").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
