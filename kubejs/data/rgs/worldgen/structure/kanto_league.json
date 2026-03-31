@@ -52,21 +52,35 @@
     "use_expansion_hack": false
   },
   "spawn_condition": {
-    "type": "lithostitched:grid",
-    "radius": 40,
-    "distance_between_points": 32,
-    "condition": {
-      "type": "lithostitched:not",
-      "condition": {
+    "type": "lithostitched:all_of",
+    "conditions": [
+      {
+        "type": "lithostitched:grid",
+        "radius": 40,
+        "distance_between_points": 32,
+        "condition": {
+          "type": "lithostitched:not",
+          "condition": {
+            "type": "lithostitched:height_filter",
+            "range_type": "heightmap_relative",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+            "permitted_range": [
+              -20,
+              20
+            ]
+          }
+        },
+        "allowed_count": 0
+      },
+      {
         "type": "lithostitched:height_filter",
-        "range_type": "heightmap_relative",
+        "range_type": "absolute",
         "heightmap": "MOTION_BLOCKING_NO_LEAVES",
         "permitted_range": [
-          -10,
-          10
+          40,
+          200
         ]
       }
-    },
-    "allowed_count": 0
+    ]
   }
 }

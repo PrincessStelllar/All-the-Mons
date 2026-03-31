@@ -158,12 +158,12 @@
     "curseForgeHash": 807229151,
     "modrinthHash": "3185b3c8c5853797ca0e33d8b0837d67122d1f8a"
   },
-  "allthetweaks-1.21.1-2.9.0.jar": {
-    "jarName": "allthetweaks-1.21.1-2.9.0.jar",
+  "allthetweaks-1.21.1-2.9.1.jar": {
+    "jarName": "allthetweaks-1.21.1-2.9.1.jar",
     "modId": "allthetweaks",
-    "version": "2.9.0",
-    "curseForgeHash": 3876556926,
-    "modrinthHash": "6af198a5da36c722aba7fb3ecc6721c76c7c4b4a"
+    "version": "2.9.1",
+    "curseForgeHash": 3398757662,
+    "modrinthHash": "d0fcebdb449840c020671a10eb4e51fd7346c28b"
   },
   "almostunified-neoforge-1.21.1-1.3.0.jar": {
     "jarName": "almostunified-neoforge-1.21.1-1.3.0.jar",
@@ -662,12 +662,12 @@
     "curseForgeHash": 1729023195,
     "modrinthHash": "dcffc21e62a82c5d870ab13dc5c92687430d65b5"
   },
-  "complete-cobblemon-collection-myths-and-legends-compat-2.0.1.jar": {
-    "jarName": "complete-cobblemon-collection-myths-and-legends-compat-2.0.1.jar",
+  "complete-cobblemon-collection-myths-and-legends-compat-2.0.1 (1).jar": {
+    "jarName": "complete-cobblemon-collection-myths-and-legends-compat-2.0.1 (1).jar",
     "modId": "mr_complete_cobblemoncollectionmythsandlegendscompat",
     "version": "2.0.1",
-    "curseForgeHash": 3215101648,
-    "modrinthHash": "d79581cf9f5a7e74f5c9d5fa6d3298d84339b8c8"
+    "curseForgeHash": 1212866779,
+    "modrinthHash": "7c9072cd5c3b63399531f369d388ba5d81a50e03"
   },
   "connectedglass-1.1.14-neoforge-mc1.21.jar": {
     "jarName": "connectedglass-1.1.14-neoforge-mc1.21.jar",
@@ -2282,12 +2282,12 @@
     "curseForgeHash": 1087700708,
     "modrinthHash": "17407b525c0c70a0f6f03a08024a14058f645d01"
   },
-  "silent-gear-1.21.1-neoforge-4.1.3.jar": {
-    "jarName": "silent-gear-1.21.1-neoforge-4.1.3.jar",
+  "silent-gear-1.21.1-neoforge-4.1.3.1.jar": {
+    "jarName": "silent-gear-1.21.1-neoforge-4.1.3.1.jar",
     "modId": "silentgear",
-    "version": "4.1.3",
-    "curseForgeHash": 3667991778,
-    "modrinthHash": "d0f4348588322a5de0e72d59ba130cec2280fa92"
+    "version": "4.1.3.1",
+    "curseForgeHash": 3830811715,
+    "modrinthHash": "34b1178aa4a4ffe89fd8f3c0e4ee933be67dab1f"
   },
   "silent-lib-1.21.1-neoforge-10.5.1.jar": {
     "jarName": "silent-lib-1.21.1-neoforge-10.5.1.jar",
