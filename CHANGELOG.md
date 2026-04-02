@@ -24,4 +24,4 @@ _Note: use some browser extension like [Markdown Viewer](https://chromewebstore.
 [0.11.0]: ./changelogs/CHANGELOG-All%20The%20Mons-0.10.0-beta-0.11.0-beta.md
 [0.12.0]: ./changelogs/CHANGELOG-All%20The%20Mons-0.11.0-beta-0.12.0-beta.md
 [0.13.0]: ./changelogs/CHANGELOG-All%20The%20Mons-0.12.0-beta-0.13.0-beta.md
-[0.15.0]: ./changelogs/CHANGELOG-All%20The%20Mons-0.12.0-beta-0.15.0-beta.md
+[0.15.0]: ./changelogs/CHANGELOG-All%20The%20Mons-0.13.0-beta-0.15.0-beta.md
