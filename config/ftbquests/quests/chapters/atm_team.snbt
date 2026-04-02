@@ -53,6 +53,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["1C0FA8A4EFD02DFF"]
 			id: "54530BFB46624C51"
 			tasks: [{
 				id: "166C4D410E68C20B"
@@ -251,6 +252,16 @@
 			]
 			x: -0.5d
 			y: -4.0d
+		}
+		{
+			id: "1C0FA8A4EFD02DFF"
+			tasks: [{
+				id: "441C83BFDF5E4680"
+				structure: "allthemons:airship_choc_factory"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: -2.0d
 		}
 	]
 }
