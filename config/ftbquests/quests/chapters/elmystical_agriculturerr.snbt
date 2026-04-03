@@ -3480,7 +3480,7 @@
 				type: "item"
 			}]
 			x: 24.5d
-			y: -9.375d
+			y: -8.37d
 		}
 		{
 			dependencies: [
@@ -3508,7 +3508,7 @@
 				type: "item"
 			}]
 			x: 25.5d
-			y: -9.375d
+			y: -8.375d
 		}
 		{
 			dependencies: [
@@ -5462,7 +5462,7 @@
 				type: "item"
 			}]
 			x: 24.5d
-			y: -10.375d
+			y: -9.375d
 		}
 		{
 			dependencies: [
@@ -5491,34 +5491,6 @@
 			}]
 			x: 25.0d
 			y: -10.875d
-		}
-		{
-			dependencies: [
-				"5BC4250E4C9F803C"
-				"0B37355262121DD5"
-			]
-			id: "4DF23FC932F5EB7D"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5F69B631809453C9"
-					table_id: 1937853580808181092L
-					type: "random"
-				}
-				{
-					id: "6FBB044EF7BC88CF"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "044CDEDB12A23672"
-				item: { count: 1, id: "mysticalagriculture:fiery_ingot_seeds" }
-				type: "item"
-			}]
-			x: 24.5d
-			y: -8.375d
 		}
 		{
 			dependencies: [
@@ -5574,35 +5546,7 @@
 				type: "item"
 			}]
 			x: 25.5d
-			y: -10.375d
-		}
-		{
-			dependencies: [
-				"5BC4250E4C9F803C"
-				"0B37355262121DD5"
-			]
-			id: "07751E1BE48C6024"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4F8C6C3745E7CE03"
-					table_id: 1937853580808181092L
-					type: "random"
-				}
-				{
-					id: "0F6E2C19688D6639"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "40111B7C13ABC481"
-				item: { count: 1, id: "mysticalagriculture:knightmetal_seeds" }
-				type: "item"
-			}]
-			x: 25.5d
-			y: -8.375d
+			y: -9.375d
 		}
 		{
 			dependencies: [
